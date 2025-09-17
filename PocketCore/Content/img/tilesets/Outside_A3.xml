@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Outside_A3">
+    <Tile id="0">
+        <en>Roof A (Dressed Tile)</en>
+        <jp>屋根A (化粧瓦)</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Roof B (Pink Tile)</en>
+        <jp>屋根B (ピンク瓦)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Roof C (Orange Tile)</en>
+        <jp>屋根C (橙瓦)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Roof D (Yellow Tile)</en>
+        <jp>屋根D (黄瓦)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Roof E (Wood)</en>
+        <jp>屋根E (木造)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Roof F (Wood, Ruins)</en>
+        <jp>屋根F (木造・廃墟)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Roof G (Log)</en>
+        <jp>屋根G (丸太)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Roof H (Dark Blue Tile)</en>
+        <jp>屋根H (紺瓦)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Outer Wall A (Rock Wall)</en>
+        <jp>外壁A (石壁)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Outer Wall B (Plaster)</en>
+        <jp>外壁B (石膏壁)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Outer Wall C (Brick)</en>
+        <jp>外壁C (レンガ)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Outer Wall D (Plaster)</en>
+        <jp>外壁D (石膏壁)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Outer Wall E (Wood)</en>
+        <jp>外壁E (木造)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Outer Wall F (Wood)</en>
+        <jp>外壁F (木造)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Outer Wall G (Log)</en>
+        <jp>外壁G (丸太)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Outer Wall H (Demon Castle)外壁H (魔王城)</en>
+        <jp/>
+    </Tile>
+    <Tile id="16">
+        <en>Roof I (Green Tile)</en>
+        <jp>屋根I (緑瓦)</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Roof J (Temple)</en>
+        <jp>屋根J (神殿)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Roof K (Stone)</en>
+        <jp>屋根K (石)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Roof L (Thatched)</en>
+        <jp>屋根L (茅葺)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Roof M (Tent)</en>
+        <jp>屋根M (テント)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Snow Roof A</en>
+        <jp>雪の屋根A</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Snow Roof B</en>
+        <jp>雪の屋根B</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Ice Roof</en>
+        <jp>氷の屋根</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Outer Wall I (Rock Wall)</en>
+        <jp>外壁I (石壁)</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Outer Wall J (Temple)</en>
+        <jp>外壁J (神殿)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Outer Wall K (Rock Wall)</en>
+        <jp>外壁K (石壁)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Outer Wall L (Moss)</en>
+        <jp>外壁L (苔)</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Outer Wall M (Tent)</en>
+        <jp>外壁M (テント)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Snow Outer Wall (Brick)</en>
+        <jp>雪の外壁 (レンガ)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Snow Outer Wall (Wood)</en>
+        <jp>雪の外壁 (木造)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Ice Outer Wall</en>
+        <jp>氷の外壁</jp>
+    </Tile>
+</TilesetData>

@@ -7,7 +7,7 @@
         <TieredCompilation>false</TieredCompilation>
         <LangVersion>latest</LangVersion>
     </PropertyGroup>
-    
+
     <PropertyGroup>
         <ApplicationManifest>app.manifest</ApplicationManifest>
         <ApplicationIcon>Icon.ico</ApplicationIcon>
@@ -33,7 +33,11 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\PocketCore\PocketCore.csproj" />
+        <ProjectReference Include="..\PocketCore\PocketCore.csproj"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <MonoGameContentReference Include="..\PocketCore\Content\Content.mgcb" Link="Content\Content.mgcb"/>
     </ItemGroup>
 
     <Target Name="RestoreDotnetTools" BeforeTargets="CollectPackageReferences">

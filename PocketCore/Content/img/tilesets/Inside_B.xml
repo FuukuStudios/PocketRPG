@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Inside_B">
+    <Tile id="0">
+        <en>Transparent</en>
+        <jp>透明</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Stairs A (Up)</en>
+        <jp>階段A (上り)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Stairs B (Up)</en>
+        <jp>階段B (上り)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Stairs C (Up)</en>
+        <jp>階段C (上り)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Stairs D (Up)</en>
+        <jp>階段D (上り)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Metal Ladder</en>
+        <jp>鉄ばしご</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Wood Ladder</en>
+        <jp>木製はしご</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Rope</en>
+        <jp>ロープ</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Hole</en>
+        <jp>穴</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Stairs A (Down)</en>
+        <jp>階段A (下り)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Stairs B (Down)</en>
+        <jp>階段B (下り)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Stairs C (Down)</en>
+        <jp>階段C (下り)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Stairs D (Down)</en>
+        <jp>階段D (下り)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Metal Ladder</en>
+        <jp>鉄ばしご</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Wood Ladder</en>
+        <jp>木製はしご</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Rope</en>
+        <jp>ロープ</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Entrance A</en>
+        <jp>入口A</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Entrance A (Extend)</en>
+        <jp>入口A (延長部分)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Entrance A (Top Half A)</en>
+        <jp>入口A (上半分A) S</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Entrance B</en>
+        <jp>入口B</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Entrance A (Top Half B)</en>
+        <jp>入口A (上半分B)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Metal Ladder</en>
+        <jp>鉄ばしご</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Wood Ladder</en>
+        <jp>木製はしご</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Rope</en>
+        <jp>ロープ</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Stone Pillar A</en>
+        <jp>石の柱A</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Stone Pillar B</en>
+        <jp>石の柱B</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Fort Pillar</en>
+        <jp>砦の柱</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Rubble</en>
+        <jp>瓦礫</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Rubble</en>
+        <jp>瓦礫</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Hole A (Metal Ladder)</en>
+        <jp>穴A (鉄ばしご)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Hole B (Wood Ladder)</en>
+        <jp>穴B (木製はしご)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Hole C (Rope)</en>
+        <jp>穴C (ロープ)</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Stone Pillar A</en>
+        <jp>石の柱A</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Stone Pillar B</en>
+        <jp>石の柱B</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Fort Pillar</en>
+        <jp>砦の柱</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Stone Tablet</en>
+        <jp>石版</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Fissures A</en>
+        <jp>亀裂A</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Fissures B</en>
+        <jp>亀裂B</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Fissures C</en>
+        <jp>亀裂C</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Fissures D</en>
+        <jp>亀裂D</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Broken Stone Pillar A</en>
+        <jp>折れた石の柱A</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Broken Stone Pillar B</en>
+        <jp>折れた石の柱B</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Broken Fort Pillar</en>
+        <jp>折れた砦の柱</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Stone Tablet (Ruins)</en>
+        <jp>石版 (廃墟)</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Fissures A</en>
+        <jp>亀裂A</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Fissures B</en>
+        <jp>亀裂B</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Fissures C</en>
+        <jp>亀裂C</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Fissures E</en>
+        <jp>亀裂E</jp>
+    </Tile>
+    <Tile id="48">
+        <en>Curtains A</en>
+        <jp>カーテンA</jp>
+    </Tile>
+    <Tile id="49">
+        <en>Curtains B</en>
+        <jp>カーテンB</jp>
+    </Tile>
+    <Tile id="50">
+        <en>Curtains C</en>
+        <jp>カーテンC</jp>
+    </Tile>
+    <Tile id="51">
+        <en>Curtains D</en>
+        <jp>カーテンD</jp>
+    </Tile>
+    <Tile id="52">
+        <en>Curtains A (Ruins)</en>
+        <jp>カーテンA (廃墟)</jp>
+    </Tile>
+    <Tile id="53">
+        <en>Curtains B (Ruins)</en>
+        <jp>カーテンB (廃墟)</jp>
+    </Tile>
+    <Tile id="54">
+        <en>Curtains C (Ruins)</en>
+        <jp>カーテンC (廃墟)</jp>
+    </Tile>
+    <Tile id="55">
+        <en>Curtains D (Ruins)</en>
+        <jp>カーテンD (廃墟)</jp>
+    </Tile>
+    <Tile id="56">
+        <en>Curtains A</en>
+        <jp>カーテンA</jp>
+    </Tile>
+    <Tile id="57">
+        <en>Curtains B</en>
+        <jp>カーテンB</jp>
+    </Tile>
+    <Tile id="58">
+        <en>Curtains C</en>
+        <jp>カーテンC</jp>
+    </Tile>
+    <Tile id="59">
+        <en>Curtains D</en>
+        <jp>カーテンD</jp>
+    </Tile>
+    <Tile id="60">
+        <en>Curtains A (Ruins)</en>
+        <jp>カーテンA (廃墟)</jp>
+    </Tile>
+    <Tile id="61">
+        <en>Curtains B (Ruins)</en>
+        <jp>カーテンB (廃墟)</jp>
+    </Tile>
+    <Tile id="62">
+        <en>Curtains C (Ruins)</en>
+        <jp>カーテンC (廃墟)</jp>
+    </Tile>
+    <Tile id="63">
+        <en>Curtains D (Ruins)</en>
+        <jp>カーテンD (廃墟)</jp>
+    </Tile>
+    <Tile id="64">
+        <en>Middle Window A</en>
+        <jp>中型窓A</jp>
+    </Tile>
+    <Tile id="65">
+        <en>Middle Window A</en>
+        <jp>中型窓A</jp>
+    </Tile>
+    <Tile id="66">
+        <en>Middle Window B</en>
+        <jp>中型窓B</jp>
+    </Tile>
+    <Tile id="67">
+        <en>Middle Window B</en>
+        <jp>中型窓B</jp>
+    </Tile>
+    <Tile id="68">
+        <en>Large Window A</en>
+        <jp>大型窓A</jp>
+    </Tile>
+    <Tile id="69">
+        <en>Large Window B</en>
+        <jp>大型窓B</jp>
+    </Tile>
+    <Tile id="70">
+        <en>Large Window C</en>
+        <jp>大型窓C</jp>
+    </Tile>
+    <Tile id="71">
+        <en>Stained Glass Window</en>
+        <jp>ステンドグラス</jp>
+    </Tile>
+    <Tile id="72">
+        <en>Middle Window A</en>
+        <jp>中型窓A</jp>
+    </Tile>
+    <Tile id="73">
+        <en>Middle Window A</en>
+        <jp>中型窓A</jp>
+    </Tile>
+    <Tile id="74">
+        <en>Middle Window B</en>
+        <jp>中型窓B</jp>
+    </Tile>
+    <Tile id="75">
+        <en>Middle Window B</en>
+        <jp>中型窓B</jp>
+    </Tile>
+    <Tile id="76">
+        <en>Large Window A</en>
+        <jp>大型窓A</jp>
+    </Tile>
+    <Tile id="77">
+        <en>Large Window B</en>
+        <jp>大型窓B</jp>
+    </Tile>
+    <Tile id="78">
+        <en>Large Window C</en>
+        <jp>大型窓C</jp>
+    </Tile>
+    <Tile id="79">
+        <en>Stained Glass Window</en>
+        <jp>ステンドグラス</jp>
+    </Tile>
+    <Tile id="80">
+        <en>Tapestry A</en>
+        <jp>タペストリーA</jp>
+    </Tile>
+    <Tile id="81">
+        <en>Tapestry A (Ruins)</en>
+        <jp>タペストリーA (廃墟)</jp>
+    </Tile>
+    <Tile id="82">
+        <en>Swords A</en>
+        <jp>剣A</jp>
+    </Tile>
+    <Tile id="83">
+        <en>Swords B</en>
+        <jp>剣B</jp>
+    </Tile>
+    <Tile id="84">
+        <en>Large Window D</en>
+        <jp>大型窓D</jp>
+    </Tile>
+    <Tile id="85">
+        <en>Window A</en>
+        <jp>窓A</jp>
+    </Tile>
+    <Tile id="86">
+        <en>Window B</en>
+        <jp>窓B</jp>
+    </Tile>
+    <Tile id="87">
+        <en>Window C</en>
+        <jp>窓C</jp>
+    </Tile>
+    <Tile id="88">
+        <en>Tapestry A</en>
+        <jp>タペストリーA</jp>
+    </Tile>
+    <Tile id="89">
+        <en>Tapestry A (Ruins)</en>
+        <jp>タペストリーA (廃墟)</jp>
+    </Tile>
+    <Tile id="90">
+        <en>Shield</en>
+        <jp>盾</jp>
+    </Tile>
+    <Tile id="91">
+        <en>Posted Notice</en>
+        <jp>貼り紙</jp>
+    </Tile>
+    <Tile id="92">
+        <en>Large Window D</en>
+        <jp>大型窓D</jp>
+    </Tile>
+    <Tile id="93">
+        <en>Window A</en>
+        <jp>窓A</jp>
+    </Tile>
+    <Tile id="94">
+        <en>Window B</en>
+        <jp>窓B</jp>
+    </Tile>
+    <Tile id="95">
+        <en>Window C</en>
+        <jp>窓C</jp>
+    </Tile>
+    <Tile id="96">
+        <en>Sofa (Castle)</en>
+        <jp>ソファ (城)</jp>
+    </Tile>
+    <Tile id="97">
+        <en>Sofa (Castle)</en>
+        <jp>ソファ (城)</jp>
+    </Tile>
+    <Tile id="98">
+        <en>Sofa (Castle)</en>
+        <jp>ソファ (城)</jp>
+    </Tile>
+    <Tile id="99">
+        <en>Sofa (Castle)</en>
+        <jp>ソファ (城)</jp>
+    </Tile>
+    <Tile id="100">
+        <en>Sofa (Castle)</en>
+        <jp>ソファ (城)</jp>
+    </Tile>
+    <Tile id="101">
+        <en>Chair A (Wood)</en>
+        <jp>背もたれ椅子A (木製)</jp>
+    </Tile>
+    <Tile id="102">
+        <en>Chair B (Stone)</en>
+        <jp>背もたれ椅子B (石)</jp>
+    </Tile>
+    <Tile id="103">
+        <en>Throne (Demon Castle)</en>
+        <jp>玉座 (魔王城)</jp>
+    </Tile>
+    <Tile id="104">
+        <en>Sofa (Castle)</en>
+        <jp>ソファ (城)</jp>
+    </Tile>
+    <Tile id="105">
+        <en>Sofa (Castle)</en>
+        <jp>ソファ (城)</jp>
+    </Tile>
+    <Tile id="106">
+        <en>Sofa (Castle)</en>
+        <jp>ソファ (城)</jp>
+    </Tile>
+    <Tile id="107">
+        <en>Sofa (Castle)</en>
+        <jp>ソファ (城)</jp>
+    </Tile>
+    <Tile id="108">
+        <en>Sofa (Castle)</en>
+        <jp>ソファ (城)</jp>
+    </Tile>
+    <Tile id="109">
+        <en>Chair A (Wood)</en>
+        <jp>背もたれ椅子A (木製)</jp>
+    </Tile>
+    <Tile id="110">
+        <en>Chair B (Stone)</en>
+        <jp>背もたれ椅子B (石)</jp>
+    </Tile>
+    <Tile id="111">
+        <en>Throne (Demon Castle)</en>
+        <jp>玉座 (魔王城)</jp>
+    </Tile>
+    <Tile id="112">
+        <en>Table A</en>
+        <jp>テーブルA</jp>
+    </Tile>
+    <Tile id="113">
+        <en>Table A</en>
+        <jp>テーブルA</jp>
+    </Tile>
+    <Tile id="114">
+        <en>Table B</en>
+        <jp>テーブルB</jp>
+    </Tile>
+    <Tile id="115">
+        <en>Table C</en>
+        <jp>テーブルC</jp>
+    </Tile>
+    <Tile id="116">
+        <en>Table D</en>
+        <jp>テーブルD</jp>
+    </Tile>
+    <Tile id="117">
+        <en>Clock</en>
+        <jp>時計</jp>
+    </Tile>
+    <Tile id="118">
+        <en>Mirror</en>
+        <jp>鏡</jp>
+    </Tile>
+    <Tile id="119">
+        <en>Window (Demon Castle)</en>
+        <jp>窓 (魔王城)</jp>
+    </Tile>
+    <Tile id="120">
+        <en>Stool A</en>
+        <jp>椅子A</jp>
+    </Tile>
+    <Tile id="121">
+        <en>Stool B</en>
+        <jp>椅子B</jp>
+    </Tile>
+    <Tile id="122">
+        <en>Stool C</en>
+        <jp>椅子C</jp>
+    </Tile>
+    <Tile id="123">
+        <en>Table E</en>
+        <jp>テーブルE</jp>
+    </Tile>
+    <Tile id="124">
+        <en>Table F</en>
+        <jp>テーブルF</jp>
+    </Tile>
+    <Tile id="125">
+        <en>Clock</en>
+        <jp>時計</jp>
+    </Tile>
+    <Tile id="126">
+        <en>Mirror</en>
+        <jp>鏡</jp>
+    </Tile>
+    <Tile id="127">
+        <en>Window (Demon Castle)</en>
+        <jp>窓 (魔王城)</jp>
+    </Tile>
+    <Tile id="128">
+        <en>World Map</en>
+        <jp>世界地図</jp>
+    </Tile>
+    <Tile id="129">
+        <en>World Map</en>
+        <jp>世界地図</jp>
+    </Tile>
+    <Tile id="130">
+        <en>Painting</en>
+        <jp>絵画</jp>
+    </Tile>
+    <Tile id="131">
+        <en>Painting</en>
+        <jp>絵画</jp>
+    </Tile>
+    <Tile id="132">
+        <en>Portrait A</en>
+        <jp>肖像画A</jp>
+    </Tile>
+    <Tile id="133">
+        <en>Portrait B</en>
+        <jp>肖像画B</jp>
+    </Tile>
+    <Tile id="134">
+        <en>Painting A</en>
+        <jp>絵画A</jp>
+    </Tile>
+    <Tile id="135">
+        <en>Painting B</en>
+        <jp>絵画B</jp>
+    </Tile>
+    <Tile id="136">
+        <en>Chest A</en>
+        <jp>チェストA</jp>
+    </Tile>
+    <Tile id="137">
+        <en>Cabinet</en>
+        <jp>キャビネット</jp>
+    </Tile>
+    <Tile id="138">
+        <en>Closet</en>
+        <jp>クローゼット</jp>
+    </Tile>
+    <Tile id="139">
+        <en>Chest of Drawers</en>
+        <jp>タンス</jp>
+    </Tile>
+    <Tile id="140">
+        <en>Dish Cabinet</en>
+        <jp>食器棚</jp>
+    </Tile>
+    <Tile id="141">
+        <en>Wine Rack</en>
+        <jp>ワインセラー</jp>
+    </Tile>
+    <Tile id="142">
+        <en>Bottle Shelf A</en>
+        <jp>ボトル棚A</jp>
+    </Tile>
+    <Tile id="143">
+        <en>Bottle Shelf B</en>
+        <jp>ボトル棚B</jp>
+    </Tile>
+    <Tile id="144">
+        <en>Chest B</en>
+        <jp>チェストB</jp>
+    </Tile>
+    <Tile id="145">
+        <en>Chest C</en>
+        <jp>チェストC</jp>
+    </Tile>
+    <Tile id="146">
+        <en>Closet</en>
+        <jp>クローゼット</jp>
+    </Tile>
+    <Tile id="147">
+        <en>Chest of Drawers</en>
+        <jp>タンス</jp>
+    </Tile>
+    <Tile id="148">
+        <en>Dish Cabinet</en>
+        <jp>食器棚</jp>
+    </Tile>
+    <Tile id="149">
+        <en>Wine Rack</en>
+        <jp>ワインセラー</jp>
+    </Tile>
+    <Tile id="150">
+        <en>Bottle Shelf A</en>
+        <jp>ボトル棚A</jp>
+    </Tile>
+    <Tile id="151">
+        <en>Bottle Shelf B</en>
+        <jp>ボトル棚B</jp>
+    </Tile>
+    <Tile id="152">
+        <en>Bread Shelf</en>
+        <jp>パン棚</jp>
+    </Tile>
+    <Tile id="153">
+        <en>Sundries Shelf A</en>
+        <jp>雑貨棚A</jp>
+    </Tile>
+    <Tile id="154">
+        <en>Sundries Shelf A</en>
+        <jp>雑貨棚A</jp>
+    </Tile>
+    <Tile id="155">
+        <en>Sundries Shelf B</en>
+        <jp>雑貨棚B</jp>
+    </Tile>
+    <Tile id="156">
+        <en>Medicine Shelf</en>
+        <jp>薬品棚</jp>
+    </Tile>
+    <Tile id="157">
+        <en>Bookshelf A</en>
+        <jp>本棚A</jp>
+    </Tile>
+    <Tile id="158">
+        <en>Bookshelf B</en>
+        <jp>本棚B</jp>
+    </Tile>
+    <Tile id="159">
+        <en>Bookshelf B</en>
+        <jp>本棚B</jp>
+    </Tile>
+    <Tile id="160">
+        <en>Bread Shelf</en>
+        <jp>パン棚</jp>
+    </Tile>
+    <Tile id="161">
+        <en>Sundries Shelf A</en>
+        <jp>雑貨棚A</jp>
+    </Tile>
+    <Tile id="162">
+        <en>Sundries Shelf A</en>
+        <jp>雑貨棚A</jp>
+    </Tile>
+    <Tile id="163">
+        <en>Sundries Shelf B</en>
+        <jp>雑貨棚B</jp>
+    </Tile>
+    <Tile id="164">
+        <en>Medicine Shelf</en>
+        <jp>薬品棚</jp>
+    </Tile>
+    <Tile id="165">
+        <en>Bookshelf A</en>
+        <jp>本棚A</jp>
+    </Tile>
+    <Tile id="166">
+        <en>Bookshelf B</en>
+        <jp>本棚B</jp>
+    </Tile>
+    <Tile id="167">
+        <en>Bookshelf B</en>
+        <jp>本棚B</jp>
+    </Tile>
+    <Tile id="168">
+        <en>Bed</en>
+        <jp>ベッド</jp>
+    </Tile>
+    <Tile id="169">
+        <en>Large Bed</en>
+        <jp>ダブルベッド</jp>
+    </Tile>
+    <Tile id="170">
+        <en>Large Bed</en>
+        <jp>ダブルベッド</jp>
+    </Tile>
+    <Tile id="171">
+        <en>Cheap Bed A</en>
+        <jp>粗末なベッドA</jp>
+    </Tile>
+    <Tile id="172">
+        <en>Cheap Bed B</en>
+        <jp>粗末なベッドB</jp>
+    </Tile>
+    <Tile id="173">
+        <en>Straw Bed</en>
+        <jp>むしろの寝床</jp>
+    </Tile>
+    <Tile id="174">
+        <en>Bed (Ruins)</en>
+        <jp>ベッド (廃墟)</jp>
+    </Tile>
+    <Tile id="175">
+        <en>Tipped Shelf</en>
+        <jp>倒れた棚</jp>
+    </Tile>
+    <Tile id="176">
+        <en>Bed</en>
+        <jp>ベッド</jp>
+    </Tile>
+    <Tile id="177">
+        <en>Large Bed</en>
+        <jp>ダブルベッド</jp>
+    </Tile>
+    <Tile id="178">
+        <en>Large Bed</en>
+        <jp>ダブルベッド</jp>
+    </Tile>
+    <Tile id="179">
+        <en>Cheap Bed A</en>
+        <jp>粗末なベッドA</jp>
+    </Tile>
+    <Tile id="180">
+        <en>Cheap Bed B</en>
+        <jp>粗末なベッドB</jp>
+    </Tile>
+    <Tile id="181">
+        <en>Straw Bed</en>
+        <jp>むしろの寝床</jp>
+    </Tile>
+    <Tile id="182">
+        <en>Bed (Ruins)</en>
+        <jp>ベッド (廃墟)</jp>
+    </Tile>
+    <Tile id="183">
+        <en>Tipped Shelf</en>
+        <jp>倒れた棚</jp>
+    </Tile>
+    <Tile id="184">
+        <en>Simple Shelf A (Jars)</en>
+        <jp>簡易棚A (瓶)</jp>
+    </Tile>
+    <Tile id="185">
+        <en>Simple Shelf B (Books)</en>
+        <jp>簡易棚B (本)</jp>
+    </Tile>
+    <Tile id="186">
+        <en>Fireplace A (Stone)</en>
+        <jp>暖炉A (石)</jp>
+    </Tile>
+    <Tile id="187">
+        <en>Fireplace B (Brick)</en>
+        <jp>暖炉B (レンガ)</jp>
+    </Tile>
+    <Tile id="188">
+        <en>Fireplace C (Iron)</en>
+        <jp>暖炉C (鉄)</jp>
+    </Tile>
+    <Tile id="189">
+        <en>Large Fireplace</en>
+        <jp>大きな暖炉</jp>
+    </Tile>
+    <Tile id="190">
+        <en>Large Fireplace</en>
+        <jp>大きな暖炉</jp>
+    </Tile>
+    <Tile id="191">
+        <en>Large Fireplace</en>
+        <jp>大きな暖炉</jp>
+    </Tile>
+    <Tile id="192">
+        <en>Simple Shelf C (Sacks)</en>
+        <jp>簡易棚C (袋)</jp>
+    </Tile>
+    <Tile id="193">
+        <en>Simple Shelf D (Bottles)</en>
+        <jp>簡易棚D (ボトル)</jp>
+    </Tile>
+    <Tile id="194">
+        <en>Fireplace A (Stone)</en>
+        <jp>暖炉A (石)</jp>
+    </Tile>
+    <Tile id="195">
+        <en>Fireplace B (Brick)</en>
+        <jp>暖炉B (レンガ)</jp>
+    </Tile>
+    <Tile id="196">
+        <en>Fireplace C (Iron)</en>
+        <jp>暖炉C (鉄)</jp>
+    </Tile>
+    <Tile id="197">
+        <en>Large Fireplace</en>
+        <jp>大きな暖炉</jp>
+    </Tile>
+    <Tile id="198">
+        <en>Large Fireplace</en>
+        <jp>大きな暖炉</jp>
+    </Tile>
+    <Tile id="199">
+        <en>Large Fireplace</en>
+        <jp>大きな暖炉</jp>
+    </Tile>
+    <Tile id="200">
+        <en>Oven</en>
+        <jp>かまど</jp>
+    </Tile>
+    <Tile id="201">
+        <en>Sink</en>
+        <jp>流し</jp>
+    </Tile>
+    <Tile id="202">
+        <en>Kitchen Counter A</en>
+        <jp>調理台A</jp>
+    </Tile>
+    <Tile id="203">
+        <en>Kitchen Counter B</en>
+        <jp>調理台B</jp>
+    </Tile>
+    <Tile id="204">
+        <en>Dresser</en>
+        <jp>ドレッサー</jp>
+    </Tile>
+    <Tile id="205">
+        <en>Piano</en>
+        <jp>ピアノ</jp>
+    </Tile>
+    <Tile id="206">
+        <en>Piano</en>
+        <jp>ピアノ</jp>
+    </Tile>
+    <Tile id="207">
+        <en>Piano</en>
+        <jp>ピアノ</jp>
+    </Tile>
+    <Tile id="208">
+        <en>Simple Shelf E</en>
+        <jp>簡易棚E</jp>
+    </Tile>
+    <Tile id="209">
+        <en>Pot A</en>
+        <jp>壺A</jp>
+    </Tile>
+    <Tile id="210">
+        <en>Pot B</en>
+        <jp>壺B</jp>
+    </Tile>
+    <Tile id="211">
+        <en>Basin</en>
+        <jp>桶</jp>
+    </Tile>
+    <Tile id="212">
+        <en>Barrel</en>
+        <jp>樽</jp>
+    </Tile>
+    <Tile id="213">
+        <en>Piano</en>
+        <jp>ピアノ</jp>
+    </Tile>
+    <Tile id="214">
+        <en>Piano</en>
+        <jp>ピアノ</jp>
+    </Tile>
+    <Tile id="215">
+        <en>Piano</en>
+        <jp>ピアノ</jp>
+    </Tile>
+    <Tile id="216">
+        <en>Posted Notice (Ruins)</en>
+        <jp>貼り紙 (廃墟)</jp>
+    </Tile>
+    <Tile id="217">
+        <en>Basin</en>
+        <jp>桶</jp>
+    </Tile>
+    <Tile id="218">
+        <en>Tub A</en>
+        <jp>たらいA</jp>
+    </Tile>
+    <Tile id="219">
+        <en>Tub B</en>
+        <jp>たらいB</jp>
+    </Tile>
+    <Tile id="220">
+        <en>Scrap Wood</en>
+        <jp>端材</jp>
+    </Tile>
+    <Tile id="221">
+        <en>Pipe Organ</en>
+        <jp>パイプオルガン</jp>
+    </Tile>
+    <Tile id="222">
+        <en>Pipe Organ</en>
+        <jp>パイプオルガン</jp>
+    </Tile>
+    <Tile id="223">
+        <en>Pipe Organ</en>
+        <jp>パイプオルガン</jp>
+    </Tile>
+    <Tile id="224">
+        <en>Crate A</en>
+        <jp>木箱A</jp>
+    </Tile>
+    <Tile id="225">
+        <en>Crate B</en>
+        <jp>木箱B</jp>
+    </Tile>
+    <Tile id="226">
+        <en>Stacked Crates</en>
+        <jp>積まれた木箱</jp>
+    </Tile>
+    <Tile id="227">
+        <en>Stacked Crates</en>
+        <jp>積まれた木箱</jp>
+    </Tile>
+    <Tile id="228">
+        <en>Crate C (Ruins)</en>
+        <jp>木箱C (廃墟)</jp>
+    </Tile>
+    <Tile id="229">
+        <en>Pipe Organ</en>
+        <jp>パイプオルガン</jp>
+    </Tile>
+    <Tile id="230">
+        <en>Pipe Organ</en>
+        <jp>パイプオルガン</jp>
+    </Tile>
+    <Tile id="231">
+        <en>Pipe Organ</en>
+        <jp>パイプオルガン</jp>
+    </Tile>
+    <Tile id="232">
+        <en>Crate D</en>
+        <jp>木箱D</jp>
+    </Tile>
+    <Tile id="233">
+        <en>Crate E</en>
+        <jp>木箱E</jp>
+    </Tile>
+    <Tile id="234">
+        <en>Stacked Crates</en>
+        <jp>積まれた木箱</jp>
+    </Tile>
+    <Tile id="235">
+        <en>Stacked Crates</en>
+        <jp>積まれた木箱</jp>
+    </Tile>
+    <Tile id="236">
+        <en>Pot C (Ruins)</en>
+        <jp>壺C (廃墟)</jp>
+    </Tile>
+    <Tile id="237">
+        <en>Barrel (Ruins)</en>
+        <jp>樽 (廃墟)</jp>
+    </Tile>
+    <Tile id="238">
+        <en>Table A (Ruins)</en>
+        <jp>テーブルA (廃墟)</jp>
+    </Tile>
+    <Tile id="239">
+        <en>Stool (Ruins)</en>
+        <jp>椅子 (廃墟)</jp>
+    </Tile>
+    <Tile id="240">
+        <en>Crate F</en>
+        <jp>木箱F</jp>
+    </Tile>
+    <Tile id="241">
+        <en>Crate G</en>
+        <jp>木箱G</jp>
+    </Tile>
+    <Tile id="242">
+        <en>Sacks C</en>
+        <jp>麻袋C</jp>
+    </Tile>
+    <Tile id="243">
+        <en>Large Crate</en>
+        <jp>大きな木箱</jp>
+    </Tile>
+    <Tile id="244">
+        <en>Jail Bar</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="245">
+        <en>Jail Bar</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="246">
+        <en>Jail Bar</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="247">
+        <en>Jail Bar</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="248">
+        <en>Sack A</en>
+        <jp>麻袋A</jp>
+    </Tile>
+    <Tile id="249">
+        <en>Sack B</en>
+        <jp>麻袋B</jp>
+    </Tile>
+    <Tile id="250">
+        <en>Sacks C</en>
+        <jp>麻袋C</jp>
+    </Tile>
+    <Tile id="251">
+        <en>Large Crate</en>
+        <jp>大きな木箱</jp>
+    </Tile>
+    <Tile id="252">
+        <en>Jail Bar</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="253">
+        <en>Jail Bar</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="254">
+        <en>Jail Bar</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="255">
+        <en>Jail Bar</en>
+        <jp>鉄格子</jp>
+    </Tile>
+</TilesetData>

@@ -1,2 +1,2 @@
-﻿using var game = new PocketCore.Game1();
+﻿using var game = new PocketDesktop.Game1();
 game.Run();

@@ -1,6 +1,11 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using PocketCore.Graphics;
+using PocketCore.Input;
+using PocketCore.Managers;
+using PocketCore.Objects;
+using PocketCore.Scenes;
 
 namespace PocketDesktop
 {
@@ -18,7 +23,6 @@ namespace PocketDesktop
 
         protected override void Initialize()
         {
-            // Setup window properties
             Window.Title = "PocketRPG";
             _graphics.PreferredBackBufferWidth = 816;
             _graphics.PreferredBackBufferHeight = 624;
@@ -30,39 +34,39 @@ namespace PocketDesktop
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
+            
+            PocketGraphics.Initialize(GraphicsDevice, _spriteBatch, Window);
+            PocketInput.Initialize();
+            ImageManager.Initialize(Content);
+            AudioManager.Initialize(Content); // Initialize AudioManager
 
-            // Initialize the PocketCore static managers
-            PocketCore.Graphics.Initialize(GraphicsDevice, _spriteBatch, Window);
-            PocketCore.Input.Initialize();
+            DataManager.LoadDatabase(); // Load the placeholder system data
 
-            // TODO: Load your game content here (e.g., SceneManager.GoTo(new Scene_Boot()))
+            SceneManager.GoTo(new Boot());
         }
 
         protected override void Update(GameTime gameTime)
         {
-            if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed ||
-                Keyboard.GetState().IsKeyDown(Keys.Escape))
+            if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
-
-            // Update core managers
-            PocketCore.Input.Update();
-
-            // TODO: Update the current scene here (e.g., SceneManager.Update(gameTime))
+            
+            PocketInput.Update();
+            SceneManager.Update(gameTime);
 
             base.Update(gameTime);
         }
 
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            // Clear the screen to black, not blue
+            GraphicsDevice.Clear(Color.Black);
 
             _spriteBatch.Begin();
-
-            // TODO: Draw the current scene here (e.g., SceneManager.Draw(_spriteBatch))
-
+            SceneManager.Draw(_spriteBatch);
             _spriteBatch.End();
 
             base.Draw(gameTime);
         }
     }
 }
+

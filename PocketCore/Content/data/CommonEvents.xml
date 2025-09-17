@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<XnaContent>
+    <Asset Type="PocketRPG.Data.Animations">
+        <CommonEvents>
+            <CommonEvent />
+            <CommonEvent id="1" name="" switchId="1" trigger="0">
+                <list>
+                    <item code="0" indent="0">
+                        <parameters />
+                    </item>
+                </list>
+            </CommonEvent>
+            <CommonEvent id="2" name="" switchId="1" trigger="0">
+                <list>
+                    <item code="0" indent="0">
+                        <parameters />
+                    </item>
+                </list>
+            </CommonEvent>
+            <CommonEvent id="3" name="" switchId="1" trigger="0">
+                <list>
+                    <item code="0" indent="0">
+                        <parameters />
+                    </item>
+                </list>
+            </CommonEvent>
+            <CommonEvent id="4" name="" switchId="1" trigger="0">
+                <list>
+                    <item code="0" indent="0">
+                        <parameters />
+                    </item>
+                </list>
+            </CommonEvent>
+        </CommonEvents>
+    </Asset>
+</XnaContent>

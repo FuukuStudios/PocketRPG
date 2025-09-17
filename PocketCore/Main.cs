@@ -8,7 +8,7 @@ namespace PocketCore
     public static class Utils
     {
         public const string APP_NAME = "PocketRPG";
-        public const string APP_VERSION = "0.1.0-alpha";
+        public const string APP_VERSION = "0.2.0-alpha";
         public const string MONOGAME_VERSION = "3.8.4";
 
         private static readonly Random _random = new Random();
@@ -23,3 +23,7 @@ namespace PocketCore
         }
     }
 }
+
+// TODO: ---
+// - make title screen accurate
+// - implement game data xml shit

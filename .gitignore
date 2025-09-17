@@ -1,6 +1,11 @@
 # I like to frankenstein multiple gitignore suggestions
 # messy gitignore but clean project : )
 
+PocketCore/Content/audio
+PocketCore/Content/effects
+PocketCore/Content/icon
+PocketCore/Content/img/**/*.png
+
 ##############################
 # IDEs & Editors
 ##############################

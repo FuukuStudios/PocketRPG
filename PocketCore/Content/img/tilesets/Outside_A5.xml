@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Outside_A5">
+    <Tile id="0">
+        <en>Darkness</en>
+        <jp>暗闇</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Night Sky A</en>
+        <jp>夜空A</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Large Bridge (H, Top)</en>
+        <jp>大きな橋 (横・上)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Large Bridge (H, Center)</en>
+        <jp>大きな橋 (横・中央)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Large Bridge (Snow, H, Top)</en>
+        <jp>大きな橋 (雪・横・上)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Large Bridge (V, Left)</en>
+        <jp>大きな橋 (縦・左)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Large Bridge (V, Center)</en>
+        <jp>大きな橋 (縦・中央)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Large Bridge (V, Right)</en>
+        <jp>大きな橋 (縦・右)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Transparent</en>
+        <jp>透明</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Night Sky B</en>
+        <jp>夜空B</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Large Bridge (H, Bottom)</en>
+        <jp>大きな橋 (横・下)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Large Bridge (Snow, H, Center)</en>
+        <jp>大きな橋 (雪・横・中央)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Large Bridge (Snow, H, Bottom)</en>
+        <jp>大きな橋 (雪・横・下)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Large Bridge (Snow, V, Left)</en>
+        <jp>大きな橋 (雪・縦・左)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Large Bridge (Snow, V, Center)</en>
+        <jp>大きな橋 (雪・縦・中央)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Large Bridge (Snow, V, Right)</en>
+        <jp>大きな橋 (雪・縦・右)</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Meadow A</en>
+        <jp>草地A</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Dirt A</en>
+        <jp>土A</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Desert A</en>
+        <jp>砂地A</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Snow A</en>
+        <jp>雪A</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Meadow</en>
+        <jp>草地B</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Dirt B</en>
+        <jp>土B</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Desert B</en>
+        <jp>砂地B</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Snow B</en>
+        <jp>雪B</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Cobblestones A</en>
+        <jp>石畳A</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Cobblestones B</en>
+        <jp>石畳B</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Cobblestones C</en>
+        <jp>石畳C</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Cobblestones D</en>
+        <jp>石畳D</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Cobblestones A (Ruins)</en>
+        <jp>石畳A (廃墟)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Cobblestones B (Ruins)</en>
+        <jp>石畳B (廃墟)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Cobblestones C (Ruins)</en>
+        <jp>石畳C (廃墟)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Cobblestones D (Ruins)</en>
+        <jp>石畳D (廃墟)</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Cobblestones E</en>
+        <jp>石畳E</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Cobblestones F</en>
+        <jp>石畳F</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Cobblestones G</en>
+        <jp>石畳G</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Demon Castle Floor</en>
+        <jp>魔王城の床</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Cobblestones E (Ruins)</en>
+        <jp>石畳E (廃墟)</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Cobblestones F (Ruins)</en>
+        <jp>石畳F (廃墟)</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Cobblestones G (Ruins)</en>
+        <jp>石畳G (廃墟)</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Demon Castle Floor (Ruins)</en>
+        <jp>魔王城の床 (廃墟)</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Ledge (Port, Left)</en>
+        <jp>段差 (港・左)</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Ledge (Port, Center)</en>
+        <jp>段差 (港・中央)</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Ledge (Port, Right)</en>
+        <jp>段差 (港・右)</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Ledge (Port)</en>
+        <jp>段差 (港)</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Tile Floor A</en>
+        <jp>タイル床A</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Tile Floor B</en>
+        <jp>タイル床B</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Tile Floor C (Gold)</en>
+        <jp>タイル床C (金)</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Tile Floor D (Ice)</en>
+        <jp>タイル床D (氷)</jp>
+    </Tile>
+    <Tile id="48">
+        <en>Stairs (Meadow, Left)</en>
+        <jp>階段 (草地・左)</jp>
+    </Tile>
+    <Tile id="49">
+        <en>Stairs (Meadow, Center)</en>
+        <jp>階段 (草地・中央)</jp>
+    </Tile>
+    <Tile id="50">
+        <en>Stairs (Meadow, Right)</en>
+        <jp>階段 (草地・右)</jp>
+    </Tile>
+    <Tile id="51">
+        <en>Stairs (Meadow)</en>
+        <jp>階段</jp>
+    </Tile>
+    <Tile id="52">
+        <en>Stairs (Dirt, Left)</en>
+        <jp>階段 (土・左)</jp>
+    </Tile>
+    <Tile id="53">
+        <en>Stairs (Dirt, Center)</en>
+        <jp>階段 (土・中央)</jp>
+    </Tile>
+    <Tile id="54">
+        <en>Stairs (Dirt, Right)</en>
+        <jp>階段 (土・右)</jp>
+    </Tile>
+    <Tile id="55">
+        <en>Stairs (Dirt)</en>
+        <jp>階段 (土)</jp>
+    </Tile>
+    <Tile id="56">
+        <en>Stairs (Desert, Left)</en>
+        <jp>階段 (砂地・左)</jp>
+    </Tile>
+    <Tile id="57">
+        <en>Stairs (Desert, Center)</en>
+        <jp>階段 (砂地・中央)</jp>
+    </Tile>
+    <Tile id="58">
+        <en>Stairs (Desert, Right)</en>
+        <jp>階段 (砂地・右)</jp>
+    </Tile>
+    <Tile id="59">
+        <en>Stairs (Desert)</en>
+        <jp>階段 (砂地)</jp>
+    </Tile>
+    <Tile id="60">
+        <en>Stairs (Snow, Left)</en>
+        <jp>階段 (雪・左)</jp>
+    </Tile>
+    <Tile id="61">
+        <en>Stairs (Snow, Center)</en>
+        <jp>階段 (雪・中央)</jp>
+    </Tile>
+    <Tile id="62">
+        <en>Stairs (Snow, Right)</en>
+        <jp>階段 (雪・右)</jp>
+    </Tile>
+    <Tile id="63">
+        <en>Stairs (Snow)</en>
+        <jp>階段 (雪)</jp>
+    </Tile>
+    <Tile id="64">
+        <en>Stairs (Paved, Left)</en>
+        <jp>階段 (舗装・左)</jp>
+    </Tile>
+    <Tile id="65">
+        <en>Stairs (Paved, Center)</en>
+        <jp>階段 (舗装・中央)</jp>
+    </Tile>
+    <Tile id="66">
+        <en>Stairs (Paved, Right)</en>
+        <jp>階段 (舗装・右)</jp>
+    </Tile>
+    <Tile id="67">
+        <en>Stairs (Paved)</en>
+        <jp>階段 (舗装)</jp>
+    </Tile>
+    <Tile id="68">
+        <en>Stairs (Ruins, Left)</en>
+        <jp>階段 (廃墟・左)</jp>
+    </Tile>
+    <Tile id="69">
+        <en>Stairs (Ruins, Center)</en>
+        <jp>階段 (廃墟・中央)</jp>
+    </Tile>
+    <Tile id="70">
+        <en>Stairs (Ruins, Right)</en>
+        <jp>階段 (廃墟・右)</jp>
+    </Tile>
+    <Tile id="71">
+        <en>Stairs (Ruins)</en>
+        <jp>階段 (廃墟)</jp>
+    </Tile>
+    <Tile id="72">
+        <en>Large Relief Floor Tile</en>
+        <jp>大きなレリーフ床</jp>
+    </Tile>
+    <Tile id="73">
+        <en>Large Relief Floor Tile</en>
+        <jp>大きなレリーフ床</jp>
+    </Tile>
+    <Tile id="74">
+        <en>Large Relief Floor Tile (Ruins)</en>
+        <jp>大きなレリーフ床 (廃墟)</jp>
+    </Tile>
+    <Tile id="75">
+        <en>Large Relief Floor Tile (Ruins)</en>
+        <jp>大きなレリーフ床 (廃墟)</jp>
+    </Tile>
+    <Tile id="76">
+        <en>Farm Field A (Top)</en>
+        <jp>畑A (上)</jp>
+    </Tile>
+    <Tile id="77">
+        <en>Farm Field A (Center)</en>
+        <jp>畑A (中央)</jp>
+    </Tile>
+    <Tile id="78">
+        <en>Farm Field B (Snow, Top)</en>
+        <jp>畑B (雪・上)</jp>
+    </Tile>
+    <Tile id="79">
+        <en>Farm Field B (Snow, Center)</en>
+        <jp>畑B (雪・中央)</jp>
+    </Tile>
+    <Tile id="80">
+        <en>Large Relief Floor Tile</en>
+        <jp>大きなレリーフ床</jp>
+    </Tile>
+    <Tile id="81">
+        <en>Large Relief Floor Tile</en>
+        <jp>大きなレリーフ床</jp>
+    </Tile>
+    <Tile id="82">
+        <en>Large Relief Floor Tile (Ruins)</en>
+        <jp>大きなレリーフ床 (廃墟)</jp>
+    </Tile>
+    <Tile id="83">
+        <en>Large Relief Floor Tile (Ruins)</en>
+        <jp>大きなレリーフ床 (廃墟)</jp>
+    </Tile>
+    <Tile id="84">
+        <en>Farm Field A (Top)</en>
+        <jp>畑A (上)</jp>
+    </Tile>
+    <Tile id="85">
+        <en>Farm Field A (Center)</en>
+        <jp>畑A (中央)</jp>
+    </Tile>
+    <Tile id="86">
+        <en>Farm Field B (Snow, Top)</en>
+        <jp>畑B (雪・上)</jp>
+    </Tile>
+    <Tile id="87">
+        <en>Farm Field B (Snow, Center)</en>
+        <jp>畑B (雪・中央)</jp>
+    </Tile>
+    <Tile id="88">
+        <en>Ledge (Meadow)</en>
+        <jp>段差 (草地)</jp>
+    </Tile>
+    <Tile id="89">
+        <en>Ledge (Meadow)</en>
+        <jp>段差 (草地)</jp>
+    </Tile>
+    <Tile id="90">
+        <en>Ledge (Meadow)</en>
+        <jp>段差 (草地)</jp>
+    </Tile>
+    <Tile id="91">
+        <en>Garden A</en>
+        <jp>花壇A</jp>
+    </Tile>
+    <Tile id="92">
+        <en>Garden B (Snow)</en>
+        <jp>花壇B (雪)</jp>
+    </Tile>
+    <Tile id="93">
+        <en>Ledge (Dirt)</en>
+        <jp>段差 (土)</jp>
+    </Tile>
+    <Tile id="94">
+        <en>Ledge (Dirt)</en>
+        <jp>段差 (土)</jp>
+    </Tile>
+    <Tile id="95">
+        <en>Ledge (Dirt)</en>
+        <jp>段差 (土)</jp>
+    </Tile>
+    <Tile id="96">
+        <en>Ledge (Meadow)</en>
+        <jp>段差 (草地)</jp>
+    </Tile>
+    <Tile id="97">
+        <en>Ledge (Meadow)</en>
+        <jp>段差 (草地)</jp>
+    </Tile>
+    <Tile id="98">
+        <en>Ledge (Meadow)</en>
+        <jp>段差 (草地)</jp>
+    </Tile>
+    <Tile id="99">
+        <en>Ledge (Meadow)</en>
+        <jp>段差 (草地)</jp>
+    </Tile>
+    <Tile id="100">
+        <en>Ledge (Meadow)</en>
+        <jp>段差 (草地)</jp>
+    </Tile>
+    <Tile id="101">
+        <en>Ledge (Dirt)</en>
+        <jp>段差 (土)</jp>
+    </Tile>
+    <Tile id="102">
+        <en>Ledge (Dirt)</en>
+        <jp>段差 (土)</jp>
+    </Tile>
+    <Tile id="103">
+        <en>Ledge (Dirt)</en>
+        <jp>段差 (土)</jp>
+    </Tile>
+    <Tile id="104">
+        <en>Ledge (Meadow)</en>
+        <jp>段差 (草地)</jp>
+    </Tile>
+    <Tile id="105">
+        <en>Ledge (Meadow)</en>
+        <jp>段差 (草地)</jp>
+    </Tile>
+    <Tile id="106">
+        <en>Ledge (Meadow)</en>
+        <jp>段差 (草地)</jp>
+    </Tile>
+    <Tile id="107">
+        <en>Ledge (Meadow)</en>
+        <jp>段差 (草地)</jp>
+    </Tile>
+    <Tile id="108">
+        <en>Ledge (Meadow)</en>
+        <jp>段差 (草地)</jp>
+    </Tile>
+    <Tile id="109">
+        <en>Ledge (Dirt)</en>
+        <jp>段差 (土)</jp>
+    </Tile>
+    <Tile id="110">
+        <en>Ledge (Dirt)</en>
+        <jp>段差 (土)</jp>
+    </Tile>
+    <Tile id="111">
+        <en>Ledge (Dirt)</en>
+        <jp>段差 (土)</jp>
+    </Tile>
+    <Tile id="112">
+        <en>Cliff</en>
+        <jp>崖</jp>
+    </Tile>
+    <Tile id="113">
+        <en>Cliff</en>
+        <jp>崖</jp>
+    </Tile>
+    <Tile id="114">
+        <en>Cliff</en>
+        <jp>崖</jp>
+    </Tile>
+    <Tile id="115">
+        <en>Ledge (Dirt)</en>
+        <jp>段差 (土)</jp>
+    </Tile>
+    <Tile id="116">
+        <en>Ledge (Dirt)</en>
+        <jp>段差 (土)</jp>
+    </Tile>
+    <Tile id="117">
+        <en>Cliff</en>
+        <jp>崖</jp>
+    </Tile>
+    <Tile id="118">
+        <en>Cliff</en>
+        <jp>崖</jp>
+    </Tile>
+    <Tile id="119">
+        <en>Cliff</en>
+        <jp>崖</jp>
+    </Tile>
+    <Tile id="120">
+        <en>Cliff (Meadow)</en>
+        <jp>崖 (草地)</jp>
+    </Tile>
+    <Tile id="121">
+        <en>Cliff (Meadow)</en>
+        <jp>崖 (草地)</jp>
+    </Tile>
+    <Tile id="122">
+        <en>Cliff (Meadow)</en>
+        <jp>崖 (草地)</jp>
+    </Tile>
+    <Tile id="123">
+        <en>Ledge (Dirt)</en>
+        <jp>段差 (土)</jp>
+    </Tile>
+    <Tile id="124">
+        <en>Ledge (Dirt)</en>
+        <jp>段差 (土)</jp>
+    </Tile>
+    <Tile id="125">
+        <en>Cliff (Dirt)</en>
+        <jp>崖 (土)</jp>
+    </Tile>
+    <Tile id="126">
+        <en>Cliff (Dirt)</en>
+        <jp>崖 (土)</jp>
+    </Tile>
+    <Tile id="127">
+        <en>Cliff (Dirt)</en>
+        <jp>崖 (土)</jp>
+    </Tile>
+</TilesetData>

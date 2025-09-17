@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Dungeon_C">
+    <Tile id="0">
+        <en>Decorative Pillar A (Stone)</en>
+        <jp>装飾柱A (石)</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Decorative Pillar B (Stone)</en>
+        <jp>装飾柱B (石)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Decorative Pillar C (Temple)</en>
+        <jp>装飾柱C (遺跡)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Decorative Pillar D (Rock Cave)</en>
+        <jp>装飾柱D (岩洞窟)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Decorative Pillar E (Demon Castle)</en>
+        <jp>装飾柱E (魔王城)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Decorative Pillar F (Fort)</en>
+        <jp>装飾柱F (砦)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Decorative Pillar G (Dirt Cave)</en>
+        <jp>装飾柱G (土洞窟)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Decorative Pillar H (Factory)</en>
+        <jp>装飾柱H (工場)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Decorative Pillar A (Stone)</en>
+        <jp>装飾柱A (石)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Decorative Pillar B (Stone)</en>
+        <jp>装飾柱B (石)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Decorative Pillar C (Temple)</en>
+        <jp>装飾柱C (遺跡)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Decorative Pillar D (Rock Cave)</en>
+        <jp>装飾柱D (岩洞窟)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Decorative Pillar E (Demon Castle)</en>
+        <jp>装飾柱E (魔王城)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Decorative Pillar F (Fort)</en>
+        <jp>装飾柱F (砦)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Decorative Pillar G (Dirt Cave)</en>
+        <jp>装飾柱G (土洞窟)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Decorative Pillar H (Factory)</en>
+        <jp>装飾柱H (工場)</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Decorative Pillar A (Stone)</en>
+        <jp>装飾柱A (石)</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Decorative Pillar B (Stone)</en>
+        <jp>装飾柱B (石)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Decorative Pillar C (Temple)</en>
+        <jp>装飾柱C (遺跡)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Decorative Pillar D (Rock Cave)</en>
+        <jp>装飾柱D (岩洞窟)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Decorative Pillar E (Demon Castle)</en>
+        <jp>装飾柱E (魔王城)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Decorative Pillar F (Fort)</en>
+        <jp>装飾柱F (砦)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Decorative Pillar G (Dirt Cave)</en>
+        <jp>装飾柱G (土洞窟)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Decorative Pillar H (Factory)</en>
+        <jp>装飾柱H (工場)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Decorative Pillar A (Stone, Ruins)</en>
+        <jp>装飾柱A (石・廃墟)</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Decorative Pillar B (Stone, Ruins)</en>
+        <jp>装飾柱B (石・廃墟)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Decorative Pillar C (Temple, Ruins)</en>
+        <jp>装飾柱C (遺跡・廃墟)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Decorative Pillar D (Rock Cave, Ruins)</en>
+        <jp>装飾柱D (岩洞窟・廃墟)</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Decorative Pillar E (Demon Castle, Ruins)</en>
+        <jp>装飾柱E (魔王城・廃墟)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Decorative Pillar F (Fort, Ruins)</en>
+        <jp>装飾柱F (砦・廃墟)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Decorative Pillar G (Dirt Cave, Ruins)</en>
+        <jp>装飾柱G (土洞窟・廃墟)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Decorative Pillar A (Stone, Front, Ruins)</en>
+        <jp>装飾柱A (石・手前・廃墟)</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Decorative Pillar A (Stone, Ruins)</en>
+        <jp>装飾柱A (石・廃墟)</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Decorative Pillar B (Stone, Ruins)</en>
+        <jp>装飾柱B (石・廃墟)</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Decorative Pillar C (Temple, Ruins)</en>
+        <jp>装飾柱C (遺跡・廃墟)</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Decorative Pillar D (Rock Cave, Ruins)</en>
+        <jp>装飾柱D (岩洞窟・廃墟)</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Decorative Pillar E (Demon Castle, Ruins)</en>
+        <jp>装飾柱E (魔王城・廃墟)</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Decorative Pillar F (Fort, Ruins)</en>
+        <jp>装飾柱F (砦・廃墟)</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Decorative Pillar G (Dirt Cave, Ruins)</en>
+        <jp>装飾柱G (土洞窟・廃墟)</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Decorative Pillar D (Rock Cave, Front, Ruins)</en>
+        <jp>装飾柱F (岩洞窟・手前・廃墟)</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Decorative Pillar A (Stone, Ruins)</en>
+        <jp>装飾柱A (石・廃墟)</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Decorative Pillar B (Stone, Ruins)</en>
+        <jp>装飾柱B (石・廃墟)</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Decorative Pillar C (Temple, Ruins)</en>
+        <jp>装飾柱C (遺跡・廃墟)</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Decorative Pillar D (Rock Cave, Ruins)</en>
+        <jp>装飾柱D (岩洞窟・廃墟)</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Decorative Pillar E (Demon Castle, Ruins)</en>
+        <jp>装飾柱E (魔王城・廃墟)</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Decorative Pillar F (Fort, Ruins)</en>
+        <jp>装飾柱F (砦・廃墟)</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Decorative Pillar G (Dirt Cave, Ruins)</en>
+        <jp>装飾柱G (土洞窟・廃墟)</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Decorative Pillar F (Fort, Front, Ruins)</en>
+        <jp>装飾柱F (砦・手前・廃墟)</jp>
+    </Tile>
+    <Tile id="48">
+        <en>Decorative Pillar A (Stone, Front)</en>
+        <jp>装飾柱A (石・手前)</jp>
+    </Tile>
+    <Tile id="49">
+        <en>Decorative Pillar B (Stone, Front)</en>
+        <jp>装飾柱B (石・手前)</jp>
+    </Tile>
+    <Tile id="50">
+        <en>Decorative Pillar C (Temple, Front)</en>
+        <jp>装飾柱C (神殿・手前)</jp>
+    </Tile>
+    <Tile id="51">
+        <en>Decorative Pillar D (Rock Cave, Front)</en>
+        <jp>装飾柱D (岩洞窟・手前)</jp>
+    </Tile>
+    <Tile id="52">
+        <en>Decorative Pillar E (Demon Castle, Front)</en>
+        <jp>装飾柱E (魔王城・手前)</jp>
+    </Tile>
+    <Tile id="53">
+        <en>Decorative Pillar F (Fort, Front)</en>
+        <jp>装飾柱F (砦・手前)</jp>
+    </Tile>
+    <Tile id="54">
+        <en>Decorative Pillar G (Dirt Cave, Front)</en>
+        <jp>装飾柱G (土洞窟・手前)</jp>
+    </Tile>
+    <Tile id="55">
+        <en>Decorative Pillar H (Factory, Front)</en>
+        <jp>装飾柱H (工場・手前)</jp>
+    </Tile>
+    <Tile id="56">
+        <en>Gate A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="57">
+        <en>Gate A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="58">
+        <en>Gate A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="59">
+        <en>Gate B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="60">
+        <en>Gate B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="61">
+        <en>Gate B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="62">
+        <en>Decorative Pillar I (Demonic)</en>
+        <jp>装飾柱I (悪魔)</jp>
+    </Tile>
+    <Tile id="63">
+        <en>Decorative Pillar I (Demonic, Ruins)</en>
+        <jp>装飾柱I (悪魔・廃墟)</jp>
+    </Tile>
+    <Tile id="64">
+        <en>Gate A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="65">
+        <en>Gate A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="66">
+        <en>Gate A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="67">
+        <en>Gate B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="68">
+        <en>Gate B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="69">
+        <en>Gate B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="70">
+        <en>Decorative Pillar I (Demonic)</en>
+        <jp>装飾柱I (悪魔)</jp>
+    </Tile>
+    <Tile id="71">
+        <en>Decorative Pillar I (Demonic, Ruins)</en>
+        <jp>装飾柱I (悪魔・廃墟)</jp>
+    </Tile>
+    <Tile id="72">
+        <en>Gate A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="73">
+        <en>Gate A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="74">
+        <en>Gate A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="75">
+        <en>Gate B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="76">
+        <en>Gate B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="77">
+        <en>Gate B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="78">
+        <en>Coffin A (Right)</en>
+        <jp>棺A (右)</jp>
+    </Tile>
+    <Tile id="79">
+        <en>Coffin A (Right)</en>
+        <jp>棺A (右)</jp>
+    </Tile>
+    <Tile id="80">
+        <en>Hexagram</en>
+        <jp>魔法陣</jp>
+    </Tile>
+    <Tile id="81">
+        <en>Hexagram</en>
+        <jp>魔法陣</jp>
+    </Tile>
+    <Tile id="82">
+        <en>Hexagram</en>
+        <jp>魔法陣</jp>
+    </Tile>
+    <Tile id="83">
+        <en>Hexagram (Lit)</en>
+        <jp>魔法陣 (光)</jp>
+    </Tile>
+    <Tile id="84">
+        <en>Hexagram (Lit)</en>
+        <jp>魔法陣 (光)</jp>
+    </Tile>
+    <Tile id="85">
+        <en>Hexagram (Lit)</en>
+        <jp>魔法陣 (光)</jp>
+    </Tile>
+    <Tile id="86">
+        <en>Coffin B (Top)</en>
+        <jp>棺B (上)</jp>
+    </Tile>
+    <Tile id="87">
+        <en>Coffin C (Bottom)</en>
+        <jp>棺C (下)</jp>
+    </Tile>
+    <Tile id="88">
+        <en>Hexagram</en>
+        <jp>魔法陣</jp>
+    </Tile>
+    <Tile id="89">
+        <en>Hexagram</en>
+        <jp>魔法陣</jp>
+    </Tile>
+    <Tile id="90">
+        <en>Hexagram</en>
+        <jp>魔法陣</jp>
+    </Tile>
+    <Tile id="91">
+        <en>Hexagram (Lit)</en>
+        <jp>魔法陣 (光)</jp>
+    </Tile>
+    <Tile id="92">
+        <en>Hexagram (Lit)</en>
+        <jp>魔法陣 (光)</jp>
+    </Tile>
+    <Tile id="93">
+        <en>Hexagram (Lit)</en>
+        <jp>魔法陣 (光)</jp>
+    </Tile>
+    <Tile id="94">
+        <en>Coffin B (Top)</en>
+        <jp>棺B (上)</jp>
+    </Tile>
+    <Tile id="95">
+        <en>Coffin C (Bottom)</en>
+        <jp>棺C (下)</jp>
+    </Tile>
+    <Tile id="96">
+        <en>Hexagram</en>
+        <jp>魔法陣</jp>
+    </Tile>
+    <Tile id="97">
+        <en>Hexagram</en>
+        <jp>魔法陣</jp>
+    </Tile>
+    <Tile id="98">
+        <en>Hexagram</en>
+        <jp>魔法陣</jp>
+    </Tile>
+    <Tile id="99">
+        <en>Hexagram (Lit)</en>
+        <jp>魔法陣 (光)</jp>
+    </Tile>
+    <Tile id="100">
+        <en>Hexagram (Lit)</en>
+        <jp>魔法陣 (光)</jp>
+    </Tile>
+    <Tile id="101">
+        <en>Hexagram (Lit)</en>
+        <jp>魔法陣 (光)</jp>
+    </Tile>
+    <Tile id="102">
+        <en>Coffin D  (Left)</en>
+        <jp>棺D (左)</jp>
+    </Tile>
+    <Tile id="103">
+        <en>Coffin D  (Left)</en>
+        <jp>棺D (左)</jp>
+    </Tile>
+    <Tile id="104">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="105">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="106">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="107">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="108">
+        <en>Rails (Ruins)</en>
+        <jp>線路 (廃墟)</jp>
+    </Tile>
+    <Tile id="109">
+        <en>Rails (Ruins)</en>
+        <jp>線路 (廃墟)</jp>
+    </Tile>
+    <Tile id="110">
+        <en>Rails (Ruins)</en>
+        <jp>線路 (廃墟)</jp>
+    </Tile>
+    <Tile id="111">
+        <en>Rails (Ruins)</en>
+        <jp>線路 (廃墟)</jp>
+    </Tile>
+    <Tile id="112">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="113">
+        <en>Railroad Ties A</en>
+        <jp>枕木A</jp>
+    </Tile>
+    <Tile id="114">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="115">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="116">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="117">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="118">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="119">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="120">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="121">
+        <en>Railroad Ties B</en>
+        <jp>枕木B</jp>
+    </Tile>
+    <Tile id="122">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="123">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="124">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="125">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="126">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="127">
+        <en>Rails</en>
+        <jp>線路</jp>
+    </Tile>
+    <Tile id="128">
+        <en>Mural A</en>
+        <jp>壁画A</jp>
+    </Tile>
+    <Tile id="129">
+        <en>Hieroglyph</en>
+        <jp>ヒエログリフ</jp>
+    </Tile>
+    <Tile id="130">
+        <en>Hieroglyph</en>
+        <jp>ヒエログリフ</jp>
+    </Tile>
+    <Tile id="131">
+        <en>Large Mural A</en>
+        <jp>大きな壁画A</jp>
+    </Tile>
+    <Tile id="132">
+        <en>Large Mural A</en>
+        <jp>大きな壁画A</jp>
+    </Tile>
+    <Tile id="133">
+        <en>Large Mural A</en>
+        <jp>大きな壁画A</jp>
+    </Tile>
+    <Tile id="134">
+        <en>Bed</en>
+        <jp>ベッド</jp>
+    </Tile>
+    <Tile id="135">
+        <en>Bed (Ruins)</en>
+        <jp>ベッド (廃墟)</jp>
+    </Tile>
+    <Tile id="136">
+        <en>Mural B</en>
+        <jp>壁画B</jp>
+    </Tile>
+    <Tile id="137">
+        <en>Hieroglyph</en>
+        <jp>ヒエログリフ</jp>
+    </Tile>
+    <Tile id="138">
+        <en>Hieroglyph</en>
+        <jp>ヒエログリフ</jp>
+    </Tile>
+    <Tile id="139">
+        <en>Large Mural B</en>
+        <jp>大きな壁画B</jp>
+    </Tile>
+    <Tile id="140">
+        <en>Large Mural B</en>
+        <jp>大きな壁画B</jp>
+    </Tile>
+    <Tile id="141">
+        <en>Large Mural B</en>
+        <jp>大きな壁画B</jp>
+    </Tile>
+    <Tile id="142">
+        <en>Bed</en>
+        <jp>ベッド</jp>
+    </Tile>
+    <Tile id="143">
+        <en>Bed (Ruins)</en>
+        <jp>ベッド (廃墟)</jp>
+    </Tile>
+    <Tile id="144">
+        <en>Middle Window A</en>
+        <jp>中型窓A</jp>
+    </Tile>
+    <Tile id="145">
+        <en>Middle Window B</en>
+        <jp>中型窓B</jp>
+    </Tile>
+    <Tile id="146">
+        <en>Middle Window C</en>
+        <jp>中型窓C</jp>
+    </Tile>
+    <Tile id="147">
+        <en>Middle Window D (Ruins)</en>
+        <jp>中型窓窓D (廃墟)</jp>
+    </Tile>
+    <Tile id="148">
+        <en>Window (Demon Castle)</en>
+        <jp>窓 (魔王城)</jp>
+    </Tile>
+    <Tile id="149">
+        <en>Table</en>
+        <jp>テーブル</jp>
+    </Tile>
+    <Tile id="150">
+        <en>Cheap Bed</en>
+        <jp>粗末なベッド</jp>
+    </Tile>
+    <Tile id="151">
+        <en>Straw Bed</en>
+        <jp>むしろの寝床</jp>
+    </Tile>
+    <Tile id="152">
+        <en>Middle Window A</en>
+        <jp>中型窓A</jp>
+    </Tile>
+    <Tile id="153">
+        <en>Middle Window B</en>
+        <jp>中型窓B</jp>
+    </Tile>
+    <Tile id="154">
+        <en>Middle Window C</en>
+        <jp>中型窓C</jp>
+    </Tile>
+    <Tile id="155">
+        <en>Middle Window D (Ruins)</en>
+        <jp>中型窓窓D (廃墟)</jp>
+    </Tile>
+    <Tile id="156">
+        <en>Window (Demon Castle)</en>
+        <jp>窓 (魔王城)</jp>
+    </Tile>
+    <Tile id="157">
+        <en>Stool</en>
+        <jp>椅子</jp>
+    </Tile>
+    <Tile id="158">
+        <en>Cheap Bed</en>
+        <jp>粗末なベッド</jp>
+    </Tile>
+    <Tile id="159">
+        <en>Straw Bed</en>
+        <jp>むしろの寝床</jp>
+    </Tile>
+    <Tile id="160">
+        <en>Large Window A</en>
+        <jp>大型窓A</jp>
+    </Tile>
+    <Tile id="161">
+        <en>Large Window B</en>
+        <jp>大型窓B</jp>
+    </Tile>
+    <Tile id="162">
+        <en>Large Window C</en>
+        <jp>大型窓C</jp>
+    </Tile>
+    <Tile id="163">
+        <en>Stained Glass Window</en>
+        <jp>ステンドグラス</jp>
+    </Tile>
+    <Tile id="164">
+        <en>Large Window D</en>
+        <jp>大型窓D</jp>
+    </Tile>
+    <Tile id="165">
+        <en>Window A</en>
+        <jp>窓A</jp>
+    </Tile>
+    <Tile id="166">
+        <en>Window B</en>
+        <jp>窓B</jp>
+    </Tile>
+    <Tile id="167">
+        <en>Window C</en>
+        <jp>窓C</jp>
+    </Tile>
+    <Tile id="168">
+        <en>Large Window A</en>
+        <jp>大型窓A</jp>
+    </Tile>
+    <Tile id="169">
+        <en>Large Window B</en>
+        <jp>大型窓B</jp>
+    </Tile>
+    <Tile id="170">
+        <en>Large Window C</en>
+        <jp>大型窓C</jp>
+    </Tile>
+    <Tile id="171">
+        <en>Stained Glass Window</en>
+        <jp>ステンドグラス</jp>
+    </Tile>
+    <Tile id="172">
+        <en>Large Window D</en>
+        <jp>大型窓D</jp>
+    </Tile>
+    <Tile id="173">
+        <en>Window A</en>
+        <jp>窓A</jp>
+    </Tile>
+    <Tile id="174">
+        <en>Window B</en>
+        <jp>窓B</jp>
+    </Tile>
+    <Tile id="175">
+        <en>Window C</en>
+        <jp>窓C</jp>
+    </Tile>
+    <Tile id="176">
+        <en>Chest A</en>
+        <jp>チェストA</jp>
+    </Tile>
+    <Tile id="177">
+        <en>Cabinet</en>
+        <jp>キャビネット</jp>
+    </Tile>
+    <Tile id="178">
+        <en>Closet</en>
+        <jp>クローゼット</jp>
+    </Tile>
+    <Tile id="179">
+        <en>Chest of Drawers</en>
+        <jp>タンス</jp>
+    </Tile>
+    <Tile id="180">
+        <en>Dish Cabinet</en>
+        <jp>食器棚</jp>
+    </Tile>
+    <Tile id="181">
+        <en>Wine Rack</en>
+        <jp>ワインセラー</jp>
+    </Tile>
+    <Tile id="182">
+        <en>Bottle Shelf A</en>
+        <jp>ボトル棚A</jp>
+    </Tile>
+    <Tile id="183">
+        <en>Bottle Shelf B</en>
+        <jp>ボトル棚B</jp>
+    </Tile>
+    <Tile id="184">
+        <en>Chest B</en>
+        <jp>チェストB</jp>
+    </Tile>
+    <Tile id="185">
+        <en>Chest C</en>
+        <jp>チェストC</jp>
+    </Tile>
+    <Tile id="186">
+        <en>Closet</en>
+        <jp>クローゼット</jp>
+    </Tile>
+    <Tile id="187">
+        <en>Chest of Drawers</en>
+        <jp>タンス</jp>
+    </Tile>
+    <Tile id="188">
+        <en>Dish Cabinet</en>
+        <jp>食器棚</jp>
+    </Tile>
+    <Tile id="189">
+        <en>Wine Rack</en>
+        <jp>ワインセラー</jp>
+    </Tile>
+    <Tile id="190">
+        <en>Bottle Shelf A</en>
+        <jp>ボトル棚A</jp>
+    </Tile>
+    <Tile id="191">
+        <en>Bottle Shelf B</en>
+        <jp>ボトル棚B</jp>
+    </Tile>
+    <Tile id="192">
+        <en>Tipped Shelf</en>
+        <jp>倒れた棚</jp>
+    </Tile>
+    <Tile id="193">
+        <en>Sundries Shelf A</en>
+        <jp>雑貨棚A</jp>
+    </Tile>
+    <Tile id="194">
+        <en>Sundries Shelf A</en>
+        <jp>雑貨棚A</jp>
+    </Tile>
+    <Tile id="195">
+        <en>Sundries Shelf B</en>
+        <jp>雑貨棚B</jp>
+    </Tile>
+    <Tile id="196">
+        <en>Medicine Shelf</en>
+        <jp>薬品棚</jp>
+    </Tile>
+    <Tile id="197">
+        <en>Bookshelf A</en>
+        <jp>本棚A</jp>
+    </Tile>
+    <Tile id="198">
+        <en>Bookshelf B</en>
+        <jp>本棚B</jp>
+    </Tile>
+    <Tile id="199">
+        <en>Bookshelf B</en>
+        <jp>本棚B</jp>
+    </Tile>
+    <Tile id="200">
+        <en>Tipped Shelf</en>
+        <jp>倒れた棚</jp>
+    </Tile>
+    <Tile id="201">
+        <en>Sundries Shelf A</en>
+        <jp>雑貨棚A</jp>
+    </Tile>
+    <Tile id="202">
+        <en>Sundries Shelf A</en>
+        <jp>雑貨棚A</jp>
+    </Tile>
+    <Tile id="203">
+        <en>Sundries Shelf B</en>
+        <jp>雑貨棚B</jp>
+    </Tile>
+    <Tile id="204">
+        <en>Medicine Shelf</en>
+        <jp>薬品棚</jp>
+    </Tile>
+    <Tile id="205">
+        <en>Bookshelf A</en>
+        <jp>本棚A</jp>
+    </Tile>
+    <Tile id="206">
+        <en>Bookshelf B</en>
+        <jp>本棚B</jp>
+    </Tile>
+    <Tile id="207">
+        <en>Bookshelf B</en>
+        <jp>本棚B</jp>
+    </Tile>
+    <Tile id="208">
+        <en>Curtains A</en>
+        <jp>カーテンA</jp>
+    </Tile>
+    <Tile id="209">
+        <en>Curtains B</en>
+        <jp>カーテンB</jp>
+    </Tile>
+    <Tile id="210">
+        <en>Curtains C</en>
+        <jp>カーテンC</jp>
+    </Tile>
+    <Tile id="211">
+        <en>Curtains D</en>
+        <jp>カーテンD</jp>
+    </Tile>
+    <Tile id="212">
+        <en>Curtains A (Ruins)</en>
+        <jp>カーテンA (廃墟)</jp>
+    </Tile>
+    <Tile id="213">
+        <en>Curtains B (Ruins)</en>
+        <jp>カーテンB (廃墟)</jp>
+    </Tile>
+    <Tile id="214">
+        <en>Curtains C (Ruins)</en>
+        <jp>カーテンC (廃墟)</jp>
+    </Tile>
+    <Tile id="215">
+        <en>Curtains D (Ruins)</en>
+        <jp>カーテンD (廃墟)</jp>
+    </Tile>
+    <Tile id="216">
+        <en>Curtains A</en>
+        <jp>カーテンA</jp>
+    </Tile>
+    <Tile id="217">
+        <en>Curtains B</en>
+        <jp>カーテンB</jp>
+    </Tile>
+    <Tile id="218">
+        <en>Curtains C</en>
+        <jp>カーテンC</jp>
+    </Tile>
+    <Tile id="219">
+        <en>Curtains D</en>
+        <jp>カーテンD</jp>
+    </Tile>
+    <Tile id="220">
+        <en>Curtains A (Ruins)</en>
+        <jp>カーテンA (廃墟)</jp>
+    </Tile>
+    <Tile id="221">
+        <en>Curtains B (Ruins)</en>
+        <jp>カーテンB (廃墟)</jp>
+    </Tile>
+    <Tile id="222">
+        <en>Curtains C (Ruins)</en>
+        <jp>カーテンC (廃墟)</jp>
+    </Tile>
+    <Tile id="223">
+        <en>Curtains D (Ruins)</en>
+        <jp>カーテンD (廃墟)</jp>
+    </Tile>
+    <Tile id="224">
+        <en>Clock</en>
+        <jp>時計</jp>
+    </Tile>
+    <Tile id="225">
+        <en>Mirror</en>
+        <jp>鏡</jp>
+    </Tile>
+    <Tile id="226">
+        <en>Clock (Ruins)</en>
+        <jp>時計 (廃墟)</jp>
+    </Tile>
+    <Tile id="227">
+        <en>Mirror (Ruins)</en>
+        <jp>鏡 (廃墟)</jp>
+    </Tile>
+    <Tile id="228">
+        <en>Stacked Crates</en>
+        <jp>積まれた木箱</jp>
+    </Tile>
+    <Tile id="229">
+        <en>Stacked Crates</en>
+        <jp>積まれた木箱</jp>
+    </Tile>
+    <Tile id="230">
+        <en>Tapestry A</en>
+        <jp>タペストリーA</jp>
+    </Tile>
+    <Tile id="231">
+        <en>Tapestry  A (Ruins)</en>
+        <jp>タペストリーA (廃墟)</jp>
+    </Tile>
+    <Tile id="232">
+        <en>Clock</en>
+        <jp>時計</jp>
+    </Tile>
+    <Tile id="233">
+        <en>Mirror</en>
+        <jp>鏡</jp>
+    </Tile>
+    <Tile id="234">
+        <en>Clock (Ruins)</en>
+        <jp>時計 (廃墟)</jp>
+    </Tile>
+    <Tile id="235">
+        <en>Mirror (Ruins)</en>
+        <jp>鏡 (廃墟)</jp>
+    </Tile>
+    <Tile id="236">
+        <en>Stacked Crates</en>
+        <jp>積まれた木箱</jp>
+    </Tile>
+    <Tile id="237">
+        <en>Stacked Crates</en>
+        <jp>積まれた木箱</jp>
+    </Tile>
+    <Tile id="238">
+        <en>Tapestry A</en>
+        <jp>タペストリーA</jp>
+    </Tile>
+    <Tile id="239">
+        <en>Tapestry  A (Ruins)</en>
+        <jp>タペストリーA (廃墟)</jp>
+    </Tile>
+    <Tile id="240">
+        <en>Chair A (Wood)</en>
+        <jp>背もたれ椅子A (木製)</jp>
+    </Tile>
+    <Tile id="241">
+        <en>Chair B (Stone)</en>
+        <jp>背もたれ椅子B (石)</jp>
+    </Tile>
+    <Tile id="242">
+        <en>Throne A</en>
+        <jp>玉座A</jp>
+    </Tile>
+    <Tile id="243">
+        <en>Throne A</en>
+        <jp>玉座A</jp>
+    </Tile>
+    <Tile id="244">
+        <en>Throne A</en>
+        <jp>玉座A</jp>
+    </Tile>
+    <Tile id="245">
+        <en>Throne B (Demon Castle)</en>
+        <jp>玉座B (魔王城)</jp>
+    </Tile>
+    <Tile id="246">
+        <en>Throne B (Demon Castle)</en>
+        <jp>玉座B (魔王城)</jp>
+    </Tile>
+    <Tile id="247">
+        <en>Throne B (Demon Castle)</en>
+        <jp>玉座B (魔王城)</jp>
+    </Tile>
+    <Tile id="248">
+        <en>Chair A (Wood)</en>
+        <jp>背もたれ椅子A (木製)</jp>
+    </Tile>
+    <Tile id="249">
+        <en>Chair B (Stone)</en>
+        <jp>背もたれ椅子B (石)</jp>
+    </Tile>
+    <Tile id="250">
+        <en>Throne A</en>
+        <jp>玉座A</jp>
+    </Tile>
+    <Tile id="251">
+        <en>Throne A</en>
+        <jp>玉座A</jp>
+    </Tile>
+    <Tile id="252">
+        <en>Throne A</en>
+        <jp>玉座A</jp>
+    </Tile>
+    <Tile id="253">
+        <en>Throne B (Demon Castle)</en>
+        <jp>玉座B (魔王城)</jp>
+    </Tile>
+    <Tile id="254">
+        <en>Throne B (Demon Castle)</en>
+        <jp>玉座B (魔王城)</jp>
+    </Tile>
+    <Tile id="255">
+        <en>Throne B (Demon Castle)</en>
+        <jp>玉座B (魔王城)</jp>
+    </Tile>
+</TilesetData>

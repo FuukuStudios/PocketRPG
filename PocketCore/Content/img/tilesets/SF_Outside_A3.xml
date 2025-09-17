@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="SF_Outside_A3">
+    <Tile id="0">
+        <en>Roof A (Brick)</en>
+        <jp>屋根A (レンガ)</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Roof B (Factory)</en>
+        <jp>屋根B (工場)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Roof C (Metal, Red Rust)</en>
+        <jp>屋根C (金属・赤錆)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Roof D (Barracks)</en>
+        <jp>屋根D (バラック)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Roof E (Barracks)</en>
+        <jp>屋根E (バラック)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Roof F (Barracks)</en>
+        <jp>屋根F (バラック)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Roor G (Ivy)</en>
+        <jp>屋根G (ツタ)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Roof H (House)</en>
+        <jp>屋根H (現代住宅)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Outer Wall A (Stone)</en>
+        <jp>外壁A (石)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Outer Wall B (Factory)</en>
+        <jp>外壁B (工場)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Outer Wall C (Metal, Red Rust)</en>
+        <jp>外壁C (金属・赤錆)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Outer Wall D (Barracks)</en>
+        <jp>外壁D (バラック)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Outer Wall E (Barracks)</en>
+        <jp>外壁E (バラック)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Outer Wall F (Factory)</en>
+        <jp>外壁F (工場)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Outer Wall G (Ivy)</en>
+        <jp>外壁G (ツタ)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Outer Wall H (House)</en>
+        <jp>外壁H (現代住宅)</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Roof I (Barracks)</en>
+        <jp>屋根I (バラック)</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Roof J (Brick)</en>
+        <jp>屋根J (レンガ)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Roof K (Metal, Patina)</en>
+        <jp>屋根K (金属・緑青錆)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Roof L (Chinese)</en>
+        <jp>屋根L (中華風)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Roof M (Blue Sheet)</en>
+        <jp>屋根M (ブルーシート)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Roof N (Wood)</en>
+        <jp>屋根N (木造)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Roof O (Brick)</en>
+        <jp>屋根O (レンガ)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Roof P (Wood)</en>
+        <jp>屋根P (木造)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Outer Wall I (Tile)</en>
+        <jp>外壁I (タイル)</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Outer Wall J (Brick)</en>
+        <jp>外壁J (レンガ)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Outer Wall K (Mortar)</en>
+        <jp>外壁K (モルタル)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Outer Wall L (Chinese)</en>
+        <jp>外壁L (中華風)</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Outer Wall M (Blue Sheet)</en>
+        <jp>外壁M (ブルーシート)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Outer Wall N (Wood)</en>
+        <jp>外壁N (木造)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Outer Wall O (Brick)</en>
+        <jp>外壁O (レンガ)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Outer Wall P (Wood)</en>
+        <jp>外壁P (木造)</jp>
+    </Tile>
+</TilesetData>

@@ -1,0 +1,3197 @@
+<?xml version="1.0"?>
+<XnaContent>
+    <Asset Type="PocketRPG.Data.Animations">
+        <Animations>
+            <Animation />
+            <Animation id="1" displayType="0" effectName="HitPhysical" name="Hit Physical" offsetX="0" offsetY="0" scale="50" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Blow1" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="2" displayType="0" effectName="HitEffect" name="Hit Effect" offsetX="0" offsetY="0" scale="60" speed="100">
+                <flashTimings>
+                    <flashTiming frame="1" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Evasion2" pan="0" pitch="150" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Damage4" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Powerup" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="3" displayType="0" effectName="HitFire" name="Hit Fire" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="119" b="102" a="221" />
+                    </flashTiming>
+                    <flashTiming frame="2" duration="30">
+                        <color r="255" g="136" b="51" a="153" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Blow1" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Fire1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="4" displayType="0" effectName="HitIce" name="Hit Ice" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="119" g="187" b="255" a="221" />
+                    </flashTiming>
+                    <flashTiming frame="2" duration="30">
+                        <color r="187" g="221" b="221" a="153" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Blow1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Ice3" pan="0" pitch="75" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="5" displayType="0" effectName="HitThunder" name="Hit Thunder" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="102" a="221" />
+                    </flashTiming>
+                    <flashTiming frame="2" duration="30">
+                        <color r="255" g="255" b="119" a="153" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder8" pan="0" pitch="80" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Blow3" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="6" displayType="0" effectName="SlashPhysical" name="Slash Physical" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="255" a="187" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Slash1" pan="0" pitch="140" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="7" displayType="0" effectName="SlashEffect" name="Slash Effect" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="1" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Evasion2" pan="0" pitch="150" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Slash1" pan="0" pitch="140" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Powerup" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="8" displayType="0" effectName="SlashFire" name="Slash Fire" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="119" b="102" a="221" />
+                    </flashTiming>
+                    <flashTiming frame="1" duration="30">
+                        <color r="255" g="136" b="51" a="153" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder1" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Sword5" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="4">
+                        <se name="Fire1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="9" displayType="0" effectName="SlashIce" name="Slash Ice" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="119" g="187" b="255" a="221" />
+                    </flashTiming>
+                    <flashTiming frame="1" duration="30">
+                        <color r="187" g="221" b="221" a="153" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Slash1" pan="0" pitch="140" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Ice3" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="10" displayType="0" effectName="SlashThunder" name="Slash Thunder" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="102" a="221" />
+                    </flashTiming>
+                    <flashTiming frame="1" duration="30">
+                        <color r="255" g="255" b="119" a="153" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Slash1" pan="0" pitch="140" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Thunder8" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="11" displayType="0" effectName="PiercePhysical" name="Pierce Physical" offsetX="0" offsetY="0" scale="60" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder1" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="4">
+                        <se name="Sword5" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="12" displayType="0" effectName="PierceEffect" name="Pierce Effect" offsetX="0" offsetY="0" scale="80" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Evasion2" pan="0" pitch="150" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Thunder4" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="8">
+                        <se name="Powerup" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="13" displayType="0" effectName="PierceFire" name="Pierce Fire" offsetX="0" offsetY="0" scale="80" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="119" b="102" a="221" />
+                    </flashTiming>
+                    <flashTiming frame="3" duration="30">
+                        <color r="255" g="136" b="51" a="153" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder1" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Sword5" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Fire1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="14" displayType="0" effectName="PierceIce" name="Pierce Ice" offsetX="0" offsetY="0" scale="80" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="119" g="187" b="255" a="221" />
+                    </flashTiming>
+                    <flashTiming frame="3" duration="30">
+                        <color r="187" g="221" b="221" a="153" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder1" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Sword5" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Ice3" pan="0" pitch="75" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="15" displayType="0" effectName="PierceThunder" name="Pierce Thunder" offsetX="0" offsetY="0" scale="80" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="60">
+                        <color r="255" g="255" b="102" a="221" />
+                    </flashTiming>
+                    <flashTiming frame="3" duration="60">
+                        <color r="255" g="255" b="85" a="153" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder1" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Sword5" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Thunder8" pan="0" pitch="80" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="16" displayType="0" effectName="ClawPhysical" name="Claw Physical" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Attack2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Slash2" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="17" displayType="0" effectName="ClawEffect" name="Claw Effect" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Evasion2" pan="0" pitch="150" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Attack2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Powerup" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="18" displayType="0" effectName="ClawFire" name="Claw Fire" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="119" b="102" a="221" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Attack2" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Slash2" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Fire1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="19" displayType="0" effectName="ClawIce" name="Claw Ice" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="119" g="187" b="255" a="221" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Attack2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Slash2" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Ice3" pan="0" pitch="75" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="20" displayType="0" effectName="ClawThunder" name="Claw Thunder" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="102" a="221" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Attack2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Slash2" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Thunder8" pan="0" pitch="80" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="21" displayType="0" effectName="HitSpecial1" name="Hit Special 1" offsetX="0" offsetY="0" scale="120" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="59" duration="70">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="99" duration="70">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="2">
+                        <se name="Blow1" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Blow3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Blow1" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="27">
+                        <se name="Thunder5" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="34">
+                        <se name="Blow3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="44">
+                        <se name="Thunder5" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="44">
+                        <se name="Blow3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="51">
+                        <se name="Blow3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="69">
+                        <se name="Thunder5" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="84">
+                        <se name="Blow3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="91">
+                        <se name="Blow3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="99">
+                        <se name="Thunder5" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="22" displayType="1" effectName="HitSpecial2" name="Hit Special 2" offsetX="0" offsetY="0" scale="200" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="27">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="27" duration="27">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="54" duration="35">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="89" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Blow1" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Blow1" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Blow3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Blow1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="7">
+                        <se name="Blow2" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Blow1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="12">
+                        <se name="Blow3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="14">
+                        <se name="Blow3" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="17">
+                        <se name="Blow2" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="18">
+                        <se name="Blow3" pan="0" pitch="70" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="22">
+                        <se name="Blow3" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="24">
+                        <se name="Blow2" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="27">
+                        <se name="Blow3" pan="0" pitch="70" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="34">
+                        <se name="Blow3" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="44">
+                        <se name="Blow2" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="54">
+                        <se name="Blow3" pan="0" pitch="70" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Damage2" pan="0" pitch="120" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="79">
+                        <se name="Damage2" pan="0" pitch="120" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="23" displayType="0" effectName="SlashSpecial1" name="Slash Special 1" offsetX="0" offsetY="0" scale="120" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="27">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="27" duration="28">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="55" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="1">
+                        <se name="Slash1" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Slash3" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Slash3" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="7">
+                        <se name="Slash1" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Slash3" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="11">
+                        <se name="Slash4" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="15">
+                        <se name="Slash1" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="17">
+                        <se name="Slash3" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="19">
+                        <se name="Slash3" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="23">
+                        <se name="Slash1" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="27">
+                        <se name="Slash3" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="47">
+                        <se name="Evasion2" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="24" displayType="1" effectName="SlashSpecial2" name="Slash Special 2" offsetX="0" offsetY="0" scale="120" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="17">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="40">
+                        <color r="255" g="68" b="0" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Sword4" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Slash2" pan="0" pitch="110" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Wind4" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="7">
+                        <se name="Slash8" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="7">
+                        <se name="Wind4" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Slash1" pan="0" pitch="90" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="16">
+                        <se name="Ice3" pan="0" pitch="90" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="25" displayType="2" effectName="SlashSpecial3" name="Slash Special 3" offsetX="0" offsetY="0" scale="120" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="22">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="22" duration="37">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="59" duration="40">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="99" duration="15">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="1">
+                        <se name="Slash2" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="8">
+                        <se name="Slash3" pan="0" pitch="120" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="11">
+                        <se name="Slash2" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="22">
+                        <se name="Slash3" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="28">
+                        <se name="Slash2" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="33">
+                        <se name="Slash3" pan="0" pitch="120" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="37">
+                        <se name="Slash2" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="43">
+                        <se name="Slash3" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Slash1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Evasion1" pan="0" pitch="150" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="79">
+                        <se name="Slash2" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="79">
+                        <se name="Evasion1" pan="0" pitch="150" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="95">
+                        <se name="Slash1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="99">
+                        <se name="Slash3" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="26" displayType="0" effectName="PierceSpecial1" name="Pierce Special 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="31" duration="32">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="62" duration="31">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="99" duration="27">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind6" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Sword5" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Slash1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="4">
+                        <se name="Sword5" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Slash1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="6">
+                        <se name="Sword5" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="11">
+                        <se name="Wind6" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="15">
+                        <se name="Sword5" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="19">
+                        <se name="Slash1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="21">
+                        <se name="Sword5" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="26">
+                        <se name="Slash1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="31">
+                        <se name="Sword5" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="35">
+                        <se name="Sword5" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="38">
+                        <se name="Slash1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="41">
+                        <se name="Sword5" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="46">
+                        <se name="Slash1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="52">
+                        <se name="Slash1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="56">
+                        <se name="Sword5" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="62">
+                        <se name="Slash1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="66">
+                        <se name="Slash1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="69">
+                        <se name="Sword5" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="74">
+                        <se name="Slash1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="89">
+                        <se name="Sword4" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="89">
+                        <se name="Slash2" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="27" displayType="0" effectName="PierceSpecial2" name="Pierce Special 2" offsetX="0" offsetY="0" scale="120" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="31">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="31" duration="8">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="69" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="99" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind5" pan="0" pitch="80" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Sword4" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="4">
+                        <se name="Sword5" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="6">
+                        <se name="Slash2" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="7">
+                        <se name="Sword4" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Sword5" pan="0" pitch="150" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="10">
+                        <se name="Slash2" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="13">
+                        <se name="Sword4" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="16">
+                        <se name="Sword5" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="17">
+                        <se name="Slash2" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="19">
+                        <se name="Sword4" pan="0" pitch="150" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="23">
+                        <se name="Sword4" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="27">
+                        <se name="Sword5" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="31">
+                        <se name="Slash2" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="39">
+                        <se name="Sword5" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="43">
+                        <se name="Sword4" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="28" displayType="0" effectName="ClawSpecial" name="Claw Special" offsetX="0" offsetY="0" scale="120" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="119" b="153" a="187" />
+                    </flashTiming>
+                    <flashTiming frame="30" duration="30">
+                        <color r="255" g="119" b="153" a="187" />
+                    </flashTiming>
+                    <flashTiming frame="74" duration="30">
+                        <color r="255" g="119" b="153" a="187" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Attack3" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Slash2" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Attack2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="4">
+                        <se name="Slash3" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="6">
+                        <se name="Attack2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="7">
+                        <se name="Slash2" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Attack2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="10">
+                        <se name="Slash3" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="16">
+                        <se name="Attack2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="17">
+                        <se name="Slash1" pan="0" pitch="80" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="21">
+                        <se name="Attack2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="25">
+                        <se name="Slash3" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="29">
+                        <se name="Attack2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="30">
+                        <se name="Slash1" pan="0" pitch="80" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="41">
+                        <se name="Attack2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="41">
+                        <se name="Slash1" pan="0" pitch="80" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="74">
+                        <se name="Attack2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="74">
+                        <se name="Slash1" pan="0" pitch="80" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="29" displayType="0" effectName="ArrowSpecial" name="Arrow Special" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="2" duration="3">
+                        <color r="255" g="255" b="204" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="5" duration="3">
+                        <color r="255" g="255" b="204" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="8" duration="3">
+                        <color r="255" g="255" b="204" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="13" duration="3">
+                        <color r="255" g="255" b="204" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="24" duration="10">
+                        <color r="255" g="255" b="204" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="20">
+                        <color r="255" g="255" b="204" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Crossbow" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Attack3" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Attack3" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="8">
+                        <se name="Battle3" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="13">
+                        <se name="Battle3" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="13">
+                        <se name="Wind6" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="30" displayType="0" effectName="GeneralSpecial1" name="General Special 1" offsetX="0" offsetY="0" scale="120" speed="100">
+                <flashTimings>
+                    <flashTiming frame="1" duration="30">
+                        <color r="255" g="170" b="119" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="5" duration="30">
+                        <color r="255" g="255" b="255" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="8" duration="30">
+                        <color r="255" g="170" b="119" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="12" duration="30">
+                        <color r="255" g="255" b="255" a="187" />
+                    </flashTiming>
+                    <flashTiming frame="15" duration="30">
+                        <color r="255" g="255" b="187" a="221" />
+                    </flashTiming>
+                    <flashTiming frame="17" duration="30">
+                        <color r="255" g="255" b="187" a="221" />
+                    </flashTiming>
+                    <flashTiming frame="22" duration="30">
+                        <color r="255" g="255" b="255" a="187" />
+                    </flashTiming>
+                    <flashTiming frame="25" duration="30">
+                        <color r="255" g="170" b="119" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="31" duration="30">
+                        <color r="255" g="255" b="187" a="221" />
+                    </flashTiming>
+                    <flashTiming frame="35" duration="30">
+                        <color r="255" g="255" b="255" a="187" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="50">
+                        <color r="255" g="170" b="119" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="30">
+                        <color r="255" g="255" b="187" a="221" />
+                    </flashTiming>
+                    <flashTiming frame="54" duration="30">
+                        <color r="255" g="255" b="255" a="187" />
+                    </flashTiming>
+                    <flashTiming frame="64" duration="50">
+                        <color r="255" g="170" b="119" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="99" duration="50">
+                        <color r="255" g="170" b="119" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="1">
+                        <se name="Slash1" pan="0" pitch="110" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Slash4" pan="0" pitch="90" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="8">
+                        <se name="Slash5" pan="0" pitch="90" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="12">
+                        <se name="Slash2" pan="0" pitch="110" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="15">
+                        <se name="Slash1" pan="0" pitch="120" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="17">
+                        <se name="Damage2" pan="0" pitch="110" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="22">
+                        <se name="Slash2" pan="0" pitch="110" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="25">
+                        <se name="Slash1" pan="0" pitch="120" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="35">
+                        <se name="Damage2" pan="0" pitch="110" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="41">
+                        <se name="Slash2" pan="0" pitch="110" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="49">
+                        <se name="Slash1" pan="0" pitch="120" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="89">
+                        <se name="Damage2" pan="0" pitch="110" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="95">
+                        <se name="Slash2" pan="0" pitch="110" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="104">
+                        <se name="Slash1" pan="0" pitch="120" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="31" displayType="0" effectName="GeneralSpecial2" name="General Special 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="1" duration="10">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="5" duration="10">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="8" duration="10">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="11" duration="10">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="15" duration="10">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="10">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="25" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="34" duration="10">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="10">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="44" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder3" pan="0" pitch="90" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Slash1" pan="0" pitch="110" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Slash1" pan="0" pitch="110" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="8">
+                        <se name="Thunder3" pan="0" pitch="90" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="11">
+                        <se name="Slash1" pan="0" pitch="110" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="15">
+                        <se name="Slash1" pan="0" pitch="110" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="19">
+                        <se name="Thunder3" pan="0" pitch="90" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="25">
+                        <se name="Slash3" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="32" displayType="2" effectName="Breath" name="Breath" offsetX="0" offsetY="0" scale="200" speed="100">
+                <flashTimings>
+                    <flashTiming frame="4" duration="15">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="14" duration="15">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="24" duration="15">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="34" duration="15">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="44" duration="15">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="54" duration="15">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="64" duration="15">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="74" duration="15">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Fire3" pan="0" pitch="70" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Thunder1" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="33" displayType="2" effectName="Pollen" name="Pollen" offsetX="0" offsetY="0" scale="200" speed="100">
+                <flashTimings>
+                    <flashTiming frame="3" duration="30">
+                        <color r="255" g="85" b="238" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="5" duration="30">
+                        <color r="255" g="85" b="238" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="7" duration="30">
+                        <color r="255" g="85" b="238" a="187" />
+                    </flashTiming>
+                    <flashTiming frame="9" duration="30">
+                        <color r="255" g="85" b="238" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="50">
+                        <color r="255" g="85" b="238" a="153" />
+                    </flashTiming>
+                    <flashTiming frame="59" duration="50">
+                        <color r="255" g="85" b="238" a="120" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Darkness4" pan="0" pitch="60" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Darkness3" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="34" displayType="2" effectName="SonicWave" name="SonicWave" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="2" duration="25">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="25">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="59" duration="25">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="89" duration="25">
+                        <color r="255" g="221" b="170" a="100" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Sound3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="35" displayType="2" effectName="Fog" name="Fog" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="90">
+                        <color r="136" g="153" b="170" a="150" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Blind" pan="0" pitch="70" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Sand" pan="0" pitch="110" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="36" displayType="2" effectName="Song" name="Song" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="19" duration="30">
+                        <color r="221" g="221" b="255" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="24" duration="30">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="34" duration="30">
+                        <color r="255" g="170" b="255" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="54" duration="50">
+                        <color r="255" g="170" b="255" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Ice4" pan="0" pitch="110" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="37" displayType="2" effectName="Shout" name="Shout" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="255" g="255" b="0" a="153" />
+                    </flashTiming>
+                    <flashTiming frame="9" duration="10">
+                        <color r="255" g="255" b="0" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="10">
+                        <color r="255" g="255" b="0" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="10">
+                        <color r="255" g="255" b="0" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="255" g="255" b="0" a="136" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Monster1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="38" displayType="0" effectName="Sweep" name="Sweep" offsetX="0" offsetY="30" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="2" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind7" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Blow2" pan="0" pitch="70" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="39" displayType="0" effectName="Bodyslam" name="Bodyslam" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="2" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder2" pan="0" pitch="80" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Thunder8" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Blow3" pan="0" pitch="50" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="40" displayType="2" effectName="Flash" name="Flash" offsetX="0" offsetY="0" scale="150" speed="100">
+                <flashTimings>
+                    <flashTiming frame="2" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="10">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="24" duration="10">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Flash2" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Sword1" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="41" displayType="0" effectName="HealOne1" name="Heal One 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="0" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="9" duration="30">
+                        <color r="102" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="30">
+                        <color r="136" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="136" g="255" b="0" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Heal3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Saint2" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="42" displayType="0" effectName="HealOne2" name="Heal One 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="0" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="9" duration="30">
+                        <color r="0" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="136" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="30">
+                        <color r="136" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="69" duration="30">
+                        <color r="136" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="89" duration="30">
+                        <color r="136" g="255" b="0" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Starlight" pan="0" pitch="150" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Saint2" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="43" displayType="2" effectName="HealAll1" name="Heal All 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="0" g="255" b="0" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="5">
+                        <color r="0" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="0" g="255" b="0" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Saint4" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Ice4" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Heal1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="4">
+                        <se name="Ice5" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="44" displayType="2" effectName="HealAll2" name="Heal All 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="255" g="255" b="0" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="5">
+                        <color r="255" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="255" g="255" b="0" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Ice1" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="8">
+                        <se name="Evasion2" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Flash2" pan="0" pitch="50" volume="50" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Ice4" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="45" displayType="0" effectName="CureOne1" name="Cure One 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="0" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="9" duration="30">
+                        <color r="102" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="30">
+                        <color r="136" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="136" g="255" b="0" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="1">
+                        <se name="Ice1" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Recovery" pan="0" pitch="70" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="6">
+                        <se name="Ice4" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="46" displayType="0" effectName="CureOne2" name="Cure One 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="0" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="9" duration="30">
+                        <color r="102" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="136" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="30">
+                        <color r="136" g="255" b="0" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Ice1" pan="0" pitch="90" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Ice4" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="47" displayType="2" effectName="CureAll1" name="Cure All 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="5">
+                        <color r="153" g="255" b="255" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="24" duration="30">
+                        <color r="255" g="255" b="255" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Starlight" pan="0" pitch="150" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Ice4" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="6">
+                        <se name="Ice1" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Heal3" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="48" displayType="2" effectName="CureAll2" name="Cure All 2" offsetX="0" offsetY="0" scale="150" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="5">
+                        <color r="153" g="255" b="255" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="24" duration="10">
+                        <color r="255" g="255" b="255" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="20">
+                        <color r="255" g="255" b="255" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Ice4" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Saint4" pan="0" pitch="150" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="49" displayType="0" effectName="Revive1" name="Revive 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="0" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="9" duration="30">
+                        <color r="102" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="136" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="30">
+                        <color r="255" g="255" b="255" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Magic1" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Starlight" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="4">
+                        <se name="Skill1" pan="0" pitch="70" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="50" displayType="0" effectName="Revive2" name="Revive 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="0" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="9" duration="30">
+                        <color r="102" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="255" g="255" b="255" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="30">
+                        <color r="255" g="255" b="255" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Magic2" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Ice4" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="13">
+                        <se name="Up3" pan="0" pitch="130" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="51" displayType="0" effectName="Powerup1" name="Power up 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="5" duration="15">
+                        <color r="255" g="187" b="0" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="30">
+                        <color r="255" g="204" b="102" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Up4" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Magic1" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="52" displayType="0" effectName="Powerup2" name="Power up 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="5" duration="20">
+                        <color r="255" g="255" b="0" a="119" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="15">
+                        <color r="255" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="34" duration="15">
+                        <color r="255" g="255" b="255" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Powerup" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="4">
+                        <se name="Magic4" pan="0" pitch="120" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="53" displayType="0" effectName="Powerup3" name="Power up 3" offsetX="0" offsetY="0" scale="70" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="50">
+                        <color r="255" g="153" b="0" a="119" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Up1" pan="0" pitch="80" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Ice4" pan="0" pitch="90" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="54" displayType="0" effectName="Powerdown1" name="Power down 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="5" duration="15">
+                        <color r="85" g="0" b="255" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="30">
+                        <color r="85" g="0" b="255" a="68" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Down2" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Magic2" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="55" displayType="0" effectName="Powerdown2" name="Power down 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="0" g="0" b="0" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="85" g="0" b="136" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Stare" pan="0" pitch="110" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="6">
+                        <se name="Earth2" pan="0" pitch="70" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="56" displayType="0" effectName="Powerdown3" name="Power down 3" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="20">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="170" g="255" b="0" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="30">
+                        <color r="255" g="255" b="119" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Blind" pan="0" pitch="120" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Darkness7" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="69">
+                        <se name="Darkness8" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="57" displayType="0" effectName="Bind" name="Bind" offsetX="0" offsetY="0" scale="70" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="20">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="170" g="255" b="0" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="30">
+                        <color r="255" g="255" b="119" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind5" pan="0" pitch="80" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Darkness4" pan="0" pitch="60" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Darkness1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="58" displayType="0" effectName="Absorb" name="Absorb" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="60">
+                        <color r="170" g="0" b="136" a="136" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Darkness1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Twine" pan="0" pitch="150" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Particles1" pan="0" pitch="150" volume="70" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="59" displayType="0" effectName="Poison" name="Poison" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="60">
+                        <color r="68" g="0" b="187" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Poison" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="60" displayType="0" effectName="Blind" name="Blind" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="20">
+                        <color r="0" g="0" b="0" a="119" />
+                    </flashTiming>
+                    <flashTiming frame="59" duration="30">
+                        <color r="0" g="0" b="0" a="119" />
+                    </flashTiming>
+                    <flashTiming frame="89" duration="50">
+                        <color r="0" g="0" b="0" a="119" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="2">
+                        <se name="Blind" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Darkness2" pan="0" pitch="80" volume="50" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="61" displayType="0" effectName="Silence" name="Silence" offsetX="0" offsetY="0" scale="80" speed="100">
+                <flashTimings>
+                    <flashTiming frame="39" duration="50">
+                        <color r="170" g="255" b="255" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="90" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Silence" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Sound2" pan="0" pitch="80" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Flash1" pan="0" pitch="70" volume="70" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="62" displayType="0" effectName="Sleep" name="Sleep" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="10">
+                        <color r="255" g="255" b="255" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="170" g="170" b="238" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="1">
+                        <se name="Up1" pan="0" pitch="50" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Sleep" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="63" displayType="0" effectName="Confusion" name="Confusion" offsetX="15" offsetY="-30" scale="50" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="10">
+                        <color r="255" g="255" b="255" a="68" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="255" g="136" b="255" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Absorb2" pan="0" pitch="50" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="4">
+                        <se name="Raise2" pan="0" pitch="70" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="64" displayType="0" effectName="Paralyze" name="Paralyze" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="20">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="170" g="255" b="0" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="30">
+                        <color r="255" g="255" b="119" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Darkness1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Paralyze3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="65" displayType="0" effectName="Death" name="Death" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="14" duration="30">
+                        <color r="255" g="0" b="0" a="187" />
+                    </flashTiming>
+                    <flashTiming frame="79" duration="50">
+                        <color r="255" g="0" b="0" a="187" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="1">
+                        <se name="Stare" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="44">
+                        <se name="Darkness5" pan="0" pitch="90" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="66" displayType="0" effectName="FireOne1" name="Fire One 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="30">
+                        <color r="255" g="170" b="51" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="255" g="170" b="51" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Fire8" pan="0" pitch="90" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="67" displayType="0" effectName="FireOne2" name="Fire One 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="30">
+                        <color r="255" g="170" b="51" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Fire9" pan="0" pitch="150" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="68" displayType="1" effectName="FireAll1" name="Fire All 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="30">
+                        <color r="255" g="221" b="51" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="187" g="102" b="102" a="68" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="30">
+                        <color r="255" g="221" b="51" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="79" duration="50">
+                        <color r="187" g="102" b="102" a="68" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Fire8" pan="0" pitch="70" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="69" displayType="2" effectName="FireAll2" name="Fire All 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="50">
+                        <color r="255" g="221" b="51" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="255" g="102" b="102" a="136" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Fire8" pan="0" pitch="70" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="70" displayType="2" effectName="FireAll3" name="Fire All 3" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="50">
+                        <color r="255" g="221" b="51" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="30">
+                        <color r="255" g="102" b="102" a="136" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Fire8" pan="0" pitch="70" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="71" displayType="0" effectName="IceOne1" name="Ice One 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="19" duration="80">
+                        <color r="119" g="204" b="255" a="153" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Starlight" pan="0" pitch="150" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Wind1" pan="0" pitch="80" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Crash" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Ice11" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="13">
+                        <se name="Sword2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="72" displayType="0" effectName="IceOne2" name="Ice One 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="19" duration="50">
+                        <color r="119" g="204" b="255" a="153" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Ice4" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Thunder1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="73" displayType="1" effectName="IceAll1" name="Ice All 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="25">
+                        <color r="119" g="204" b="153" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="99" duration="50">
+                        <color r="119" g="204" b="255" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder4" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Flash2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="16">
+                        <se name="Earth1" pan="0" pitch="130" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="17">
+                        <se name="Ice5" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="89">
+                        <se name="Ice11" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="74" displayType="2" effectName="IceAll2" name="Ice All 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="80">
+                        <color r="170" g="204" b="255" a="153" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind6" pan="0" pitch="80" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Thunder6" pan="0" pitch="90" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Ice10" pan="0" pitch="90" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="75" displayType="2" effectName="IceAll3" name="Ice All 3" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="25">
+                        <color r="170" g="204" b="255" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="59" duration="50">
+                        <color r="170" g="204" b="255" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind2" pan="0" pitch="70" volume="65" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Magic1" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Ice10" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="19">
+                        <se name="Crash" pan="0" pitch="150" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="23">
+                        <se name="Ice5" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="76" displayType="0" effectName="ThunderOne1" name="Thunder One 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="50">
+                        <color r="255" g="255" b="255" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder6" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="77" displayType="0" effectName="ThunderOne2" name="Thunder One 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="30">
+                        <color r="119" g="255" b="170" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="255" g="255" b="255" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Thunder8" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="78" displayType="1" effectName="ThunderAll1" name="Thunder All 1" offsetX="0" offsetY="0" scale="120" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="50">
+                        <color r="255" g="255" b="119" a="153" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="20">
+                        <color r="255" g="255" b="136" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="59" duration="20">
+                        <color r="255" g="255" b="255" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Paralyze1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="49">
+                        <se name="Thunder1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="50">
+                        <se name="Paralyze1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="79" displayType="2" effectName="ThunderAll2" name="Thunder All 2" offsetX="0" offsetY="0" scale="150" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="50">
+                        <color r="255" g="255" b="119" a="153" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="20">
+                        <color r="255" g="255" b="136" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder10" pan="0" pitch="120" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Thunder9" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="80" displayType="2" effectName="ThunderAll3" name="Thunder All 3" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="50">
+                        <color r="255" g="255" b="119" a="153" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="10">
+                        <color r="255" g="255" b="136" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="79" duration="20">
+                        <color r="255" g="255" b="255" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind2" pan="0" pitch="75" volume="65" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Magic1" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Thunder9" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Paralyze1" pan="0" pitch="100" volume="75" />
+                    </soundTiming>
+                    <soundTiming frame="79">
+                        <se name="Paralyze1" pan="0" pitch="100" volume="75" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="81" displayType="0" effectName="WaterOne1" name="Water One 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="19" duration="60">
+                        <color r="170" g="204" b="255" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Water5" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="19">
+                        <se name="Water2" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="82" displayType="0" effectName="WaterOne2" name="Water One 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="19" duration="60">
+                        <color r="170" g="204" b="255" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Dive" pan="0" pitch="135" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="6">
+                        <se name="Water1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="83" displayType="1" effectName="WaterAll1" name="Water All 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="19" duration="30">
+                        <color r="170" g="204" b="255" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="59" duration="80">
+                        <color r="170" g="204" b="255" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Water5" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="11">
+                        <se name="Water4" pan="0" pitch="90" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="13">
+                        <se name="Water1" pan="0" pitch="90" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Water1" pan="0" pitch="90" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Water4" pan="0" pitch="90" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="84" displayType="2" effectName="WaterAll2" name="Water All 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="19" duration="20">
+                        <color r="170" g="204" b="255" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="20">
+                        <color r="170" g="204" b="255" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="79" duration="20">
+                        <color r="170" g="204" b="255" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Water1" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="85" displayType="2" effectName="WaterAll3" name="Water All 3" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="50">
+                        <color r="170" g="204" b="255" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="59" duration="20">
+                        <color r="170" g="204" b="255" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="89" duration="20">
+                        <color r="170" g="204" b="255" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="119" duration="50">
+                        <color r="170" g="204" b="255" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind2" pan="0" pitch="70" volume="65" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Magic1" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Wind1" pan="0" pitch="120" volume="75" />
+                    </soundTiming>
+                    <soundTiming frame="23">
+                        <se name="Water1" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Water2" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Water1" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="86" displayType="0" effectName="EarthOne1" name="Earth One 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="9" duration="30">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Earth1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Break" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="87" displayType="0" effectName="EarthOne2" name="Earth One 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="19" duration="30">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Thunder2" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Earth5" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="29">
+                        <se name="Fire3" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="88" displayType="1" effectName="EarthAll1" name="Earth All 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="14" duration="30">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="5">
+                        <se name="Earth1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Fire3" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="79">
+                        <se name="Earth3" pan="0" pitch="140" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="79">
+                        <se name="Fire1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="79">
+                        <se name="Sand" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="89" displayType="2" effectName="EarthAll2" name="Earth All 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="20">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="50">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Earth4" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Earth1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Earth5" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="89">
+                        <se name="Sand" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="90" displayType="2" effectName="EarthAll3" name="Earth All 3" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="50">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="59" duration="20">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="89" duration="20">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="119" duration="50">
+                        <color r="255" g="221" b="170" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind2" pan="0" pitch="70" volume="65" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Magic1" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="44">
+                        <se name="Earth2" pan="0" pitch="125" volume="75" />
+                    </soundTiming>
+                    <soundTiming frame="69">
+                        <se name="Earth4" pan="0" pitch="125" volume="75" />
+                    </soundTiming>
+                    <soundTiming frame="69">
+                        <se name="Earth1" pan="0" pitch="125" volume="75" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="91" displayType="0" effectName="WindOne1" name="Wind One 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="30">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind5" pan="0" pitch="80" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="92" displayType="0" effectName="WindOne2" name="Wind One 2" offsetX="0" offsetY="0" scale="150" speed="100">
+                <flashTimings>
+                    <flashTiming frame="9" duration="40">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="255" g="255" b="255" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="79" duration="30">
+                        <color r="119" g="255" b="0" a="85" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind3" pan="0" pitch="140" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="4">
+                        <se name="Wind5" pan="0" pitch="140" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="14">
+                        <se name="Wind3" pan="0" pitch="140" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="19">
+                        <se name="Wind5" pan="0" pitch="140" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="93" displayType="1" effectName="WindAll1" name="Wind All 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="170" g="255" b="0" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind5" pan="0" pitch="120" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Wind2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="5">
+                        <se name="Wind2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="8">
+                        <se name="Wind2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="29">
+                        <se name="Sand" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="94" displayType="2" effectName="WindAll2" name="Wind All 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="19" duration="20">
+                        <color r="170" g="255" b="0" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="20">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="79" duration="20">
+                        <color r="170" g="255" b="0" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind5" pan="0" pitch="80" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Sand" pan="0" pitch="70" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="95" displayType="2" effectName="WindAll3" name="Wind All 3" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="50">
+                        <color r="170" g="255" b="0" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="59" duration="20">
+                        <color r="170" g="255" b="0" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="89" duration="20">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="139" duration="50">
+                        <color r="170" g="255" b="0" a="136" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind2" pan="0" pitch="75" volume="65" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Magic1" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="29">
+                        <se name="Wind2" pan="0" pitch="125" volume="75" />
+                    </soundTiming>
+                    <soundTiming frame="49">
+                        <se name="Skill2" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="79">
+                        <se name="Wind3" pan="0" pitch="140" volume="65" />
+                    </soundTiming>
+                    <soundTiming frame="79">
+                        <se name="Skill1" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="109">
+                        <se name="Wind3" pan="0" pitch="140" volume="65" />
+                    </soundTiming>
+                    <soundTiming frame="129">
+                        <se name="Wind3" pan="0" pitch="140" volume="65" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="96" displayType="0" effectName="LightOne1" name="Light One 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="255" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="50">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Up3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="14">
+                        <se name="Reflection" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="14">
+                        <se name="Sword4" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="19">
+                        <se name="Reflection" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="97" displayType="0" effectName="LightOne2" name="Light One 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="10">
+                        <color r="255" g="255" b="0" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="9" duration="20">
+                        <color r="255" g="255" b="255" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="50">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Ice3" pan="0" pitch="70" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="3">
+                        <se name="Saint4" pan="0" pitch="115" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="98" displayType="1" effectName="LightAll1" name="Light All 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="10">
+                        <color r="255" g="255" b="0" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="20">
+                        <color r="255" g="255" b="255" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="69" duration="50">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Starlight" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="1">
+                        <se name="Ice5" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="2">
+                        <se name="Up1" pan="0" pitch="80" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="64">
+                        <se name="Sword2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="74">
+                        <se name="Sword2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="84">
+                        <se name="Sword2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="99" displayType="2" effectName="LightAll2" name="Light All 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="20">
+                        <color r="255" g="255" b="255" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="30">
+                        <color r="255" g="255" b="255" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="69" duration="50">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Skill1" pan="0" pitch="100" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="8">
+                        <se name="Explosion1" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="8">
+                        <se name="Saint4" pan="0" pitch="120" volume="100" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Explosion4" pan="0" pitch="150" volume="100" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="100" displayType="2" effectName="LightAll3" name="Light All 3" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="50">
+                        <color r="255" g="255" b="255" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="79" duration="30">
+                        <color r="255" g="255" b="255" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="139" duration="50">
+                        <color r="255" g="255" b="255" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind2" pan="0" pitch="70" volume="65" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Magic1" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Skill3" pan="0" pitch="110" volume="75" />
+                    </soundTiming>
+                    <soundTiming frame="19">
+                        <se name="Ice4" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="27">
+                        <se name="Ice3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Wind2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="79">
+                        <se name="Wind2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="89">
+                        <se name="Wind2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="119">
+                        <se name="Magic12" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="101" displayType="0" effectName="DarknessOne1" name="Darkness One 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="20">
+                        <color r="0" g="0" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="20">
+                        <color r="0" g="0" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="20">
+                        <color r="0" g="0" b="0" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Darkness1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="102" displayType="0" effectName="DarknessOne2" name="Darkness One 2" offsetX="0" offsetY="0" scale="80" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="20">
+                        <color r="0" g="0" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="20">
+                        <color r="0" g="0" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="20">
+                        <color r="0" g="0" b="0" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="99" duration="50">
+                        <color r="0" g="0" b="0" a="136" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Darkness3" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Darkness1" pan="0" pitch="130" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="103" displayType="1" effectName="DarknessAll1" name="Darkness All 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="20">
+                        <color r="0" g="0" b="0" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="89" duration="20">
+                        <color r="0" g="0" b="0" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="129" duration="50">
+                        <color r="0" g="0" b="0" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Darkness4" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Thunder3" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="69">
+                        <se name="Fire9" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="79">
+                        <se name="Fire9" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="89">
+                        <se name="Fire9" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="99">
+                        <se name="Fire9" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="104" displayType="2" effectName="DarknessAll2" name="Darkness All 2" offsetX="0" offsetY="0" scale="150" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="20">
+                        <color r="0" g="0" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="29" duration="20">
+                        <color r="0" g="0" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="20">
+                        <color r="0" g="0" b="0" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="99" duration="50">
+                        <color r="0" g="0" b="0" a="136" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Teleport" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="29">
+                        <se name="Blind" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="29">
+                        <se name="Float2" pan="0" pitch="140" volume="80" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="105" displayType="2" effectName="DarknessAll3" name="Darkness All 3" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="29" duration="50">
+                        <color r="0" g="0" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="79" duration="30">
+                        <color r="0" g="0" b="0" a="136" />
+                    </flashTiming>
+                    <flashTiming frame="139" duration="40">
+                        <color r="0" g="0" b="0" a="170" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Wind2" pan="0" pitch="70" volume="65" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Magic1" pan="0" pitch="100" volume="80" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Darkness4" pan="0" pitch="90" volume="75" />
+                    </soundTiming>
+                    <soundTiming frame="64">
+                        <se name="Magic10" pan="0" pitch="120" volume="75" />
+                    </soundTiming>
+                    <soundTiming frame="64">
+                        <se name="Blind" pan="0" pitch="120" volume="75" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="106" displayType="0" effectName="NeutralOne1" name="Neutral One 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="30">
+                        <color r="85" g="255" b="0" a="119" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Darkness1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Magic5" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="44">
+                        <se name="Particles1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="107" displayType="0" effectName="NeutralOne2" name="Neutral One 2" offsetX="0" offsetY="0" scale="70" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="30">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Explosion2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Particles1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="108" displayType="1" effectName="NeutralAll1" name="Neutral All 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="255" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="69" duration="15">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="89" duration="30">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Particles4" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="109" displayType="2" effectName="NeutralAll2" name="Neutral All 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="30">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="49" duration="30">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Fire9" pan="0" pitch="140" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="110" displayType="2" effectName="NeutralAll3" name="Neutral All 3" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="79" duration="30">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="109" duration="30">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="129" duration="50">
+                        <color r="255" g="102" b="0" a="204" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Particles4" pan="0" pitch="140" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="59">
+                        <se name="Fire8" pan="0" pitch="140" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="69">
+                        <se name="Fire7" pan="0" pitch="140" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="79">
+                        <se name="Fire8" pan="0" pitch="140" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="89">
+                        <se name="Fire7" pan="0" pitch="140" volume="50" />
+                    </soundTiming>
+                    <soundTiming frame="99">
+                        <se name="Fire8" pan="0" pitch="140" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="111" displayType="0" effectName="ShootNormal" name="Shoot Normal" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="5">
+                        <color r="255" g="0" b="0" a="119" />
+                    </flashTiming>
+                    <flashTiming frame="9" duration="5">
+                        <color r="255" g="0" b="0" a="119" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="10">
+                        <color r="255" g="0" b="0" a="119" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Gun1" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="112" displayType="0" effectName="ShootBarrage" name="Shoot Barrage" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="5">
+                        <color r="255" g="255" b="0" a="119" />
+                    </flashTiming>
+                    <flashTiming frame="9" duration="5">
+                        <color r="255" g="255" b="0" a="119" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="5">
+                        <color r="255" g="0" b="0" a="119" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Gun2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="113" displayType="1" effectName="ShootAll" name="Shoot All" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="0" duration="5">
+                        <color r="255" g="0" b="0" a="119" />
+                    </flashTiming>
+                    <flashTiming frame="9" duration="5">
+                        <color r="255" g="0" b="0" a="119" />
+                    </flashTiming>
+                    <flashTiming frame="19" duration="10">
+                        <color r="255" g="0" b="0" a="119" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Gun1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Crash" pan="0" pitch="150" volume="40" />
+                    </soundTiming>
+                    <soundTiming frame="9">
+                        <se name="Gun1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="19">
+                        <se name="Gun3" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="114" displayType="2" effectName="ShootSpecial" name="Shoot Special" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="69" duration="10">
+                        <color r="255" g="136" b="0" a="153" />
+                    </flashTiming>
+                    <flashTiming frame="119" duration="10">
+                        <color r="255" g="136" b="0" a="153" />
+                    </flashTiming>
+                    <flashTiming frame="139" duration="10">
+                        <color r="255" g="0" b="0" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="154" duration="30">
+                        <color r="255" g="0" b="0" a="204" />
+                    </flashTiming>
+                    <flashTiming frame="199" duration="30">
+                        <color r="255" g="255" b="0" a="136" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Phone" pan="0" pitch="150" volume="40" />
+                    </soundTiming>
+                    <soundTiming frame="24">
+                        <se name="Skill1" pan="0" pitch="150" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="69">
+                        <se name="Skill2" pan="0" pitch="150" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="109">
+                        <se name="Wind6" pan="0" pitch="150" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="124">
+                        <se name="Wind6" pan="0" pitch="150" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="149">
+                        <se name="Explosion2" pan="0" pitch="100" volume="70" />
+                    </soundTiming>
+                    <soundTiming frame="169">
+                        <se name="Fire2" pan="0" pitch="150" volume="70" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="115" displayType="0" effectName="LaserOne" name="Laser One" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="5" duration="30">
+                        <color r="255" g="136" b="0" a="170" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="255" g="136" b="0" a="153" />
+                    </flashTiming>
+                    <flashTiming frame="59" duration="30">
+                        <color r="255" g="136" b="0" a="153" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Laser1" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Paralyze2" pan="0" pitch="50" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Evasion2" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="116" displayType="2" effectName="LaserAll" name="Laser All" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="5" duration="30">
+                        <color r="255" g="136" b="0" a="119" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="255" g="136" b="0" a="119" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Powerup" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="29">
+                        <se name="Fire6" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="64">
+                        <se name="Fire3" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="117" displayType="0" effectName="LightPillar1" name="Light Pillar 1" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="5" duration="30">
+                        <color r="255" g="255" b="255" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="102" g="170" b="0" a="102" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Magic2" pan="0" pitch="150" volume="75" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Up3" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="39">
+                        <se name="Magic4" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="39">
+                        <se name="Darkness4" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="118" displayType="0" effectName="LightPillar2" name="Light Pillar 2" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="5" duration="30">
+                        <color r="255" g="255" b="255" a="102" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Magic2" pan="0" pitch="150" volume="75" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Up3" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="39">
+                        <se name="Float1" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                    <soundTiming frame="39">
+                        <se name="Darkness4" pan="0" pitch="150" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="119" displayType="0" effectName="BallsOfLight" name="Balls of Light" offsetX="0" offsetY="0" scale="120" speed="100">
+                <flashTimings>
+                    <flashTiming frame="5" duration="30">
+                        <color r="255" g="255" b="255" a="119" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="0">
+                        <se name="Particles1" pan="0" pitch="110" volume="60" />
+                    </soundTiming>
+                    <soundTiming frame="0">
+                        <se name="Teleport" pan="0" pitch="110" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+            <Animation id="120" displayType="0" effectName="Radiation" name="Radiation" offsetX="0" offsetY="0" scale="100" speed="100">
+                <flashTimings>
+                    <flashTiming frame="5" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                    <flashTiming frame="39" duration="30">
+                        <color r="255" g="255" b="255" a="255" />
+                    </flashTiming>
+                </flashTimings>
+                <rotation x="0" y="0" z="0" />
+                <soundTimings>
+                    <soundTiming frame="5">
+                        <se name="Flash2" pan="0" pitch="100" volume="90" />
+                    </soundTiming>
+                </soundTimings>
+            </Animation>
+        </Animations>
+    </Asset>
+</XnaContent>

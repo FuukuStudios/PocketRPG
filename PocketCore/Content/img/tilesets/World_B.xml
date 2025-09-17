@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="World_B">
+    <Tile id="0">
+        <en>Transparent</en>
+        <jp>透明</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Sign</en>
+        <jp>立て札</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Pier (H)</en>
+        <jp>桟橋 (横)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Pier (V)</en>
+        <jp>桟橋 (縦)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Pond</en>
+        <jp>池</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Oasis</en>
+        <jp>オアシス</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Pond (Ice)</en>
+        <jp>池 (氷)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Rainbow</en>
+        <jp>虹</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Tent</en>
+        <jp>テント</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Igloo</en>
+        <jp>氷の家</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Pyramid</en>
+        <jp>ピラミッド</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Giant Tree</en>
+        <jp>大樹</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Giant Tree (Snow)</en>
+        <jp>大樹 (雪)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Dirt</en>
+        <jp>土砂</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Avalanche</en>
+        <jp>雪崩</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Rainbow</en>
+        <jp>虹</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Cave A</en>
+        <jp>洞窟A</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Cave B</en>
+        <jp>洞窟B</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Cave (Collapsed)</en>
+        <jp>洞窟 (土砂崩れ)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Mine</en>
+        <jp>坑道</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Tunnel</en>
+        <jp>トンネル</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Tunnel (Blocked)</en>
+        <jp>トンネル (通行止め)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Shrine</en>
+        <jp>ほこら</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Shrine (Snow)</en>
+        <jp>ほこら (雪)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Bridge (H)</en>
+        <jp>橋 (横)</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Bridge (V)</en>
+        <jp>橋 (縦)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Collapsed Bridge (H)</en>
+        <jp>崩れた橋 (横)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Collapsed Bridge (V)</en>
+        <jp>崩れた橋 (縦)</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Snow Bridge (H)</en>
+        <jp>雪の橋 (横)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Snow Bridge (V)</en>
+        <jp>雪の橋 (縦)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Collapsed Snow Bridge (H)</en>
+        <jp>崩れた雪の橋 (横)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Collapsed Snow Bridge (V)</en>
+        <jp>崩れた雪の橋 (縦)</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Castle A</en>
+        <jp>城A</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Castle A</en>
+        <jp>城A</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Castle B</en>
+        <jp>城B</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Castle B</en>
+        <jp>城B</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Fort A</en>
+        <jp>砦A</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Fort A</en>
+        <jp>砦A</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Fort B</en>
+        <jp>砦B</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Fort B</en>
+        <jp>砦B</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Castle A</en>
+        <jp>城A</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Castle A</en>
+        <jp>城A</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Castle B</en>
+        <jp>城B</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Castle B</en>
+        <jp>城B</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Fort A</en>
+        <jp>砦A</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Fort A</en>
+        <jp>砦A</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Fort B</en>
+        <jp>砦B</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Fort B</en>
+        <jp>砦B</jp>
+    </Tile>
+    <Tile id="48">
+        <en>Castle C</en>
+        <jp>城C</jp>
+    </Tile>
+    <Tile id="49">
+        <en>Castle C</en>
+        <jp>城C</jp>
+    </Tile>
+    <Tile id="50">
+        <en>Castle D</en>
+        <jp>城D</jp>
+    </Tile>
+    <Tile id="51">
+        <en>Castle D</en>
+        <jp>城D</jp>
+    </Tile>
+    <Tile id="52">
+        <en>Castle (Ruins)</en>
+        <jp>城 (廃墟)</jp>
+    </Tile>
+    <Tile id="53">
+        <en>Castle (Ruins)</en>
+        <jp>城 (廃墟)</jp>
+    </Tile>
+    <Tile id="54">
+        <en>Fort (Ruins)</en>
+        <jp>砦 (廃墟)</jp>
+    </Tile>
+    <Tile id="55">
+        <en>Fort (Ruins)</en>
+        <jp>砦 (廃墟)</jp>
+    </Tile>
+    <Tile id="56">
+        <en>Castle C</en>
+        <jp>城C</jp>
+    </Tile>
+    <Tile id="57">
+        <en>Castle C</en>
+        <jp>城C</jp>
+    </Tile>
+    <Tile id="58">
+        <en>Castle D</en>
+        <jp>城D</jp>
+    </Tile>
+    <Tile id="59">
+        <en>Castle D</en>
+        <jp>城D</jp>
+    </Tile>
+    <Tile id="60">
+        <en>Castle (Ruins)</en>
+        <jp>城 (廃墟)</jp>
+    </Tile>
+    <Tile id="61">
+        <en>Castle (Ruins)</en>
+        <jp>城 (廃墟)</jp>
+    </Tile>
+    <Tile id="62">
+        <en>Fort (Ruins)</en>
+        <jp>砦 (廃墟)</jp>
+    </Tile>
+    <Tile id="63">
+        <en>Fort (Ruins)</en>
+        <jp>砦 (廃墟)</jp>
+    </Tile>
+    <Tile id="64">
+        <en>Castle A, B (Snow)</en>
+        <jp>城A・B (雪)</jp>
+    </Tile>
+    <Tile id="65">
+        <en>Castle A, B (Snow)</en>
+        <jp>城A・B (雪)</jp>
+    </Tile>
+    <Tile id="66">
+        <en>Castle C, D (Snow)</en>
+        <jp>城C・D (雪)</jp>
+    </Tile>
+    <Tile id="67">
+        <en>Castle C, D (Snow)</en>
+        <jp>城C・D (雪)</jp>
+    </Tile>
+    <Tile id="68">
+        <en>Fort (Snow)</en>
+        <jp>砦 (雪)</jp>
+    </Tile>
+    <Tile id="69">
+        <en>Fort (Snow)</en>
+        <jp>砦 (雪)</jp>
+    </Tile>
+    <Tile id="70">
+        <en>Castle (Ruins, Snow)</en>
+        <jp>城 (廃墟・雪)</jp>
+    </Tile>
+    <Tile id="71">
+        <en>Castle (Ruins, Snow)</en>
+        <jp>城 (廃墟・雪)</jp>
+    </Tile>
+    <Tile id="72">
+        <en>Castle A, B (Snow)</en>
+        <jp>城A・B (雪)</jp>
+    </Tile>
+    <Tile id="73">
+        <en>Castle A, B (Snow)</en>
+        <jp>城A・B (雪)</jp>
+    </Tile>
+    <Tile id="74">
+        <en>Castle C, D (Snow)</en>
+        <jp>城C・D (雪)</jp>
+    </Tile>
+    <Tile id="75">
+        <en>Castle C, D (Snow)</en>
+        <jp>城C・D (雪)</jp>
+    </Tile>
+    <Tile id="76">
+        <en>Fort (Snow)</en>
+        <jp>砦 (雪)</jp>
+    </Tile>
+    <Tile id="77">
+        <en>Fort (Snow)</en>
+        <jp>砦 (雪)</jp>
+    </Tile>
+    <Tile id="78">
+        <en>Castle (Ruins, Snow)</en>
+        <jp>城 (廃墟・雪)</jp>
+    </Tile>
+    <Tile id="79">
+        <en>Castle (Ruins, Snow)</en>
+        <jp>城 (廃墟・雪)</jp>
+    </Tile>
+    <Tile id="80">
+        <en>Tower A</en>
+        <jp>塔A</jp>
+    </Tile>
+    <Tile id="81">
+        <en>Tower A (Ruins)</en>
+        <jp>塔A (廃墟)</jp>
+    </Tile>
+    <Tile id="82">
+        <en>Tower B</en>
+        <jp>塔B</jp>
+    </Tile>
+    <Tile id="83">
+        <en>Tower C</en>
+        <jp>塔C</jp>
+    </Tile>
+    <Tile id="84">
+        <en>Tower A (Snow)</en>
+        <jp>塔A (雪)</jp>
+    </Tile>
+    <Tile id="85">
+        <en>Tower D</en>
+        <jp>塔D</jp>
+    </Tile>
+    <Tile id="86">
+        <en>Temple A</en>
+        <jp>神殿A</jp>
+    </Tile>
+    <Tile id="87">
+        <en>Temple A (Snow)</en>
+        <jp>神殿A (雪)</jp>
+    </Tile>
+    <Tile id="88">
+        <en>Tower A</en>
+        <jp>塔A</jp>
+    </Tile>
+    <Tile id="89">
+        <en>Tower A (Ruins)</en>
+        <jp>塔A (廃墟)</jp>
+    </Tile>
+    <Tile id="90">
+        <en>Tower B</en>
+        <jp>塔B</jp>
+    </Tile>
+    <Tile id="91">
+        <en>Tower C</en>
+        <jp>塔C</jp>
+    </Tile>
+    <Tile id="92">
+        <en>Tower A (Snow)</en>
+        <jp>塔A (雪)</jp>
+    </Tile>
+    <Tile id="93">
+        <en>Tower D (Ruins)</en>
+        <jp>塔D (廃墟)</jp>
+    </Tile>
+    <Tile id="94">
+        <en>Temple B</en>
+        <jp>神殿B</jp>
+    </Tile>
+    <Tile id="95">
+        <en>Temple C</en>
+        <jp>神殿C</jp>
+    </Tile>
+    <Tile id="96">
+        <en>Fortress City </en>
+        <jp>城塞都市</jp>
+    </Tile>
+    <Tile id="97">
+        <en>Fortress City </en>
+        <jp>城塞都市</jp>
+    </Tile>
+    <Tile id="98">
+        <en>Fortress City (Snow)</en>
+        <jp>城塞都市 (雪)</jp>
+    </Tile>
+    <Tile id="99">
+        <en>Fortress City (Snow)</en>
+        <jp>城塞都市 (雪)</jp>
+    </Tile>
+    <Tile id="100">
+        <en>Large Mansion</en>
+        <jp>大きな屋敷</jp>
+    </Tile>
+    <Tile id="101">
+        <en>Large Mansion</en>
+        <jp>大きな屋敷</jp>
+    </Tile>
+    <Tile id="102">
+        <en>School of Magic</en>
+        <jp>魔法学校</jp>
+    </Tile>
+    <Tile id="103">
+        <en>School of Magic</en>
+        <jp>魔法学校</jp>
+    </Tile>
+    <Tile id="104">
+        <en>Fortress City </en>
+        <jp>城塞都市</jp>
+    </Tile>
+    <Tile id="105">
+        <en>Fortress City </en>
+        <jp>城塞都市</jp>
+    </Tile>
+    <Tile id="106">
+        <en>Fortress City (Snow)</en>
+        <jp>城塞都市 (雪)</jp>
+    </Tile>
+    <Tile id="107">
+        <en>Fortress City (Snow)</en>
+        <jp>城塞都市 (雪)</jp>
+    </Tile>
+    <Tile id="108">
+        <en>Large Mansion</en>
+        <jp>大きな屋敷</jp>
+    </Tile>
+    <Tile id="109">
+        <en>Large Mansion</en>
+        <jp>大きな屋敷</jp>
+    </Tile>
+    <Tile id="110">
+        <en>School of Magic</en>
+        <jp>魔法学校</jp>
+    </Tile>
+    <Tile id="111">
+        <en>School of Magic</en>
+        <jp>魔法学校</jp>
+    </Tile>
+    <Tile id="112">
+        <en>Town A</en>
+        <jp>町A</jp>
+    </Tile>
+    <Tile id="113">
+        <en>Town A</en>
+        <jp>町A</jp>
+    </Tile>
+    <Tile id="114">
+        <en>Town B</en>
+        <jp>町B</jp>
+    </Tile>
+    <Tile id="115">
+        <en>Town B</en>
+        <jp>町B</jp>
+    </Tile>
+    <Tile id="116">
+        <en>Village A</en>
+        <jp>村A</jp>
+    </Tile>
+    <Tile id="117">
+        <en>Village A</en>
+        <jp>村A</jp>
+    </Tile>
+    <Tile id="118">
+        <en>Village B</en>
+        <jp>村B</jp>
+    </Tile>
+    <Tile id="119">
+        <en>Village B</en>
+        <jp>村B</jp>
+    </Tile>
+    <Tile id="120">
+        <en>Town C</en>
+        <jp>町C</jp>
+    </Tile>
+    <Tile id="121">
+        <en>House (Town)</en>
+        <jp>家 (町)</jp>
+    </Tile>
+    <Tile id="122">
+        <en>Village C</en>
+        <jp>村C</jp>
+    </Tile>
+    <Tile id="123">
+        <en>House (Village)</en>
+        <jp>家 (村)</jp>
+    </Tile>
+    <Tile id="124">
+        <en>Town C (Snow)</en>
+        <jp>町C (雪)</jp>
+    </Tile>
+    <Tile id="125">
+        <en>House (Town, Snow)</en>
+        <jp>家 (町・雪)</jp>
+    </Tile>
+    <Tile id="126">
+        <en>Village C (Snow)</en>
+        <jp>村C (雪)</jp>
+    </Tile>
+    <Tile id="127">
+        <en>House (Village, Snow)</en>
+        <jp>家 (村・雪)</jp>
+    </Tile>
+    <Tile id="128">
+        <en>Town A (Snow)</en>
+        <jp>町A (雪)</jp>
+    </Tile>
+    <Tile id="129">
+        <en>Town A (Snow)</en>
+        <jp>町A (雪)</jp>
+    </Tile>
+    <Tile id="130">
+        <en>Town B (Snow)</en>
+        <jp>町B (雪)</jp>
+    </Tile>
+    <Tile id="131">
+        <en>Town B (Snow)</en>
+        <jp>町B (雪)</jp>
+    </Tile>
+    <Tile id="132">
+        <en>Village A (Snow)</en>
+        <jp>村A (雪)</jp>
+    </Tile>
+    <Tile id="133">
+        <en>Village A (Snow)</en>
+        <jp>村A (雪)</jp>
+    </Tile>
+    <Tile id="134">
+        <en>Village B (Snow)</en>
+        <jp>村B (雪)</jp>
+    </Tile>
+    <Tile id="135">
+        <en>Village B (Snow)</en>
+        <jp>村B (雪)</jp>
+    </Tile>
+    <Tile id="136">
+        <en>Town D (Desert)</en>
+        <jp>町D (砂漠)</jp>
+    </Tile>
+    <Tile id="137">
+        <en>Town D (Desert)</en>
+        <jp>町D (砂漠)</jp>
+    </Tile>
+    <Tile id="138">
+        <en>Town E (Desert)</en>
+        <jp>町E (砂漠)</jp>
+    </Tile>
+    <Tile id="139">
+        <en>Town E (Desert)</en>
+        <jp>町E (砂漠)</jp>
+    </Tile>
+    <Tile id="140">
+        <en>Town F (Desert)</en>
+        <jp>町F (砂漠)</jp>
+    </Tile>
+    <Tile id="141">
+        <en>Large Tent</en>
+        <jp>大きなテント</jp>
+    </Tile>
+    <Tile id="142">
+        <en>House (Desert)</en>
+        <jp>家 (砂漠)</jp>
+    </Tile>
+    <Tile id="143">
+        <en>Pit House</en>
+        <jp>竪穴式住居</jp>
+    </Tile>
+    <Tile id="144">
+        <en>Castle (Walled)</en>
+        <jp>城 (城壁)</jp>
+    </Tile>
+    <Tile id="145">
+        <en>Castle (Walled)</en>
+        <jp>城 (城壁)</jp>
+    </Tile>
+    <Tile id="146">
+        <en>Castle (Walled)</en>
+        <jp>城 (城壁)</jp>
+    </Tile>
+    <Tile id="147">
+        <en>Demon Castle</en>
+        <jp>魔王城</jp>
+    </Tile>
+    <Tile id="148">
+        <en>Demon Castle</en>
+        <jp>魔王城</jp>
+    </Tile>
+    <Tile id="149">
+        <en>Cursed Castle</en>
+        <jp>呪われた城</jp>
+    </Tile>
+    <Tile id="150">
+        <en>Cursed Castle</en>
+        <jp>呪われた城</jp>
+    </Tile>
+    <Tile id="151">
+        <en>Town C (Ruins)</en>
+        <jp>町C (廃墟)</jp>
+    </Tile>
+    <Tile id="152">
+        <en>Castle (Walled)</en>
+        <jp>城 (城壁)</jp>
+    </Tile>
+    <Tile id="153">
+        <en>Castle (Walled)</en>
+        <jp>城 (城壁)</jp>
+    </Tile>
+    <Tile id="154">
+        <en>Castle (Walled)</en>
+        <jp>城 (城壁)</jp>
+    </Tile>
+    <Tile id="155">
+        <en>Demon Castle</en>
+        <jp>魔王城</jp>
+    </Tile>
+    <Tile id="156">
+        <en>Demon Castle</en>
+        <jp>魔王城</jp>
+    </Tile>
+    <Tile id="157">
+        <en>Cursed Castle</en>
+        <jp>呪われた城</jp>
+    </Tile>
+    <Tile id="158">
+        <en>Cursed Castle</en>
+        <jp>呪われた城</jp>
+    </Tile>
+    <Tile id="159">
+        <en>Town F (Ruins)</en>
+        <jp>町F (廃墟)</jp>
+    </Tile>
+    <Tile id="160">
+        <en>Castle (Walled)</en>
+        <jp>城 (城壁)</jp>
+    </Tile>
+    <Tile id="161">
+        <en>Castle (Walled)</en>
+        <jp>城 (城壁)</jp>
+    </Tile>
+    <Tile id="162">
+        <en>Castle (Walled)</en>
+        <jp>城 (城壁)</jp>
+    </Tile>
+    <Tile id="163">
+        <en>Town A (Ruins)</en>
+        <jp>町A (廃墟)</jp>
+    </Tile>
+    <Tile id="164">
+        <en>Town A (Ruins)</en>
+        <jp>町A (廃墟)</jp>
+    </Tile>
+    <Tile id="165">
+        <en>Village A (Ruins)</en>
+        <jp>村A (廃墟)</jp>
+    </Tile>
+    <Tile id="166">
+        <en>Village A (Ruins)</en>
+        <jp>村A (廃墟)</jp>
+    </Tile>
+    <Tile id="167">
+        <en>House (Ruins)</en>
+        <jp>家 (廃墟)</jp>
+    </Tile>
+    <Tile id="168">
+        <en>Castle Wall (Ruins A)</en>
+        <jp>城壁 (廃墟A)</jp>
+    </Tile>
+    <Tile id="169">
+        <en>Castle Wall (Ruins B)</en>
+        <jp>城壁 (廃墟B)</jp>
+    </Tile>
+    <Tile id="170">
+        <en>Castle Wall (Ruins C)</en>
+        <jp>城壁 (廃墟C)</jp>
+    </Tile>
+    <Tile id="171">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="172">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="173">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="174">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="175">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="176">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="177">
+        <en>Castle Wall (Gate)</en>
+        <jp>城壁 (城門)</jp>
+    </Tile>
+    <Tile id="178">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="179">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="180">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="181">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="182">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="183">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="184">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="185">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="186">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="187">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="188">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="189">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="190">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="191">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="192">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="193">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="194">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="195">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="196">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="197">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="198">
+        <en>Castle Wall</en>
+        <jp>城壁</jp>
+    </Tile>
+    <Tile id="199">
+        <en>Lookout Post</en>
+        <jp>やぐら</jp>
+    </Tile>
+    <Tile id="200">
+        <en>Crater</en>
+        <jp>クレーター</jp>
+    </Tile>
+    <Tile id="201">
+        <en>Trail</en>
+        <jp>山道</jp>
+    </Tile>
+    <Tile id="202">
+        <en>Rock Mountain</en>
+        <jp>岩山</jp>
+    </Tile>
+    <Tile id="203">
+        <en>Rock Mountain</en>
+        <jp>岩山</jp>
+    </Tile>
+    <Tile id="204">
+        <en>Rock Mountain (Sandstone)</en>
+        <jp>岩山 (砂岩)</jp>
+    </Tile>
+    <Tile id="205">
+        <en>Rock Mountain (Sandstone)</en>
+        <jp>岩山 (砂岩)</jp>
+    </Tile>
+    <Tile id="206">
+        <en>Rock Mountain (Snow)</en>
+        <jp>岩山 (雪)</jp>
+    </Tile>
+    <Tile id="207">
+        <en>Rock Mountain (Snow)</en>
+        <jp>岩山 (雪)</jp>
+    </Tile>
+    <Tile id="208">
+        <en>Volcano Crater (Lava)</en>
+        <jp>火口 (溶岩)</jp>
+    </Tile>
+    <Tile id="209">
+        <en>Volcano Crater (Lava)</en>
+        <jp>火口 (溶岩)</jp>
+    </Tile>
+    <Tile id="210">
+        <en>Rock Mountain</en>
+        <jp>岩山</jp>
+    </Tile>
+    <Tile id="211">
+        <en>Rock Mountain</en>
+        <jp>岩山</jp>
+    </Tile>
+    <Tile id="212">
+        <en>Rock Mountain (Sandstone)</en>
+        <jp>岩山 (砂岩)</jp>
+    </Tile>
+    <Tile id="213">
+        <en>Rock Mountain (Sandstone)</en>
+        <jp>岩山 (砂岩)</jp>
+    </Tile>
+    <Tile id="214">
+        <en>Rock Mountain (Snow)</en>
+        <jp>岩山 (雪)</jp>
+    </Tile>
+    <Tile id="215">
+        <en>Rock Mountain (Snow)</en>
+        <jp>岩山 (雪)</jp>
+    </Tile>
+    <Tile id="216">
+        <en>Volcano Crater</en>
+        <jp>火口</jp>
+    </Tile>
+    <Tile id="217">
+        <en>Volcano Crater</en>
+        <jp>火口</jp>
+    </Tile>
+    <Tile id="218">
+        <en>Rock Mountain</en>
+        <jp>岩山</jp>
+    </Tile>
+    <Tile id="219">
+        <en>Rock Mountain</en>
+        <jp>岩山</jp>
+    </Tile>
+    <Tile id="220">
+        <en>Rock Mountain (Sandstone)</en>
+        <jp>岩山 (砂岩)</jp>
+    </Tile>
+    <Tile id="221">
+        <en>Rock Mountain (Sandstone)</en>
+        <jp>岩山 (砂岩)</jp>
+    </Tile>
+    <Tile id="222">
+        <en>Rock Mountain (Snow)</en>
+        <jp>岩山 (雪)</jp>
+    </Tile>
+    <Tile id="223">
+        <en>Rock Mountain (Snow)</en>
+        <jp>岩山 (雪)</jp>
+    </Tile>
+    <Tile id="224">
+        <en>Volcano</en>
+        <jp>火山</jp>
+    </Tile>
+    <Tile id="225">
+        <en>Volcano</en>
+        <jp>火山</jp>
+    </Tile>
+    <Tile id="226">
+        <en>Rock Mountain</en>
+        <jp>岩山</jp>
+    </Tile>
+    <Tile id="227">
+        <en>Rock Mountain</en>
+        <jp>岩山</jp>
+    </Tile>
+    <Tile id="228">
+        <en>Rock Mountain (Sandstone)</en>
+        <jp>岩山 (砂岩)</jp>
+    </Tile>
+    <Tile id="229">
+        <en>Rock Mountain (Sandstone)</en>
+        <jp>岩山 (砂岩)</jp>
+    </Tile>
+    <Tile id="230">
+        <en>Rock Mountain (Snow)</en>
+        <jp>岩山 (雪)</jp>
+    </Tile>
+    <Tile id="231">
+        <en>Rock Mountain (Snow)</en>
+        <jp>岩山 (雪)</jp>
+    </Tile>
+    <Tile id="232">
+        <en>Floating Continent (Giant Tree)</en>
+        <jp>浮遊大陸 (大樹)</jp>
+    </Tile>
+    <Tile id="233">
+        <en>Floating Continent (Giant Tree)</en>
+        <jp>浮遊大陸 (大樹)</jp>
+    </Tile>
+    <Tile id="234">
+        <en>Floating Continent</en>
+        <jp>浮遊大陸</jp>
+    </Tile>
+    <Tile id="235">
+        <en>Floating Continent</en>
+        <jp>浮遊大陸</jp>
+    </Tile>
+    <Tile id="236">
+        <en>Floating Continent (Cloud)</en>
+        <jp>浮遊大陸 (雲)</jp>
+    </Tile>
+    <Tile id="237">
+        <en>Floating Continent (Cloud)</en>
+        <jp>浮遊大陸 (雲)</jp>
+    </Tile>
+    <Tile id="238">
+        <en>Cloud Land</en>
+        <jp>雲の大地</jp>
+    </Tile>
+    <Tile id="239">
+        <en>Cloud Land</en>
+        <jp>雲の大地</jp>
+    </Tile>
+    <Tile id="240">
+        <en>Floating Continent (Castle)</en>
+        <jp>浮遊大陸 (城)</jp>
+    </Tile>
+    <Tile id="241">
+        <en>Floating Continent (Castle)</en>
+        <jp>浮遊大陸 (城)</jp>
+    </Tile>
+    <Tile id="242">
+        <en>Floating Continent</en>
+        <jp>浮遊大陸</jp>
+    </Tile>
+    <Tile id="243">
+        <en>Floating Continent</en>
+        <jp>浮遊大陸</jp>
+    </Tile>
+    <Tile id="244">
+        <en>Floating Continent (Cloud)</en>
+        <jp>浮遊大陸 (雲)</jp>
+    </Tile>
+    <Tile id="245">
+        <en>Floating Continent (Cloud)</en>
+        <jp>浮遊大陸 (雲)</jp>
+    </Tile>
+    <Tile id="246">
+        <en>Cloud Land</en>
+        <jp>雲の大地</jp>
+    </Tile>
+    <Tile id="247">
+        <en>Cloud Land</en>
+        <jp>雲の大地</jp>
+    </Tile>
+    <Tile id="248">
+        <en>Floating Continent (Temple)</en>
+        <jp>浮遊大陸 (神殿)</jp>
+    </Tile>
+    <Tile id="249">
+        <en>Floating Continent (Temple)</en>
+        <jp>浮遊大陸 (神殿)</jp>
+    </Tile>
+    <Tile id="250">
+        <en>Floating Continent (Shadow)</en>
+        <jp>浮遊大陸 (影)</jp>
+    </Tile>
+    <Tile id="251">
+        <en>Floating Continent (Shadow)</en>
+        <jp>浮遊大陸 (影)</jp>
+    </Tile>
+    <Tile id="252">
+        <en>Cloud Land (Temple)</en>
+        <jp>雲の大地 (神殿)</jp>
+    </Tile>
+    <Tile id="253">
+        <en>Cloud Land (Temple)</en>
+        <jp>雲の大地 (神殿)</jp>
+    </Tile>
+    <Tile id="254">
+        <en>Cloud Land (Castle)</en>
+        <jp>雲の大地 (城)</jp>
+    </Tile>
+    <Tile id="255">
+        <en>Cloud Land (Castle)</en>
+        <jp>雲の大地 (城)</jp>
+    </Tile>
+</TilesetData>

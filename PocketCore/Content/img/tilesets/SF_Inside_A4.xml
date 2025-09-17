@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="SF_Inside_A4">
+    <Tile id="0">
+        <en>Wall A (Concrete)</en>
+        <jp>壁A (コンクリート)</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Wall B (Concrete)</en>
+        <jp>壁B (コンクリート)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Wall C (House)</en>
+        <jp>壁C (現代住宅)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Wall D (Metal)</en>
+        <jp>壁D (金属)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Wall E (Metal, Red Rust)</en>
+        <jp>壁E (金属・赤錆)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Wall F (Metal, Patina)</en>
+        <jp>壁F (金属・緑青錆)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Wall G (Barracks)</en>
+        <jp>壁G (バラック)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Wall H (Chinese)</en>
+        <jp>壁H (中華風)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Wall A (Concrete)</en>
+        <jp>壁A (コンクリート)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Wall B (Concrete)</en>
+        <jp>壁B (コンクリート)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Wall C (House)</en>
+        <jp>壁C (現代住宅)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Wall D (Metal)</en>
+        <jp>壁D (金属)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Wall E (Metal, Red Rust)</en>
+        <jp>壁E (金属・赤錆)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Wall F (Tent, Camouflage)</en>
+        <jp>壁F (テント・迷彩)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Wall G (Barracks)</en>
+        <jp>壁G (バラック)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Wall H (Chinese)</en>
+        <jp>壁H (中華風)</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Wall I (Factory)</en>
+        <jp>壁I (工場)</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Wall J (Factory)</en>
+        <jp>壁J (工場)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Interior Wall A (Pattern)</en>
+        <jp>内装壁A (模様)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Interior Wall B (Pattern)</en>
+        <jp>内装壁B (模様)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Interior Wall C (Pattern)</en>
+        <jp>内装壁C (模様)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Interior Wall D (Pattern)</en>
+        <jp>内装壁D (模様)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Interior Wall E (Pattern)</en>
+        <jp>内装壁E (模様)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Wall K (Brick)</en>
+        <jp>壁K (レンガ)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Wall I (Factory)</en>
+        <jp>壁I (工場)</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Wall J (Factory)</en>
+        <jp>壁J (工場)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Interior Wall A (Pattern)</en>
+        <jp>内装壁A (模様)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Interior Wall B (Pattern)</en>
+        <jp>内装壁B (模様)</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Interior Wall C (Pattern)</en>
+        <jp>内装壁C (模様)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Interior Wall D (Pattern)</en>
+        <jp>内装壁D (模様)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Interior Wall E (Pattern)</en>
+        <jp>内装壁E (模様)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Wall K (Brick)</en>
+        <jp>壁K (レンガ)</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Wall L (Wood)</en>
+        <jp>壁L (木造)</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Wall M (House)</en>
+        <jp>壁M (現代住宅)</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Wall N (Building)</en>
+        <jp>壁N (ビル)</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Wall O (Other Dimension)</en>
+        <jp>壁O (異空間)</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Wall P (Neon)</en>
+        <jp>壁P (ネオン)</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Wall Q (Wire Mesh)</en>
+        <jp>壁Q (金網)</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Wall R (Wire Mesh, Red Rust)</en>
+        <jp>壁R (金網・赤錆)</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Wall S (Wire Mesh, Patina)</en>
+        <jp>壁S (金網・緑青錆)</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Wall L (Wood)</en>
+        <jp>壁L (木造)</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Wall M (House)</en>
+        <jp>壁M (現代住宅)</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Wall N (Building)</en>
+        <jp>壁N (ビル)</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Wall O (Other Dimension)</en>
+        <jp>壁O (異空間)</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Wall P (Neon)</en>
+        <jp>壁P (ネオン)</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Wall Q (Wire Mesh)</en>
+        <jp>壁Q (金網)</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Wall R (Wire Mesh, Red Rust)</en>
+        <jp>壁R (金網・赤錆)</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Wall S (Wire Mesh, Patina)</en>
+        <jp>壁S (金網・緑青錆)</jp>
+    </Tile>
+</TilesetData>

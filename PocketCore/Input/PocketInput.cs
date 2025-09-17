@@ -1,12 +1,12 @@
 using Microsoft.Xna.Framework.Input;
 
-namespace PocketCore
+namespace PocketCore.Input
 {
     /// <summary>
     /// A static class that handles keyboard and gamepad input.
-    /// It mimics the RPG Maker MZ Input class for easier translation.
+    /// It mimics the RMMZ Input class for easier translation.
     /// </summary>
-    public static class Input
+    public static class PocketInput
     {
         private static KeyboardState _previousKeyboardState;
         private static KeyboardState _currentKeyboardState;

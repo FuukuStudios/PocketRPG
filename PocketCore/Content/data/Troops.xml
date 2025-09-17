@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<XnaContent>
+    <Asset Type="PocketRPG.Data.Animations">
+        <Troops>
+            <Troop />
+            <Troop id="1" name="Goblin*2">
+                <members>
+                    <member enemyId="1" x="336" y="436" hidden="False" />
+                    <member enemyId="1" x="480" y="436" hidden="False" />
+                </members>
+                <pages>
+                    <page span="0">
+                        <conditions actorHp="50" actorId="1" actorValid="False" enemyHp="50" enemyIndex="0" enemyValid="False" switchId="1" switchValid="False" turnA="0" turnB="0" turnEnding="False" turnValid="False" />
+                        <list>
+                            <item code="0" indent="0">
+                                <parameters />
+                            </item>
+                        </list>
+                    </page>
+                </pages>
+            </Troop>
+            <Troop id="2" name="Gnome*2">
+                <members>
+                    <member enemyId="2" x="337" y="436" hidden="False" />
+                    <member enemyId="2" x="480" y="436" hidden="False" />
+                </members>
+                <pages>
+                    <page span="0">
+                        <conditions actorHp="50" actorId="1" actorValid="False" enemyHp="50" enemyIndex="0" enemyValid="False" switchId="1" switchValid="False" turnA="0" turnB="0" turnEnding="False" turnValid="False" />
+                        <list>
+                            <item code="0" indent="0">
+                                <parameters />
+                            </item>
+                        </list>
+                    </page>
+                </pages>
+            </Troop>
+            <Troop id="3" name="Crow*2">
+                <members>
+                    <member enemyId="3" x="337" y="436" hidden="False" />
+                    <member enemyId="3" x="479" y="436" hidden="False" />
+                </members>
+                <pages>
+                    <page span="0">
+                        <conditions actorHp="50" actorId="1" actorValid="False" enemyHp="50" enemyIndex="0" enemyValid="False" switchId="1" switchValid="False" turnA="0" turnB="0" turnEnding="False" turnValid="False" />
+                        <list>
+                            <item code="0" indent="0">
+                                <parameters />
+                            </item>
+                        </list>
+                    </page>
+                </pages>
+            </Troop>
+            <Troop id="4" name="Treant">
+                <members>
+                    <member enemyId="4" x="408" y="436" hidden="False" />
+                </members>
+                <pages>
+                    <page span="0">
+                        <conditions actorHp="50" actorId="1" actorValid="False" enemyHp="50" enemyIndex="0" enemyValid="False" switchId="1" switchValid="False" turnA="0" turnB="0" turnEnding="False" turnValid="False" />
+                        <list>
+                            <item code="0" indent="0">
+                                <parameters />
+                            </item>
+                        </list>
+                    </page>
+                </pages>
+            </Troop>
+            <Troop id="5" name="Hi_monster">
+                <members>
+                    <member enemyId="5" x="408" y="436" hidden="False" />
+                </members>
+                <pages>
+                    <page span="0">
+                        <conditions actorHp="50" actorId="1" actorValid="False" enemyHp="50" enemyIndex="0" enemyValid="False" switchId="1" switchValid="False" turnA="0" turnB="0" turnEnding="False" turnValid="False" />
+                        <list>
+                            <item code="0" indent="0">
+                                <parameters />
+                            </item>
+                        </list>
+                    </page>
+                </pages>
+            </Troop>
+        </Troops>
+    </Asset>
+</XnaContent>

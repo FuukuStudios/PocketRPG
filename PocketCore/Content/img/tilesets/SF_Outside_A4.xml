@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="SF_Outside_A4">
+    <Tile id="0">
+        <en>Wall A (Concrete)</en>
+        <jp>壁A (コンクリート)</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Wall B (Concrete, Dirty)</en>
+        <jp>壁B (コンクリート・汚れ)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Wall C (Block)</en>
+        <jp>壁C (ブロック)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Wall D (Apartment)</en>
+        <jp>壁D (マンション)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Wall E (Apartment)</en>
+        <jp>壁E (マンション)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Wall F (Metal)</en>
+        <jp>壁F (金属)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Wall G (Metal, Red Rust)</en>
+        <jp>壁G (金属・赤錆)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Wall H (Metal, Patina)</en>
+        <jp>壁H (金属・緑青錆)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Wall A (Concrete)</en>
+        <jp>壁A (コンクリート)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Wall B (Concrete, Dirty)</en>
+        <jp>壁B (コンクリート・汚れ)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Wall C (Block)</en>
+        <jp>壁C (ブロック)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Wall D (Apartment)</en>
+        <jp>壁D (マンション)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Wall E (Apartment)</en>
+        <jp>壁E (マンション)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Wall F (Metal)</en>
+        <jp>壁F (金属)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Wall G (Metal, Red Rust)</en>
+        <jp>壁G (金属・赤錆)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Wall H (Metal, Patina)</en>
+        <jp>壁H (金属・緑青錆)</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Wall I (Barracks)</en>
+        <jp>壁I (バラック)</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Wall J (Barracks)</en>
+        <jp>壁J (バラック)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Wall K (Factory)</en>
+        <jp>壁K (工場)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Cliff A (Demonic Ground)</en>
+        <jp>崖A (魔界の地面)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Wall L (Factory)</en>
+        <jp>壁L (工場)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Wall M (Factory)</en>
+        <jp>壁M (工場)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Wall N (Building)</en>
+        <jp>壁N (ビル)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Wall O (Brick)</en>
+        <jp>壁O (レンガ)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Wall I (Barracks)</en>
+        <jp>壁I (バラック)</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Wall J (Barracks)</en>
+        <jp>壁J (バラック)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Wall K (Factory)</en>
+        <jp>壁K (工場)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Cliff A (Demonic Ground)</en>
+        <jp>崖A (魔界の地面)</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Wall L (Factory)</en>
+        <jp>壁L (工場)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Wall M (Factory)</en>
+        <jp>壁M (工場)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Wall N (Building)</en>
+        <jp>壁N (ビル)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Wall O (Brick)</en>
+        <jp>壁O (レンガ)</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Wall P (Chinese)</en>
+        <jp>壁P (中華風)</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Wall Q (Wire Mesh)</en>
+        <jp>壁Q (金網)</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Wall R (Wire Mesh, Red Rust)</en>
+        <jp>壁R (金網・赤錆)</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Wall S (Wire Mesh, Patina)</en>
+        <jp>壁S (金網・緑青錆)</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Wall T (Wood)</en>
+        <jp>壁T (木造)</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Wall U (Wood, Dirty)</en>
+        <jp>壁U (木造・汚れ)</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Wall V (Building)</en>
+        <jp>壁V (ビル)</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Wall W (Building)</en>
+        <jp>壁W (ビル)</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Wall P (Chinese)</en>
+        <jp>壁P (中華風)</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Wall Q (Wire Mesh)</en>
+        <jp>壁Q (金網)</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Wall R (Wire Mesh, Red Rust)</en>
+        <jp>壁R (金網・赤錆)</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Wall S (Wire Mesh, Patina)</en>
+        <jp>壁S (金網・緑青錆)</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Wall T (Wood)</en>
+        <jp>壁T (木造)</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Wall U (Wood, Dirty)</en>
+        <jp>壁U (木造・汚れ)</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Wall V (Building)</en>
+        <jp>壁V (ビル)</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Wall W (Building)</en>
+        <jp>壁W (ビル)</jp>
+    </Tile>
+</TilesetData>

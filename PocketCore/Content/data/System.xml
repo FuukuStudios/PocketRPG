@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<XnaContent>
+    <Asset Type="PocketRPG.Data.System">
+        <System>
+            <advanced gameId="40510222" screenWidth="816" screenHeight="624" uiAreaWidth="816" uiAreaHeight="624" numberFontFilename="mplus-2p-bold-sub.woff" fallbackFonts="Verdana, sans-serif" fontSize="26" mainFontFilename="mplus-1m-regular.woff" screenScale="1" windowOpacity="192" picturesUpperLimit="100" />
+            <airship characterIndex="3" characterName="Vehicle" startMapId="0" startX="0" startY="0">
+                <bgm name="Ship3" pan="0" pitch="100" volume="90" />
+            </airship>
+            <armorTypes>
+                <armorType />
+                <armorType>General Armor</armorType>
+                <armorType>Magic Armor</armorType>
+                <armorType>Light Armor</armorType>
+                <armorType>Heavy Armor</armorType>
+                <armorType>Small Shield</armorType>
+                <armorType>Large Shield</armorType>
+            </armorTypes>
+            <attackMotions>
+                <attackMotion type="0" weaponImageId="0" />
+                <attackMotion type="1" weaponImageId="1" />
+                <attackMotion type="1" weaponImageId="2" />
+                <attackMotion type="1" weaponImageId="3" />
+                <attackMotion type="1" weaponImageId="4" />
+                <attackMotion type="1" weaponImageId="5" />
+                <attackMotion type="1" weaponImageId="6" />
+                <attackMotion type="2" weaponImageId="7" />
+                <attackMotion type="2" weaponImageId="8" />
+                <attackMotion type="2" weaponImageId="9" />
+                <attackMotion type="0" weaponImageId="10" />
+                <attackMotion type="0" weaponImageId="11" />
+                <attackMotion type="0" weaponImageId="12" />
+            </attackMotions>
+            <battleBgm name="Battle1" pan="0" pitch="100" volume="90" />
+            <battleback1Name>GrassMaze</battleback1Name>
+            <battleback2Name>GrassMaze</battleback2Name>
+            <battlerHue>0</battlerHue>
+            <battlerName>Hi_monster</battlerName>
+            <battleSystem>0</battleSystem>
+            <boat characterIndex="0" characterName="Vehicle" startMapId="0" startX="0" startY="0">
+                <bgm name="Ship1" pan="0" pitch="100" volume="90" />
+            </boat>
+            <currencyUnit>G</currencyUnit>
+            <defeatMe name="Defeat1" pan="0" pitch="100" volume="90" />
+            <editMapId>1</editMapId>
+            <elements>
+                <element />
+                <element>Physical</element>
+                <element>Fire</element>
+                <element>Ice</element>
+                <element>Thunder</element>
+                <element>Water</element>
+                <element>Earth</element>
+                <element>Wind</element>
+                <element>Light</element>
+                <element>Darkness</element>
+            </elements>
+            <equipTypes>
+                <equipType />
+                <equipType>Weapon</equipType>
+                <equipType>Shield</equipType>
+                <equipType>Head</equipType>
+                <equipType>Body</equipType>
+                <equipType>Accessory</equipType>
+            </equipTypes>
+            <gameTitle>Project1</gameTitle>
+            <gameoverMe name="Gameover1" pan="0" pitch="100" volume="90" />
+            <itemCategories>
+                <itemCategorie>True</itemCategorie>
+                <itemCategorie>True</itemCategorie>
+                <itemCategorie>True</itemCategorie>
+                <itemCategorie>True</itemCategorie>
+            </itemCategories>
+            <locale>en_US</locale>
+            <magicSkills>
+                <magicSkill>1</magicSkill>
+            </magicSkills>
+            <menuCommands>
+                <menuCommand>True</menuCommand>
+                <menuCommand>True</menuCommand>
+                <menuCommand>True</menuCommand>
+                <menuCommand>True</menuCommand>
+                <menuCommand>True</menuCommand>
+                <menuCommand>True</menuCommand>
+            </menuCommands>
+            <optAutosave>True</optAutosave>
+            <optDisplayTp>True</optDisplayTp>
+            <optDrawTitle>True</optDrawTitle>
+            <optExtraExp>False</optExtraExp>
+            <optFloorDeath>False</optFloorDeath>
+            <optFollowers>True</optFollowers>
+            <optKeyItemsNumber>False</optKeyItemsNumber>
+            <optSideView>False</optSideView>
+            <optSlipDeath>False</optSlipDeath>
+            <optTransparent>False</optTransparent>
+            <partyMembers>
+                <partyMember>1</partyMember>
+                <partyMember>4</partyMember>
+                <partyMember>6</partyMember>
+                <partyMember>7</partyMember>
+            </partyMembers>
+            <ship characterIndex="1" characterName="Vehicle" startMapId="0" startX="0" startY="0">
+                <bgm name="Ship2" pan="0" pitch="100" volume="90" />
+            </ship>
+            <skillTypes>
+                <skillType />
+                <skillType>Magic</skillType>
+                <skillType>Special</skillType>
+            </skillTypes>
+            <sounds>
+                <sound name="Cursor3" pan="0" pitch="100" volume="90" />
+                <sound name="Decision2" pan="0" pitch="100" volume="90" />
+                <sound name="Cancel2" pan="0" pitch="100" volume="90" />
+                <sound name="Buzzer1" pan="0" pitch="100" volume="90" />
+                <sound name="Equip1" pan="0" pitch="100" volume="90" />
+                <sound name="Save2" pan="0" pitch="100" volume="90" />
+                <sound name="Load2" pan="0" pitch="100" volume="90" />
+                <sound name="Battle1" pan="0" pitch="100" volume="90" />
+                <sound name="Run" pan="0" pitch="100" volume="90" />
+                <sound name="Attack3" pan="0" pitch="100" volume="90" />
+                <sound name="Damage4" pan="0" pitch="100" volume="90" />
+                <sound name="Collapse1" pan="0" pitch="100" volume="90" />
+                <sound name="Collapse2" pan="0" pitch="100" volume="90" />
+                <sound name="Collapse3" pan="0" pitch="100" volume="90" />
+                <sound name="Damage5" pan="0" pitch="100" volume="90" />
+                <sound name="Collapse4" pan="0" pitch="100" volume="90" />
+                <sound name="Recovery" pan="0" pitch="100" volume="90" />
+                <sound name="Miss" pan="0" pitch="100" volume="90" />
+                <sound name="Evasion1" pan="0" pitch="100" volume="90" />
+                <sound name="Evasion2" pan="0" pitch="100" volume="90" />
+                <sound name="Reflection" pan="0" pitch="100" volume="90" />
+                <sound name="Shop1" pan="0" pitch="100" volume="90" />
+                <sound name="Item3" pan="0" pitch="100" volume="90" />
+                <sound name="Item3" pan="0" pitch="100" volume="90" />
+            </sounds>
+            <startMapId>1</startMapId>
+            <startX>8</startX>
+            <startY>6</startY>
+            <switches>
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+                <switche />
+            </switches>
+            <terms>
+                <basic>
+                    <item>Level</item>
+                    <item>Lv</item>
+                    <item>HP</item>
+                    <item>HP</item>
+                    <item>MP</item>
+                    <item>MP</item>
+                    <item>TP</item>
+                    <item>TP</item>
+                    <item>EXP</item>
+                    <item>EXP</item>
+                </basic>
+                <commands>
+                    <command>Fight</command>
+                    <command>Escape</command>
+                    <command>Attack</command>
+                    <command>Guard</command>
+                    <command>Item</command>
+                    <command>Skill</command>
+                    <command>Equip</command>
+                    <command>Status</command>
+                    <command>Formation</command>
+                    <command>Save</command>
+                    <command>Game End</command>
+                    <command>Options</command>
+                    <command>Weapon</command>
+                    <command>Armor</command>
+                    <command>Key Item</command>
+                    <command>Equip</command>
+                    <command>Optimize</command>
+                    <command>Clear</command>
+                    <command>New Game</command>
+                    <command>Continue</command>
+                    <command>None</command>
+                    <command>To Title</command>
+                    <command>Cancel</command>
+                    <command>None</command>
+                    <command>Buy</command>
+                    <command>Sell</command>
+                </commands>
+                <params>
+                    <param>Max HP</param>
+                    <param>Max MP</param>
+                    <param>Attack</param>
+                    <param>Defense</param>
+                    <param>M.Attack</param>
+                    <param>M.Defense</param>
+                    <param>Agility</param>
+                    <param>Luck</param>
+                    <param>Hit</param>
+                    <param>Evasion</param>
+                </params>
+                <messages alwaysDash="Always Dash" commandRemember="Command Remember" touchUI="Touch UI" bgmVolume="BGM Volume" bgsVolume="BGS Volume" meVolume="ME Volume" seVolume="SE Volume" possession="Possession" expTotal="Current %1" expNext="To Next %1" saveMessage="Which file would you like to save to?" loadMessage="Which file would you like to load?" file="File" autosave="Autosave" partyName="%1’s Party" emerge="%1 emerged!" preemptive="%1 got the upper hand!" surprise="%1 was surprised!" escapeStart="%1 has started to escape!" escapeFailure="However, it was unable to escape!" victory="%1 was victorious!" defeat="%1 was defeated." obtainExp="%1 %2 received!" obtainGold="%1\G found!" obtainItem="%1 found!" levelUp="%1 is now %2 %3!" obtainSkill="%1 learned!" useItem="%1 uses %2!" criticalToEnemy="An excellent hit!!" criticalToActor="A painful blow!!" actorDamage="%1 took %2 damage!" actorRecovery="%1 recovered %2 %3!" actorGain="%1 gained %2 %3!" actorLoss="%1 lost %2 %3!" actorDrain="%1 was drained of %2 %3!" actorNoDamage="%1 took no damage!" actorNoHit="Miss! %1 took no damage!" enemyDamage="%1 took %2 damage!" enemyRecovery="%1 recovered %2 %3!" enemyGain="%1 gained %2 %3!" enemyLoss="%1 lost %2 %3!" enemyDrain="%1 was drained of %2 %3!" enemyNoDamage="%1 took no damage!" enemyNoHit="Miss! %1 took no damage!" evasion="%1 evaded the attack!" magicEvasion="%1 nullified the magic!" magicReflection="%1 reflected the magic!" counterAttack="%1 made a counterattack!" substitute="%1 protected %2!" buffAdd="%1’s %2 went up!" debuffAdd="%1’s %2 went down!" buffRemove="%1’s %2 returned to normal!" actionFailure="There was no effect on %1!" />
+            </terms>
+            <testBattlers>
+                <testBattler actorId="1" level="1">
+                    <equips>
+                        <equip>2</equip>
+                        <equip>1</equip>
+                        <equip>2</equip>
+                        <equip>3</equip>
+                        <equip>0</equip>
+                    </equips>
+                </testBattler>
+                <testBattler actorId="4" level="1">
+                    <equips>
+                        <equip>31</equip>
+                        <equip>0</equip>
+                        <equip>0</equip>
+                        <equip>5</equip>
+                        <equip>0</equip>
+                    </equips>
+                </testBattler>
+                <testBattler actorId="6" level="1">
+                    <equips>
+                        <equip>7</equip>
+                        <equip>0</equip>
+                        <equip>65</equip>
+                        <equip>21</equip>
+                        <equip>0</equip>
+                    </equips>
+                </testBattler>
+                <testBattler actorId="7" level="1">
+                    <equips>
+                        <equip>7</equip>
+                        <equip>0</equip>
+                        <equip>0</equip>
+                        <equip>20</equip>
+                        <equip>0</equip>
+                    </equips>
+                </testBattler>
+            </testBattlers>
+            <testTroopId>1</testTroopId>
+            <title1Name>Ruins</title1Name>
+            <title2Name />
+            <titleBgm name="Theme4" pan="0" pitch="100" volume="90" />
+            <titleCommandWindow background="0" offsetX="0" offsetY="0" />
+            <variables>
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+                <variable />
+            </variables>
+            <versionId>46511923</versionId>
+            <victoryMe name="Victory1" pan="0" pitch="100" volume="90" />
+            <weaponTypes>
+                <weaponType />
+                <weaponType>Dagger</weaponType>
+                <weaponType>Sword</weaponType>
+                <weaponType>Flail</weaponType>
+                <weaponType>Axe</weaponType>
+                <weaponType>Whip</weaponType>
+                <weaponType>Staff</weaponType>
+                <weaponType>Bow</weaponType>
+                <weaponType>Crossbow</weaponType>
+                <weaponType>Gun</weaponType>
+                <weaponType>Claw</weaponType>
+                <weaponType>Glove</weaponType>
+                <weaponType>Spear</weaponType>
+            </weaponTypes>
+            <windowTone>
+                <item>0</item>
+                <item>0</item>
+                <item>0</item>
+                <item>0</item>
+            </windowTone>
+            <editor messageWidth1="60" messageWidth2="47" jsonFormatLevel="1" />
+            <faceSize>144</faceSize>
+            <iconSize>32</iconSize>
+            <optSplashScreen>False</optSplashScreen>
+            <optMessageSkip>True</optMessageSkip>
+            <tileSize>48</tileSize>
+        </System>
+    </Asset>
+</XnaContent>

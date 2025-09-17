@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Outside_A4">
+    <Tile id="0">
+        <en>Wall A (Stone)</en>
+        <jp>壁A (石)</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Wall B (Stone)</en>
+        <jp>壁B (石)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Wall C (Stone)</en>
+        <jp>壁C (石)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Building A (Castle)</en>
+        <jp>建物A (城)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Building B (Castle, Snow)</en>
+        <jp>建物B (城・雪)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Building C (Fort)</en>
+        <jp>建物C (砦)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Building D (Fort, Snow)</en>
+        <jp>建物D (砦・雪)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Demon Castle</en>
+        <jp>魔王城</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Wall A (Stone)</en>
+        <jp>壁A (石)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Wall B (Stone)</en>
+        <jp>壁B (石)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Wall C (Stone)</en>
+        <jp>壁C (石)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Building A (Castle)</en>
+        <jp>建物A (城)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Building B (Castle, Snow)</en>
+        <jp>建物B (城・雪)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Building C (Fort)</en>
+        <jp>建物C (砦)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Building D (Fort, Snow)</en>
+        <jp>建物D (砦・雪)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Demon Castle</en>
+        <jp>魔王城</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Wall C (Brick)</en>
+        <jp>壁C (レンガ)</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Wall D (Stone)</en>
+        <jp>壁D (石)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Wall E (Marble)</en>
+        <jp>壁E (大理石)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Wall F (Marble)</en>
+        <jp>壁F (大理石)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Building E (Dirt Wall)</en>
+        <jp>建物E (土壁)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Building F (Desert)</en>
+        <jp>建物F (砂漠風)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Wall G (Gold)</en>
+        <jp>壁G (黄金)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Building G (Mecha)</en>
+        <jp>建物G (メカ)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Wall C (Brick)</en>
+        <jp>壁C (レンガ)</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Wall D (Stone)</en>
+        <jp>壁D (石)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Wall E (Marble)</en>
+        <jp>壁E (大理石)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Wall F (Marble)</en>
+        <jp>壁F (大理石)</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Building E (Dirt Wall)</en>
+        <jp>建物E (土壁)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Building F (Desert)</en>
+        <jp>建物F (砂漠風)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Wall G (Gold)</en>
+        <jp>壁G (黄金)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Building G (Mecha)</en>
+        <jp>建物G (メカ)</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Wall H (Moss)</en>
+        <jp>壁H (苔)</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Wall I (Hedge)</en>
+        <jp>壁I (生け垣)</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Forest A</en>
+        <jp>森A</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Forest B (Snow)</en>
+        <jp>森B (雪)</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Ledge A (Meadow)</en>
+        <jp>段差A (草地)</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Ledge B (Dirt)</en>
+        <jp>段差B (土)</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Ledge C (Desert)</en>
+        <jp>段差C (砂地)</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Ledge D (Snow)</en>
+        <jp>段差D (雪)</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Wall H (Moss)</en>
+        <jp>壁H (苔)</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Wall I (Hedge)</en>
+        <jp>壁I (生け垣)</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Forest A</en>
+        <jp>森A</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Forest B (Snow)</en>
+        <jp>森B (雪)</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Ledge A (Meadow)</en>
+        <jp>段差A (草地)</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Ledge B (Dirt)</en>
+        <jp>段差B (土)</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Ledge C (Desert)</en>
+        <jp>段差C (砂地)</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Ledge D (Snow)</en>
+        <jp>段差D (雪)</jp>
+    </Tile>
+</TilesetData>

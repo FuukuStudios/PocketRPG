@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="World_A1">
+    <Tile id="0">
+        <en>Sea</en>
+        <jp>海</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Deep Sea</en>
+        <jp>深い海</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Rock Shoal</en>
+        <jp>岩礁</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Icebergs</en>
+        <jp>氷山</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Poison Swamp</en>
+        <jp>毒の沼</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Dead Trees</en>
+        <jp>枯れ木</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Lava</en>
+        <jp>溶岩</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Lava Bubbles</en>
+        <jp>溶岩の泡</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Pond</en>
+        <jp>池</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Boulder</en>
+        <jp>岩</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Frozen Sea</en>
+        <jp>凍った海</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Whirlpool</en>
+        <jp>渦</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Land's End</en>
+        <jp>大地の境界</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Endless Waterfall</en>
+        <jp>下界に落ちる滝</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Cloud (Land's End)</en>
+        <jp>雲 (大地の境界)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Cloud</en>
+        <jp>雲</jp>
+    </Tile>
+</TilesetData>

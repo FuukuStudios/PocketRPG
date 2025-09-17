@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="SF_Outside_B">
+    <Tile id="0">
+        <en>Transparent</en>
+        <jp>透明</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Neon Shop Sign (Weapon)</en>
+        <jp>ネオン看板 (武器屋)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Neon Shop Sign (Armor)</en>
+        <jp>ネオン看板 (防具屋)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Neon Shop Sign (Item)</en>
+        <jp>ネオン看板 (アイテム屋)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Neon Shop Sign (Pharmacy)</en>
+        <jp>ネオン看板 (薬屋)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Neon Shop Sign (Cafe)</en>
+        <jp>ネオン看板 (酒場)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Neon Shop Sign (Inn)</en>
+        <jp>ネオン看板 (宿屋)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Neon Shop Sign (Market)</en>
+        <jp>ネオン看板 (マーケット)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Metal Shop Sign (Weapon)</en>
+        <jp>金属看板 (武器屋)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Metal Shop Sign (Armor)</en>
+        <jp>金属看板 (防具屋)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Metal Shop Sign (Item)</en>
+        <jp>金属看板 (アイテム屋)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Metal Shop Sign (Pharmacy)</en>
+        <jp>金属看板 (薬屋)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Metal Shop Sign (Cafe)</en>
+        <jp>金属看板 (酒場)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Metal Shop Sign (Inn)</en>
+        <jp>金属看板 (宿屋)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Metal Shop Sign (Firearm)</en>
+        <jp>金属看板 (銃器屋)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Metal Shop Sign (Blank)</en>
+        <jp>金属看板 (無地)</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Asphalt Bridge (V)</en>
+        <jp>アスファルトの橋 (縦)</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Asphalt Bridge (H)</en>
+        <jp>アスファルトの橋 (横)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Stone Bridge (V)</en>
+        <jp>石の橋 (縦)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Stone Bridge (H)</en>
+        <jp>石の橋 (横)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Metal Bridge A (V)</en>
+        <jp>金属の橋A (縦)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Metal Bridge A (H)</en>
+        <jp>金属の橋A (横)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Metal Bridge B (V)</en>
+        <jp>金属の橋B (縦)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Metal Bridge B (H)</en>
+        <jp>金属の橋B (横)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Bridge Spar A (Asphalt, Center A)</en>
+        <jp>橋げたA (アスファルト・中央A)</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Bridge Spar A (Asphalt, Left)</en>
+        <jp>橋げたA (アスファルト・左)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Bridge Spar A (Asphalt, Center B)</en>
+        <jp>橋げたA (アスファルト・中央B)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Bridge Spar A (Asphalt, Right)</en>
+        <jp>橋げたA (アスファルト・右)</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Bridge Spar B (Metal, Center A)</en>
+        <jp>橋げたB (金属・中央A)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Bridge Spar B (Metal, Left)</en>
+        <jp>橋げたB (金属・左)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Bridge Spar B (Metal, Center B)</en>
+        <jp>橋げたB (金属・中央B)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Bridge Spar B (Metal, Right)</en>
+        <jp>橋げたB (金属・右)</jp>
+    </Tile>
+    <Tile id="32">
+        <en>White Line</en>
+        <jp>白線</jp>
+    </Tile>
+    <Tile id="33">
+        <en>White Line</en>
+        <jp>白線</jp>
+    </Tile>
+    <Tile id="34">
+        <en>White Line</en>
+        <jp>白線</jp>
+    </Tile>
+    <Tile id="35">
+        <en>White Line</en>
+        <jp>白線</jp>
+    </Tile>
+    <Tile id="36">
+        <en>White Line</en>
+        <jp>白線</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Red &amp; Black Line</en>
+        <jp>赤黒線</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Red &amp; Black Line</en>
+        <jp>赤黒線</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Red &amp; Black Line</en>
+        <jp>赤黒線</jp>
+    </Tile>
+    <Tile id="40">
+        <en>White Line</en>
+        <jp>白線</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Traffic Lights (Car)</en>
+        <jp>信号機 (車)</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Traffic Lights (Pedestrian)</en>
+        <jp>信号機 (歩行者)</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Entrance A</en>
+        <jp>入口A</jp>
+    </Tile>
+    <Tile id="44">
+        <en>White Line (Crosswalk)</en>
+        <jp>白線 (横断歩道)</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Red &amp; Black Line</en>
+        <jp>赤黒線</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Traffic Cone</en>
+        <jp>通行止めコーン</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Red &amp; Black Line</en>
+        <jp>赤黒線</jp>
+    </Tile>
+    <Tile id="48">
+        <en>White Line</en>
+        <jp>白線</jp>
+    </Tile>
+    <Tile id="49">
+        <en>Traffic Lights (Car)</en>
+        <jp>信号機 (車)</jp>
+    </Tile>
+    <Tile id="50">
+        <en>Traffic Lights (Pedestrian)</en>
+        <jp>信号機 (歩行者)</jp>
+    </Tile>
+    <Tile id="51">
+        <en>Entrance B</en>
+        <jp>入口B</jp>
+    </Tile>
+    <Tile id="52">
+        <en>White Line</en>
+        <jp>白線</jp>
+    </Tile>
+    <Tile id="53">
+        <en>Red &amp; Black Line</en>
+        <jp>赤黒線</jp>
+    </Tile>
+    <Tile id="54">
+        <en>Red &amp; Black Line</en>
+        <jp>赤黒線</jp>
+    </Tile>
+    <Tile id="55">
+        <en>Red &amp; Black Line</en>
+        <jp>赤黒線</jp>
+    </Tile>
+    <Tile id="56">
+        <en>Window A</en>
+        <jp>窓A</jp>
+    </Tile>
+    <Tile id="57">
+        <en>Window B</en>
+        <jp>窓B</jp>
+    </Tile>
+    <Tile id="58">
+        <en>Window C</en>
+        <jp>窓C</jp>
+    </Tile>
+    <Tile id="59">
+        <en>Window D</en>
+        <jp>窓D</jp>
+    </Tile>
+    <Tile id="60">
+        <en>Window E</en>
+        <jp>窓E</jp>
+    </Tile>
+    <Tile id="61">
+        <en>Window F</en>
+        <jp>窓F</jp>
+    </Tile>
+    <Tile id="62">
+        <en>Window G</en>
+        <jp>窓G</jp>
+    </Tile>
+    <Tile id="63">
+        <en>Window H</en>
+        <jp>窓H</jp>
+    </Tile>
+    <Tile id="64">
+        <en>Midsize Window A</en>
+        <jp>中型窓A</jp>
+    </Tile>
+    <Tile id="65">
+        <en>Midsize Window B</en>
+        <jp>中型窓B</jp>
+    </Tile>
+    <Tile id="66">
+        <en>Midsize Window C</en>
+        <jp>中型窓C</jp>
+    </Tile>
+    <Tile id="67">
+        <en>Midsize Window D</en>
+        <jp>中型窓D</jp>
+    </Tile>
+    <Tile id="68">
+        <en>Midsize Window E</en>
+        <jp>中型窓E</jp>
+    </Tile>
+    <Tile id="69">
+        <en>Midsize Window F</en>
+        <jp>中型窓F</jp>
+    </Tile>
+    <Tile id="70">
+        <en>Midsize Window G</en>
+        <jp>中型窓G</jp>
+    </Tile>
+    <Tile id="71">
+        <en>Midsize Window H</en>
+        <jp>中型窓H</jp>
+    </Tile>
+    <Tile id="72">
+        <en>Midsize Window A</en>
+        <jp>中型窓A</jp>
+    </Tile>
+    <Tile id="73">
+        <en>Midsize Window B</en>
+        <jp>中型窓B</jp>
+    </Tile>
+    <Tile id="74">
+        <en>Midsize Window C</en>
+        <jp>中型窓C</jp>
+    </Tile>
+    <Tile id="75">
+        <en>Midsize Window D</en>
+        <jp>中型窓D</jp>
+    </Tile>
+    <Tile id="76">
+        <en>Midsize Window E</en>
+        <jp>中型窓E</jp>
+    </Tile>
+    <Tile id="77">
+        <en>Midsize Window F</en>
+        <jp>中型窓F</jp>
+    </Tile>
+    <Tile id="78">
+        <en>Midsize Window G</en>
+        <jp>中型窓G</jp>
+    </Tile>
+    <Tile id="79">
+        <en>Midsize Window H</en>
+        <jp>中型窓H</jp>
+    </Tile>
+    <Tile id="80">
+        <en>Neon Shop Sign (V)</en>
+        <jp>ネオン看板 (縦)</jp>
+    </Tile>
+    <Tile id="81">
+        <en>Neon Shop Sign (V)</en>
+        <jp>ネオン看板 (縦)</jp>
+    </Tile>
+    <Tile id="82">
+        <en>Neon Shop Sign (V)</en>
+        <jp>ネオン看板 (縦)</jp>
+    </Tile>
+    <Tile id="83">
+        <en>Neon Shop Sign (H)</en>
+        <jp>ネオン看板 (横)</jp>
+    </Tile>
+    <Tile id="84">
+        <en>Neon Shop Sign (H)</en>
+        <jp>ネオン看板 (横)</jp>
+    </Tile>
+    <Tile id="85">
+        <en>Street Light A</en>
+        <jp>街灯A</jp>
+    </Tile>
+    <Tile id="86">
+        <en>Street Light B</en>
+        <jp>街灯B</jp>
+    </Tile>
+    <Tile id="87">
+        <en>Stained Glass Window</en>
+        <jp>ステンドグラス</jp>
+    </Tile>
+    <Tile id="88">
+        <en>Neon Shop Sign (V)</en>
+        <jp>ネオン看板 (縦)</jp>
+    </Tile>
+    <Tile id="89">
+        <en>Neon Shop Sign (V)</en>
+        <jp>ネオン看板 (縦)</jp>
+    </Tile>
+    <Tile id="90">
+        <en>Neon Shop Sign (V)</en>
+        <jp>ネオン看板 (縦)</jp>
+    </Tile>
+    <Tile id="91">
+        <en>Neon Shop Sign (H)</en>
+        <jp>ネオン看板 (横)</jp>
+    </Tile>
+    <Tile id="92">
+        <en>Neon Shop Sign (H)</en>
+        <jp>ネオン看板 (横)</jp>
+    </Tile>
+    <Tile id="93">
+        <en>Street Light A</en>
+        <jp>街灯A</jp>
+    </Tile>
+    <Tile id="94">
+        <en>Street Light B</en>
+        <jp>街灯B</jp>
+    </Tile>
+    <Tile id="95">
+        <en>Stained Glass Window</en>
+        <jp>ステンドグラス</jp>
+    </Tile>
+    <Tile id="96">
+        <en>Neon Shop Sign (V)</en>
+        <jp>ネオン看板 (縦)</jp>
+    </Tile>
+    <Tile id="97">
+        <en>Neon Shop Sign (V)</en>
+        <jp>ネオン看板 (縦)</jp>
+    </Tile>
+    <Tile id="98">
+        <en>Neon Shop Sign (V)</en>
+        <jp>ネオン看板 (縦)</jp>
+    </Tile>
+    <Tile id="99">
+        <en>Neon Shop Sign (H)</en>
+        <jp>ネオン看板 (横)</jp>
+    </Tile>
+    <Tile id="100">
+        <en>Neon Shop Sign (H)</en>
+        <jp>ネオン看板 (横)</jp>
+    </Tile>
+    <Tile id="101">
+        <en>Stacked Crates</en>
+        <jp>積まれた木箱</jp>
+    </Tile>
+    <Tile id="102">
+        <en>Shipping Container</en>
+        <jp>コンテナ</jp>
+    </Tile>
+    <Tile id="103">
+        <en>Stacked Cardboard</en>
+        <jp>積まれたダンボール</jp>
+    </Tile>
+    <Tile id="104">
+        <en>Chimney A</en>
+        <jp>煙突A</jp>
+    </Tile>
+    <Tile id="105">
+        <en>Chimney B</en>
+        <jp>煙突B</jp>
+    </Tile>
+    <Tile id="106">
+        <en>Chimney C</en>
+        <jp>煙突C</jp>
+    </Tile>
+    <Tile id="107">
+        <en>Exhaust Port Wall</en>
+        <jp>壁面用排気口</jp>
+    </Tile>
+    <Tile id="108">
+        <en>Roof Window</en>
+        <jp>屋根用出窓</jp>
+    </Tile>
+    <Tile id="109">
+        <en>Stacked Crates</en>
+        <jp>積まれた木箱</jp>
+    </Tile>
+    <Tile id="110">
+        <en>Shipping Container</en>
+        <jp>コンテナ</jp>
+    </Tile>
+    <Tile id="111">
+        <en>Stacked Cardboard</en>
+        <jp>積まれたダンボール</jp>
+    </Tile>
+    <Tile id="112">
+        <en>Wall Poster</en>
+        <jp>張り紙</jp>
+    </Tile>
+    <Tile id="113">
+        <en>Signboard A</en>
+        <jp>看板A</jp>
+    </Tile>
+    <Tile id="114">
+        <en>Signboard B</en>
+        <jp>看板B</jp>
+    </Tile>
+    <Tile id="115">
+        <en>Digital Signage A</en>
+        <jp>電子看板A</jp>
+    </Tile>
+    <Tile id="116">
+        <en>Digital Signage C</en>
+        <jp>電子看板C</jp>
+    </Tile>
+    <Tile id="117">
+        <en>Neon Shop Sign (CASINO)</en>
+        <jp>ネオン看板 (カジノ)</jp>
+    </Tile>
+    <Tile id="118">
+        <en>Neon Shop Sign (CASINO)</en>
+        <jp>ネオン看板 (カジノ)</jp>
+    </Tile>
+    <Tile id="119">
+        <en>Small Crane</en>
+        <jp>小型クレーン</jp>
+    </Tile>
+    <Tile id="120">
+        <en>Poster</en>
+        <jp>ポスター</jp>
+    </Tile>
+    <Tile id="121">
+        <en>Signboard C</en>
+        <jp>看板C</jp>
+    </Tile>
+    <Tile id="122">
+        <en>Digital Signage B</en>
+        <jp>電子看板B</jp>
+    </Tile>
+    <Tile id="123">
+        <en>Digital Signage B</en>
+        <jp>電子看板B</jp>
+    </Tile>
+    <Tile id="124">
+        <en>Digital Signage C</en>
+        <jp>電子看板C</jp>
+    </Tile>
+    <Tile id="125">
+        <en>Iron Materials</en>
+        <jp>鉄資材</jp>
+    </Tile>
+    <Tile id="126">
+        <en>Helmet</en>
+        <jp>ヘルメット</jp>
+    </Tile>
+    <Tile id="127">
+        <en>Small Crane</en>
+        <jp>小型クレーン</jp>
+    </Tile>
+    <Tile id="128">
+        <en>Crate</en>
+        <jp>木箱</jp>
+    </Tile>
+    <Tile id="129">
+        <en>Shipping Container</en>
+        <jp>コンテナ</jp>
+    </Tile>
+    <Tile id="130">
+        <en>Cardboard Box</en>
+        <jp>ダンボール</jp>
+    </Tile>
+    <Tile id="131">
+        <en>Barrel</en>
+        <jp>樽</jp>
+    </Tile>
+    <Tile id="132">
+        <en>Oil Drum</en>
+        <jp>ドラム缶</jp>
+    </Tile>
+    <Tile id="133">
+        <en>Garbage Can</en>
+        <jp>ゴミ箱</jp>
+    </Tile>
+    <Tile id="134">
+        <en>Sorted Waste Bins</en>
+        <jp>分別ゴミ箱</jp>
+    </Tile>
+    <Tile id="135">
+        <en>Sorted Waste Bins</en>
+        <jp>分別ゴミ箱</jp>
+    </Tile>
+    <Tile id="136">
+        <en>Plant A</en>
+        <jp>植物A</jp>
+    </Tile>
+    <Tile id="137">
+        <en>Plant B</en>
+        <jp>植物B</jp>
+    </Tile>
+    <Tile id="138">
+        <en>Plant C</en>
+        <jp>植物C</jp>
+    </Tile>
+    <Tile id="139">
+        <en>Vending Machine</en>
+        <jp>自動販売機</jp>
+    </Tile>
+    <Tile id="140">
+        <en>ATM</en>
+        <jp>ATM</jp>
+    </Tile>
+    <Tile id="141">
+        <en>Tree</en>
+        <jp>木</jp>
+    </Tile>
+    <Tile id="142">
+        <en>Roadside Tree</en>
+        <jp>街路樹</jp>
+    </Tile>
+    <Tile id="143">
+        <en>Utility Pole</en>
+        <jp>電柱</jp>
+    </Tile>
+    <Tile id="144">
+        <en>Plant A</en>
+        <jp>植物A</jp>
+    </Tile>
+    <Tile id="145">
+        <en>Plant B</en>
+        <jp>植物B</jp>
+    </Tile>
+    <Tile id="146">
+        <en>Plant C</en>
+        <jp>植物C</jp>
+    </Tile>
+    <Tile id="147">
+        <en>Vending Machine</en>
+        <jp>自動販売機</jp>
+    </Tile>
+    <Tile id="148">
+        <en>ATM</en>
+        <jp>ATM</jp>
+    </Tile>
+    <Tile id="149">
+        <en>Tree</en>
+        <jp>木</jp>
+    </Tile>
+    <Tile id="150">
+        <en>Avenue Tree</en>
+        <jp>街路樹</jp>
+    </Tile>
+    <Tile id="151">
+        <en>Utility Pole</en>
+        <jp>電柱</jp>
+    </Tile>
+    <Tile id="152">
+        <en>Public Phone</en>
+        <jp>公衆電話</jp>
+    </Tile>
+    <Tile id="153">
+        <en>Machine Device</en>
+        <jp>機械端末</jp>
+    </Tile>
+    <Tile id="154">
+        <en>Planter (Plant)</en>
+        <jp>プランター (植物)</jp>
+    </Tile>
+    <Tile id="155">
+        <en>Planter (Potted Plant)</en>
+        <jp>プランター (盆栽)</jp>
+    </Tile>
+    <Tile id="156">
+        <en>Potted Plant</en>
+        <jp>植木鉢</jp>
+    </Tile>
+    <Tile id="157">
+        <en>Tree (Loop)</en>
+        <jp>木 (ループ)</jp>
+    </Tile>
+    <Tile id="158">
+        <en>Tombstone (Cross)</en>
+        <jp>墓石 (十字架)</jp>
+    </Tile>
+    <Tile id="159">
+        <en>Tombstone (Plaque)</en>
+        <jp>墓石 (プレート)</jp>
+    </Tile>
+    <Tile id="160">
+        <en>Neon Tube</en>
+        <jp>ネオン管</jp>
+    </Tile>
+    <Tile id="161">
+        <en>Neon Tube</en>
+        <jp>ネオン管</jp>
+    </Tile>
+    <Tile id="162">
+        <en>Machine A</en>
+        <jp>機械A</jp>
+    </Tile>
+    <Tile id="163">
+        <en>Machine B</en>
+        <jp>機械B</jp>
+    </Tile>
+    <Tile id="164">
+        <en>Machine C</en>
+        <jp>機械C</jp>
+    </Tile>
+    <Tile id="165">
+        <en>Barricade (No Entry)</en>
+        <jp>バリケード (通行禁止)</jp>
+    </Tile>
+    <Tile id="166">
+        <en>Bar (No Entry)</en>
+        <jp>バー (通行禁止)</jp>
+    </Tile>
+    <Tile id="167">
+        <en>Bar (No Entry)</en>
+        <jp>バー (通行禁止)</jp>
+    </Tile>
+    <Tile id="168">
+        <en>Neon Tube</en>
+        <jp>ネオン管</jp>
+    </Tile>
+    <Tile id="169">
+        <en>Neon Tube</en>
+        <jp>ネオン管</jp>
+    </Tile>
+    <Tile id="170">
+        <en>Outdoor Air Intake Unit</en>
+        <jp>室外機</jp>
+    </Tile>
+    <Tile id="171">
+        <en>Waste</en>
+        <jp>廃棄物</jp>
+    </Tile>
+    <Tile id="172">
+        <en>Scrap Metal</en>
+        <jp>スクラップ</jp>
+    </Tile>
+    <Tile id="173">
+        <en>Fissures A</en>
+        <jp>亀裂A</jp>
+    </Tile>
+    <Tile id="174">
+        <en>Fissures B</en>
+        <jp>亀裂B</jp>
+    </Tile>
+    <Tile id="175">
+        <en>Fissures C</en>
+        <jp>亀裂C</jp>
+    </Tile>
+    <Tile id="176">
+        <en>Neon Tube</en>
+        <jp>ネオン管</jp>
+    </Tile>
+    <Tile id="177">
+        <en>Neon Tube</en>
+        <jp>ネオン管</jp>
+    </Tile>
+    <Tile id="178">
+        <en>Air Vent A</en>
+        <jp>通風口A</jp>
+    </Tile>
+    <Tile id="179">
+        <en>Air Vent B</en>
+        <jp>通風口B</jp>
+    </Tile>
+    <Tile id="180">
+        <en>Shutter</en>
+        <jp>シャッター</jp>
+    </Tile>
+    <Tile id="181">
+        <en>Fissures A</en>
+        <jp>亀裂A</jp>
+    </Tile>
+    <Tile id="182">
+        <en>Fissures B</en>
+        <jp>亀裂B</jp>
+    </Tile>
+    <Tile id="183">
+        <en>Fissures C</en>
+        <jp>亀裂C</jp>
+    </Tile>
+    <Tile id="184">
+        <en>Drain</en>
+        <jp>排水口</jp>
+    </Tile>
+    <Tile id="185">
+        <en>Guardrail</en>
+        <jp>ガードレール</jp>
+    </Tile>
+    <Tile id="186">
+        <en>Timetable</en>
+        <jp>時刻表</jp>
+    </Tile>
+    <Tile id="187">
+        <en>Piled Up Tires</en>
+        <jp>積まれたタイヤ</jp>
+    </Tile>
+    <Tile id="188">
+        <en>Small Fuel Tank</en>
+        <jp>小型燃料タンク</jp>
+    </Tile>
+    <Tile id="189">
+        <en>Car (Red)</en>
+        <jp>車 (赤)</jp>
+    </Tile>
+    <Tile id="190">
+        <en>Car (Red)</en>
+        <jp>車 (赤)</jp>
+    </Tile>
+    <Tile id="191">
+        <en>Manhole</en>
+        <jp>マンホール</jp>
+    </Tile>
+    <Tile id="192">
+        <en>Bus</en>
+        <jp>バス</jp>
+    </Tile>
+    <Tile id="193">
+        <en>Bus</en>
+        <jp>バス</jp>
+    </Tile>
+    <Tile id="194">
+        <en>Truck</en>
+        <jp>トラック</jp>
+    </Tile>
+    <Tile id="195">
+        <en>Truck</en>
+        <jp>トラック</jp>
+    </Tile>
+    <Tile id="196">
+        <en>Wrecked Car</en>
+        <jp>壊れた車</jp>
+    </Tile>
+    <Tile id="197">
+        <en>Car (Black)</en>
+        <jp>車 (黒)</jp>
+    </Tile>
+    <Tile id="198">
+        <en>Car (Black)</en>
+        <jp>車 (黒)</jp>
+    </Tile>
+    <Tile id="199">
+        <en>Vent</en>
+        <jp>通気口</jp>
+    </Tile>
+    <Tile id="200">
+        <en>Bus</en>
+        <jp>バス</jp>
+    </Tile>
+    <Tile id="201">
+        <en>Bus</en>
+        <jp>バス</jp>
+    </Tile>
+    <Tile id="202">
+        <en>Truck</en>
+        <jp>トラック</jp>
+    </Tile>
+    <Tile id="203">
+        <en>Truck</en>
+        <jp>トラック</jp>
+    </Tile>
+    <Tile id="204">
+        <en>Wrecked Car</en>
+        <jp>壊れた車</jp>
+    </Tile>
+    <Tile id="205">
+        <en>Car (Blue)</en>
+        <jp>車 (青)</jp>
+    </Tile>
+    <Tile id="206">
+        <en>Car (Blue)</en>
+        <jp>車 (青)</jp>
+    </Tile>
+    <Tile id="207">
+        <en>Oil Drum (Leak)</en>
+        <jp>ドラム缶 (液漏れ)</jp>
+    </Tile>
+    <Tile id="208">
+        <en>Food Stalls</en>
+        <jp>露店 (食べ物)</jp>
+    </Tile>
+    <Tile id="209">
+        <en>Food Stalls</en>
+        <jp>露店 (食べ物)</jp>
+    </Tile>
+    <Tile id="210">
+        <en>Food Stalls</en>
+        <jp>露店 (食べ物)</jp>
+    </Tile>
+    <Tile id="211">
+        <en>Stall Goods A</en>
+        <jp>露店商品A</jp>
+    </Tile>
+    <Tile id="212">
+        <en>Stairs A (Up)</en>
+        <jp>階段A (上り)</jp>
+    </Tile>
+    <Tile id="213">
+        <en>Stairs B (Up)</en>
+        <jp>階段B (上り)</jp>
+    </Tile>
+    <Tile id="214">
+        <en>Stairs C (Down)</en>
+        <jp>階段C (下り)</jp>
+    </Tile>
+    <Tile id="215">
+        <en>Stairs D (Down)</en>
+        <jp>階段D (下り)</jp>
+    </Tile>
+    <Tile id="216">
+        <en>Food Stalls</en>
+        <jp>露店 (食べ物)</jp>
+    </Tile>
+    <Tile id="217">
+        <en>Food Stalls</en>
+        <jp>露店 (食べ物)</jp>
+    </Tile>
+    <Tile id="218">
+        <en>Food Stalls</en>
+        <jp>露店 (食べ物)</jp>
+    </Tile>
+    <Tile id="219">
+        <en>Stall Goods B</en>
+        <jp>露店商品B</jp>
+    </Tile>
+    <Tile id="220">
+        <en>Stairs C (Up)</en>
+        <jp>階段C (上り)</jp>
+    </Tile>
+    <Tile id="221">
+        <en>Stairs D (Up)</en>
+        <jp>階段D (上り)</jp>
+    </Tile>
+    <Tile id="222">
+        <en>Stairs A (Down)</en>
+        <jp>階段A (下り)</jp>
+    </Tile>
+    <Tile id="223">
+        <en>Stairs B (Down)</en>
+        <jp>階段B (下り)</jp>
+    </Tile>
+    <Tile id="224">
+        <en>Food Stalls</en>
+        <jp>露店 (食べ物)</jp>
+    </Tile>
+    <Tile id="225">
+        <en>Food Stalls</en>
+        <jp>露店 (食べ物)</jp>
+    </Tile>
+    <Tile id="226">
+        <en>Food Stalls</en>
+        <jp>露店 (食べ物)</jp>
+    </Tile>
+    <Tile id="227">
+        <en>Stall Goods C</en>
+        <jp>露店商品C</jp>
+    </Tile>
+    <Tile id="228">
+        <en>Metal Ladder</en>
+        <jp>鉄ばしご</jp>
+    </Tile>
+    <Tile id="229">
+        <en>Metal Stairs</en>
+        <jp>金属階段</jp>
+    </Tile>
+    <Tile id="230">
+        <en>Rope</en>
+        <jp>ロープ</jp>
+    </Tile>
+    <Tile id="231">
+        <en>Net</en>
+        <jp>ネット</jp>
+    </Tile>
+    <Tile id="232">
+        <en>Junk Stalls</en>
+        <jp>露店 (ジャンク)</jp>
+    </Tile>
+    <Tile id="233">
+        <en>Junk Stalls</en>
+        <jp>露店 (ジャンク)</jp>
+    </Tile>
+    <Tile id="234">
+        <en>Junk Stalls</en>
+        <jp>露店 (ジャンク)</jp>
+    </Tile>
+    <Tile id="235">
+        <en>Stall Goods D</en>
+        <jp>露店商品D</jp>
+    </Tile>
+    <Tile id="236">
+        <en>Metal Ladder</en>
+        <jp>鉄ばしご</jp>
+    </Tile>
+    <Tile id="237">
+        <en>Metal Stairs</en>
+        <jp>金属階段</jp>
+    </Tile>
+    <Tile id="238">
+        <en>Rope</en>
+        <jp>ロープ</jp>
+    </Tile>
+    <Tile id="239">
+        <en>Net</en>
+        <jp>ネット</jp>
+    </Tile>
+    <Tile id="240">
+        <en>Junk Stalls</en>
+        <jp>露店 (ジャンク)</jp>
+    </Tile>
+    <Tile id="241">
+        <en>Junk Stalls</en>
+        <jp>露店 (ジャンク)</jp>
+    </Tile>
+    <Tile id="242">
+        <en>Junk Stalls</en>
+        <jp>露店 (ジャンク)</jp>
+    </Tile>
+    <Tile id="243">
+        <en>Stall Goods E</en>
+        <jp>露店商品E</jp>
+    </Tile>
+    <Tile id="244">
+        <en>Metal Ladder</en>
+        <jp>鉄ばしご</jp>
+    </Tile>
+    <Tile id="245">
+        <en>Metal Stairs</en>
+        <jp>金属階段</jp>
+    </Tile>
+    <Tile id="246">
+        <en>Rope</en>
+        <jp>ロープ</jp>
+    </Tile>
+    <Tile id="247">
+        <en>Net</en>
+        <jp>ネット</jp>
+    </Tile>
+    <Tile id="248">
+        <en>Junk Stalls</en>
+        <jp>露店 (ジャンク)</jp>
+    </Tile>
+    <Tile id="249">
+        <en>Junk Stalls</en>
+        <jp>露店 (ジャンク)</jp>
+    </Tile>
+    <Tile id="250">
+        <en>Junk Stalls</en>
+        <jp>露店 (ジャンク)</jp>
+    </Tile>
+    <Tile id="251">
+        <en>Stall Goods F</en>
+        <jp>露店商品F</jp>
+    </Tile>
+    <Tile id="252">
+        <en>Hole A (Metal Ladder)</en>
+        <jp>穴A (鉄ばしご)</jp>
+    </Tile>
+    <Tile id="253">
+        <en>Hole B (Metal Stairs)</en>
+        <jp>穴B (金属階段)</jp>
+    </Tile>
+    <Tile id="254">
+        <en>Hole C (Rope)</en>
+        <jp>穴C (ロープ)</jp>
+    </Tile>
+    <Tile id="255">
+        <en>Hole</en>
+        <jp>穴</jp>
+    </Tile>
+</TilesetData>

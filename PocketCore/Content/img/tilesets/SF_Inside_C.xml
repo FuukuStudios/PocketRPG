@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="SF_Inside_C">
+    <Tile id="0">
+        <en>Black Board</en>
+        <jp>黒板</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Black Board</en>
+        <jp>黒板</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Black Board</en>
+        <jp>黒板</jp>
+    </Tile>
+    <Tile id="3">
+        <en>White Board</en>
+        <jp>ホワイトボード</jp>
+    </Tile>
+    <Tile id="4">
+        <en>White Board</en>
+        <jp>ホワイトボード</jp>
+    </Tile>
+    <Tile id="5">
+        <en>White Board</en>
+        <jp>ホワイトボード</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Partition A</en>
+        <jp>衝立A</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Partition B</en>
+        <jp>衝立B</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Black Board</en>
+        <jp>黒板</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Black Board</en>
+        <jp>黒板</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Black Board</en>
+        <jp>黒板</jp>
+    </Tile>
+    <Tile id="11">
+        <en>White Board</en>
+        <jp>ホワイトボード</jp>
+    </Tile>
+    <Tile id="12">
+        <en>White Board</en>
+        <jp>ホワイトボード</jp>
+    </Tile>
+    <Tile id="13">
+        <en>White Board</en>
+        <jp>ホワイトボード</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Partition A</en>
+        <jp>衝立A</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Partition B</en>
+        <jp>衝立B</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Stool</en>
+        <jp>腰掛けイス</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Skeleton Model</en>
+        <jp>骨格模型</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Biological Specimen</en>
+        <jp>生物標本</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Potted Plant</en>
+        <jp>植木鉢</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Armchair</en>
+        <jp>肘掛け椅子</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Insect Specimen</en>
+        <jp>昆虫標本</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Restroom Mark (Men)</en>
+        <jp>トイレマーク (男性)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Restroom Mark (Women)</en>
+        <jp>トイレマーク (女性)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Wall Speaker</en>
+        <jp>壁掛けスピーカー</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Skeleton Model </en>
+        <jp>骨格模型</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Biological Specimen</en>
+        <jp>生物標本</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Fire Extinguisher</en>
+        <jp>消火器</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Armchair</en>
+        <jp>肘掛け椅子</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Room Plate</en>
+        <jp>室名札</jp>
+    </Tile>
+    <Tile id="30">
+        <en>EXIT Sign</en>
+        <jp>EXIT</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Vent</en>
+        <jp>通気口</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Painting A</en>
+        <jp>絵画A</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Painting B</en>
+        <jp>絵画B</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Vision Test Chart</en>
+        <jp>視力検査表</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Plaster Bust</en>
+        <jp>石膏胸像</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Calendar</en>
+        <jp>カレンダー</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Plant A</en>
+        <jp>植物A</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Plant B</en>
+        <jp>植物B</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Plant C</en>
+        <jp>植物C</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Painting C</en>
+        <jp>絵画C</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Painting D</en>
+        <jp>絵画D</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Anatomical Chart</en>
+        <jp>人体図</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Canvas</en>
+        <jp>キャンバス</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Bulletin Board</en>
+        <jp>掲示板</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Plant A</en>
+        <jp>植物A</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Plant B</en>
+        <jp>植物B</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Plant C</en>
+        <jp>植物C</jp>
+    </Tile>
+    <Tile id="48">
+        <en>Plumbing</en>
+        <jp>配管</jp>
+    </Tile>
+    <Tile id="49">
+        <en>Plumbing</en>
+        <jp>配管</jp>
+    </Tile>
+    <Tile id="50">
+        <en>Valve</en>
+        <jp>バルブ</jp>
+    </Tile>
+    <Tile id="51">
+        <en>Machine A</en>
+        <jp>機械A</jp>
+    </Tile>
+    <Tile id="52">
+        <en>Machine B</en>
+        <jp>機械B</jp>
+    </Tile>
+    <Tile id="53">
+        <en>Machine C</en>
+        <jp>機械C</jp>
+    </Tile>
+    <Tile id="54">
+        <en>Air Vent A</en>
+        <jp>通風口A</jp>
+    </Tile>
+    <Tile id="55">
+        <en>Air Vent B</en>
+        <jp>通風口B</jp>
+    </Tile>
+    <Tile id="56">
+        <en>Plumbing</en>
+        <jp>配管</jp>
+    </Tile>
+    <Tile id="57">
+        <en>Plumbing</en>
+        <jp>配管</jp>
+    </Tile>
+    <Tile id="58">
+        <en>Plumbing</en>
+        <jp>配管</jp>
+    </Tile>
+    <Tile id="59">
+        <en>Neon Tube</en>
+        <jp>ネオン管</jp>
+    </Tile>
+    <Tile id="60">
+        <en>Neon Tube</en>
+        <jp>ネオン管</jp>
+    </Tile>
+    <Tile id="61">
+        <en>Neon Tube</en>
+        <jp>ネオン管</jp>
+    </Tile>
+    <Tile id="62">
+        <en>Fan</en>
+        <jp>ファン</jp>
+    </Tile>
+    <Tile id="63">
+        <en>Fluorescent Light</en>
+        <jp>蛍光灯</jp>
+    </Tile>
+    <Tile id="64">
+        <en>Plumbing</en>
+        <jp>配管</jp>
+    </Tile>
+    <Tile id="65">
+        <en>Plumbing</en>
+        <jp>配管</jp>
+    </Tile>
+    <Tile id="66">
+        <en>Plumbing</en>
+        <jp>配管</jp>
+    </Tile>
+    <Tile id="67">
+        <en>Neon Tube</en>
+        <jp>ネオン管</jp>
+    </Tile>
+    <Tile id="68">
+        <en>Neon Tube</en>
+        <jp>ネオン管</jp>
+    </Tile>
+    <Tile id="69">
+        <en>Neon Tube</en>
+        <jp>ネオン管</jp>
+    </Tile>
+    <Tile id="70">
+        <en>Outdoor Air Intake Unit</en>
+        <jp>室外機</jp>
+    </Tile>
+    <Tile id="71">
+        <en>Shutter</en>
+        <jp>シャッター</jp>
+    </Tile>
+    <Tile id="72">
+        <en>Plumbing</en>
+        <jp>配管</jp>
+    </Tile>
+    <Tile id="73">
+        <en>Plumbing</en>
+        <jp>配管</jp>
+    </Tile>
+    <Tile id="74">
+        <en>Plumbing</en>
+        <jp>配管</jp>
+    </Tile>
+    <Tile id="75">
+        <en>Control Panel A</en>
+        <jp>操作パネルA</jp>
+    </Tile>
+    <Tile id="76">
+        <en>Control Panel B</en>
+        <jp>操作パネルB</jp>
+    </Tile>
+    <Tile id="77">
+        <en>Control Panel C</en>
+        <jp>操作パネルC</jp>
+    </Tile>
+    <Tile id="78">
+        <en>Pipe (H)</en>
+        <jp>パイプ (横)</jp>
+    </Tile>
+    <Tile id="79">
+        <en>Pipe (V)</en>
+        <jp>パイプ (縦)</jp>
+    </Tile>
+    <Tile id="80">
+        <en>Line A</en>
+        <jp>ラインA</jp>
+    </Tile>
+    <Tile id="81">
+        <en>Line B</en>
+        <jp>ラインB</jp>
+    </Tile>
+    <Tile id="82">
+        <en>Road Closed</en>
+        <jp>通行止め</jp>
+    </Tile>
+    <Tile id="83">
+        <en>Waste</en>
+        <jp>廃棄物</jp>
+    </Tile>
+    <Tile id="84">
+        <en>Scrap Metal</en>
+        <jp>スクラップ</jp>
+    </Tile>
+    <Tile id="85">
+        <en>Mysterious Liquid</en>
+        <jp>謎の液体</jp>
+    </Tile>
+    <Tile id="86">
+        <en>Scattered Papers</en>
+        <jp>散らばった紙</jp>
+    </Tile>
+    <Tile id="87">
+        <en>Pipe (V)</en>
+        <jp>パイプ (縦)</jp>
+    </Tile>
+    <Tile id="88">
+        <en>Belt Conveyor (V)</en>
+        <jp>ベルトコンベアー (縦)</jp>
+    </Tile>
+    <Tile id="89">
+        <en>Belt Conveyor (H)</en>
+        <jp>ベルトコンベアー (横)</jp>
+    </Tile>
+    <Tile id="90">
+        <en>Belt Conveyor (H)</en>
+        <jp>ベルトコンベアー (横)</jp>
+    </Tile>
+    <Tile id="91">
+        <en>Belt Conveyor (H)</en>
+        <jp>ベルトコンベアー (横)</jp>
+    </Tile>
+    <Tile id="92">
+        <en>Duct</en>
+        <jp>ダクト</jp>
+    </Tile>
+    <Tile id="93">
+        <en>Mechanical Device</en>
+        <jp>機械装置</jp>
+    </Tile>
+    <Tile id="94">
+        <en>Pile of Rubble</en>
+        <jp>瓦礫の山</jp>
+    </Tile>
+    <Tile id="95">
+        <en>Pile of Rubble</en>
+        <jp>瓦礫の山</jp>
+    </Tile>
+    <Tile id="96">
+        <en>Belt Conveyor (V)</en>
+        <jp>ベルトコンベアー (縦)</jp>
+    </Tile>
+    <Tile id="97">
+        <en>Robot Arm</en>
+        <jp>ロボットアーム</jp>
+    </Tile>
+    <Tile id="98">
+        <en>Server Machine</en>
+        <jp>サーバマシン</jp>
+    </Tile>
+    <Tile id="99">
+        <en>Meters</en>
+        <jp>計器類</jp>
+    </Tile>
+    <Tile id="100">
+        <en>Duct</en>
+        <jp>ダクト</jp>
+    </Tile>
+    <Tile id="101">
+        <en>Mechanical Device</en>
+        <jp>機械装置</jp>
+    </Tile>
+    <Tile id="102">
+        <en>Pile of Rubble</en>
+        <jp>瓦礫の山</jp>
+    </Tile>
+    <Tile id="103">
+        <en>Pile of Rubble</en>
+        <jp>瓦礫の山</jp>
+    </Tile>
+    <Tile id="104">
+        <en>Belt Conveyor (V)</en>
+        <jp>ベルトコンベアー (縦)</jp>
+    </Tile>
+    <Tile id="105">
+        <en>Robot Arm</en>
+        <jp>ロボットアーム</jp>
+    </Tile>
+    <Tile id="106">
+        <en>Server Machine</en>
+        <jp>サーバマシン</jp>
+    </Tile>
+    <Tile id="107">
+        <en>Meters</en>
+        <jp>計器類</jp>
+    </Tile>
+    <Tile id="108">
+        <en>Duct</en>
+        <jp>ダクト</jp>
+    </Tile>
+    <Tile id="109">
+        <en>Drain</en>
+        <jp>排水口</jp>
+    </Tile>
+    <Tile id="110">
+        <en>Graffiti</en>
+        <jp>落書き</jp>
+    </Tile>
+    <Tile id="111">
+        <en>Graffiti</en>
+        <jp>落書き</jp>
+    </Tile>
+    <Tile id="112">
+        <en>Monitor A</en>
+        <jp>モニターA</jp>
+    </Tile>
+    <Tile id="113">
+        <en>Monitor B</en>
+        <jp>モニターB</jp>
+    </Tile>
+    <Tile id="114">
+        <en>Large Monitor</en>
+        <jp>大型モニター</jp>
+    </Tile>
+    <Tile id="115">
+        <en>Large Monitor</en>
+        <jp>大型モニター</jp>
+    </Tile>
+    <Tile id="116">
+        <en>IV Stand</en>
+        <jp>点滴スタンド</jp>
+    </Tile>
+    <Tile id="117">
+        <en>ECG Monitor</en>
+        <jp>心電図モニタ</jp>
+    </Tile>
+    <Tile id="118">
+        <en>Sewing Mannequin</en>
+        <jp>トルソー</jp>
+    </Tile>
+    <Tile id="119">
+        <en>Rubble</en>
+        <jp>瓦礫</jp>
+    </Tile>
+    <Tile id="120">
+        <en>Operation Board A</en>
+        <jp>操作盤A</jp>
+    </Tile>
+    <Tile id="121">
+        <en>Operation Board B</en>
+        <jp>操作盤B</jp>
+    </Tile>
+    <Tile id="122">
+        <en>Operation Board C</en>
+        <jp>操作盤C</jp>
+    </Tile>
+    <Tile id="123">
+        <en>Operation Board D</en>
+        <jp>操作盤D</jp>
+    </Tile>
+    <Tile id="124">
+        <en>IV Stand</en>
+        <jp>点滴スタンド</jp>
+    </Tile>
+    <Tile id="125">
+        <en>ECG Monitor</en>
+        <jp>心電図モニタ</jp>
+    </Tile>
+    <Tile id="126">
+        <en>Sewing Mannequin</en>
+        <jp>トルソー</jp>
+    </Tile>
+    <Tile id="127">
+        <en>Broken Machine</en>
+        <jp>壊れた機械</jp>
+    </Tile>
+    <Tile id="128">
+        <en>Stairs</en>
+        <jp>階段</jp>
+    </Tile>
+    <Tile id="129">
+        <en>Stairs</en>
+        <jp>階段</jp>
+    </Tile>
+    <Tile id="130">
+        <en>Stairs</en>
+        <jp>階段</jp>
+    </Tile>
+    <Tile id="131">
+        <en>Cage</en>
+        <jp>檻</jp>
+    </Tile>
+    <Tile id="132">
+        <en>Cage</en>
+        <jp>檻</jp>
+    </Tile>
+    <Tile id="133">
+        <en>Handrail</en>
+        <jp>欄干</jp>
+    </Tile>
+    <Tile id="134">
+        <en>Handrail</en>
+        <jp>欄干</jp>
+    </Tile>
+    <Tile id="135">
+        <en>Handrail</en>
+        <jp>欄干</jp>
+    </Tile>
+    <Tile id="136">
+        <en>Stairs</en>
+        <jp>階段</jp>
+    </Tile>
+    <Tile id="137">
+        <en>Stairs</en>
+        <jp>階段</jp>
+    </Tile>
+    <Tile id="138">
+        <en>Stairs</en>
+        <jp>階段</jp>
+    </Tile>
+    <Tile id="139">
+        <en>Curtains A</en>
+        <jp>カーテンA</jp>
+    </Tile>
+    <Tile id="140">
+        <en>Curtains B</en>
+        <jp>カーテンB</jp>
+    </Tile>
+    <Tile id="141">
+        <en>Curtains C</en>
+        <jp>カーテンC</jp>
+    </Tile>
+    <Tile id="142">
+        <en>Curtains D</en>
+        <jp>カーテンD</jp>
+    </Tile>
+    <Tile id="143">
+        <en>Handrail</en>
+        <jp>欄干</jp>
+    </Tile>
+    <Tile id="144">
+        <en>Stairs</en>
+        <jp>階段</jp>
+    </Tile>
+    <Tile id="145">
+        <en>Stairs</en>
+        <jp>階段</jp>
+    </Tile>
+    <Tile id="146">
+        <en>Stairs</en>
+        <jp>階段</jp>
+    </Tile>
+    <Tile id="147">
+        <en>Curtains A</en>
+        <jp>カーテンA</jp>
+    </Tile>
+    <Tile id="148">
+        <en>Curtains B</en>
+        <jp>カーテンB</jp>
+    </Tile>
+    <Tile id="149">
+        <en>Curtains C</en>
+        <jp>カーテンC</jp>
+    </Tile>
+    <Tile id="150">
+        <en>Curtains D</en>
+        <jp>カーテンD</jp>
+    </Tile>
+    <Tile id="151">
+        <en>Emergency Alarm</en>
+        <jp>非常ベル</jp>
+    </Tile>
+    <Tile id="152">
+        <en>Spider Web</en>
+        <jp>蜘蛛の巣</jp>
+    </Tile>
+    <Tile id="153">
+        <en>Mirror</en>
+        <jp>鏡</jp>
+    </Tile>
+    <Tile id="154">
+        <en>Vase</en>
+        <jp>花瓶</jp>
+    </Tile>
+    <Tile id="155">
+        <en>Piano</en>
+        <jp>ピアノ</jp>
+    </Tile>
+    <Tile id="156">
+        <en>Piano</en>
+        <jp>ピアノ</jp>
+    </Tile>
+    <Tile id="157">
+        <en>Piano</en>
+        <jp>ピアノ</jp>
+    </Tile>
+    <Tile id="158">
+        <en>Stained Glass</en>
+        <jp>ステンドグラス</jp>
+    </Tile>
+    <Tile id="159">
+        <en>Decorative Pillar</en>
+        <jp>装飾柱</jp>
+    </Tile>
+    <Tile id="160">
+        <en>Dripping</en>
+        <jp>液垂れ</jp>
+    </Tile>
+    <Tile id="161">
+        <en>Mirror</en>
+        <jp>鏡</jp>
+    </Tile>
+    <Tile id="162">
+        <en>Lamp</en>
+        <jp>電気スタンド</jp>
+    </Tile>
+    <Tile id="163">
+        <en>Piano</en>
+        <jp>ピアノ</jp>
+    </Tile>
+    <Tile id="164">
+        <en>Piano</en>
+        <jp>ピアノ</jp>
+    </Tile>
+    <Tile id="165">
+        <en>Piano</en>
+        <jp>ピアノ</jp>
+    </Tile>
+    <Tile id="166">
+        <en>Stained Glass</en>
+        <jp>ステンドグラス</jp>
+    </Tile>
+    <Tile id="167">
+        <en>Decorative Pillar</en>
+        <jp>装飾柱</jp>
+    </Tile>
+    <Tile id="168">
+        <en>Picture Frame</en>
+        <jp>写真立て</jp>
+    </Tile>
+    <Tile id="169">
+        <en>Side Table</en>
+        <jp>サイドテーブル</jp>
+    </Tile>
+    <Tile id="170">
+        <en>Altar</en>
+        <jp>祭壇</jp>
+    </Tile>
+    <Tile id="171">
+        <en>Fireplace</en>
+        <jp>暖炉</jp>
+    </Tile>
+    <Tile id="172">
+        <en>Fireplace</en>
+        <jp>暖炉</jp>
+    </Tile>
+    <Tile id="173">
+        <en>Fireplace</en>
+        <jp>暖炉</jp>
+    </Tile>
+    <Tile id="174">
+        <en>Stuffed Doll A</en>
+        <jp>ぬいぐるみA</jp>
+    </Tile>
+    <Tile id="175">
+        <en>Decorative Pillar</en>
+        <jp>装飾柱</jp>
+    </Tile>
+    <Tile id="176">
+        <en>Book A</en>
+        <jp>本A</jp>
+    </Tile>
+    <Tile id="177">
+        <en>Book B</en>
+        <jp>本B</jp>
+    </Tile>
+    <Tile id="178">
+        <en>Glass Pieces</en>
+        <jp>ガラス片</jp>
+    </Tile>
+    <Tile id="179">
+        <en>Fireplace</en>
+        <jp>暖炉</jp>
+    </Tile>
+    <Tile id="180">
+        <en>Fireplace</en>
+        <jp>暖炉</jp>
+    </Tile>
+    <Tile id="181">
+        <en>Fireplace</en>
+        <jp>暖炉</jp>
+    </Tile>
+    <Tile id="182">
+        <en>Doll</en>
+        <jp>人形</jp>
+    </Tile>
+    <Tile id="183">
+        <en>Stuffed Doll B</en>
+        <jp>ぬいぐるみB</jp>
+    </Tile>
+    <Tile id="184">
+        <en>Beer Mug</en>
+        <jp>ビールジョッキ</jp>
+    </Tile>
+    <Tile id="185">
+        <en>Wine &amp; Glass</en>
+        <jp>ワインとグラス</jp>
+    </Tile>
+    <Tile id="186">
+        <en>Noodle Dish</en>
+        <jp>麺料理</jp>
+    </Tile>
+    <Tile id="187">
+        <en>Bread</en>
+        <jp>パン</jp>
+    </Tile>
+    <Tile id="188">
+        <en>Banister A (V)</en>
+        <jp>手すりA (縦)</jp>
+    </Tile>
+    <Tile id="189">
+        <en>Banister A (V)</en>
+        <jp>手すりA (縦)</jp>
+    </Tile>
+    <Tile id="190">
+        <en>Banister B (V)</en>
+        <jp>手すりB (縦)</jp>
+    </Tile>
+    <Tile id="191">
+        <en>Banister B (V)</en>
+        <jp>手すりB (縦)</jp>
+    </Tile>
+    <Tile id="192">
+        <en>Meat Dish</en>
+        <jp>肉料理</jp>
+    </Tile>
+    <Tile id="193">
+        <en>Roast Chicken</en>
+        <jp>ローストチキン</jp>
+    </Tile>
+    <Tile id="194">
+        <en>Cake</en>
+        <jp>ケーキ</jp>
+    </Tile>
+    <Tile id="195">
+        <en>Fruit Bowl</en>
+        <jp>果物盛り合わせ</jp>
+    </Tile>
+    <Tile id="196">
+        <en>Banister A (V)</en>
+        <jp>手すりA (縦)</jp>
+    </Tile>
+    <Tile id="197">
+        <en>Banister A (V)</en>
+        <jp>手すりA (縦)</jp>
+    </Tile>
+    <Tile id="198">
+        <en>Banister B (V)</en>
+        <jp>手すりB (縦)</jp>
+    </Tile>
+    <Tile id="199">
+        <en>Banister B (V)</en>
+        <jp>手すりB (縦)</jp>
+    </Tile>
+    <Tile id="200">
+        <en>Plate A</en>
+        <jp>皿A</jp>
+    </Tile>
+    <Tile id="201">
+        <en>Teapot &amp; Cup</en>
+        <jp>ティーポットとカップ</jp>
+    </Tile>
+    <Tile id="202">
+        <en>Ration</en>
+        <jp>レーション</jp>
+    </Tile>
+    <Tile id="203">
+        <en>Plate B</en>
+        <jp>皿B</jp>
+    </Tile>
+    <Tile id="204">
+        <en>Banister A (V)</en>
+        <jp>手すりA (縦)</jp>
+    </Tile>
+    <Tile id="205">
+        <en>Banister A (V)</en>
+        <jp>手すりA (縦)</jp>
+    </Tile>
+    <Tile id="206">
+        <en>Banister B (V)</en>
+        <jp>手すりB (縦)</jp>
+    </Tile>
+    <Tile id="207">
+        <en>Banister B (V)</en>
+        <jp>手すりB (縦)</jp>
+    </Tile>
+    <Tile id="208">
+        <en>Demon Statue</en>
+        <jp>悪魔像</jp>
+    </Tile>
+    <Tile id="209">
+        <en>Goddess Statue</en>
+        <jp>女神像</jp>
+    </Tile>
+    <Tile id="210">
+        <en>Soldier Statue</en>
+        <jp>兵士像</jp>
+    </Tile>
+    <Tile id="211">
+        <en>Wall Clock</en>
+        <jp>柱時計</jp>
+    </Tile>
+    <Tile id="212">
+        <en>Banister A (H)</en>
+        <jp>手すりA (横)</jp>
+    </Tile>
+    <Tile id="213">
+        <en>Banister A (H)</en>
+        <jp>手すりA (横)</jp>
+    </Tile>
+    <Tile id="214">
+        <en>Banister A (H)</en>
+        <jp>手すりA (横)</jp>
+    </Tile>
+    <Tile id="215">
+        <en>Banister A (H)</en>
+        <jp>手すりA (横)</jp>
+    </Tile>
+    <Tile id="216">
+        <en>Demon Statue</en>
+        <jp>悪魔像</jp>
+    </Tile>
+    <Tile id="217">
+        <en>Goddess Statue</en>
+        <jp>女神像</jp>
+    </Tile>
+    <Tile id="218">
+        <en>Soldier Statue</en>
+        <jp>兵士像</jp>
+    </Tile>
+    <Tile id="219">
+        <en>Wall Clock</en>
+        <jp>柱時計</jp>
+    </Tile>
+    <Tile id="220">
+        <en>Banister B (H)</en>
+        <jp>手すりB (横)</jp>
+    </Tile>
+    <Tile id="221">
+        <en>Banister B (H)</en>
+        <jp>手すりB (横)</jp>
+    </Tile>
+    <Tile id="222">
+        <en>Banister B (H)</en>
+        <jp>手すりB (横)</jp>
+    </Tile>
+    <Tile id="223">
+        <en>Banister B (H)</en>
+        <jp>手すりB (横)</jp>
+    </Tile>
+    <Tile id="224">
+        <en>Monument A</en>
+        <jp>モニュメントA</jp>
+    </Tile>
+    <Tile id="225">
+        <en>Monument B</en>
+        <jp>モニュメントB</jp>
+    </Tile>
+    <Tile id="226">
+        <en>Huge Stele</en>
+        <jp>巨大な石版</jp>
+    </Tile>
+    <Tile id="227">
+        <en>Huge Stele</en>
+        <jp>巨大な石版</jp>
+    </Tile>
+    <Tile id="228">
+        <en>Huge Stele</en>
+        <jp>巨大な石版</jp>
+    </Tile>
+    <Tile id="229">
+        <en>Huge Display</en>
+        <jp>巨大ディスプレイ</jp>
+    </Tile>
+    <Tile id="230">
+        <en>Huge Display</en>
+        <jp>巨大ディスプレイ</jp>
+    </Tile>
+    <Tile id="231">
+        <en>Huge Display</en>
+        <jp>巨大ディスプレイ</jp>
+    </Tile>
+    <Tile id="232">
+        <en>Monument A</en>
+        <jp>モニュメントA</jp>
+    </Tile>
+    <Tile id="233">
+        <en>Monument B</en>
+        <jp>モニュメントB</jp>
+    </Tile>
+    <Tile id="234">
+        <en>Huge Stele</en>
+        <jp>巨大な石版</jp>
+    </Tile>
+    <Tile id="235">
+        <en>Huge Stele</en>
+        <jp>巨大な石版</jp>
+    </Tile>
+    <Tile id="236">
+        <en>Huge Stele</en>
+        <jp>巨大な石版</jp>
+    </Tile>
+    <Tile id="237">
+        <en>Huge Display</en>
+        <jp>巨大ディスプレイ</jp>
+    </Tile>
+    <Tile id="238">
+        <en>Huge Display</en>
+        <jp>巨大ディスプレイ</jp>
+    </Tile>
+    <Tile id="239">
+        <en>Huge Display</en>
+        <jp>巨大ディスプレイ</jp>
+    </Tile>
+    <Tile id="240">
+        <en>Monument C</en>
+        <jp>モニュメントC</jp>
+    </Tile>
+    <Tile id="241">
+        <en>Monument D</en>
+        <jp>モニュメントD</jp>
+    </Tile>
+    <Tile id="242">
+        <en>Sphere Machinery</en>
+        <jp>球体機械</jp>
+    </Tile>
+    <Tile id="243">
+        <en>Sphere Machinery</en>
+        <jp>球体機械</jp>
+    </Tile>
+    <Tile id="244">
+        <en>Sphere Machinery</en>
+        <jp>球体機械</jp>
+    </Tile>
+    <Tile id="245">
+        <en>Large Machine</en>
+        <jp>大型機械</jp>
+    </Tile>
+    <Tile id="246">
+        <en>Large Machine</en>
+        <jp>大型機械</jp>
+    </Tile>
+    <Tile id="247">
+        <en>Large Machine</en>
+        <jp>大型機械</jp>
+    </Tile>
+    <Tile id="248">
+        <en>Monument C</en>
+        <jp>モニュメントC</jp>
+    </Tile>
+    <Tile id="249">
+        <en>Control Panel</en>
+        <jp>コントロールパネル</jp>
+    </Tile>
+    <Tile id="250">
+        <en>Sphere Machinery</en>
+        <jp>球体機械</jp>
+    </Tile>
+    <Tile id="251">
+        <en>Sphere Machinery</en>
+        <jp>球体機械</jp>
+    </Tile>
+    <Tile id="252">
+        <en>Sphere Machinery</en>
+        <jp>球体機械</jp>
+    </Tile>
+    <Tile id="253">
+        <en>Large Machine</en>
+        <jp>大型機械</jp>
+    </Tile>
+    <Tile id="254">
+        <en>Large Machine</en>
+        <jp>大型機械</jp>
+    </Tile>
+    <Tile id="255">
+        <en>Large Machine</en>
+        <jp>大型機械</jp>
+    </Tile>
+</TilesetData>

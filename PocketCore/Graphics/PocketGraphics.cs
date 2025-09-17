@@ -1,13 +1,13 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace PocketCore
+namespace PocketCore.Graphics
 {
     /// <summary>
     /// A static class that holds graphics-related singleton instances and properties.
     /// This acts as a service locator for graphics components, initialized by the main game project.
     /// </summary>
-    public static class Graphics
+    public static class PocketGraphics
     {
         public static GraphicsDevice GraphicsDevice { get; private set; }
         public static SpriteBatch SpriteBatch { get; private set; }

@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<XnaContent>
+    <Asset Type="PocketRPG.Data.Animations">
+        <Items>
+            <Item />
+            <Item id="1" animationId="0" consumable="True" description="Below are spaces for when you would like to display&#10;items above the recovery items." hitType="0" iconIndex="0" itypeId="1" name="-----Reserved" note="" occasion="3" price="0" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects />
+            </Item>
+            <Item id="2" animationId="0" consumable="True" description="" hitType="0" iconIndex="0" itypeId="1" name="" note="" occasion="0" price="0" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects />
+            </Item>
+            <Item id="3" animationId="0" consumable="True" description="" hitType="0" iconIndex="0" itypeId="1" name="" note="" occasion="0" price="0" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects />
+            </Item>
+            <Item id="4" animationId="0" consumable="True" description="" hitType="0" iconIndex="0" itypeId="1" name="" note="" occasion="0" price="0" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects />
+            </Item>
+            <Item id="5" animationId="0" consumable="True" description="" hitType="0" iconIndex="0" itypeId="1" name="" note="" occasion="0" price="0" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects />
+            </Item>
+            <Item id="6" animationId="0" consumable="True" description="" hitType="0" iconIndex="0" itypeId="1" name="-----Recovery Items" note="" occasion="3" price="0" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects />
+            </Item>
+            <Item id="7" animationId="41" consumable="True" description="Restores HP by 500 points." hitType="0" iconIndex="176" itypeId="1" name="Potion" note="" occasion="0" price="100" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="11" dataId="0" value1="0" value2="500" />
+                </effects>
+            </Item>
+            <Item id="8" animationId="41" consumable="True" description="Restores HP by 1500 points." hitType="0" iconIndex="176" itypeId="1" name="Super Potion" note="" occasion="0" price="250" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="11" dataId="0" value1="0" value2="1500" />
+                </effects>
+            </Item>
+            <Item id="9" animationId="41" consumable="True" description="Completely restores HP." hitType="0" iconIndex="176" itypeId="1" name="Full Potion" note="" occasion="0" price="550" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="11" dataId="0" value1="1" value2="0" />
+                </effects>
+            </Item>
+            <Item id="10" animationId="41" consumable="True" description="Restores MP by 300 points." hitType="0" iconIndex="176" itypeId="1" name="Magic Water" note="" occasion="0" price="300" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="12" dataId="0" value1="0" value2="300" />
+                </effects>
+            </Item>
+            <Item id="11" animationId="49" consumable="True" description="Raises the subject from the dead. (Restores HP by half.)" hitType="0" iconIndex="176" itypeId="1" name="Stimulant" note="" occasion="0" price="500" repeats="1" scope="9" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="b.mhp / 2" type="3" variance="20" />
+                <effects>
+                    <effect code="22" dataId="1" value1="1" value2="0" />
+                </effects>
+            </Item>
+            <Item id="12" animationId="46" consumable="True" description="Removes all status ailments.&#10;Cannot revive a someone from being dead." hitType="0" iconIndex="176" itypeId="1" name="Dispel Herb" note="" occasion="0" price="200" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="22" dataId="4" value1="1" value2="0" />
+                    <effect code="22" dataId="5" value1="1" value2="0" />
+                    <effect code="22" dataId="6" value1="1" value2="0" />
+                    <effect code="22" dataId="7" value1="1" value2="0" />
+                    <effect code="22" dataId="8" value1="1" value2="0" />
+                    <effect code="22" dataId="9" value1="1" value2="0" />
+                    <effect code="22" dataId="10" value1="1" value2="0" />
+                    <effect code="22" dataId="13" value1="1" value2="0" />
+                    <effect code="22" dataId="12" value1="1" value2="0" />
+                </effects>
+            </Item>
+            <Item id="13" animationId="45" consumable="True" description="Cures Poison or Paralysis states." hitType="0" iconIndex="176" itypeId="1" name="Antidote" note="" occasion="0" price="80" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="22" dataId="4" value1="1" value2="0" />
+                    <effect code="22" dataId="12" value1="1" value2="0" />
+                </effects>
+            </Item>
+            <Item id="14" animationId="41" consumable="True" description="Restores HP and MP by half." hitType="0" iconIndex="176" itypeId="1" name="Miracle Drop" note="" occasion="0" price="450" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="11" dataId="0" value1="0.5" value2="0" />
+                    <effect code="12" dataId="0" value1="0.5" value2="0" />
+                </effects>
+            </Item>
+            <Item id="15" animationId="41" consumable="True" description="Completely restores HP and MP." hitType="0" iconIndex="176" itypeId="1" name="Elixir" note="" occasion="0" price="1200" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="11" dataId="0" value1="1" value2="0" />
+                    <effect code="12" dataId="0" value1="1" value2="0" />
+                </effects>
+            </Item>
+            <Item id="16" animationId="0" consumable="True" description="" hitType="0" iconIndex="0" itypeId="1" name="" note="" occasion="0" price="0" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects />
+            </Item>
+            <Item id="17" animationId="0" consumable="True" description="" hitType="0" iconIndex="0" itypeId="1" name="-----Specialty Items" note="" occasion="3" price="0" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects />
+            </Item>
+            <Item id="18" animationId="51" consumable="True" description="Halves the number of enemies you will encounter&#10;for a while." hitType="0" iconIndex="176" itypeId="1" name="Encounter Decreaser" note="" occasion="2" price="100" repeats="1" scope="11" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="21" dataId="29" value1="1" value2="0" />
+                </effects>
+            </Item>
+            <Item id="19" animationId="51" consumable="True" description="Increases items and money gained from battle for&#10;a while." hitType="0" iconIndex="176" itypeId="1" name="Drop Increaser" note="" occasion="0" price="300" repeats="1" scope="11" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="21" dataId="30" value1="1" value2="0" />
+                </effects>
+            </Item>
+            <Item id="20" animationId="0" consumable="True" description="" hitType="0" iconIndex="0" itypeId="1" name="" note="" occasion="0" price="0" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects />
+            </Item>
+            <Item id="21" animationId="0" consumable="True" description="" hitType="0" iconIndex="0" itypeId="1" name="" note="" occasion="0" price="0" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects />
+            </Item>
+            <Item id="22" animationId="0" consumable="True" description="" hitType="0" iconIndex="0" itypeId="1" name="-----Enhancement Items" note="" occasion="3" price="0" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects />
+            </Item>
+            <Item id="23" animationId="51" consumable="True" description="Increases max HP by 50 points." hitType="0" iconIndex="32" itypeId="1" name="HP Increase" note="" occasion="2" price="3000" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="42" dataId="0" value1="50" value2="0" />
+                </effects>
+            </Item>
+            <Item id="24" animationId="51" consumable="True" description="Increases max MP by 10 points." hitType="0" iconIndex="33" itypeId="1" name="MP Increase" note="" occasion="2" price="3000" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="42" dataId="1" value1="10" value2="0" />
+                </effects>
+            </Item>
+            <Item id="25" animationId="51" consumable="True" description="Increases Attack by 3 points." hitType="0" iconIndex="34" itypeId="1" name="Attack Increase" note="" occasion="2" price="3000" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="42" dataId="2" value1="3" value2="0" />
+                </effects>
+            </Item>
+            <Item id="26" animationId="51" consumable="True" description="Increases Defense by 3 points." hitType="0" iconIndex="35" itypeId="1" name="Defense Increase" note="" occasion="2" price="3000" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="42" dataId="3" value1="3" value2="0" />
+                </effects>
+            </Item>
+            <Item id="27" animationId="51" consumable="True" description="Increases M.Attack by 3 points." hitType="0" iconIndex="36" itypeId="1" name="Magic Increase" note="" occasion="2" price="3000" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="42" dataId="4" value1="3" value2="0" />
+                </effects>
+            </Item>
+            <Item id="28" animationId="51" consumable="True" description="Increases M.Defense by 3 points." hitType="0" iconIndex="37" itypeId="1" name="Resistance Increase" note="" occasion="2" price="3000" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="42" dataId="5" value1="3" value2="0" />
+                </effects>
+            </Item>
+            <Item id="29" animationId="51" consumable="True" description="Increases Agility by 3 points." hitType="0" iconIndex="38" itypeId="1" name="Agility Increase" note="" occasion="2" price="3000" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="42" dataId="6" value1="3" value2="0" />
+                </effects>
+            </Item>
+            <Item id="30" animationId="51" consumable="True" description="Increases Luck by 3 points." hitType="0" iconIndex="39" itypeId="1" name="Luck Increase" note="" occasion="2" price="3000" repeats="1" scope="7" speed="0" successRate="100" tpGain="0">
+                <damage critical="False" elementId="0" formula="0" type="0" variance="20" />
+                <effects>
+                    <effect code="42" dataId="7" value1="3" value2="0" />
+                </effects>
+            </Item>
+        </Items>
+    </Asset>
+</XnaContent>

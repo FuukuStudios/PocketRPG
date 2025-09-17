@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Outside_A2">
+    <Tile id="0">
+        <en>Meadow</en>
+        <jp>草地</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Dirt (Meadow)</en>
+        <jp>土 (草地)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Road (Meadow)</en>
+        <jp>道 (草地)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Cobblestones A</en>
+        <jp>石畳A</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Bush</en>
+        <jp>茂み</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Road Edging</en>
+        <jp>縁石</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Fencepost A (Wood)</en>
+        <jp>柵A (木製)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Fissures</en>
+        <jp>ひび割れ</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Dirt</en>
+        <jp>土</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Grass (Dirt)</en>
+        <jp>草地 (土)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Road (Dirt)</en>
+        <jp>道 (土)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Cobblestones A (Dirt)</en>
+        <jp>石畳A (土)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Bush (Dead)</en>
+        <jp>茂み (枯れ草)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Road Edging (Snow)</en>
+        <jp>縁石 (雪)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Fencepost B (Metal)</en>
+        <jp>柵B (金属)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Soil</en>
+        <jp>汚れ</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Sand</en>
+        <jp>砂地</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Grass (Sand)</en>
+        <jp>草地 (砂地)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Road (Sand)</en>
+        <jp>道 (砂地)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Cobblestones B</en>
+        <jp>石畳B</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Bush (Sand)</en>
+        <jp>茂み (砂地)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Hole</en>
+        <jp>穴</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Fencepost C (Stone)</en>
+        <jp>柵C (石)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Moss</en>
+        <jp>苔</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Snow</en>
+        <jp>雪</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Dirt (Snow)</en>
+        <jp>土 (雪)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Road (Snow)</en>
+        <jp>道 (雪)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Carpet</en>
+        <jp>カーペット</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Bush (Snow)</en>
+        <jp>茂み (雪)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Hole</en>
+        <jp>穴</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Fencepost A (Wood, Snow)</en>
+        <jp>柵A (木製・雪)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Ledge</en>
+        <jp>段差</jp>
+    </Tile>
+</TilesetData>

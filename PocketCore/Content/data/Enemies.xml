@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<XnaContent>
+    <Asset Type="PocketRPG.Data.Animations">
+        <Enemies>
+            <Enemy />
+            <Enemy id="1" battlerHue="0" battlerName="Goblin" exp="10" gold="5" name="Goblin" note="">
+                <actions>
+                    <action conditionParam1="0" conditionParam2="0" conditionType="0" rating="5" skillId="1" />
+                    <action skillId="20" rating="5" conditionType="0" conditionParam1="0" conditionParam2="0" />
+                </actions>
+                <dropItems>
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                </dropItems>
+                <traits>
+                    <trait code="22" dataId="0" value="0.95" />
+                    <trait code="22" dataId="1" value="0.05" />
+                    <trait code="31" dataId="1" value="0" />
+                </traits>
+                <params>
+                    <param>200</param>
+                    <param>0</param>
+                    <param>25</param>
+                    <param>20</param>
+                    <param>20</param>
+                    <param>20</param>
+                    <param>20</param>
+                    <param>20</param>
+                </params>
+            </Enemy>
+            <Enemy id="2" battlerHue="0" battlerName="Gnome" exp="10" gold="8" name="Gnome" note="">
+                <actions>
+                    <action conditionParam1="0" conditionParam2="0" conditionType="0" rating="5" skillId="1" />
+                    <action skillId="23" rating="3" conditionType="1" conditionParam1="0" conditionParam2="2" />
+                </actions>
+                <dropItems>
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                </dropItems>
+                <traits>
+                    <trait code="22" dataId="0" value="0.95" />
+                    <trait code="22" dataId="1" value="0.05" />
+                    <trait code="31" dataId="1" value="0" />
+                </traits>
+                <params>
+                    <param>250</param>
+                    <param>0</param>
+                    <param>20</param>
+                    <param>25</param>
+                    <param>20</param>
+                    <param>20</param>
+                    <param>20</param>
+                    <param>20</param>
+                </params>
+            </Enemy>
+            <Enemy id="3" battlerHue="0" battlerName="Crow" exp="15" gold="8" name="Crow" note="">
+                <actions>
+                    <action conditionParam1="0" conditionParam2="0" conditionType="0" rating="5" skillId="1" />
+                </actions>
+                <dropItems>
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                </dropItems>
+                <traits>
+                    <trait code="22" dataId="0" value="0.95" />
+                    <trait code="22" dataId="1" value="0.1" />
+                    <trait code="31" dataId="1" value="0" />
+                </traits>
+                <params>
+                    <param>250</param>
+                    <param>50</param>
+                    <param>25</param>
+                    <param>20</param>
+                    <param>20</param>
+                    <param>20</param>
+                    <param>25</param>
+                    <param>20</param>
+                </params>
+            </Enemy>
+            <Enemy id="4" battlerHue="0" battlerName="Treant" exp="30" gold="15" name="Treant" note="">
+                <actions>
+                    <action conditionParam1="0" conditionParam2="0" conditionType="0" rating="5" skillId="1" />
+                    <action skillId="52" rating="4" conditionType="2" conditionParam1="0" conditionParam2="0.3" />
+                </actions>
+                <dropItems>
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                </dropItems>
+                <traits>
+                    <trait code="22" dataId="0" value="0.95" />
+                    <trait code="22" dataId="1" value="0.05" />
+                    <trait code="31" dataId="1" value="0" />
+                    <trait code="11" dataId="2" value="2" />
+                </traits>
+                <params>
+                    <param>500</param>
+                    <param>50</param>
+                    <param>30</param>
+                    <param>20</param>
+                    <param>30</param>
+                    <param>30</param>
+                    <param>30</param>
+                    <param>30</param>
+                </params>
+            </Enemy>
+            <Enemy id="5" battlerHue="0" battlerName="Hi_monster" exp="100" gold="50" name="Hi_monster" note="">
+                <actions>
+                    <action conditionParam1="0" conditionParam2="0" conditionType="0" rating="5" skillId="1" />
+                    <action skillId="99" rating="4" conditionType="1" conditionParam1="0" conditionParam2="2" />
+                    <action skillId="13" rating="6" conditionType="2" conditionParam1="0" conditionParam2="0.3" />
+                </actions>
+                <dropItems>
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                    <dropItem dataId="1" denominator="1" kind="0" />
+                </dropItems>
+                <traits>
+                    <trait code="22" dataId="0" value="0.95" />
+                    <trait code="22" dataId="1" value="0.05" />
+                    <trait code="31" dataId="1" value="0" />
+                    <trait code="63" dataId="1" value="1" />
+                </traits>
+                <params>
+                    <param>1000</param>
+                    <param>50</param>
+                    <param>40</param>
+                    <param>20</param>
+                    <param>40</param>
+                    <param>40</param>
+                    <param>40</param>
+                    <param>40</param>
+                </params>
+            </Enemy>
+        </Enemies>
+    </Asset>
+</XnaContent>

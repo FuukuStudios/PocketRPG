@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Outside_A1">
+    <Tile id="0">
+        <en>Water A (Meadow)</en>
+        <jp>水場A (草地)</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Pond</en>
+        <jp>池</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Swamp Grass A</en>
+        <jp>水草A</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Swamp Grass B</en>
+        <jp>水草B</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Water B (Snow)</en>
+        <jp>水場B (雪)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Waterfall A</en>
+        <jp>滝A</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Canal</en>
+        <jp>水路</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Waterfall B (Stone Wall)</en>
+        <jp>滝B (石壁)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Water C (Dirt)</en>
+        <jp>水場C (土)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Waterfall C (Cliff)</en>
+        <jp>滝C (崖)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Water D (Sand)</en>
+        <jp>水場 D (砂)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Waterfall D (Boulder)</en>
+        <jp>滝D (玉石)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Water E (Port)</en>
+        <jp>水場E (港)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Water Bubbles</en>
+        <jp>泡</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Poison Swamp</en>
+        <jp>毒の沼</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Dead Tree</en>
+        <jp>枯れ木</jp>
+    </Tile>
+</TilesetData>

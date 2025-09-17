@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Inside_A4">
+    <Tile id="0">
+        <en>Wall A (Stone)</en>
+        <jp>壁A (石)</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Wall B (Castle)</en>
+        <jp>壁B (城)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Wall C (Fort)</en>
+        <jp>壁C (砦)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Wall D (Stone)</en>
+        <jp>壁D (石)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Wall E (Stone)</en>
+        <jp>壁E (石)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Wall F (Brick)</en>
+        <jp>壁F (レンガ)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Wall G (Stone)</en>
+        <jp>壁G (石)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Interior Wall A (Stone)</en>
+        <jp>内装壁A (石)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Wall A (Stone)</en>
+        <jp>壁A (石)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Wall B (Castle)</en>
+        <jp>壁B (城)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Wall C (Fort)</en>
+        <jp>壁C (砦)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Wall D (Stone)</en>
+        <jp>壁D (石)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Wall E (Stone)</en>
+        <jp>壁E (石)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Wall F (Brick)</en>
+        <jp>壁F (レンガ)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Wall G (Stone)</en>
+        <jp>壁G (石)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Interior Wall A (Stone)</en>
+        <jp>内装壁A (石)</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Wall H (Wood)</en>
+        <jp>壁H (木造)</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Wall I (Log)</en>
+        <jp>壁I (丸太)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Wall J (Wood)</en>
+        <jp>壁J (木造)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Interior Wall B (Plaster)</en>
+        <jp>内装壁B (石膏壁)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Interior Wall C (Plaster)</en>
+        <jp>内装壁C (石膏壁)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Wall K (Stone)</en>
+        <jp>壁K (石)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Wall L (Marble)</en>
+        <jp>壁L (大理石)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Wall M (Marble)</en>
+        <jp>壁M (大理石)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Wall H (Wood)</en>
+        <jp>壁H (木造)</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Wall I (Log)</en>
+        <jp>壁I (丸太)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Wall J (Wood)</en>
+        <jp>壁J (木造)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Interior Wall B (Plaster)</en>
+        <jp>内装壁B (石膏壁)</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Interior Wall C (Plaster)</en>
+        <jp>内装壁C (石膏壁)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Wall K (Stone)</en>
+        <jp>壁K (石)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Wall L (Marble)</en>
+        <jp>壁L (大理石)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Wall M (Marble)</en>
+        <jp>壁M (大理石)</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Interior Wall D (Desert)</en>
+        <jp>内装壁D (砂漠風)</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Interior Wall E (Desert)</en>
+        <jp>内装壁E (砂漠風)</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Interior Wall F (Mansion)</en>
+        <jp>内装壁F (豪邸)</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Interior Wall G (Mansion)</en>
+        <jp>内装壁G (豪邸)</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Wall N (Tent)</en>
+        <jp>壁N (テント)</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Wall O (Demon Castle)</en>
+        <jp>壁O (魔王城)</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Wall P (Gold)</en>
+        <jp>壁P (黄金)</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Wall Q (Ice)</en>
+        <jp>壁Q (氷)</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Interior Wall D (Desert)</en>
+        <jp>内装壁D (砂漠風)</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Interior Wall E (Desert)</en>
+        <jp>内装壁E (砂漠風)</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Interior Wall F (Mansion)</en>
+        <jp>内装壁F (豪邸)</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Interior Wall G (Mansion)</en>
+        <jp>内装壁G (豪邸)</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Wall N (Tent)</en>
+        <jp>壁N (テント)</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Wall O (Demon Castle)</en>
+        <jp>壁O (魔王城)</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Wall P (Gold)</en>
+        <jp>壁P (黄金)</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Wall Q (Ice)</en>
+        <jp>壁Q (氷)</jp>
+    </Tile>
+</TilesetData>
