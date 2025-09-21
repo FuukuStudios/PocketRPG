@@ -1,7 +1,8 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System;
-using System.IO;
+using FontStashSharp;
+using PocketCore.Managers;
 
 namespace PocketCore.Graphics
 {
@@ -12,11 +13,17 @@ namespace PocketCore.Graphics
     public class Bitmap : IDisposable
     {
         public RenderTarget2D Texture { get; private set; }
-        private bool _disposed = false;
+        private bool _disposed;
 
         public int Width => Texture?.Width ?? 0;
         public int Height => Texture?.Height ?? 0;
         public Rectangle Rect => new Rectangle(0, 0, Width, Height);
+
+        public FontSystem FontFace { get; set; } = FontManager.Load("sans-serif");
+        public int FontSize { get; set; } = 16;
+        public Color TextColor { get; set; } = Color.White;
+        public Color OutlineColor { get; set; } = new (0, 0, 0, 0.5f);
+        public int OutlineWidth { get; set; } = 3;
 
         public Bitmap(int width, int height)
         {
@@ -58,29 +65,33 @@ namespace PocketCore.Graphics
             PocketGraphics.GraphicsDevice.SetRenderTarget(null);
         }
 
-        public void DrawText(string text, int x, int y, int maxWidth, int lineHeight, string align, SpriteFont font, Color color)
+        public enum TextAlignment
+        {
+            Left,
+            Center,
+            Right
+        }
+        
+        public void DrawText(string text, int x, int y, int maxWidth, int lineHeight, TextAlignment align)
         {
             if (string.IsNullOrEmpty(text)) return;
 
             PocketGraphics.GraphicsDevice.SetRenderTarget(Texture);
             PocketGraphics.SpriteBatch.Begin();
 
-            Vector2 size = font.MeasureString(text);
-            Vector2 position = new Vector2(x, y);
-
-            if (align == "center")
+            var size = FontFace.GetFont(FontSize).MeasureString(text);
+            var position = new Vector2
             {
-                position.X = x + (maxWidth - size.X) / 2;
-            }
-            else if (align == "right")
-            {
-                position.X = x + (maxWidth - size.X);
-            }
-            
-            // Basic vertical alignment
-            position.Y += (lineHeight - size.Y) / 2;
+                X = align switch
+                {
+                    TextAlignment.Center => x + (maxWidth - size.X) / 2,
+                    TextAlignment.Right => x + (maxWidth - size.X),
+                    _ => x,
+                },
+                Y = y + (lineHeight - size.Y) / 2
+            };
 
-            PocketGraphics.SpriteBatch.DrawString(font, text, position, color);
+            PocketGraphics.SpriteBatch.DrawString(FontFace.GetFont(FontSize), text, position, TextColor); //, effect: FontSystemEffect.Stroked, effectAmount: OutlineWidth);
 
             PocketGraphics.SpriteBatch.End();
             PocketGraphics.GraphicsDevice.SetRenderTarget(null);

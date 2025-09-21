@@ -73,18 +73,18 @@ namespace PocketCore.Scenes
 
         public void DrawGameTitle()
         {
-            if (DataManager.System.OptDrawTitle)
-            {
-                var text = DataManager.System.GameTitle;
-                var bitmap = _gameTitleSprite.Bitmap;
-                
-                // Clear any previous text
-                bitmap.Clear();
-
-                // This is a simplified DrawText call. A full implementation would need
-                // to handle outlines and more complex font settings.
-                bitmap.DrawText(text, 0, PocketGraphics.Height / 4, PocketGraphics.Width, 48, "center", _mainFont, Color.White);
-            }
+            if (!DataManager.System.OptDrawTitle) return;
+            
+            const int x = 20;
+            var y = PocketGraphics.Height / 4;
+            var maxWidth = PocketGraphics.Width - x * 2;
+            var text = DataManager.System.GameTitle;
+            var bitmap = _gameTitleSprite.Bitmap;
+            bitmap.FontFace = FontManager.Load("mplus-1m-regular"); // TODO: actual font getting
+            bitmap.OutlineColor = Color.Black;
+            bitmap.OutlineWidth = 8;
+            bitmap.FontSize = 72;
+            bitmap.DrawText(text, x, y, maxWidth, 48, Bitmap.TextAlignment.Center);
         }
         
         public void CenterSprite(Sprite sprite)

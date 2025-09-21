@@ -2714,12 +2714,21 @@
 /processorParam:TextureFormat=Compressed
 /build:fonts/mplus-1m-regular.spritefont
 
+#begin fonts/mplus-1m-regular.ttf
+/copy:fonts/mplus-1m-regular.ttf
+
 #begin fonts/mplus-2p-bold.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor
 /processorParam:PremultiplyAlpha=True
 /processorParam:TextureFormat=Compressed
 /build:fonts/mplus-2p-bold.spritefont
+
+#begin fonts/mplus-2p-bold.ttf
+/copy:fonts/mplus-2p-bold.ttf
+
+#begin fonts/sans-serif.ttf
+/copy:fonts/sans-serif.ttf
 
 #begin icon/icon.png
 /importer:TextureImporter

@@ -34,9 +34,6 @@
 
     <ItemGroup>
         <ProjectReference Include="..\PocketCore\PocketCore.csproj"/>
-    </ItemGroup>
-
-    <ItemGroup>
         <MonoGameContentReference Include="..\PocketCore\Content\Content.mgcb" Link="Content\Content.mgcb"/>
     </ItemGroup>
 
