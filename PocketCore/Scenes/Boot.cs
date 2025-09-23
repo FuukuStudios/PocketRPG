@@ -1,16 +1,22 @@
-using Microsoft.Xna.Framework;
 using PocketCore.Managers;
 
-namespace PocketCore.Scenes
+namespace PocketCore.Scenes;
+
+public class Boot : Base
 {
-    public class Boot : Base
+    private bool DatabaseLoaded = false;
+    
+    public override void Create()
     {
-        public override void Start()
-        {
-            base.Start();
-            // In a real game, you would load database files here.
-            // For now, we just go to the title screen.
-            SceneManager.GoTo(new Title());
-        }
+        base.Create();
+        DataManager.LoadDatabase();
+    }
+
+    public override void Start()
+    {
+        base.Start();
+        // In a real game, you would load database files here.
+        // For now, we just go to the title screen.
+        SceneManager.GoTo(new Title());
     }
 }

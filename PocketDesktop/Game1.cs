@@ -4,14 +4,13 @@ using Microsoft.Xna.Framework.Input;
 using PocketCore.Graphics;
 using PocketCore.Input;
 using PocketCore.Managers;
-using PocketCore.Objects;
 using PocketCore.Scenes;
 
 namespace PocketDesktop
 {
     public class Game1 : Game
     {
-        private GraphicsDeviceManager _graphics;
+        private readonly GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
         public Game1()

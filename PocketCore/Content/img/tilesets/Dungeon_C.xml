@@ -409,11 +409,11 @@
         <jp>魔法陣 (光)</jp>
     </Tile>
     <Tile id="102">
-        <en>Coffin D  (Left)</en>
+        <en>Coffin D (Left)</en>
         <jp>棺D (左)</jp>
     </Tile>
     <Tile id="103">
-        <en>Coffin D  (Left)</en>
+        <en>Coffin D (Left)</en>
         <jp>棺D (左)</jp>
     </Tile>
     <Tile id="104">
@@ -925,7 +925,7 @@
         <jp>タペストリーA</jp>
     </Tile>
     <Tile id="231">
-        <en>Tapestry  A (Ruins)</en>
+        <en>Tapestry A (Ruins)</en>
         <jp>タペストリーA (廃墟)</jp>
     </Tile>
     <Tile id="232">
@@ -957,7 +957,7 @@
         <jp>タペストリーA</jp>
     </Tile>
     <Tile id="239">
-        <en>Tapestry  A (Ruins)</en>
+        <en>Tapestry A (Ruins)</en>
         <jp>タペストリーA (廃墟)</jp>
     </Tile>
     <Tile id="240">

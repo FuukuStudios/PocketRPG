@@ -2707,6 +2707,51 @@
 /processorParam:Quality=Best
 /build:audio/se/Wolf.ogg;audio/se/Wolf
 
+#begin data/Actors.json
+/copy:data/Actors.json
+
+#begin data/Animations.json
+/copy:data/Animations.json
+
+#begin data/Armors.json
+/copy:data/Armors.json
+
+#begin data/Classes.json
+/copy:data/Classes.json
+
+#begin data/CommonEvents.json
+/copy:data/CommonEvents.json
+
+#begin data/Enemies.json
+/copy:data/Enemies.json
+
+#begin data/Items.json
+/copy:data/Items.json
+
+#begin data/Map001.json
+/copy:data/Map001.json
+
+#begin data/MapInfos.json
+/copy:data/MapInfos.json
+
+#begin data/Skills.json
+/copy:data/Skills.json
+
+#begin data/States.json
+/copy:data/States.json
+
+#begin data/System.json
+/copy:data/System.json
+
+#begin data/Tilesets.json
+/copy:data/Tilesets.json
+
+#begin data/Troops.json
+/copy:data/Troops.json
+
+#begin data/Weapons.json
+/copy:data/Weapons.json
+
 #begin fonts/mplus-1m-regular.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor

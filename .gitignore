@@ -2,6 +2,7 @@
 # messy gitignore but clean project : )
 
 PocketCore/Content/audio
+PocketCore/Content/data/*.json
 PocketCore/Content/effects
 PocketCore/Content/icon
 PocketCore/Content/img/**/*.png
