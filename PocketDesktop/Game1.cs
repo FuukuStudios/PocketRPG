@@ -39,8 +39,6 @@ namespace PocketDesktop
             ImageManager.Initialize(Content);
             AudioManager.Initialize(Content); // Initialize AudioManager
 
-            DataManager.LoadDatabase(); // Load the placeholder system data
-
             SceneManager.GoTo(new Boot());
         }
 

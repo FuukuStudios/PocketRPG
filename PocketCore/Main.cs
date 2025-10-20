@@ -8,20 +8,20 @@ namespace PocketCore;
 /// </summary>
 public static class Utils
 {
-    public const string APP_NAME = "PocketRPG";
-    public const string APP_VERSION = "0.2.2-alpha";
-    public const string MONOGAME_VERSION = "3.8.4";
+	public const string APP_NAME = "PocketRPG";
+	public const string APP_VERSION = "0.2.3-alpha";
+	public const string MONOGAME_VERSION = "3.8.4";
 
-    private static readonly Random Random = new();
+	private static readonly Random Random = new();
 
-    /// <summary>
-    ///     Generates a random integer from 0 to max-1.
-    /// </summary>
-    public static int RandomInt(int max)
-    {
-        if (max <= 0) return 0;
-        return Random.Next(max);
-    }
+	/// <summary>
+	///     Generates a random integer from 0 to max-1.
+	/// </summary>
+	public static int RandomInt(int max)
+	{
+		if (max <= 0) return 0;
+		return Random.Next(max);
+	}
 }
 
 // TODO: ---

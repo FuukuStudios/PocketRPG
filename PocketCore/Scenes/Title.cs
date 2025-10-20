@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Diagnostics;
 using FontStashSharp;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
@@ -15,55 +16,49 @@ public class Title : Base
     private Sprite _gameTitleSprite;
     private FontSystem _mainFont;
 
-    private List<Sprite> _sprites;
-
     public override void Create()
     {
         base.Create();
-        _sprites = [];
-
         CreateBackground();
         CreateForeground();
-
+		// TODO: create window layer
+		// TODO: create window layer
         _mainFont = FontManager.Load("mplus-1m-regular");  // TODO: actual font getting
     }
 
     public override void Start()
     {
         base.Start();
-        // In a real project, music would be played here.
-        DrawGameTitle(); // Now we draw the title text after the scene has started and assets are loaded.
+        // TODO: SceneManager: clear stack
+        AdjustBackground();
     }
 
-    public override void Draw(SpriteBatch spriteBatch)
+    public override void Update(GameTime gameTime)
     {
-        base.Draw(spriteBatch);
-        foreach (var sprite in _sprites) sprite.Draw(spriteBatch);
+	    // TODO: isBusy check
+        base.Update(gameTime);
     }
 
     public void CreateBackground()
     {
+	    Debug.WriteLine($"Creating background for Title Scene.\n - BG: {DataSystem.title1Name}\n - Frame: {DataSystem.title2Name}");
         _backSprite1 = new Sprite(ImageManager.LoadTitle1(DataSystem.title1Name));
         _backSprite2 = new Sprite(ImageManager.LoadTitle2(DataSystem.title2Name));
 
-        CenterSprite(_backSprite1);
-        CenterSprite(_backSprite2);
-
-        _sprites.Add(_backSprite1);
-        _sprites.Add(_backSprite2);
+        Children.Add(_backSprite1);
+        Children.Add(_backSprite2);
     }
 
     public void CreateForeground()
     {
         _gameTitleSprite = new Sprite(new Bitmap(PocketGraphics.Width, PocketGraphics.Height));
-        _sprites.Add(_gameTitleSprite);
+        Children.Add(_gameTitleSprite);
+        if (DataSystem.optDrawTitle) DrawGameTitle();
     }
 
     public void DrawGameTitle()
     {
-        if (!DataSystem.optDrawTitle) return;
-
-        const int x = 20; // a margin
+	    const int x = 20; // a margin
         var y = PocketGraphics.Height / 4; // positioned a fourth down from the top
         var maxWidth = PocketGraphics.Width - x * 2; // width with margin accounted
         var text = DataSystem.gameTitle;
@@ -75,10 +70,12 @@ public class Title : Base
         bitmap.DrawText(text, x, y, maxWidth, 48, Bitmap.TextAlignment.Center);
     }
 
-    public static void CenterSprite(Sprite sprite)
+    public void AdjustBackground()
     {
-        sprite.Position = new Vector2(PocketGraphics.Width / 2f, PocketGraphics.Height / 2f);
-        sprite.Origin = new Vector2(sprite.Width / 2f, sprite.Height / 2f);
+	    ScaleSprite(_backSprite1);
+	    ScaleSprite(_backSprite2);
+	    CenterSprite(_backSprite1);
+	    CenterSprite(_backSprite2);
     }
 
     public override void Terminate()
