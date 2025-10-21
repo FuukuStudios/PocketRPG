@@ -9,7 +9,7 @@ namespace PocketCore;
 public static class Utils
 {
 	public const string APP_NAME = "PocketRPG";
-	public const string APP_VERSION = "0.2.3-alpha";
+	public const string APP_VERSION = "0.2.4-alpha";
 	public const string MONOGAME_VERSION = "3.8.4";
 
 	private static readonly Random Random = new();

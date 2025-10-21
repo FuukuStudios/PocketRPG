@@ -12,112 +12,119 @@ namespace PocketCore.Graphics;
 /// </summary>
 public class Bitmap : IDisposable
 {
-    public enum TextAlignment
-    {
-        Left,
-        Center,
-        Right
-    }
+	public enum LoadingState
+	{
+		None,
+		Loading,
+		Loaded,
+		Error
+	}
 
-    public enum LoadingState
-    {
-        None,
-        Loading,
-        Loaded,
-        Error
-    }
+	public enum TextAlignment
+	{
+		Left,
+		Center,
+		Right
+	}
 
-    private bool _disposed;
-    private LoadingState _loadingState = LoadingState.None;
+	private bool _disposed;
+	private LoadingState _loadingState = LoadingState.None;
 
-    public Bitmap(int width, int height)
-    {
-        if (width > 0 && height > 0)
-            Texture = new RenderTarget2D(
-                PocketGraphics.GraphicsDevice,
-                width,
-                height,
-                false,
-                PocketGraphics.GraphicsDevice.PresentationParameters.BackBufferFormat,
-                DepthFormat.Depth24);
-    }
+	public Bitmap(int width, int height)
+	{
+		if (width > 0 && height > 0)
+			Texture = new RenderTarget2D(
+				PocketGraphics.GraphicsDevice,
+				width,
+				height,
+				false,
+				PocketGraphics.GraphicsDevice.PresentationParameters.BackBufferFormat,
+				DepthFormat.Depth24);
+	}
 
-    public Bitmap(Texture2D texture)
-    {
-        // To make a regular Texture2D drawable, we copy it to a RenderTarget2D
-        Texture = new RenderTarget2D(
-            PocketGraphics.GraphicsDevice,
-            texture.Width,
-            texture.Height,
-            false,
-            PocketGraphics.GraphicsDevice.PresentationParameters.BackBufferFormat,
-            DepthFormat.Depth24);
+	public Bitmap(Texture2D texture)
+	{
+		// To make a regular Texture2D drawable, we copy it to a RenderTarget2D
+		Texture = new RenderTarget2D(
+			PocketGraphics.GraphicsDevice,
+			texture.Width,
+			texture.Height,
+			false,
+			PocketGraphics.GraphicsDevice.PresentationParameters.BackBufferFormat,
+			DepthFormat.Depth24);
 
-        PocketGraphics.GraphicsDevice.SetRenderTarget(Texture);
-        PocketGraphics.GraphicsDevice.Clear(Color.Transparent);
-        PocketGraphics.SpriteBatch.Begin();
-        PocketGraphics.SpriteBatch.Draw(texture, new Rectangle(0, 0, texture.Width, texture.Height), Color.White);
-        PocketGraphics.SpriteBatch.End();
-        PocketGraphics.GraphicsDevice.SetRenderTarget(null);
-    }
+		PocketGraphics.GraphicsDevice.SetRenderTarget(Texture);
+		PocketGraphics.GraphicsDevice.Clear(Color.Transparent);
+		PocketGraphics.SpriteBatch.Begin();
+		PocketGraphics.SpriteBatch.Draw(texture, new Rectangle(0, 0, texture.Width, texture.Height), Color.White);
+		PocketGraphics.SpriteBatch.End();
+		PocketGraphics.GraphicsDevice.SetRenderTarget(null);
+	}
 
-    public RenderTarget2D Texture { get; }
+	public RenderTarget2D Texture { get; }
 
-    public int Width => Texture?.Width ?? 0;
-    public int Height => Texture?.Height ?? 0;
-    public Rectangle Rect => new(0, 0, Width, Height);
+	public int Width => Texture?.Width ?? 0;
+	public int Height => Texture?.Height ?? 0;
+	public Rectangle Rect => new(0, 0, Width, Height);
 
-    public FontSystem FontFace { get; set; } = FontManager.Load("sans-serif");
-    public int FontSize { get; set; } = 16;
-    public Color TextColor { get; set; } = Color.White;
-    public Color OutlineColor { get; set; } = new(0, 0, 0, 0.5f);
-    public int OutlineWidth { get; set; } = 3;
+	public FontSystem FontFace { get; set; } = FontManager.Load("sans-serif");
+	public int FontSize { get; set; } = 16;
+	public Color TextColor { get; set; } = Color.White;
+	public Color OutlineColor { get; set; } = new(0, 0, 0, 0.5f);
+	public int OutlineWidth { get; set; } = 3;
 
-    public void Dispose()
-    {
-        Dispose(true);
-        GC.SuppressFinalize(this);
-    }
+	public void Dispose()
+	{
+		Dispose(true);
+		GC.SuppressFinalize(this);
+	}
 
-    public void Clear()
-    {
-        PocketGraphics.GraphicsDevice.SetRenderTarget(Texture);
-        PocketGraphics.GraphicsDevice.Clear(Color.Transparent);
-        PocketGraphics.GraphicsDevice.SetRenderTarget(null);
-    }
+	public void Clear()
+	{
+		PocketGraphics.GraphicsDevice.SetRenderTarget(Texture);
+		PocketGraphics.GraphicsDevice.Clear(Color.Transparent);
+		PocketGraphics.GraphicsDevice.SetRenderTarget(null);
+	}
 
-    public void DrawText(string text, int x, int y, int maxWidth, int lineHeight, TextAlignment align)
-    {
-        if (string.IsNullOrEmpty(text)) return;
+	public void DrawText(string text, int x, int y, int maxWidth, int lineHeight, TextAlignment align)
+	{
+		if (string.IsNullOrEmpty(text)) return;
 
-        PocketGraphics.GraphicsDevice.SetRenderTarget(Texture);
-        PocketGraphics.SpriteBatch.Begin();
+		if (FontFace == null)
+			throw new Exception("Font has not been set for this bitmap.");
 
-        var size = FontFace.GetFont(FontSize).MeasureString(text);
-        var position = new Vector2
-        {
-            X = align switch
-            {
-                TextAlignment.Center => x + (maxWidth - size.X) / 2,
-                TextAlignment.Right => x + (maxWidth - size.X),
-                _ => x
-            },
-            Y = y + (lineHeight - size.Y) / 2
-        };
+		PocketGraphics.GraphicsDevice.SetRenderTarget(Texture);
+		PocketGraphics.SpriteBatch.Begin();
 
-        PocketGraphics.SpriteBatch.DrawString(FontFace.GetFont(FontSize), text, position,
-            TextColor); //, effect: FontSystemEffect.Stroked, effectAmount: OutlineWidth);
+		var font = FontFace.GetFont(FontSize);
+		if (font == null)
+			throw new Exception($"Font could not be loaded for size {FontSize}");
 
-        PocketGraphics.SpriteBatch.End();
-        PocketGraphics.GraphicsDevice.SetRenderTarget(null);
-    }
+		var size = font.MeasureString(text);
+		var position = new Vector2
+		{
+			X = align switch
+			{
+				TextAlignment.Center => x + (maxWidth - size.X) / 2,
+				TextAlignment.Right => x + (maxWidth - size.X),
+				_ => x
+			},
+			Y = y + (lineHeight - size.Y) / 2
+		};
 
-    protected virtual void Dispose(bool disposing)
-    {
-        if (!_disposed)
-        {
-            if (disposing) Texture?.Dispose();
-            _disposed = true;
-        }
-    }
+		PocketGraphics.SpriteBatch.DrawString(font, text, position,
+			TextColor); //, effect: FontSystemEffect.Stroked, effectAmount: OutlineWidth);
+
+		PocketGraphics.SpriteBatch.End();
+		PocketGraphics.GraphicsDevice.SetRenderTarget(null);
+	}
+
+	protected virtual void Dispose(bool disposing)
+	{
+		if (!_disposed)
+		{
+			if (disposing) Texture?.Dispose();
+			_disposed = true;
+		}
+	}
 }
