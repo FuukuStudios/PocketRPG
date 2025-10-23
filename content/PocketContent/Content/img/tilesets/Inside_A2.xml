@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Inside_A2">
+    <Tile id="0">
+        <en>Ground A (Wood Floor Stripe)</en>
+        <jp>床A (木目縦床)</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Ground B (Stone Floor Tile)</en>
+        <jp>床B (石タイル床)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Ground C (Dirt Floor)</en>
+        <jp>床C (土床)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Tatami</en>
+        <jp>畳</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Hole A (Orange Cave)</en>
+        <jp>穴A (オレンジ)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Raised Stone A (Blue)</en>
+        <jp>石段 (青)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Ground D (Black Floor)</en>
+        <jp>床D (黒床)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Table A (Wood)</en>
+        <jp>テーブルA (木製)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Ground E (Wood Floor Border)</en>
+        <jp>床E (木目横床)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Ground F (Stone Floor Brick)</en>
+        <jp>床F (石レンガ床)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Rug A (Red Flower)</en>
+        <jp>じゅうたんA (赤花じゅうたん)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Rug B (Oriental Green)</en>
+        <jp>じゅうたんB (オリエント緑じゅうたん)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Hole B (Brown Cave)</en>
+        <jp>穴B (茶色)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Raised Stone B (Purple)</en>
+        <jp>石段 (紫)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Ground G (Dark Enclave Floor)</en>
+        <jp>床G (暗い飛び地)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Table B (Dark Wood)</en>
+        <jp>テーブルB (濃い木製)</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Ground H (Wood Floor Lattice)</en>
+        <jp>床H (木格子)</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Ground I (Stone Floor Color Tile)</en>
+        <jp>床I (石カラータイル床)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Rug C (Oriental Blue)</en>
+        <jp>じゅうたんC (オリエント青じゅうたん)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Rug D (Oriental Redpink)</en>
+        <jp>じゅうたんD (オリエント赤ピンクじゅうたん)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Hole C (Black Cave)</en>
+        <jp>穴C (黒色)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Raised Stone B (Yellow)</en>
+        <jp>石段 (黄)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Ground J (Enclave Floor)</en>
+        <jp>床J (飛び地)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Table C (White Wood)</en>
+        <jp>テーブルC (白木製)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Ground K (Oriental Floor)</en>
+        <jp>床K (オリエント床)</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Ground L (Stone Floor X Tile)</en>
+        <jp>床L (石X字タイル床)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Rug E (Oriental Red)</en>
+        <jp>じゅうたんE (オリエント赤じゅうたん)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Rug F (Oriental Purple)</en>
+        <jp>じゅうたんF (オリエント紫じゅうたん)</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Hole D (Square Black Cave)</en>
+        <jp>穴D (四角黒色)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Raised Stone C (Gray)</en>
+        <jp>石段 (灰色)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Ground M (Stone Enclave Floor)</en>
+        <jp>床M (石飛び地)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Table D (White Cloth)</en>
+        <jp>テーブルD (白布)</jp>
+    </Tile>
+</TilesetData>

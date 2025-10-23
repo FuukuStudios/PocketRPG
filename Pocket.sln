@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketDesktopGL", "src\PocketDesktopGL\PocketDesktopGL.csproj", "{F590E8B3-A33F-466E-AD91-89A2914193FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketData", "src\PocketData\PocketData.csproj", "{989B330E-7872-4797-BBA2-5B3946A42121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketCore", "src\PocketCore\PocketCore.csproj", "{C13F6AD8-DC30-4C6B-BEC8-0269870118E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A85D130A-491E-4AB7-B31D-FFCED5CFC889}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "content", "content", "{97E5A953-A2FA-4915-876B-2D6F57EBA90A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketContent", "content\PocketContent\PocketContent.csproj", "{61F78610-EB6B-487F-A902-27FEAFA5CE63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F590E8B3-A33F-466E-AD91-89A2914193FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F590E8B3-A33F-466E-AD91-89A2914193FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F590E8B3-A33F-466E-AD91-89A2914193FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F590E8B3-A33F-466E-AD91-89A2914193FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{989B330E-7872-4797-BBA2-5B3946A42121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989B330E-7872-4797-BBA2-5B3946A42121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989B330E-7872-4797-BBA2-5B3946A42121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989B330E-7872-4797-BBA2-5B3946A42121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13F6AD8-DC30-4C6B-BEC8-0269870118E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13F6AD8-DC30-4C6B-BEC8-0269870118E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13F6AD8-DC30-4C6B-BEC8-0269870118E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13F6AD8-DC30-4C6B-BEC8-0269870118E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F78610-EB6B-487F-A902-27FEAFA5CE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F78610-EB6B-487F-A902-27FEAFA5CE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F78610-EB6B-487F-A902-27FEAFA5CE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F78610-EB6B-487F-A902-27FEAFA5CE63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C13F6AD8-DC30-4C6B-BEC8-0269870118E3} = {A85D130A-491E-4AB7-B31D-FFCED5CFC889}
+		{989B330E-7872-4797-BBA2-5B3946A42121} = {A85D130A-491E-4AB7-B31D-FFCED5CFC889}
+		{F590E8B3-A33F-466E-AD91-89A2914193FF} = {A85D130A-491E-4AB7-B31D-FFCED5CFC889}
+		{61F78610-EB6B-487F-A902-27FEAFA5CE63} = {97E5A953-A2FA-4915-876B-2D6F57EBA90A}
+	EndGlobalSection
+EndGlobal

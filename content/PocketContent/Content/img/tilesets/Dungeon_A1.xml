@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Dungeon_A1">
+    <Tile id="0">
+        <en>Water A</en>
+        <jp>水場A</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Deep Water</en>
+        <jp>深い水場</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Swamp Grass</en>
+        <jp>水草</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Lotus Pads (Flowers)</en>
+        <jp>蓮の葉 (花)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Lava</en>
+        <jp>溶岩</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Waterfall A (Lava Cave)</en>
+        <jp>滝A (溶岩洞窟)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Water B (Grass Maze)</en>
+        <jp>水場B (草迷宮)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Waterfall B (Grass Maze)</en>
+        <jp>滝B (草迷宮)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Water C (Dirt Cave)</en>
+        <jp>水場C (土洞窟)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Waterfall C (Dirt Cave)</en>
+        <jp>滝C (土洞窟)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Water D (Rock Cave)</en>
+        <jp>水場D (岩洞窟)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Waterfall D (Rock Cave)</en>
+        <jp>滝D (岩洞窟)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Water E (Crystal)</en>
+        <jp>水場E (水晶)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Waterfall E (Crystal)</en>
+        <jp>滝E (水晶)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Canal</en>
+        <jp>水路</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Waterfall (Stone Wall)</en>
+        <jp>滝F (石壁)</jp>
+    </Tile>
+</TilesetData>

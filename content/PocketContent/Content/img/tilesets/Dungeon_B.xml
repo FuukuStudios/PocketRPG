@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Dungeon_B">
+    <Tile id="0">
+        <en>Transparent</en>
+        <jp>透明</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Wall Moss</en>
+        <jp>壁の苔</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Stairs A (Up)</en>
+        <jp>階段A (上り)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Stairs B (Up)</en>
+        <jp>階段B (上り)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Metal Ladder</en>
+        <jp>鉄ばしご</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Wood Ladder</en>
+        <jp>木製はしご</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Rope</en>
+        <jp>ロープ</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Vines A</en>
+        <jp>ツタA</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Fissures A</en>
+        <jp>亀裂A</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Wall Fern</en>
+        <jp>壁のシダ</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Stairs A (Down)</en>
+        <jp>階段A (下り)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Stairs B (Down)</en>
+        <jp>階段B (下り)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Metal Ladder</en>
+        <jp>鉄ばしご</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Wood Ladder</en>
+        <jp>木製はしご</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Rope</en>
+        <jp>ロープ</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Vines A</en>
+        <jp>ツタA</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Crumbling Wall</en>
+        <jp>崩れた壁</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Dug-Up Ground</en>
+        <jp>掘られた床</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Stairs C (Up)</en>
+        <jp>階段C (上り)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Stairs D (Up)</en>
+        <jp>階段D (上り)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Metal Ladder</en>
+        <jp>鉄ばしご</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Wood Ladder</en>
+        <jp>木製はしご</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Rope</en>
+        <jp>ロープ</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Vines B (Down)</en>
+        <jp>ツタB (下り)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Crumbling Wall</en>
+        <jp>崩れた壁</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Dug-Up Ground</en>
+        <jp>掘られた床</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Stairs C (Down)</en>
+        <jp>階段C (下り)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Stairs D (Down)</en>
+        <jp>階段D (下り)</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Hole A (Metal Ladder)</en>
+        <jp>穴A (鉄ばしご)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Hole B (Wood Ladder)</en>
+        <jp>穴B (木製はしご)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Hole C (Rope)</en>
+        <jp>穴C (ロープ)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Hole D</en>
+        <jp>穴D</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Gravel A (Dirt Cave)</en>
+        <jp>砂利A (土洞窟)</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Gravel B (Rock Cave)</en>
+        <jp>砂利B (岩洞窟)</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Gravel C (Lava Cave)</en>
+        <jp>砂利C (溶岩洞窟)</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Ice Pieces</en>
+        <jp>氷の欠片</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Small Sprouts A (Grass Maze)</en>
+        <jp>小さな芽A (草迷宮)</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Small Crystals</en>
+        <jp>小さな水晶</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Detritus (In Body)</en>
+        <jp>床装飾 (体内)</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Small Sprouts B (Demonic World)</en>
+        <jp>小さな芽B (魔界)</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Boulder A (Dirt Cave)</en>
+        <jp>岩A (土洞窟)</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Boulder B (Rock Cave)</en>
+        <jp>岩B (岩洞窟)</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Boulder C (Lava Cave)</en>
+        <jp>岩C (溶岩洞窟)</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Lump of Ice</en>
+        <jp>氷塊</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Boulder D (Grass Maze)</en>
+        <jp>岩D (草迷宮)</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Crystal</en>
+        <jp>水晶</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Spherical Lump</en>
+        <jp>球状突起物</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Boulder E (Demonic World)</en>
+        <jp>岩E (魔界)</jp>
+    </Tile>
+    <Tile id="48">
+        <en>Tall Rock A (Dirt Cave)</en>
+        <jp>大きな岩A (土洞窟)</jp>
+    </Tile>
+    <Tile id="49">
+        <en>Tall Rock B (Rock Cave)</en>
+        <jp>大きな岩B (岩洞窟)</jp>
+    </Tile>
+    <Tile id="50">
+        <en>Tall Rock C (Lava Cave)</en>
+        <jp>大きな岩C (溶岩洞窟)</jp>
+    </Tile>
+    <Tile id="51">
+        <en>Tall Lump of Ice</en>
+        <jp>大きな氷塊</jp>
+    </Tile>
+    <Tile id="52">
+        <en>Tall Rock D (Grass Maze)</en>
+        <jp>大きな岩D (草迷宮)</jp>
+    </Tile>
+    <Tile id="53">
+        <en>Large Crystal</en>
+        <jp>大きな水晶</jp>
+    </Tile>
+    <Tile id="54">
+        <en>Large Growth</en>
+        <jp>大型突起物</jp>
+    </Tile>
+    <Tile id="55">
+        <en>Tall Rock E (Demonic World)</en>
+        <jp>大きな岩E (魔界)</jp>
+    </Tile>
+    <Tile id="56">
+        <en>Tall Rock A (Dirt Cave)</en>
+        <jp>大きな岩A (土洞窟)</jp>
+    </Tile>
+    <Tile id="57">
+        <en>Tall Rock B (Rock Cave)</en>
+        <jp>大きな岩B (岩洞窟)</jp>
+    </Tile>
+    <Tile id="58">
+        <en>Tall Rock C (Lava Cave)</en>
+        <jp>大きな岩C (溶岩洞窟)</jp>
+    </Tile>
+    <Tile id="59">
+        <en>Tall Lump of Ice</en>
+        <jp>大きな氷塊</jp>
+    </Tile>
+    <Tile id="60">
+        <en>Tall Rock D (Grass Maze)</en>
+        <jp>大きな岩D (草迷宮)</jp>
+    </Tile>
+    <Tile id="61">
+        <en>Large Crystal</en>
+        <jp>大きな水晶</jp>
+    </Tile>
+    <Tile id="62">
+        <en>Large Growth</en>
+        <jp>大型突起物</jp>
+    </Tile>
+    <Tile id="63">
+        <en>Tall Rock E (Demonic World)</en>
+        <jp>大きな岩E (魔界)</jp>
+    </Tile>
+    <Tile id="64">
+        <en>Monument A</en>
+        <jp>石碑A</jp>
+    </Tile>
+    <Tile id="65">
+        <en>Monument B</en>
+        <jp>石碑B</jp>
+    </Tile>
+    <Tile id="66">
+        <en>Large Monument</en>
+        <jp>大きな石碑</jp>
+    </Tile>
+    <Tile id="67">
+        <en>Large Monument</en>
+        <jp>大きな石碑</jp>
+    </Tile>
+    <Tile id="68">
+        <en>Large Monument</en>
+        <jp>大きな石碑</jp>
+    </Tile>
+    <Tile id="69">
+        <en>Large Monument (Light)</en>
+        <jp>大きな石碑 (光)</jp>
+    </Tile>
+    <Tile id="70">
+        <en>Large Monument (Light)</en>
+        <jp>大きな石碑 (光)</jp>
+    </Tile>
+    <Tile id="71">
+        <en>Large Monument (Light)</en>
+        <jp>大きな石碑 (光)</jp>
+    </Tile>
+    <Tile id="72">
+        <en>Monument A</en>
+        <jp>石碑A</jp>
+    </Tile>
+    <Tile id="73">
+        <en>Monument C</en>
+        <jp>石碑C</jp>
+    </Tile>
+    <Tile id="74">
+        <en>Large Monument</en>
+        <jp>大きな石碑</jp>
+    </Tile>
+    <Tile id="75">
+        <en>Large Monument</en>
+        <jp>大きな石碑</jp>
+    </Tile>
+    <Tile id="76">
+        <en>Large Monument</en>
+        <jp>大きな石碑</jp>
+    </Tile>
+    <Tile id="77">
+        <en>Large Monument (Light)</en>
+        <jp>大きな石碑 (光)</jp>
+    </Tile>
+    <Tile id="78">
+        <en>Large Monument (Light)</en>
+        <jp>大きな石碑 (光)</jp>
+    </Tile>
+    <Tile id="79">
+        <en>Large Monument (Light)</en>
+        <jp>大きな石碑 (光)</jp>
+    </Tile>
+    <Tile id="80">
+        <en>Statue</en>
+        <jp>石像</jp>
+    </Tile>
+    <Tile id="81">
+        <en>Angel Statue</en>
+        <jp>天使像</jp>
+    </Tile>
+    <Tile id="82">
+        <en>Goddess Statue</en>
+        <jp>女神像</jp>
+    </Tile>
+    <Tile id="83">
+        <en>Dais</en>
+        <jp>台座</jp>
+    </Tile>
+    <Tile id="84">
+        <en>God Statue</en>
+        <jp>神像</jp>
+    </Tile>
+    <Tile id="85">
+        <en>Demon Statue</en>
+        <jp>悪魔像</jp>
+    </Tile>
+    <Tile id="86">
+        <en>Dragon Statue</en>
+        <jp>竜像</jp>
+    </Tile>
+    <Tile id="87">
+        <en>Dragon Statue</en>
+        <jp>竜像</jp>
+    </Tile>
+    <Tile id="88">
+        <en>Statue</en>
+        <jp>石像</jp>
+    </Tile>
+    <Tile id="89">
+        <en>Angel Statue</en>
+        <jp>天使像</jp>
+    </Tile>
+    <Tile id="90">
+        <en>Goddess Statue</en>
+        <jp>女神像</jp>
+    </Tile>
+    <Tile id="91">
+        <en>Broken Statue</en>
+        <jp>壊れた像</jp>
+    </Tile>
+    <Tile id="92">
+        <en>God Statue</en>
+        <jp>神像</jp>
+    </Tile>
+    <Tile id="93">
+        <en>Demon Statue</en>
+        <jp>悪魔像</jp>
+    </Tile>
+    <Tile id="94">
+        <en>Dragon Statue</en>
+        <jp>竜像</jp>
+    </Tile>
+    <Tile id="95">
+        <en>Dragon Statue</en>
+        <jp>竜像</jp>
+    </Tile>
+    <Tile id="96">
+        <en>Obelisk</en>
+        <jp>オベリスク</jp>
+    </Tile>
+    <Tile id="97">
+        <en>Stone Pillar A</en>
+        <jp>石の柱A</jp>
+    </Tile>
+    <Tile id="98">
+        <en>Stone Pillar B</en>
+        <jp>石の柱B</jp>
+    </Tile>
+    <Tile id="99">
+        <en>Stone Pillar B (Moss)</en>
+        <jp>石の柱B (苔)</jp>
+    </Tile>
+    <Tile id="100">
+        <en>Stone Pillar B (Ice)</en>
+        <jp>石の柱B (氷)</jp>
+    </Tile>
+    <Tile id="101">
+        <en>Stone Pillar C</en>
+        <jp>石の柱C</jp>
+    </Tile>
+    <Tile id="102">
+        <en>Stone Pillar D</en>
+        <jp>石の柱D</jp>
+    </Tile>
+    <Tile id="103">
+        <en>Orb Pillar</en>
+        <jp>オーブの柱</jp>
+    </Tile>
+    <Tile id="104">
+        <en>Obelisk</en>
+        <jp>オベリスク</jp>
+    </Tile>
+    <Tile id="105">
+        <en>Stone Pillar A</en>
+        <jp>石の柱A</jp>
+    </Tile>
+    <Tile id="106">
+        <en>Stone Pillar B</en>
+        <jp>石の柱B</jp>
+    </Tile>
+    <Tile id="107">
+        <en>Stone Pillar B (Moss)</en>
+        <jp>石の柱B (苔)</jp>
+    </Tile>
+    <Tile id="108">
+        <en>Stone Pillar B (Ice)</en>
+        <jp>石の柱B (氷)</jp>
+    </Tile>
+    <Tile id="109">
+        <en>Stone Pillar C</en>
+        <jp>石の柱C</jp>
+    </Tile>
+    <Tile id="110">
+        <en>Stone Pillar D</en>
+        <jp>石の柱D</jp>
+    </Tile>
+    <Tile id="111">
+        <en>Orb Pillar</en>
+        <jp>オーブの柱</jp>
+    </Tile>
+    <Tile id="112">
+        <en>Obelisk</en>
+        <jp>オベリスク</jp>
+    </Tile>
+    <Tile id="113">
+        <en>Broken Stone Pillar A</en>
+        <jp>折れた石の柱A</jp>
+    </Tile>
+    <Tile id="114">
+        <en>Broken Stone Pillar B</en>
+        <jp>折れた石の柱B</jp>
+    </Tile>
+    <Tile id="115">
+        <en>Broken Stone Pillar B (Moss)</en>
+        <jp>折れた石の柱B (苔)</jp>
+    </Tile>
+    <Tile id="116">
+        <en>Broken Stone Pillar B (Ice)</en>
+        <jp>折れた石の柱B (氷)</jp>
+    </Tile>
+    <Tile id="117">
+        <en>Stone Pillar C</en>
+        <jp>石の柱C</jp>
+    </Tile>
+    <Tile id="118">
+        <en>Broken Stone Pillar D</en>
+        <jp>折れた石の柱D</jp>
+    </Tile>
+    <Tile id="119">
+        <en>Broken Orb Pillar</en>
+        <jp>折れたオーブの柱</jp>
+    </Tile>
+    <Tile id="120">
+        <en>Rubble</en>
+        <jp>瓦礫A</jp>
+    </Tile>
+    <Tile id="121">
+        <en>Rubble (Moss)</en>
+        <jp>瓦礫B (苔)</jp>
+    </Tile>
+    <Tile id="122">
+        <en>Rubble (Ice)</en>
+        <jp>瓦礫C (氷)</jp>
+    </Tile>
+    <Tile id="123">
+        <en>Broken Stone Pillar C</en>
+        <jp>折れた石の柱C</jp>
+    </Tile>
+    <Tile id="124">
+        <en>Rubble (Dirt)</en>
+        <jp>瓦礫D (土)</jp>
+    </Tile>
+    <Tile id="125">
+        <en>Scrap Wood</en>
+        <jp>端材</jp>
+    </Tile>
+    <Tile id="126">
+        <en>Barricade A (H)</en>
+        <jp>バリケードA (横)</jp>
+    </Tile>
+    <Tile id="127">
+        <en>Barricade B (V)</en>
+        <jp>バリケードB (縦)</jp>
+    </Tile>
+    <Tile id="128">
+        <en>Wall Bracing</en>
+        <jp>壁の補強材</jp>
+    </Tile>
+    <Tile id="129">
+        <en>Wall Bracing</en>
+        <jp>壁の補強材</jp>
+    </Tile>
+    <Tile id="130">
+        <en>Wall Bracing</en>
+        <jp>壁の補強材</jp>
+    </Tile>
+    <Tile id="131">
+        <en>Wall Bracing</en>
+        <jp>壁の補強材</jp>
+    </Tile>
+    <Tile id="132">
+        <en>Wall Bracing</en>
+        <jp>壁の補強材</jp>
+    </Tile>
+    <Tile id="133">
+        <en>Wall Bracing (Abandoned Mine)</en>
+        <jp>壁の補強材 (廃坑)</jp>
+    </Tile>
+    <Tile id="134">
+        <en>Wall Bracing (Abandoned Mine)</en>
+        <jp>壁の補強材 (廃坑)</jp>
+    </Tile>
+    <Tile id="135">
+        <en>Wall Bracing (Abandoned Mine)</en>
+        <jp>壁の補強材 (廃坑)</jp>
+    </Tile>
+    <Tile id="136">
+        <en>Wall Bracing</en>
+        <jp>壁の補強材</jp>
+    </Tile>
+    <Tile id="137">
+        <en>Wall Bracing</en>
+        <jp>壁の補強材</jp>
+    </Tile>
+    <Tile id="138">
+        <en>Wall Bracing</en>
+        <jp>壁の補強材</jp>
+    </Tile>
+    <Tile id="139">
+        <en>Wall Bracing</en>
+        <jp>壁の補強材</jp>
+    </Tile>
+    <Tile id="140">
+        <en>Wall Bracing</en>
+        <jp>壁の補強材</jp>
+    </Tile>
+    <Tile id="141">
+        <en>Wall Bracing (Abandoned Mine)</en>
+        <jp>壁の補強材 (廃坑)</jp>
+    </Tile>
+    <Tile id="142">
+        <en>Wall Bracing (Abandoned Mine)</en>
+        <jp>壁の補強材 (廃坑)</jp>
+    </Tile>
+    <Tile id="143">
+        <en>Wall Bracing (Abandoned Mine)</en>
+        <jp>壁の補強材 (廃坑)</jp>
+    </Tile>
+    <Tile id="144">
+        <en>Log Bridge (V)</en>
+        <jp>丸太の橋 (縦)</jp>
+    </Tile>
+    <Tile id="145">
+        <en>Log Bridge (H)</en>
+        <jp>丸太の橋 (横)</jp>
+    </Tile>
+    <Tile id="146">
+        <en>Wood Bridge (V)</en>
+        <jp>木の橋 (縦)</jp>
+    </Tile>
+    <Tile id="147">
+        <en>Wood Bridge (H)</en>
+        <jp>木の橋 (横)</jp>
+    </Tile>
+    <Tile id="148">
+        <en>Stone Bridge (V)</en>
+        <jp>石の橋 (縦)</jp>
+    </Tile>
+    <Tile id="149">
+        <en>Stone Bridge (H)</en>
+        <jp>石の橋 (横)</jp>
+    </Tile>
+    <Tile id="150">
+        <en>Wood Bridge (V)</en>
+        <jp>木の橋 (縦)</jp>
+    </Tile>
+    <Tile id="151">
+        <en>Wood Bridge (H)</en>
+        <jp>木の橋 (横)</jp>
+    </Tile>
+    <Tile id="152">
+        <en>Bridge Spar (Wood, Center A)</en>
+        <jp>橋げた (木・中央A)</jp>
+    </Tile>
+    <Tile id="153">
+        <en>Bridge Spar (Wood, Left)</en>
+        <jp>橋げた (木・左)</jp>
+    </Tile>
+    <Tile id="154">
+        <en>Bridge Spar (Wood, Center B)</en>
+        <jp>橋げた (木・中央B)</jp>
+    </Tile>
+    <Tile id="155">
+        <en>Bridge Spar (Wood, Right)</en>
+        <jp>橋げた (木・右)</jp>
+    </Tile>
+    <Tile id="156">
+        <en>Bridge Spar (Stone, Center A)</en>
+        <jp>橋げた (石・中央A)</jp>
+    </Tile>
+    <Tile id="157">
+        <en>Bridge Spar (Stone, Left)</en>
+        <jp>橋げた (石・左)</jp>
+    </Tile>
+    <Tile id="158">
+        <en>Bridge Spar (Stone, Center B)</en>
+        <jp/>
+    </Tile>
+    <Tile id="159">
+        <en>Bridge Spar (Stone, Right)</en>
+        <jp>橋げた (石・右)</jp>
+    </Tile>
+    <Tile id="160">
+        <en>Exit A</en>
+        <jp>外への出口A</jp>
+    </Tile>
+    <Tile id="161">
+        <en>Entrance A</en>
+        <jp>入口A</jp>
+    </Tile>
+    <Tile id="162">
+        <en>Exit B</en>
+        <jp>外への出口B</jp>
+    </Tile>
+    <Tile id="163">
+        <en>Entrance B</en>
+        <jp>入口B</jp>
+    </Tile>
+    <Tile id="164">
+        <en>Exit C</en>
+        <jp>外への出口C</jp>
+    </Tile>
+    <Tile id="165">
+        <en>Entrance C</en>
+        <jp>入口C</jp>
+    </Tile>
+    <Tile id="166">
+        <en>Window A</en>
+        <jp>窓A</jp>
+    </Tile>
+    <Tile id="167">
+        <en>Window B</en>
+        <jp>窓B</jp>
+    </Tile>
+    <Tile id="168">
+        <en>Exit D</en>
+        <jp>外への出口D</jp>
+    </Tile>
+    <Tile id="169">
+        <en>Entrance D</en>
+        <jp>入口D</jp>
+    </Tile>
+    <Tile id="170">
+        <en>Exit E</en>
+        <jp>外への出口E</jp>
+    </Tile>
+    <Tile id="171">
+        <en>Entrance E</en>
+        <jp>入口E</jp>
+    </Tile>
+    <Tile id="172">
+        <en>Light From Exit A (Top)</en>
+        <jp>出口からの光A (上)</jp>
+    </Tile>
+    <Tile id="173">
+        <en>Light From Exit B (Bottom)</en>
+        <jp>出口からの光B (下)</jp>
+    </Tile>
+    <Tile id="174">
+        <en>Window A</en>
+        <jp>窓A</jp>
+    </Tile>
+    <Tile id="175">
+        <en>Window B</en>
+        <jp>窓B</jp>
+    </Tile>
+    <Tile id="176">
+        <en>Spider Web</en>
+        <jp>蜘蛛の巣</jp>
+    </Tile>
+    <Tile id="177">
+        <en>Stone Tablet</en>
+        <jp>石版</jp>
+    </Tile>
+    <Tile id="178">
+        <en>Stone Tablet (Ruins)</en>
+        <jp>石版 (廃墟)</jp>
+    </Tile>
+    <Tile id="179">
+        <en>Entrance A</en>
+        <jp>入口A</jp>
+    </Tile>
+    <Tile id="180">
+        <en>Entrance A (Extend)</en>
+        <jp>入口A (延長部分)</jp>
+    </Tile>
+    <Tile id="181">
+        <en>Entrance A (Top Half A)</en>
+        <jp>入口A (上半分A)</jp>
+    </Tile>
+    <Tile id="182">
+        <en>Entrance B</en>
+        <jp>入口B</jp>
+    </Tile>
+    <Tile id="183">
+        <en>Entrance A (Top Half B)</en>
+        <jp>入口A (上半分B)</jp>
+    </Tile>
+    <Tile id="184">
+        <en>Wall Vines A</en>
+        <jp>壁のツタA</jp>
+    </Tile>
+    <Tile id="185">
+        <en>Wall Vines B</en>
+        <jp>壁のツタB</jp>
+    </Tile>
+    <Tile id="186">
+        <en>Wall Vines C</en>
+        <jp>壁のツタC</jp>
+    </Tile>
+    <Tile id="187">
+        <en>Fissures B</en>
+        <jp>亀裂B</jp>
+    </Tile>
+    <Tile id="188">
+        <en>Fissures C</en>
+        <jp>亀裂C</jp>
+    </Tile>
+    <Tile id="189">
+        <en>Fissures D</en>
+        <jp>亀裂D</jp>
+    </Tile>
+    <Tile id="190">
+        <en>Fissures E</en>
+        <jp>亀裂E</jp>
+    </Tile>
+    <Tile id="191">
+        <en>Beanstalk A</en>
+        <jp>豆の木A</jp>
+    </Tile>
+    <Tile id="192">
+        <en>Wall Vines A</en>
+        <jp>壁のツタA</jp>
+    </Tile>
+    <Tile id="193">
+        <en>Wall Vines B</en>
+        <jp>壁のツタB</jp>
+    </Tile>
+    <Tile id="194">
+        <en>Wall Vines C</en>
+        <jp>壁のツタC</jp>
+    </Tile>
+    <Tile id="195">
+        <en>Fissures B</en>
+        <jp>亀裂B</jp>
+    </Tile>
+    <Tile id="196">
+        <en>Fissures C</en>
+        <jp>亀裂C</jp>
+    </Tile>
+    <Tile id="197">
+        <en>Fissures D</en>
+        <jp>亀裂D</jp>
+    </Tile>
+    <Tile id="198">
+        <en>Beanstalk B (Snow)</en>
+        <jp>豆の木B (雪)</jp>
+    </Tile>
+    <Tile id="199">
+        <en>Beanstalk C (Dead)</en>
+        <jp>豆の木C (枯れ)</jp>
+    </Tile>
+    <Tile id="200">
+        <en>Large Gravel Mound A (Dirt)</en>
+        <jp>大きな土砂A (土)</jp>
+    </Tile>
+    <Tile id="201">
+        <en>Large Gravel Mound A (Dirt)</en>
+        <jp>大きな土砂A (土)</jp>
+    </Tile>
+    <Tile id="202">
+        <en>Large Gravel Mound B (Stone)</en>
+        <jp>大きな土砂B (石)</jp>
+    </Tile>
+    <Tile id="203">
+        <en>Large Gravel Mound B (Stone)</en>
+        <jp>大きな土砂B (石)</jp>
+    </Tile>
+    <Tile id="204">
+        <en>Large Gold Mound</en>
+        <jp>大きな金の山</jp>
+    </Tile>
+    <Tile id="205">
+        <en>Large Gold Mound</en>
+        <jp>大きな金の山</jp>
+    </Tile>
+    <Tile id="206">
+        <en>Large Silver Mound</en>
+        <jp>大きな銀の山</jp>
+    </Tile>
+    <Tile id="207">
+        <en>Large Silver Mound</en>
+        <jp>大きな銀の山</jp>
+    </Tile>
+    <Tile id="208">
+        <en>Large Gravel Mound A (Dirt)</en>
+        <jp>大きな土砂A (土)</jp>
+    </Tile>
+    <Tile id="209">
+        <en>Large Gravel Mound A (Dirt)</en>
+        <jp>大きな土砂A (土)</jp>
+    </Tile>
+    <Tile id="210">
+        <en>Large Gravel Mound B (Stone)</en>
+        <jp>大きな土砂B (石)</jp>
+    </Tile>
+    <Tile id="211">
+        <en>Large Gravel Mound B (Stone)</en>
+        <jp>大きな土砂B (石)</jp>
+    </Tile>
+    <Tile id="212">
+        <en>Large Gold Mound</en>
+        <jp>大きな金の山</jp>
+    </Tile>
+    <Tile id="213">
+        <en>Large Gold Mound</en>
+        <jp>大きな金の山</jp>
+    </Tile>
+    <Tile id="214">
+        <en>Large Silver Mound</en>
+        <jp>大きな銀の山</jp>
+    </Tile>
+    <Tile id="215">
+        <en>Large Silver Mound</en>
+        <jp>大きな銀の山</jp>
+    </Tile>
+    <Tile id="216">
+        <en>Gravel Mound (Dirt)</en>
+        <jp>土砂A (土)</jp>
+    </Tile>
+    <Tile id="217">
+        <en>Gravel Mound (Stone)</en>
+        <jp>土砂B (石)</jp>
+    </Tile>
+    <Tile id="218">
+        <en>Gold Bricks A</en>
+        <jp>金の延べ棒A</jp>
+    </Tile>
+    <Tile id="219">
+        <en>Gold Bricks B</en>
+        <jp>金の延べ棒B</jp>
+    </Tile>
+    <Tile id="220">
+        <en>Crate A (Dirt)</en>
+        <jp>木箱A (土)</jp>
+    </Tile>
+    <Tile id="221">
+        <en>Crate B (Stone)</en>
+        <jp>木箱B (石)</jp>
+    </Tile>
+    <Tile id="222">
+        <en>Crate C (Ruins)</en>
+        <jp>木箱C (廃墟)</jp>
+    </Tile>
+    <Tile id="223">
+        <en>Pot A (Ruins)</en>
+        <jp>壺A (廃墟)</jp>
+    </Tile>
+    <Tile id="224">
+        <en>Gold Mound</en>
+        <jp>金の山</jp>
+    </Tile>
+    <Tile id="225">
+        <en>Silver Mound</en>
+        <jp>銀の山</jp>
+    </Tile>
+    <Tile id="226">
+        <en>Silver Bricks A</en>
+        <jp>銀の延べ棒A</jp>
+    </Tile>
+    <Tile id="227">
+        <en>Silver Bricks B</en>
+        <jp>銀の延べ棒B</jp>
+    </Tile>
+    <Tile id="228">
+        <en>Crate D (Gold Dust)</en>
+        <jp>木箱D (金)</jp>
+    </Tile>
+    <Tile id="229">
+        <en>Crate E (Silver Dust)</en>
+        <jp>木箱E (銀)</jp>
+    </Tile>
+    <Tile id="230">
+        <en>Pot A</en>
+        <jp>壺A</jp>
+    </Tile>
+    <Tile id="231">
+        <en>Pot B</en>
+        <jp>壺B</jp>
+    </Tile>
+    <Tile id="232">
+        <en>Shovel</en>
+        <jp>スコップ</jp>
+    </Tile>
+    <Tile id="233">
+        <en>Pickax</en>
+        <jp>つるはし</jp>
+    </Tile>
+    <Tile id="234">
+        <en>Rope</en>
+        <jp>ロープ</jp>
+    </Tile>
+    <Tile id="235">
+        <en>Mound of Gold Coins</en>
+        <jp>金貨の山</jp>
+    </Tile>
+    <Tile id="236">
+        <en>Crate F</en>
+        <jp>木箱F</jp>
+    </Tile>
+    <Tile id="237">
+        <en>Crate G</en>
+        <jp>木箱G</jp>
+    </Tile>
+    <Tile id="238">
+        <en>Barrel A</en>
+        <jp>樽A</jp>
+    </Tile>
+    <Tile id="239">
+        <en>Barrel B (Ruins)</en>
+        <jp>樽B (廃墟)</jp>
+    </Tile>
+    <Tile id="240">
+        <en>Large Bones</en>
+        <jp>大きな骸骨</jp>
+    </Tile>
+    <Tile id="241">
+        <en>Large Bones</en>
+        <jp>大きな骸骨</jp>
+    </Tile>
+    <Tile id="242">
+        <en>Bones A</en>
+        <jp>骸骨A</jp>
+    </Tile>
+    <Tile id="243">
+        <en>Table (Ruins)</en>
+        <jp>テーブル (廃墟)</jp>
+    </Tile>
+    <Tile id="244">
+        <en>Jail Bars</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="245">
+        <en>Jail Bars</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="246">
+        <en>Jail Bars</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="247">
+        <en>Jail Bars</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="248">
+        <en>Large Bones</en>
+        <jp>大きな骸骨</jp>
+    </Tile>
+    <Tile id="249">
+        <en>Large Bones</en>
+        <jp>大きな骸骨</jp>
+    </Tile>
+    <Tile id="250">
+        <en>Bones B</en>
+        <jp>骸骨B</jp>
+    </Tile>
+    <Tile id="251">
+        <en>Stool (Ruins)</en>
+        <jp>椅子 (廃墟)</jp>
+    </Tile>
+    <Tile id="252">
+        <en>Jail Bars</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="253">
+        <en>Jail Bars</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="254">
+        <en>Jail Bars</en>
+        <jp>鉄格子</jp>
+    </Tile>
+    <Tile id="255">
+        <en>Jail Bars</en>
+        <jp>鉄格子</jp>
+    </Tile>
+</TilesetData>

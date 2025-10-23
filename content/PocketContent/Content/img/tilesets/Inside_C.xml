@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Inside_C">
+    <Tile id="0">
+        <en>Teapot A</en>
+        <jp>ティーポットA</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Teapot B</en>
+        <jp>ティーポットB</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Cup (Lower Left)</en>
+        <jp>カップ (左下)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Cup (Upper Right)</en>
+        <jp>カップ (右上)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Pot A</en>
+        <jp>ポットA</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Pot B</en>
+        <jp>ポットB</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Glass A (Lower Left)</en>
+        <jp>グラスA (左下)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Glass A (Upper Right)</en>
+        <jp>グラスA (右上)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Bottle A</en>
+        <jp>ボトルA</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Bottle B</en>
+        <jp>ボトルB</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Glass B (Lower Left)</en>
+        <jp>グラスB (左下)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Glass B (Upper Right)</en>
+        <jp>グラスB (右上)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Glass C (Lower Left)</en>
+        <jp>グラスC (左下)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Glass C (Upper Right)</en>
+        <jp>グラスC (右上)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Glass D (Lower Left)</en>
+        <jp>グラスD (左下)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Glass D (Upper Right)</en>
+        <jp>グラスD (右上)</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Pot C</en>
+        <jp>ポットC</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Pot D</en>
+        <jp>ポットD</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Pint Mug A (Lower Left)</en>
+        <jp>ジョッキA (左下)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Pint Mug A (Upper Right)</en>
+        <jp>ジョッキA (右上)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Pint Mug B (Lower Left)</en>
+        <jp>ジョッキB (左下)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Pint Mug B (Upper Right)</en>
+        <jp>ジョッキB (右上)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Glass E (Lower Left)</en>
+        <jp>グラスE (左下)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Glass E (Upper Right)</en>
+        <jp>グラスE (右上)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Bottle C</en>
+        <jp>ボトルC</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Broken Bottle</en>
+        <jp>割れたボトル</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Bottle D</en>
+        <jp>ボトルD</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Bottle E</en>
+        <jp>ボトルE</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Bottle F</en>
+        <jp>ボトルF</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Pint Mug C</en>
+        <jp>ジョッキC</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Pint Mug D</en>
+        <jp>ジョッキD</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Glass F</en>
+        <jp>グラスF</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Side Dishes</en>
+        <jp>副菜</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Meal (Meat)</en>
+        <jp>肉料理</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Assorted Vegetables</en>
+        <jp>野菜盛り合わせ</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Assorted Fruitsl</en>
+        <jp>フルーツ盛り合わせ</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Roast Chicken</en>
+        <jp>丸焼き</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Meal (Fish)</en>
+        <jp>魚料理</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Pasta</en>
+        <jp>パスタ</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Assorted Cakes</en>
+        <jp>ケーキ盛り合わせ</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Dinner Set A (Bottom)</en>
+        <jp>夕食セットA (下)</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Dinner Set B (Top)</en>
+        <jp>夕食セットB (上)</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Dinner Set C (Left)</en>
+        <jp>夕食セットC (左)</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Dinner Set D (Right)</en>
+        <jp>夕食セットD (右)</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Gratin</en>
+        <jp>グラタン</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Fried Rice</en>
+        <jp>チャーハン</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Beef Stew</en>
+        <jp>ビーフシチュー</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Paella</en>
+        <jp>パエリア</jp>
+    </Tile>
+    <Tile id="48">
+        <en>Breakfast Set A (Bottom)</en>
+        <jp>朝食セットA (下)</jp>
+    </Tile>
+    <Tile id="49">
+        <en>Breakfast Set B (Top)</en>
+        <jp>朝食セットB (上)</jp>
+    </Tile>
+    <Tile id="50">
+        <en>Breakfast Set C (Left)</en>
+        <jp>朝食セットC (左)</jp>
+    </Tile>
+    <Tile id="51">
+        <en>Breakfast Set D (Right)</en>
+        <jp>朝食セットD (右)</jp>
+    </Tile>
+    <Tile id="52">
+        <en>Assorted Cheeses</en>
+        <jp>チーズ盛り合わせ</jp>
+    </Tile>
+    <Tile id="53">
+        <en>Stew</en>
+        <jp>シチュー</jp>
+    </Tile>
+    <Tile id="54">
+        <en>Mushroom Dishes</en>
+        <jp>きのこ料理</jp>
+    </Tile>
+    <Tile id="55">
+        <en>Tart</en>
+        <jp>タルト</jp>
+    </Tile>
+    <Tile id="56">
+        <en>Beer Barrel A</en>
+        <jp>ビール樽A</jp>
+    </Tile>
+    <Tile id="57">
+        <en>Beer Barrel B</en>
+        <jp>ビール樽B</jp>
+    </Tile>
+    <Tile id="58">
+        <en>Plate A</en>
+        <jp>皿A</jp>
+    </Tile>
+    <Tile id="59">
+        <en>Plates B</en>
+        <jp>皿B</jp>
+    </Tile>
+    <Tile id="60">
+        <en>Plates C</en>
+        <jp>皿C</jp>
+    </Tile>
+    <Tile id="61">
+        <en>Chopping Board</en>
+        <jp>まな板</jp>
+    </Tile>
+    <Tile id="62">
+        <en>Soup Bowl</en>
+        <jp>スープボウル</jp>
+    </Tile>
+    <Tile id="63">
+        <en>Paella Pan</en>
+        <jp>パエリア鍋</jp>
+    </Tile>
+    <Tile id="64">
+        <en>Closed Book A (V)</en>
+        <jp>閉じた本A (縦)</jp>
+    </Tile>
+    <Tile id="65">
+        <en>Closed Book A (H)</en>
+        <jp>閉じた本A (横)</jp>
+    </Tile>
+    <Tile id="66">
+        <en>Closed Book B (V)</en>
+        <jp>閉じた本B (縦)</jp>
+    </Tile>
+    <Tile id="67">
+        <en>Closed Book B (H)</en>
+        <jp>閉じた本B (横)</jp>
+    </Tile>
+    <Tile id="68">
+        <en>Open Book A (V)</en>
+        <jp>開いた本A (縦)</jp>
+    </Tile>
+    <Tile id="69">
+        <en>Open Book A (H)</en>
+        <jp>開いた本A (横)</jp>
+    </Tile>
+    <Tile id="70">
+        <en>Closed Books C</en>
+        <jp>閉じた本C</jp>
+    </Tile>
+    <Tile id="71">
+        <en>Closed Book D</en>
+        <jp>閉じた本D</jp>
+    </Tile>
+    <Tile id="72">
+        <en>Note A (V)</en>
+        <jp>メモA (縦)</jp>
+    </Tile>
+    <Tile id="73">
+        <en>Note A (H)</en>
+        <jp>メモA (横)</jp>
+    </Tile>
+    <Tile id="74">
+        <en>Notes B (V)</en>
+        <jp>メモB (縦)</jp>
+    </Tile>
+    <Tile id="75">
+        <en>Pen A</en>
+        <jp>ペン</jp>
+    </Tile>
+    <Tile id="76">
+        <en>Map A (V)</en>
+        <jp>地図A (縦)</jp>
+    </Tile>
+    <Tile id="77">
+        <en>Map B (H)</en>
+        <jp>地図B (横)</jp>
+    </Tile>
+    <Tile id="78">
+        <en>Note C (V)</en>
+        <jp>メモC (縦)</jp>
+    </Tile>
+    <Tile id="79">
+        <en>Note C (H)</en>
+        <jp>メモC (横)</jp>
+    </Tile>
+    <Tile id="80">
+        <en>Notes D</en>
+        <jp>メモD</jp>
+    </Tile>
+    <Tile id="81">
+        <en>Envelope</en>
+        <jp>封筒</jp>
+    </Tile>
+    <Tile id="82">
+        <en>Scrolls A</en>
+        <jp>巻物A</jp>
+    </Tile>
+    <Tile id="83">
+        <en>Scrolls B</en>
+        <jp>巻物B</jp>
+    </Tile>
+    <Tile id="84">
+        <en>Planter A</en>
+        <jp>プランターA</jp>
+    </Tile>
+    <Tile id="85">
+        <en>Planter B</en>
+        <jp>プランターB</jp>
+    </Tile>
+    <Tile id="86">
+        <en>Potted Plant A</en>
+        <jp>植木鉢A</jp>
+    </Tile>
+    <Tile id="87">
+        <en>Potted Plant B</en>
+        <jp>植木鉢B</jp>
+    </Tile>
+    <Tile id="88">
+        <en>Case A</en>
+        <jp>ケースA</jp>
+    </Tile>
+    <Tile id="89">
+        <en>Case B</en>
+        <jp>ケースB</jp>
+    </Tile>
+    <Tile id="90">
+        <en>Case C</en>
+        <jp>ケースC</jp>
+    </Tile>
+    <Tile id="91">
+        <en>Hourglass</en>
+        <jp>砂時計</jp>
+    </Tile>
+    <Tile id="92">
+        <en>Small Box A</en>
+        <jp>小箱A</jp>
+    </Tile>
+    <Tile id="93">
+        <en>Small Box B</en>
+        <jp>小箱B</jp>
+    </Tile>
+    <Tile id="94">
+        <en>Small Box C</en>
+        <jp>小箱C</jp>
+    </Tile>
+    <Tile id="95">
+        <en>Small Box D</en>
+        <jp>小箱D</jp>
+    </Tile>
+    <Tile id="96">
+        <en>Sack A</en>
+        <jp>袋A</jp>
+    </Tile>
+    <Tile id="97">
+        <en>Sacks B</en>
+        <jp>袋B</jp>
+    </Tile>
+    <Tile id="98">
+        <en>Medicine Bottle A</en>
+        <jp>薬瓶A</jp>
+    </Tile>
+    <Tile id="99">
+        <en>Medicine Bottles B</en>
+        <jp>薬瓶B</jp>
+    </Tile>
+    <Tile id="100">
+        <en>Potion A</en>
+        <jp>液体入り瓶A</jp>
+    </Tile>
+    <Tile id="101">
+        <en>Potion B</en>
+        <jp>液体入り瓶B</jp>
+    </Tile>
+    <Tile id="102">
+        <en>Potion C</en>
+        <jp>液体入り瓶C</jp>
+    </Tile>
+    <Tile id="103">
+        <en>Potion D</en>
+        <jp>液体入り瓶D</jp>
+    </Tile>
+    <Tile id="104">
+        <en>Basket A</en>
+        <jp>バスケットA</jp>
+    </Tile>
+    <Tile id="105">
+        <en>Basket B</en>
+        <jp>バスケットB</jp>
+    </Tile>
+    <Tile id="106">
+        <en>Basket C</en>
+        <jp>バスケットC</jp>
+    </Tile>
+    <Tile id="107">
+        <en>Basket D</en>
+        <jp>バスケットD</jp>
+    </Tile>
+    <Tile id="108">
+        <en>Rugs A</en>
+        <jp>じゅうたんA</jp>
+    </Tile>
+    <Tile id="109">
+        <en>Rugs B</en>
+        <jp>じゅうたんB</jp>
+    </Tile>
+    <Tile id="110">
+        <en>Rugs C</en>
+        <jp>じゅうたんC</jp>
+    </Tile>
+    <Tile id="111">
+        <en>Balance</en>
+        <jp>天秤</jp>
+    </Tile>
+    <Tile id="112">
+        <en>Stuffed Doll A</en>
+        <jp>ぬいぐるみA</jp>
+    </Tile>
+    <Tile id="113">
+        <en>Stuffed Doll B</en>
+        <jp>ぬいぐるみB</jp>
+    </Tile>
+    <Tile id="114">
+        <en>Stuffed Doll C</en>
+        <jp>ぬいぐるみC</jp>
+    </Tile>
+    <Tile id="115">
+        <en>Doll A</en>
+        <jp>人形A</jp>
+    </Tile>
+    <Tile id="116">
+        <en>Doll B</en>
+        <jp>人形B</jp>
+    </Tile>
+    <Tile id="117">
+        <en>Doll C</en>
+        <jp>人形C</jp>
+    </Tile>
+    <Tile id="118">
+        <en>Gifts A</en>
+        <jp>プレゼントA</jp>
+    </Tile>
+    <Tile id="119">
+        <en>Gifts B</en>
+        <jp>プレゼントB</jp>
+    </Tile>
+    <Tile id="120">
+        <en>Globe</en>
+        <jp>地球儀</jp>
+    </Tile>
+    <Tile id="121">
+        <en>Bell</en>
+        <jp>ベル</jp>
+    </Tile>
+    <Tile id="122">
+        <en>Cloth (Magic Circle)</en>
+        <jp>布 (魔法陣)</jp>
+    </Tile>
+    <Tile id="123">
+        <en>Crystal Ball</en>
+        <jp>水晶玉</jp>
+    </Tile>
+    <Tile id="124">
+        <en>Jewelry Case A</en>
+        <jp>宝石ケースA</jp>
+    </Tile>
+    <Tile id="125">
+        <en>Necklace</en>
+        <jp>ネックレス</jp>
+    </Tile>
+    <Tile id="126">
+        <en>Crown</en>
+        <jp>王冠</jp>
+    </Tile>
+    <Tile id="127">
+        <en>Jewelry Case B</en>
+        <jp>宝石ケースB</jp>
+    </Tile>
+    <Tile id="128">
+        <en>Sword A</en>
+        <jp>剣A</jp>
+    </Tile>
+    <Tile id="129">
+        <en>Swords B</en>
+        <jp>剣B</jp>
+    </Tile>
+    <Tile id="130">
+        <en>Swords C</en>
+        <jp>剣C</jp>
+    </Tile>
+    <Tile id="131">
+        <en>Axes</en>
+        <jp>斧</jp>
+    </Tile>
+    <Tile id="132">
+        <en>Spears A</en>
+        <jp>槍A</jp>
+    </Tile>
+    <Tile id="133">
+        <en>Spears B</en>
+        <jp>槍B</jp>
+    </Tile>
+    <Tile id="134">
+        <en>Whip</en>
+        <jp>鞭</jp>
+    </Tile>
+    <Tile id="135">
+        <en>Knives</en>
+        <jp>短剣</jp>
+    </Tile>
+    <Tile id="136">
+        <en>Cooking Utensils</en>
+        <jp>調理器具</jp>
+    </Tile>
+    <Tile id="137">
+        <en>Hanging Meat</en>
+        <jp>吊るし肉</jp>
+    </Tile>
+    <Tile id="138">
+        <en>Shield A</en>
+        <jp>盾A</jp>
+    </Tile>
+    <Tile id="139">
+        <en>Shield B</en>
+        <jp>盾B</jp>
+    </Tile>
+    <Tile id="140">
+        <en>Men's Clothing A (Hanging)</en>
+        <jp>男物の服A (壁掛け)</jp>
+    </Tile>
+    <Tile id="141">
+        <en>Men's Clothing B (Hanging)</en>
+        <jp>男物の服B (壁掛け)</jp>
+    </Tile>
+    <Tile id="142">
+        <en>Women's Clothing A (Hanging)</en>
+        <jp>女物の服A (壁掛け)</jp>
+    </Tile>
+    <Tile id="143">
+        <en>Women's Clothing B (Hanging)</en>
+        <jp>女物の服B (壁掛け)</jp>
+    </Tile>
+    <Tile id="144">
+        <en>Sword Rack A</en>
+        <jp>剣掛台A</jp>
+    </Tile>
+    <Tile id="145">
+        <en>Sword Rack B</en>
+        <jp>剣掛台B</jp>
+    </Tile>
+    <Tile id="146">
+        <en>Hammers</en>
+        <jp>ハンマー</jp>
+    </Tile>
+    <Tile id="147">
+        <en>Bows &amp; Arrows</en>
+        <jp>弓矢</jp>
+    </Tile>
+    <Tile id="148">
+        <en>Blacksmith's Table A</en>
+        <jp>金床A</jp>
+    </Tile>
+    <Tile id="149">
+        <en>Blacksmith's Table B</en>
+        <jp>金床B</jp>
+    </Tile>
+    <Tile id="150">
+        <en>Large Basin</en>
+        <jp>水桶</jp>
+    </Tile>
+    <Tile id="151">
+        <en>Scrap Metal</en>
+        <jp>鉄くず</jp>
+    </Tile>
+    <Tile id="152">
+        <en>Helmet A</en>
+        <jp>兜A</jp>
+    </Tile>
+    <Tile id="153">
+        <en>Helmet B</en>
+        <jp>兜B</jp>
+    </Tile>
+    <Tile id="154">
+        <en>Helmet C</en>
+        <jp>兜C</jp>
+    </Tile>
+    <Tile id="155">
+        <en>Hat A (Stand)</en>
+        <jp>帽子A (スタンド)</jp>
+    </Tile>
+    <Tile id="156">
+        <en>Hat B (Stand)</en>
+        <jp>帽子B (スタンド)</jp>
+    </Tile>
+    <Tile id="157">
+        <en>Hat C (Stand)</en>
+        <jp>帽子C (スタンド)</jp>
+    </Tile>
+    <Tile id="158">
+        <en>Women's Clothing A (Stand)</en>
+        <jp>女物の服A (スタンド)</jp>
+    </Tile>
+    <Tile id="159">
+        <en>Women's Clothing B (Stand)</en>
+        <jp>女物の服B (スタンド)</jp>
+    </Tile>
+    <Tile id="160">
+        <en>Armor A (Stand)</en>
+        <jp>鎧A (スタンド)</jp>
+    </Tile>
+    <Tile id="161">
+        <en>Armor B (Stand)</en>
+        <jp>鎧B (スタンド)</jp>
+    </Tile>
+    <Tile id="162">
+        <en>Armor C (Stand)</en>
+        <jp>鎧C (スタンド)</jp>
+    </Tile>
+    <Tile id="163">
+        <en>Armor D (Stand)</en>
+        <jp>鎧D (スタンド)</jp>
+    </Tile>
+    <Tile id="164">
+        <en>Women's Clothing C (Stand)</en>
+        <jp>女物の服C (スタンド)</jp>
+    </Tile>
+    <Tile id="165">
+        <en>Men's Clothing A (Stand)</en>
+        <jp>男物の服A (スタンド)</jp>
+    </Tile>
+    <Tile id="166">
+        <en>Men's Clothing B (Stand)</en>
+        <jp>男物の服B (スタンド)</jp>
+    </Tile>
+    <Tile id="167">
+        <en>Women's Clothing D (Stand)</en>
+        <jp>女物の服D (スタンド)</jp>
+    </Tile>
+    <Tile id="168">
+        <en>Church Symbol</en>
+        <jp>教会のシンボル</jp>
+    </Tile>
+    <Tile id="169">
+        <en>Goddess Statue</en>
+        <jp>女神像</jp>
+    </Tile>
+    <Tile id="170">
+        <en>God Statue</en>
+        <jp>神像</jp>
+    </Tile>
+    <Tile id="171">
+        <en>Statue A</en>
+        <jp>石像A</jp>
+    </Tile>
+    <Tile id="172">
+        <en>Statue B</en>
+        <jp>石像B</jp>
+    </Tile>
+    <Tile id="173">
+        <en>Dais</en>
+        <jp>台座</jp>
+    </Tile>
+    <Tile id="174">
+        <en>Repository of Swords</en>
+        <jp>剣立て</jp>
+    </Tile>
+    <Tile id="175">
+        <en>Repository of Spears</en>
+        <jp>槍立て</jp>
+    </Tile>
+    <Tile id="176">
+        <en>Church Symbol</en>
+        <jp>教会のシンボル</jp>
+    </Tile>
+    <Tile id="177">
+        <en>Goddess Statue</en>
+        <jp>女神像</jp>
+    </Tile>
+    <Tile id="178">
+        <en>God Statue</en>
+        <jp>神像</jp>
+    </Tile>
+    <Tile id="179">
+        <en>Statue A</en>
+        <jp>石像A</jp>
+    </Tile>
+    <Tile id="180">
+        <en>Statue B</en>
+        <jp>石像B</jp>
+    </Tile>
+    <Tile id="181">
+        <en>Broken Statue</en>
+        <jp>壊れた像</jp>
+    </Tile>
+    <Tile id="182">
+        <en>Repository of Swords</en>
+        <jp>剣立て</jp>
+    </Tile>
+    <Tile id="183">
+        <en>Repository of Spears</en>
+        <jp>槍立て</jp>
+    </Tile>
+    <Tile id="184">
+        <en>Church Table</en>
+        <jp>教会机</jp>
+    </Tile>
+    <Tile id="185">
+        <en>Church Table</en>
+        <jp>教会机</jp>
+    </Tile>
+    <Tile id="186">
+        <en>Church Table</en>
+        <jp>教会机</jp>
+    </Tile>
+    <Tile id="187">
+        <en>Decorative Pillar A</en>
+        <jp>装飾柱A</jp>
+    </Tile>
+    <Tile id="188">
+        <en>Decorative Pillar A</en>
+        <jp>装飾柱A</jp>
+    </Tile>
+    <Tile id="189">
+        <en>Decorative Pillar B</en>
+        <jp>装飾柱B</jp>
+    </Tile>
+    <Tile id="190">
+        <en>Decorative Pillar A (Ruins)</en>
+        <jp>装飾柱A (廃墟)</jp>
+    </Tile>
+    <Tile id="191">
+        <en>Decorative Pillar B (Ruins)</en>
+        <jp>装飾柱B (廃墟)</jp>
+    </Tile>
+    <Tile id="192">
+        <en>Church Table</en>
+        <jp>教会机</jp>
+    </Tile>
+    <Tile id="193">
+        <en>Church Table</en>
+        <jp>教会机</jp>
+    </Tile>
+    <Tile id="194">
+        <en>Church Table</en>
+        <jp>教会机</jp>
+    </Tile>
+    <Tile id="195">
+        <en>Decorative Pillar A (Ruins)</en>
+        <jp>装飾柱A (廃墟)</jp>
+    </Tile>
+    <Tile id="196">
+        <en>Decorative Pillar A</en>
+        <jp>装飾柱A</jp>
+    </Tile>
+    <Tile id="197">
+        <en>Decorative Pillar B</en>
+        <jp>装飾柱B</jp>
+    </Tile>
+    <Tile id="198">
+        <en>Decorative Pillar A (Ruins)</en>
+        <jp>装飾柱A (廃墟)</jp>
+    </Tile>
+    <Tile id="199">
+        <en>Decorative Pillar B (Ruins)</en>
+        <jp>装飾柱B (廃墟)</jp>
+    </Tile>
+    <Tile id="200">
+        <en>Gold Bricks A</en>
+        <jp>金の延べ棒A</jp>
+    </Tile>
+    <Tile id="201">
+        <en>Gold Bricks B</en>
+        <jp>金の延べ棒B</jp>
+    </Tile>
+    <Tile id="202">
+        <en>Silver Bricks A</en>
+        <jp>銀の延べ棒A</jp>
+    </Tile>
+    <Tile id="203">
+        <en>Silver Bricks B</en>
+        <jp>銀の延べ棒B</jp>
+    </Tile>
+    <Tile id="204">
+        <en>Decorative Pillar A</en>
+        <jp>装飾柱A</jp>
+    </Tile>
+    <Tile id="205">
+        <en>Decorative Pillar B</en>
+        <jp>装飾柱B</jp>
+    </Tile>
+    <Tile id="206">
+        <en>Decorative Pillar A (Ruins)</en>
+        <jp>装飾柱A (廃墟)</jp>
+    </Tile>
+    <Tile id="207">
+        <en>Decorative Pillar B (Ruins)</en>
+        <jp>装飾柱B (廃墟)</jp>
+    </Tile>
+    <Tile id="208">
+        <en>Monument A</en>
+        <jp>石碑A</jp>
+    </Tile>
+    <Tile id="209">
+        <en>Monument B</en>
+        <jp>石碑B</jp>
+    </Tile>
+    <Tile id="210">
+        <en>Demon Statue</en>
+        <jp>悪魔像</jp>
+    </Tile>
+    <Tile id="211">
+        <en>Dragon Statue</en>
+        <jp>竜像</jp>
+    </Tile>
+    <Tile id="212">
+        <en>Dragon Statue</en>
+        <jp>竜像</jp>
+    </Tile>
+    <Tile id="213">
+        <en>Large Monument</en>
+        <jp>大きな石碑</jp>
+    </Tile>
+    <Tile id="214">
+        <en>Large Monument</en>
+        <jp>大きな石碑</jp>
+    </Tile>
+    <Tile id="215">
+        <en>Large Monument</en>
+        <jp>大きな石碑</jp>
+    </Tile>
+    <Tile id="216">
+        <en>Monument A</en>
+        <jp>石碑A</jp>
+    </Tile>
+    <Tile id="217">
+        <en>Monument C</en>
+        <jp>石碑C</jp>
+    </Tile>
+    <Tile id="218">
+        <en>Demon Statue</en>
+        <jp>悪魔像</jp>
+    </Tile>
+    <Tile id="219">
+        <en>Dragon Statue</en>
+        <jp>竜像</jp>
+    </Tile>
+    <Tile id="220">
+        <en>Dragon Statue</en>
+        <jp>竜像</jp>
+    </Tile>
+    <Tile id="221">
+        <en>Large Monument</en>
+        <jp>大きな石碑</jp>
+    </Tile>
+    <Tile id="222">
+        <en>Large Monument</en>
+        <jp>大きな石碑</jp>
+    </Tile>
+    <Tile id="223">
+        <en>Large Monument</en>
+        <jp>大きな石碑</jp>
+    </Tile>
+    <Tile id="224">
+        <en>Railings (Wood)</en>
+        <jp>段差用手すり (木製)</jp>
+    </Tile>
+    <Tile id="225">
+        <en>Railings (Wood)</en>
+        <jp>段差用手すり (木製)</jp>
+    </Tile>
+    <Tile id="226">
+        <en>Railings (Wood)</en>
+        <jp>段差用手すり (木製)</jp>
+    </Tile>
+    <Tile id="227">
+        <en>Railings (Wood)</en>
+        <jp>段差用手すり (木製)</jp>
+    </Tile>
+    <Tile id="228">
+        <en>Railings (Wood)</en>
+        <jp>段差用手すり (木製)</jp>
+    </Tile>
+    <Tile id="229">
+        <en>Railings (Wood)</en>
+        <jp>段差用手すり (木製)</jp>
+    </Tile>
+    <Tile id="230">
+        <en>Railings (Wood)</en>
+        <jp>段差用手すり (木製)</jp>
+    </Tile>
+    <Tile id="231">
+        <en>Railings (Wood)</en>
+        <jp>段差用手すり (木製)</jp>
+    </Tile>
+    <Tile id="232">
+        <en>Banister A (Wood)</en>
+        <jp>階段用手すりA (木製)</jp>
+    </Tile>
+    <Tile id="233">
+        <en>Banister A (Wood)</en>
+        <jp>階段用手すりA (木製)</jp>
+    </Tile>
+    <Tile id="234">
+        <en>Banister B (Stone)</en>
+        <jp>階段用手すりB (石)</jp>
+    </Tile>
+    <Tile id="235">
+        <en>Banister B (Stone)</en>
+        <jp>階段用手すりB (石)</jp>
+    </Tile>
+    <Tile id="236">
+        <en>Banister C (Temple)</en>
+        <jp>階段用手すりC (神殿)</jp>
+    </Tile>
+    <Tile id="237">
+        <en>Banister C (Temple)</en>
+        <jp>階段用手すりC (神殿)</jp>
+    </Tile>
+    <Tile id="238">
+        <en>Banister D (Castle)</en>
+        <jp>階段用手すりD (城)</jp>
+    </Tile>
+    <Tile id="239">
+        <en>Banister D (Castle)</en>
+        <jp>階段用手すりD (城)</jp>
+    </Tile>
+    <Tile id="240">
+        <en>Banister A (Wood)</en>
+        <jp>階段用手すりA (木製)</jp>
+    </Tile>
+    <Tile id="241">
+        <en>Banister A (Wood)</en>
+        <jp>階段用手すりA (木製)</jp>
+    </Tile>
+    <Tile id="242">
+        <en>Banister B (Stone)</en>
+        <jp>階段用手すりB (石)</jp>
+    </Tile>
+    <Tile id="243">
+        <en>Banister B (Stone)</en>
+        <jp>階段用手すりB (石)</jp>
+    </Tile>
+    <Tile id="244">
+        <en>Banister C (Temple)</en>
+        <jp>階段用手すりC (神殿)</jp>
+    </Tile>
+    <Tile id="245">
+        <en>Banister C (Temple)</en>
+        <jp>階段用手すりC (神殿)</jp>
+    </Tile>
+    <Tile id="246">
+        <en>Banister D (Castle)</en>
+        <jp>階段用手すりD (城)</jp>
+    </Tile>
+    <Tile id="247">
+        <en>Banister D (Castle)</en>
+        <jp>階段用手すりD (城)</jp>
+    </Tile>
+    <Tile id="248">
+        <en>Banister A (Wood)</en>
+        <jp>階段用手すりA (木製)</jp>
+    </Tile>
+    <Tile id="249">
+        <en>Banister A (Wood)</en>
+        <jp>階段用手すりA (木製)</jp>
+    </Tile>
+    <Tile id="250">
+        <en>Banister B (Stone)</en>
+        <jp>階段用手すりB (石)</jp>
+    </Tile>
+    <Tile id="251">
+        <en>Banister B (Stone)</en>
+        <jp>階段用手すりB (石)</jp>
+    </Tile>
+    <Tile id="252">
+        <en>Banister C (Temple)</en>
+        <jp>階段用手すりC (神殿)</jp>
+    </Tile>
+    <Tile id="253">
+        <en>Banister C (Temple)</en>
+        <jp>階段用手すりC (神殿)</jp>
+    </Tile>
+    <Tile id="254">
+        <en>Banister D (Castle)</en>
+        <jp>階段用手すりD (城)</jp>
+    </Tile>
+    <Tile id="255">
+        <en>Banister D (Castle)</en>
+        <jp>階段用手すりD (城)</jp>
+    </Tile>
+</TilesetData>

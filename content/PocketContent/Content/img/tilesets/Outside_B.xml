@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Outside_B">
+    <Tile id="0">
+        <en>Transparent</en>
+        <jp>透明</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Stairs A (Up)</en>
+        <jp>階段A (上り)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Stairs B (Up)</en>
+        <jp>階段B (上り)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Stairs C (Up)</en>
+        <jp>階段C (上り)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Stairs D (Up)</en>
+        <jp>階段D (上り)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Tent A</en>
+        <jp>テントA</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Tent A</en>
+        <jp>テントA</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Tent A</en>
+        <jp>テントA</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Streetlight A</en>
+        <jp>街灯A</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Stairs A (Down)</en>
+        <jp>階段A (下り)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Stairs B (Down)</en>
+        <jp>階段B (下り)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Stairs C (Down)</en>
+        <jp>階段C (下り)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Stairs D (Down)</en>
+        <jp>階段D (下り)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Tent A</en>
+        <jp>テントA</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Tent A</en>
+        <jp>テントA</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Tent A</en>
+        <jp>テントA</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Streetlight A</en>
+        <jp>街灯A</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Metal Ladder</en>
+        <jp>鉄ばしご</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Wood Ladder</en>
+        <jp>木製はしご</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Rope</en>
+        <jp>ロープ</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Vines A</en>
+        <jp>ツタ</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Tent A</en>
+        <jp>テントA</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Tent A (Entrance)</en>
+        <jp>テントA (入口)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Tent A</en>
+        <jp>テントA</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Streetlight A</en>
+        <jp>街灯A</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Metal Ladder</en>
+        <jp>鉄ばしご</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Wood Ladder</en>
+        <jp>木製はしご</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Rope</en>
+        <jp>ロープ</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Vines A</en>
+        <jp>ツタA</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Tent B</en>
+        <jp>テントB</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Tent B</en>
+        <jp>テントB</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Tent B</en>
+        <jp>テントB</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Streetlight B (Snow)</en>
+        <jp>街灯B (雪)</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Metal Ladder</en>
+        <jp>鉄ばしご</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Wood Ladder</en>
+        <jp>木製はしご</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Rope</en>
+        <jp>ロープ</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Vines B (Down)</en>
+        <jp>ツタB (下り)</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Tent B</en>
+        <jp>テントB</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Tent B</en>
+        <jp>テントB</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Tent B</en>
+        <jp>テントB</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Streetlight B (Snow)</en>
+        <jp>街灯B (雪)</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Hole A (Metal Ladder)</en>
+        <jp>穴A (鉄ばしご)</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Hole B (Wood Ladder)</en>
+        <jp>穴B (木製はしご)</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Hole C (Rope)</en>
+        <jp>穴C (ロープ)</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Hole D</en>
+        <jp>穴D</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Tent B</en>
+        <jp>テントB</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Tent B (Entrance, Snow)</en>
+        <jp>テント (入口・雪)</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Tent B</en>
+        <jp>テントB</jp>
+    </Tile>
+    <Tile id="48">
+        <en>Streetlight B (Snow)</en>
+        <jp>街灯B (雪)</jp>
+    </Tile>
+    <Tile id="49">
+        <en>Wall Vines A</en>
+        <jp>壁のツタA</jp>
+    </Tile>
+    <Tile id="50">
+        <en>Wall Vines B</en>
+        <jp>壁のツタB</jp>
+    </Tile>
+    <Tile id="51">
+        <en>Wall Vines C</en>
+        <jp>壁のツタC</jp>
+    </Tile>
+    <Tile id="52">
+        <en>Fissures A</en>
+        <jp>亀裂A</jp>
+    </Tile>
+    <Tile id="53">
+        <en>Fissures B</en>
+        <jp>亀裂B</jp>
+    </Tile>
+    <Tile id="54">
+        <en>Fissures C</en>
+        <jp>亀裂C</jp>
+    </Tile>
+    <Tile id="55">
+        <en>Fissures D</en>
+        <jp>亀裂D</jp>
+    </Tile>
+    <Tile id="56">
+        <en>Wall Moss</en>
+        <jp>壁の苔</jp>
+    </Tile>
+    <Tile id="57">
+        <en>Wall Vines A</en>
+        <jp>壁のツタA</jp>
+    </Tile>
+    <Tile id="58">
+        <en>Wall Vines B</en>
+        <jp>壁のツタB</jp>
+    </Tile>
+    <Tile id="59">
+        <en>Wall Vines C</en>
+        <jp>壁のツタC</jp>
+    </Tile>
+    <Tile id="60">
+        <en>Fissures A</en>
+        <jp>亀裂A</jp>
+    </Tile>
+    <Tile id="61">
+        <en>Fissures B</en>
+        <jp>亀裂B</jp>
+    </Tile>
+    <Tile id="62">
+        <en>Fissures C</en>
+        <jp>亀裂C</jp>
+    </Tile>
+    <Tile id="63">
+        <en>Fissures E</en>
+        <jp>亀裂E</jp>
+    </Tile>
+    <Tile id="64">
+        <en>Wall Fern</en>
+        <jp>壁のシダ</jp>
+    </Tile>
+    <Tile id="65">
+        <en>Shop Sign (Sword)</en>
+        <jp>看板 (剣)</jp>
+    </Tile>
+    <Tile id="66">
+        <en>Shop Sign (Sword &amp; Shield)</en>
+        <jp>看板 (剣と盾)</jp>
+    </Tile>
+    <Tile id="67">
+        <en>Shop Sign (Armor)</en>
+        <jp>看板 (鎧)</jp>
+    </Tile>
+    <Tile id="68">
+        <en>Shop Sign (Sack)</en>
+        <jp>看板 (袋)</jp>
+    </Tile>
+    <Tile id="69">
+        <en>Shop Sign (Teapot)</en>
+        <jp>看板 (ポット)</jp>
+    </Tile>
+    <Tile id="70">
+        <en>Shop Sign (Inn)</en>
+        <jp>看板 (宿)</jp>
+    </Tile>
+    <Tile id="71">
+        <en>Shop Sign (Pub)</en>
+        <jp>看板 (酒場)</jp>
+    </Tile>
+    <Tile id="72">
+        <en>Shop Sign (Eatery)</en>
+        <jp>看板 (食堂)</jp>
+    </Tile>
+    <Tile id="73">
+        <en>Shop Sign (Hexagram)</en>
+        <jp>看板 (魔法陣)</jp>
+    </Tile>
+    <Tile id="74">
+        <en>Shop Sign (Staves)</en>
+        <jp>看板 (杖)</jp>
+    </Tile>
+    <Tile id="75">
+        <en>Shop Sign (Coin)</en>
+        <jp>看板 (コイン)</jp>
+    </Tile>
+    <Tile id="76">
+        <en>Shop Sign (Necklace)</en>
+        <jp>看板 (ネックレス)</jp>
+    </Tile>
+    <Tile id="77">
+        <en>Shop Sign (Hammer)</en>
+        <jp>看板 (ハンマー)</jp>
+    </Tile>
+    <Tile id="78">
+        <en>Shop Sign (Crest)</en>
+        <jp>看板 (紋章)</jp>
+    </Tile>
+    <Tile id="79">
+        <en>Shop Sign (Blank)</en>
+        <jp>看板 (無地)</jp>
+    </Tile>
+    <Tile id="80">
+        <en>Log Bridge (V)</en>
+        <jp>丸太の橋 (縦)</jp>
+    </Tile>
+    <Tile id="81">
+        <en>Log Bridge (H)</en>
+        <jp>丸太の橋 (横)</jp>
+    </Tile>
+    <Tile id="82">
+        <en>Wood Bridge (V)</en>
+        <jp>木の橋 (縦)</jp>
+    </Tile>
+    <Tile id="83">
+        <en>Wood Bridge (H)</en>
+        <jp>木の橋 (横)</jp>
+    </Tile>
+    <Tile id="84">
+        <en>Stone Bridge (V)</en>
+        <jp>石の橋 (縦)</jp>
+    </Tile>
+    <Tile id="85">
+        <en>Stone Bridge (H)</en>
+        <jp>石の橋 (横)</jp>
+    </Tile>
+    <Tile id="86">
+        <en>Wood Bridge (V)</en>
+        <jp>木の橋 (縦)</jp>
+    </Tile>
+    <Tile id="87">
+        <en>Wood Bridge (H)</en>
+        <jp>木の橋 (横)</jp>
+    </Tile>
+    <Tile id="88">
+        <en>Bridge Spar (Wood, Center A)</en>
+        <jp>橋げた (木・中央A)</jp>
+    </Tile>
+    <Tile id="89">
+        <en>Bridge Spar (Wood, Left)</en>
+        <jp>橋げた (木・左)</jp>
+    </Tile>
+    <Tile id="90">
+        <en>Bridge Spar (Wood, Center B)</en>
+        <jp>橋げた (木・中央B)</jp>
+    </Tile>
+    <Tile id="91">
+        <en>Bridge Spar (Wood, Right)</en>
+        <jp>橋げた (木・右)</jp>
+    </Tile>
+    <Tile id="92">
+        <en>Bridge Spar (Stone, Center A)</en>
+        <jp>橋げた (石・中央A)</jp>
+    </Tile>
+    <Tile id="93">
+        <en>Bridge Spar (Stone, Left)</en>
+        <jp>橋げた (石・左)</jp>
+    </Tile>
+    <Tile id="94">
+        <en>Bridge Spar (Stone, Center B)</en>
+        <jp/>
+    </Tile>
+    <Tile id="95">
+        <en>Bridge Spar (Stone, Right)</en>
+        <jp>橋げた (石・右)</jp>
+    </Tile>
+    <Tile id="96">
+        <en>Window A</en>
+        <jp>窓A</jp>
+    </Tile>
+    <Tile id="97">
+        <en>Window B</en>
+        <jp>窓B</jp>
+    </Tile>
+    <Tile id="98">
+        <en>Window C</en>
+        <jp>窓C</jp>
+    </Tile>
+    <Tile id="99">
+        <en>Window D</en>
+        <jp>窓D</jp>
+    </Tile>
+    <Tile id="100">
+        <en>Middle Window A</en>
+        <jp>中型窓A</jp>
+    </Tile>
+    <Tile id="101">
+        <en>Middle Window B</en>
+        <jp>中型窓B</jp>
+    </Tile>
+    <Tile id="102">
+        <en>Middle Window C</en>
+        <jp>中型窓C</jp>
+    </Tile>
+    <Tile id="103">
+        <en>Middle Window D</en>
+        <jp>中型窓D</jp>
+    </Tile>
+    <Tile id="104">
+        <en>Window E</en>
+        <jp>窓E</jp>
+    </Tile>
+    <Tile id="105">
+        <en>Window F</en>
+        <jp>窓F</jp>
+    </Tile>
+    <Tile id="106">
+        <en>Window G</en>
+        <jp>窓G</jp>
+    </Tile>
+    <Tile id="107">
+        <en>Window H</en>
+        <jp>窓H</jp>
+    </Tile>
+    <Tile id="108">
+        <en>Middle Window A</en>
+        <jp>中型窓A</jp>
+    </Tile>
+    <Tile id="109">
+        <en>Middle Window E</en>
+        <jp>中型窓E</jp>
+    </Tile>
+    <Tile id="110">
+        <en>Middle Window C</en>
+        <jp>中型窓C</jp>
+    </Tile>
+    <Tile id="111">
+        <en>Middle Window D</en>
+        <jp>中型窓D</jp>
+    </Tile>
+    <Tile id="112">
+        <en>Large Window A</en>
+        <jp>大型窓A</jp>
+    </Tile>
+    <Tile id="113">
+        <en>Large Window B</en>
+        <jp>大型窓B</jp>
+    </Tile>
+    <Tile id="114">
+        <en>Large Window C</en>
+        <jp>大型窓C</jp>
+    </Tile>
+    <Tile id="115">
+        <en>Stained Glass Window</en>
+        <jp>ステンドグラス</jp>
+    </Tile>
+    <Tile id="116">
+        <en>Large Window D</en>
+        <jp>大型窓D</jp>
+    </Tile>
+    <Tile id="117">
+        <en>Middle Window F</en>
+        <jp>中型窓F</jp>
+    </Tile>
+    <Tile id="118">
+        <en>Middle Window G</en>
+        <jp>中型窓G</jp>
+    </Tile>
+    <Tile id="119">
+        <en>Middle Window H</en>
+        <jp>中型窓H</jp>
+    </Tile>
+    <Tile id="120">
+        <en>Large Window A</en>
+        <jp>大型窓A</jp>
+    </Tile>
+    <Tile id="121">
+        <en>Large Window E</en>
+        <jp>大型窓E</jp>
+    </Tile>
+    <Tile id="122">
+        <en>Large Window C</en>
+        <jp>大型窓C</jp>
+    </Tile>
+    <Tile id="123">
+        <en>Stained Glass Window B</en>
+        <jp>ステンドグラスB</jp>
+    </Tile>
+    <Tile id="124">
+        <en>Large Window D</en>
+        <jp>大型窓D</jp>
+    </Tile>
+    <Tile id="125">
+        <en>Middle Window F</en>
+        <jp>中型窓F</jp>
+    </Tile>
+    <Tile id="126">
+        <en>Middle Window G</en>
+        <jp>中型窓G</jp>
+    </Tile>
+    <Tile id="127">
+        <en>Middle Window H</en>
+        <jp>中型窓H</jp>
+    </Tile>
+    <Tile id="128">
+        <en>Chimney</en>
+        <jp>煙突</jp>
+    </Tile>
+    <Tile id="129">
+        <en>Mooring Bollard A</en>
+        <jp>ビットA</jp>
+    </Tile>
+    <Tile id="130">
+        <en>Mooring Bollard B (Rope)</en>
+        <jp>ビットB (ロープ)</jp>
+    </Tile>
+    <Tile id="131">
+        <en>Entrance A</en>
+        <jp>入口A</jp>
+    </Tile>
+    <Tile id="132">
+        <en>Entrance A (Extend)</en>
+        <jp>入口A (延長部分)</jp>
+    </Tile>
+    <Tile id="133">
+        <en>Entrance A (Top Half A)</en>
+        <jp>入口A (上半分A) S</jp>
+    </Tile>
+    <Tile id="134">
+        <en>Entrance B</en>
+        <jp>入口B</jp>
+    </Tile>
+    <Tile id="135">
+        <en>Entrance A (Top Half B)</en>
+        <jp>入口A (上半分B)</jp>
+    </Tile>
+    <Tile id="136">
+        <en>Chimney</en>
+        <jp>煙突</jp>
+    </Tile>
+    <Tile id="137">
+        <en>Sign A</en>
+        <jp>立て札A</jp>
+    </Tile>
+    <Tile id="138">
+        <en>Sign B</en>
+        <jp>立て札B</jp>
+    </Tile>
+    <Tile id="139">
+        <en>Well</en>
+        <jp>井戸</jp>
+    </Tile>
+    <Tile id="140">
+        <en>Stepping Stones</en>
+        <jp>踏み石</jp>
+    </Tile>
+    <Tile id="141">
+        <en>Barrel</en>
+        <jp>樽</jp>
+    </Tile>
+    <Tile id="142">
+        <en>Grave A</en>
+        <jp>墓A</jp>
+    </Tile>
+    <Tile id="143">
+        <en>Grave B</en>
+        <jp>墓B</jp>
+    </Tile>
+    <Tile id="144">
+        <en>Pot</en>
+        <jp>壺</jp>
+    </Tile>
+    <Tile id="145">
+        <en>Basin A</en>
+        <jp>桶A</jp>
+    </Tile>
+    <Tile id="146">
+        <en>Basin B</en>
+        <jp>桶B</jp>
+    </Tile>
+    <Tile id="147">
+        <en>Rock Fire Pit A</en>
+        <jp>石のかまどA</jp>
+    </Tile>
+    <Tile id="148">
+        <en>Rock Fire Pit B</en>
+        <jp>石のかまどB</jp>
+    </Tile>
+    <Tile id="149">
+        <en>Barricade (H)</en>
+        <jp>バリケード (横)</jp>
+    </Tile>
+    <Tile id="150">
+        <en>Barricade (V)</en>
+        <jp>バリケード (縦)</jp>
+    </Tile>
+    <Tile id="151">
+        <en>Beanstalk</en>
+        <jp>豆の木</jp>
+    </Tile>
+    <Tile id="152">
+        <en>Grass A</en>
+        <jp>草A</jp>
+    </Tile>
+    <Tile id="153">
+        <en>Grass B</en>
+        <jp>草B</jp>
+    </Tile>
+    <Tile id="154">
+        <en>Grass C</en>
+        <jp>草C</jp>
+    </Tile>
+    <Tile id="155">
+        <en>Grass D</en>
+        <jp>草D</jp>
+    </Tile>
+    <Tile id="156">
+        <en>Stump</en>
+        <jp>切り株</jp>
+    </Tile>
+    <Tile id="157">
+        <en>Tree</en>
+        <jp>木</jp>
+    </Tile>
+    <Tile id="158">
+        <en>Tree</en>
+        <jp>木</jp>
+    </Tile>
+    <Tile id="159">
+        <en>Boulder A</en>
+        <jp>岩A</jp>
+    </Tile>
+    <Tile id="160">
+        <en>Flowers A</en>
+        <jp>花A</jp>
+    </Tile>
+    <Tile id="161">
+        <en>Flowers B</en>
+        <jp>花B</jp>
+    </Tile>
+    <Tile id="162">
+        <en>Flowers C</en>
+        <jp>花C</jp>
+    </Tile>
+    <Tile id="163">
+        <en>Flowers D</en>
+        <jp>花D</jp>
+    </Tile>
+    <Tile id="164">
+        <en>Fallen Log</en>
+        <jp>倒木</jp>
+    </Tile>
+    <Tile id="165">
+        <en>Tree</en>
+        <jp>木</jp>
+    </Tile>
+    <Tile id="166">
+        <en>Bush</en>
+        <jp>植え込み</jp>
+    </Tile>
+    <Tile id="167">
+        <en>Boulder B</en>
+        <jp>岩B</jp>
+    </Tile>
+    <Tile id="168">
+        <en>Scarecrow</en>
+        <jp>かかし</jp>
+    </Tile>
+    <Tile id="169">
+        <en>Hole</en>
+        <jp>穴</jp>
+    </Tile>
+    <Tile id="170">
+        <en>Firewood</en>
+        <jp>薪</jp>
+    </Tile>
+    <Tile id="171">
+        <en>Rocks</en>
+        <jp>小石</jp>
+    </Tile>
+    <Tile id="172">
+        <en>Crops A</en>
+        <jp>農作物A</jp>
+    </Tile>
+    <Tile id="173">
+        <en>Crops B</en>
+        <jp>農作物B</jp>
+    </Tile>
+    <Tile id="174">
+        <en>Crops C</en>
+        <jp>農作物C</jp>
+    </Tile>
+    <Tile id="175">
+        <en>Crops D</en>
+        <jp>農作物D</jp>
+    </Tile>
+    <Tile id="176">
+        <en>Large Tree</en>
+        <jp>大木</jp>
+    </Tile>
+    <Tile id="177">
+        <en>Large Tree</en>
+        <jp>大木</jp>
+    </Tile>
+    <Tile id="178">
+        <en>Large Tree</en>
+        <jp>大木</jp>
+    </Tile>
+    <Tile id="179">
+        <en>Large Tree</en>
+        <jp>大木</jp>
+    </Tile>
+    <Tile id="180">
+        <en>Large Crate</en>
+        <jp>大きな木箱</jp>
+    </Tile>
+    <Tile id="181">
+        <en>Crate A</en>
+        <jp>木箱A</jp>
+    </Tile>
+    <Tile id="182">
+        <en>Crate B</en>
+        <jp>木箱B</jp>
+    </Tile>
+    <Tile id="183">
+        <en>Crate C</en>
+        <jp>木箱C</jp>
+    </Tile>
+    <Tile id="184">
+        <en>Large Tree</en>
+        <jp>大木</jp>
+    </Tile>
+    <Tile id="185">
+        <en>Large Tree</en>
+        <jp>大木</jp>
+    </Tile>
+    <Tile id="186">
+        <en>Large Tree</en>
+        <jp>大木</jp>
+    </Tile>
+    <Tile id="187">
+        <en>Large Tree</en>
+        <jp>大木</jp>
+    </Tile>
+    <Tile id="188">
+        <en>Large Crate</en>
+        <jp>大きな木箱</jp>
+    </Tile>
+    <Tile id="189">
+        <en>Crate D</en>
+        <jp>木箱D</jp>
+    </Tile>
+    <Tile id="190">
+        <en>Crate E</en>
+        <jp>木箱E</jp>
+    </Tile>
+    <Tile id="191">
+        <en>Crate F</en>
+        <jp>木箱F</jp>
+    </Tile>
+    <Tile id="192">
+        <en>Conifer Tree (Snow)</en>
+        <jp>針葉樹 (雪)</jp>
+    </Tile>
+    <Tile id="193">
+        <en>Conifer Tree (Snow)</en>
+        <jp>針葉樹 (雪)</jp>
+    </Tile>
+    <Tile id="194">
+        <en>Conifer Tree (Snow)</en>
+        <jp>針葉樹 (雪)</jp>
+    </Tile>
+    <Tile id="195">
+        <en>Conifer Tree (Snow)</en>
+        <jp>針葉樹 (雪)</jp>
+    </Tile>
+    <Tile id="196">
+        <en>Scarecrow (Snow)</en>
+        <jp>かかし (雪)</jp>
+    </Tile>
+    <Tile id="197">
+        <en>Pot (Snow)</en>
+        <jp>壺 (雪)</jp>
+    </Tile>
+    <Tile id="198">
+        <en>Bucket (Snow)</en>
+        <jp>桶 (雪)</jp>
+    </Tile>
+    <Tile id="199">
+        <en>Crate (Snow)</en>
+        <jp>木箱 (雪)</jp>
+    </Tile>
+    <Tile id="200">
+        <en>Large Conifer Tree (Snow)</en>
+        <jp>大針葉樹 (雪)</jp>
+    </Tile>
+    <Tile id="201">
+        <en>Large Conifer Tree (Snow)</en>
+        <jp>大針葉樹 (雪)</jp>
+    </Tile>
+    <Tile id="202">
+        <en>Large Conifer Tree (Snow)</en>
+        <jp>大針葉樹 (雪)</jp>
+    </Tile>
+    <Tile id="203">
+        <en>Large Conifer Tree (Snow)</en>
+        <jp>大針葉樹 (雪)</jp>
+    </Tile>
+    <Tile id="204">
+        <en>Mooring Bollard (Snow)</en>
+        <jp>ビット (雪)</jp>
+    </Tile>
+    <Tile id="205">
+        <en>Barricade (H, Snow)</en>
+        <jp>バリケード (横・雪)</jp>
+    </Tile>
+    <Tile id="206">
+        <en>Barricade (H, Snow)</en>
+        <jp>バリケード (縦・雪)</jp>
+    </Tile>
+    <Tile id="207">
+        <en>Beanstalk (Snow)</en>
+        <jp>豆の木 (雪)</jp>
+    </Tile>
+    <Tile id="208">
+        <en>Stump (Snow)</en>
+        <jp>切り株 (雪)</jp>
+    </Tile>
+    <Tile id="209">
+        <en>Sign A (Snow)</en>
+        <jp>立て札A (雪)</jp>
+    </Tile>
+    <Tile id="210">
+        <en>Sign B (Snow)</en>
+        <jp>立て札B (雪)</jp>
+    </Tile>
+    <Tile id="211">
+        <en>Well (Snow)</en>
+        <jp>井戸 (雪)</jp>
+    </Tile>
+    <Tile id="212">
+        <en>Stepping Stones (Snow)</en>
+        <jp>踏み石 (雪)</jp>
+    </Tile>
+    <Tile id="213">
+        <en>Barrel (Snow)</en>
+        <jp>樽 (雪)</jp>
+    </Tile>
+    <Tile id="214">
+        <en>Grave A (Snow)</en>
+        <jp>墓A (雪)</jp>
+    </Tile>
+    <Tile id="215">
+        <en>Grave B (Snow)</en>
+        <jp>墓B (雪)</jp>
+    </Tile>
+    <Tile id="216">
+        <en>Snowman</en>
+        <jp>雪だるま</jp>
+    </Tile>
+    <Tile id="217">
+        <en>Grass A (Snow)</en>
+        <jp>草A (雪)</jp>
+    </Tile>
+    <Tile id="218">
+        <en>Grass B (Snow)</en>
+        <jp>草B (雪)</jp>
+    </Tile>
+    <Tile id="219">
+        <en>Grass C (Snow)</en>
+        <jp>草C (雪)</jp>
+    </Tile>
+    <Tile id="220">
+        <en>Grass D (Snow)</en>
+        <jp>草D (雪)</jp>
+    </Tile>
+    <Tile id="221">
+        <en>Conifer Tree (Snow)</en>
+        <jp>針葉樹 (雪)</jp>
+    </Tile>
+    <Tile id="222">
+        <en>Conifer Tree (Snow)</en>
+        <jp>針葉樹 (雪)</jp>
+    </Tile>
+    <Tile id="223">
+        <en>Boulder A (Snow)</en>
+        <jp>岩A (雪)</jp>
+    </Tile>
+    <Tile id="224">
+        <en>Dead Beanstalk</en>
+        <jp>枯れた豆の木</jp>
+    </Tile>
+    <Tile id="225">
+        <en>Hole (Snow)</en>
+        <jp>穴 (雪)</jp>
+    </Tile>
+    <Tile id="226">
+        <en>Firewood (Snow)</en>
+        <jp>薪 (雪)</jp>
+    </Tile>
+    <Tile id="227">
+        <en>Rocks (Snow)</en>
+        <jp>小石 (雪)</jp>
+    </Tile>
+    <Tile id="228">
+        <en>Fallen Log (Snow)</en>
+        <jp>倒木 (雪)</jp>
+    </Tile>
+    <Tile id="229">
+        <en>Conifer Tree (Snow)</en>
+        <jp>針葉樹 (雪)</jp>
+    </Tile>
+    <Tile id="230">
+        <en>Bush (Snow)</en>
+        <jp>植え込み (雪)</jp>
+    </Tile>
+    <Tile id="231">
+        <en>Boulder B (Snow)</en>
+        <jp>岩B (雪)</jp>
+    </Tile>
+    <Tile id="232">
+        <en>Dead Tree</en>
+        <jp>枯れ木</jp>
+    </Tile>
+    <Tile id="233">
+        <en>Dead Tree</en>
+        <jp>枯れ木</jp>
+    </Tile>
+    <Tile id="234">
+        <en>Mushrooms A</en>
+        <jp>キノコA</jp>
+    </Tile>
+    <Tile id="235">
+        <en>Mushrooms B</en>
+        <jp>キノコB</jp>
+    </Tile>
+    <Tile id="236">
+        <en>Palm Tree</en>
+        <jp>ヤシの木</jp>
+    </Tile>
+    <Tile id="237">
+        <en>Palm Tree</en>
+        <jp>ヤシの木</jp>
+    </Tile>
+    <Tile id="238">
+        <en>Cactus</en>
+        <jp>サボテン</jp>
+    </Tile>
+    <Tile id="239">
+        <en>Dead Grass A</en>
+        <jp>枯れ草A</jp>
+    </Tile>
+    <Tile id="240">
+        <en>Dead Tree</en>
+        <jp>枯れ木</jp>
+    </Tile>
+    <Tile id="241">
+        <en>Dead Tree (Shrub)</en>
+        <jp>枯れ木 (低木)</jp>
+    </Tile>
+    <Tile id="242">
+        <en>Rafflesia</en>
+        <jp>ラフレシア</jp>
+    </Tile>
+    <Tile id="243">
+        <en>Stump (Moss)</en>
+        <jp>切り株 (苔)</jp>
+    </Tile>
+    <Tile id="244">
+        <en>Palm Tree</en>
+        <jp>ヤシの木</jp>
+    </Tile>
+    <Tile id="245">
+        <en>Bush (Flowers)</en>
+        <jp>植え込み (花)</jp>
+    </Tile>
+    <Tile id="246">
+        <en>Fern</en>
+        <jp>シダ</jp>
+    </Tile>
+    <Tile id="247">
+        <en>Dead Grass B</en>
+        <jp>枯れ草B</jp>
+    </Tile>
+    <Tile id="248">
+        <en>Hay</en>
+        <jp>干し草</jp>
+    </Tile>
+    <Tile id="249">
+        <en>Hay (Snow)</en>
+        <jp>干し草 (雪)</jp>
+    </Tile>
+    <Tile id="250">
+        <en>Floral Patch</en>
+        <jp>花畑</jp>
+    </Tile>
+    <Tile id="251">
+        <en>Susuki Grass</en>
+        <jp>ススキ</jp>
+    </Tile>
+    <Tile id="252">
+        <en>Fallen Leaves</en>
+        <jp>落ち葉</jp>
+    </Tile>
+    <Tile id="253">
+        <en>Lotus Pads A</en>
+        <jp>蓮の葉A</jp>
+    </Tile>
+    <Tile id="254">
+        <en>Lotus Pads B (Flowers)</en>
+        <jp>蓮の葉B (花)</jp>
+    </Tile>
+    <Tile id="255">
+        <en>Lotus Pads C</en>
+        <jp>蓮の葉C</jp>
+    </Tile>
+</TilesetData>

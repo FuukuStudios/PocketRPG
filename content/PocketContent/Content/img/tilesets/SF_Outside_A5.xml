@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="SF_Outside_A5">
+    <Tile id="0">
+        <en>Darkness</en>
+        <jp>暗闇</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Grid floor</en>
+        <jp>格子床</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Metal Bridge (V, Left)</en>
+        <jp>金属橋 (縦・左)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Metal Bridge (V, Center)</en>
+        <jp>金属橋 (縦・中央)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Metal Bridge (V, Right)</en>
+        <jp>金属橋 (縦・右)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Asphalt Bridge (H, Top)</en>
+        <jp>アスファルト橋 (横・上)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Metal Bridge (H, Center)</en>
+        <jp>金属橋 (横・中央)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Metal Bridge (H, Top)</en>
+        <jp>金属橋 (横・上)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Transparent</en>
+        <jp>透明</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Grid floor</en>
+        <jp>格子床</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Asphalt Bridge (V, Left)</en>
+        <jp>アスファルト橋 (縦・左)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Asphalt Bridge (V, Center)</en>
+        <jp>アスファルト橋 (縦・中央)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Asphalt Bridge (V, Right)</en>
+        <jp>アスファルト橋 (縦・右)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Asphalt Bridge (H, Bottom)</en>
+        <jp>アスファルト橋 (横・下)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Asphalt Bridge (H, Center)</en>
+        <jp>アスファルト橋 (横・中央)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Metal Bridge (H, Bottom)</en>
+        <jp>金属橋 (横・下)</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Waste Land</en>
+        <jp>荒地</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Metal Floor A (Factory)</en>
+        <jp>金属床A (工場)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Concrete Floor</en>
+        <jp>コンクリート床</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Concrete Floor (Ruins)</en>
+        <jp>コンクリート床 (廃墟)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Hole</en>
+        <jp>穴</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Grid floor (Ruins)</en>
+        <jp>格子床 (廃墟)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Asphalt Floor (Ruins)</en>
+        <jp>アスファルト床 (廃墟)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Metal Floor A (Factory, Ruins)</en>
+        <jp>金属床A (工場・廃墟)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Waste Land</en>
+        <jp>荒地</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Metal Floor A (Factory)</en>
+        <jp>金属床A (工場)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Concrete Floor</en>
+        <jp>コンクリート床</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Mecha Floor</en>
+        <jp>機械床</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Stairs A (Asphalt, Left)</en>
+        <jp>階段A (アスファルト・左)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Stairs A (Asphalt, Center)</en>
+        <jp>階段A (アスファルト・中央)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Stairs A (Asphalt, Right)</en>
+        <jp>階段A (アスファルト・右)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Stairs A (Asphalt)</en>
+        <jp>階段A (アスファルト)</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Dirty Floor</en>
+        <jp>汚れた床</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Dirty Floor (Ruins)</en>
+        <jp>汚れた床 (廃墟)</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Mecha Floor (Ruins) A</en>
+        <jp>機械床 (廃墟) A</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Mecha Floor (Ruins) B</en>
+        <jp>機械床 (廃墟) B</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Asphalt Floor (Dirty)</en>
+        <jp>アスファルト床 (汚れ)</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Asphalt Floor (Dirty, Ruins)</en>
+        <jp>アスファルト床 (汚れ・廃墟)</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Wood Floor A</en>
+        <jp>木の床A</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Wood Floor A (Ruins)</en>
+        <jp>木の床A (廃墟)</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Bumpy Tile A</en>
+        <jp>点字ブロックA</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Bumpy Tile B</en>
+        <jp>点字ブロックB</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Bumpy Tile C</en>
+        <jp>点字ブロックC</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Bumpy Tile C (Ruins)</en>
+        <jp>点字ブロックC (廃墟)</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Stairs B (Metal, Left)</en>
+        <jp>階段B (金属・左)</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Stairs B (Metal, Center)</en>
+        <jp>階段B (金属・中央)</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Stairs B (Metal, Right)</en>
+        <jp>階段B (金属・右)</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Stairs B (Metal)</en>
+        <jp>階段B (金属)</jp>
+    </Tile>
+    <Tile id="48">
+        <en>Interior Floor A (Green Resin)</en>
+        <jp>内装床A (緑樹脂)</jp>
+    </Tile>
+    <Tile id="49">
+        <en>Interior Floor B (Tile)</en>
+        <jp>内装床B (タイル)</jp>
+    </Tile>
+    <Tile id="50">
+        <en>Interior Floor B (Tile, Ruins)</en>
+        <jp>内装床B (タイル・廃墟)</jp>
+    </Tile>
+    <Tile id="51">
+        <en>Interior Floor C (Decoration)</en>
+        <jp>内装床C (装飾)</jp>
+    </Tile>
+    <Tile id="52">
+        <en>Interior Floor D (Decoration)</en>
+        <jp>内装床D (装飾)</jp>
+    </Tile>
+    <Tile id="53">
+        <en>Interior Floor E (Decoration)</en>
+        <jp>内装床E (装飾)</jp>
+    </Tile>
+    <Tile id="54">
+        <en>Wood Floor B</en>
+        <jp>木の床B</jp>
+    </Tile>
+    <Tile id="55">
+        <en>Wood Floor B (Ruins)</en>
+        <jp>木の床B (廃墟)</jp>
+    </Tile>
+    <Tile id="56">
+        <en>Stairs C (Meadow, Left)</en>
+        <jp>階段C (草地・左)</jp>
+    </Tile>
+    <Tile id="57">
+        <en>Stairs C (Meadow, Center)</en>
+        <jp>階段C (草地・中央)</jp>
+    </Tile>
+    <Tile id="58">
+        <en>Stairs C (Meadow, Right)</en>
+        <jp>階段C (草地・右)</jp>
+    </Tile>
+    <Tile id="59">
+        <en>Stairs C (Meadow)</en>
+        <jp>階段C (草地)</jp>
+    </Tile>
+    <Tile id="60">
+        <en>Stairs D (Wood, Left)</en>
+        <jp>階段D (木製・左)</jp>
+    </Tile>
+    <Tile id="61">
+        <en>Stairs D (Wood, Center)</en>
+        <jp>階段D (木製・中央)</jp>
+    </Tile>
+    <Tile id="62">
+        <en>Stairs D (Wood, Right)</en>
+        <jp>階段D (木製・右)</jp>
+    </Tile>
+    <Tile id="63">
+        <en>Stairs D (Wood)</en>
+        <jp>階段D (木製)</jp>
+    </Tile>
+    <Tile id="64">
+        <en>Cobblestones A</en>
+        <jp>石畳A</jp>
+    </Tile>
+    <Tile id="65">
+        <en>Cobblestones B</en>
+        <jp>石畳B</jp>
+    </Tile>
+    <Tile id="66">
+        <en>Cobblestones C</en>
+        <jp>石畳C</jp>
+    </Tile>
+    <Tile id="67">
+        <en>Cobblestones D</en>
+        <jp>石畳D</jp>
+    </Tile>
+    <Tile id="68">
+        <en>Metal Floor B</en>
+        <jp>金属床B</jp>
+    </Tile>
+    <Tile id="69">
+        <en>Metal Floor B (Rust, Ruins)</en>
+        <jp>金属床B (サビ・廃墟)</jp>
+    </Tile>
+    <Tile id="70">
+        <en>Metal Floor C</en>
+        <jp>金属床C</jp>
+    </Tile>
+    <Tile id="71">
+        <en>Metal Floor C (Rust, Ruins)</en>
+        <jp>金属床C (サビ・廃墟)</jp>
+    </Tile>
+    <Tile id="72">
+        <en>Stairs E (Carpet, Left)</en>
+        <jp>階段E (じゅうたん・左)</jp>
+    </Tile>
+    <Tile id="73">
+        <en>Stairs E (Carpet, Center)</en>
+        <jp>階段E (じゅうたん・中央)</jp>
+    </Tile>
+    <Tile id="74">
+        <en>Stairs E (Carpet, Right)</en>
+        <jp>階段E (じゅうたん・右)</jp>
+    </Tile>
+    <Tile id="75">
+        <en>Stairs E (Carpet)</en>
+        <jp>階段E (じゅうたん)</jp>
+    </Tile>
+    <Tile id="76">
+        <en>Stairs F (Desert, Left)</en>
+        <jp>階段F (砂地・左)</jp>
+    </Tile>
+    <Tile id="77">
+        <en>Stairs F (Desert, Center)</en>
+        <jp>階段F (砂地・中央)</jp>
+    </Tile>
+    <Tile id="78">
+        <en>Stairs F (Desert, Right)</en>
+        <jp>階段F (砂地・右)</jp>
+    </Tile>
+    <Tile id="79">
+        <en>Stairs F (Desert)</en>
+        <jp>階段F (砂地)</jp>
+    </Tile>
+    <Tile id="80">
+        <en>Mark Floor A</en>
+        <jp>マーク床A</jp>
+    </Tile>
+    <Tile id="81">
+        <en>Mark Floor B</en>
+        <jp>マーク床B</jp>
+    </Tile>
+    <Tile id="82">
+        <en>Mark Floor C</en>
+        <jp>マーク床C</jp>
+    </Tile>
+    <Tile id="83">
+        <en>Mark Floor D</en>
+        <jp>マーク床D</jp>
+    </Tile>
+    <Tile id="84">
+        <en>Mark Floor E</en>
+        <jp>マーク床E</jp>
+    </Tile>
+    <Tile id="85">
+        <en>Mark Floor E (Ruins)</en>
+        <jp>マーク床E (廃墟)</jp>
+    </Tile>
+    <Tile id="86">
+        <en>Mark Floor F (Off)</en>
+        <jp>マーク床F (消)</jp>
+    </Tile>
+    <Tile id="87">
+        <en>Mark Floor F</en>
+        <jp>マーク床F</jp>
+    </Tile>
+    <Tile id="88">
+        <en>Neon Floor</en>
+        <jp>ネオン床</jp>
+    </Tile>
+    <Tile id="89">
+        <en>Interior Floor F (Tile Carpet)</en>
+        <jp>内装床F (タイルカーペット)</jp>
+    </Tile>
+    <Tile id="90">
+        <en>Interior Floor F (Tile Carpet, Ruins)</en>
+        <jp>内装床F (タイルカーペット・廃墟)</jp>
+    </Tile>
+    <Tile id="91">
+        <en>Ledge (Demonic Ground)</en>
+        <jp>段差 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="92">
+        <en>Ledge (Demonic Ground)</en>
+        <jp>段差 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="93">
+        <en>Ledge (Demonic Ground)</en>
+        <jp>段差 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="94">
+        <en>Ledge (Demonic Ground)</en>
+        <jp>段差 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="95">
+        <en>Ledge (Demonic Ground)</en>
+        <jp>段差 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="96">
+        <en>Marble Floor</en>
+        <jp>大理石床</jp>
+    </Tile>
+    <Tile id="97">
+        <en>Interior Floor G (Linoleum)</en>
+        <jp>内装床G (リノリウム)</jp>
+    </Tile>
+    <Tile id="98">
+        <en>Interior Floor G (Linoleum, Ruins)</en>
+        <jp>内装床G (リノリウム・廃墟)</jp>
+    </Tile>
+    <Tile id="99">
+        <en>Ledge (Demonic Ground)</en>
+        <jp>段差 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="100">
+        <en>Ledge (Demonic Ground)</en>
+        <jp>段差 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="101">
+        <en>Ledge (Demonic Ground)</en>
+        <jp>段差 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="102">
+        <en>Ledge (Demonic Ground)</en>
+        <jp>段差 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="103">
+        <en>Ledge (Demonic Ground)</en>
+        <jp>段差 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="104">
+        <en>Stairs G (Tile Carpet, Left)</en>
+        <jp>階段G (タイルカーペット・左)</jp>
+    </Tile>
+    <Tile id="105">
+        <en>Stairs G (Tile Carpet, Center)</en>
+        <jp>階段G (タイルカーペット・中央)</jp>
+    </Tile>
+    <Tile id="106">
+        <en>Stairs G (Tile Carpet, Right)</en>
+        <jp>階段G (タイルカーペット・右)</jp>
+    </Tile>
+    <Tile id="107">
+        <en>Stairs G (Tile Carpet)</en>
+        <jp>階段G (タイルカーペット)</jp>
+    </Tile>
+    <Tile id="108">
+        <en>Cobblestones E</en>
+        <jp>石畳E</jp>
+    </Tile>
+    <Tile id="109">
+        <en>Ledge (Demonic Ground)</en>
+        <jp>段差 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="110">
+        <en>Ledge (Demonic Ground)</en>
+        <jp>段差 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="111">
+        <en>Ledge (Demonic Ground)</en>
+        <jp>段差 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="112">
+        <en>Stairs H (Linoleum, Left)</en>
+        <jp>階段H (リノリウム・左)</jp>
+    </Tile>
+    <Tile id="113">
+        <en>Stairs H (Linoleum, Center)</en>
+        <jp>階段H (リノリウム・中央)</jp>
+    </Tile>
+    <Tile id="114">
+        <en>Stairs H (Linoleum, Right)</en>
+        <jp>階段H (リノリウム・右)</jp>
+    </Tile>
+    <Tile id="115">
+        <en>Stairs H (Linoleum)</en>
+        <jp>階段H (リノリウム)</jp>
+    </Tile>
+    <Tile id="116">
+        <en>Cobblestones F</en>
+        <jp>石畳F</jp>
+    </Tile>
+    <Tile id="117">
+        <en>Cliff (Demonic Ground)</en>
+        <jp>崖 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="118">
+        <en>Cliff (Demonic Ground)</en>
+        <jp>崖 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="119">
+        <en>Cliff (Demonic Ground)</en>
+        <jp>崖 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="120">
+        <en>Marble Floor (Ruins)</en>
+        <jp>大理石床 (廃墟)</jp>
+    </Tile>
+    <Tile id="121">
+        <en>Wood Floor C</en>
+        <jp>木の床C</jp>
+    </Tile>
+    <Tile id="122">
+        <en>Wood Floor C (Ruins)</en>
+        <jp>木の床C (廃墟)</jp>
+    </Tile>
+    <Tile id="123">
+        <en>Metal Floor D (Machine)</en>
+        <jp>金属床D (機械)</jp>
+    </Tile>
+    <Tile id="124">
+        <en>Metal Floor D (Machine, Ruins)</en>
+        <jp>金属床D (機械・廃墟)</jp>
+    </Tile>
+    <Tile id="125">
+        <en>Cliff (Demonic Ground)</en>
+        <jp>崖 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="126">
+        <en>Cliff (Demonic Ground)</en>
+        <jp>崖 (魔界の地面)</jp>
+    </Tile>
+    <Tile id="127">
+        <en>Cliff (Demonic Ground)</en>
+        <jp>崖 (魔界の地面)</jp>
+    </Tile>
+</TilesetData>

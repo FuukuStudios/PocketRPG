@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Dungeon_A2">
+    <Tile id="0">
+        <en>Ground A (Dirt Cave)</en>
+        <jp>床A (土洞窟)</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Ground B (Grass Maze)</en>
+        <jp>床B (草迷宮)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Dark Ground A (Dirt Cave)</en>
+        <jp>濃い床A (土洞窟)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Dark Ground B (Grass Maze)</en>
+        <jp>濃い床B (草迷宮)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Hole A (Dirt Cave)</en>
+        <jp>穴A (土洞窟)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Hole B (Grass Maze)</en>
+        <jp>穴B (草迷宮)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Hole I (Stone Floor)</en>
+        <jp>穴I (石の床)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Ground Cracks</en>
+        <jp>床のひび割れ</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Ground C (Rock Cave)</en>
+        <jp>床C (岩洞窟)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Ground D (Crystal)</en>
+        <jp>床D (水晶)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Dark Ground C (Rock Cave)</en>
+        <jp>濃い床C (岩洞窟)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Dark Ground D (Crystal)</en>
+        <jp>濃い床D (水晶)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Hole C (Rock Cave)</en>
+        <jp>穴C (岩洞窟)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Hole D (Crystal)</en>
+        <jp>穴D (水晶)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Hole J</en>
+        <jp>穴J</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Soil on Ground</en>
+        <jp>床の汚れ</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Ground E (Lava Cave)</en>
+        <jp>床E (溶岩洞窟)</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Ground F (In Body)</en>
+        <jp>床F (体内)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Dark Ground E (Lava Cave)</en>
+        <jp>濃い床E (溶岩洞窟)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Rug A</en>
+        <jp>じゅうたんA</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Hole E (Lava Cave)</en>
+        <jp>穴E (溶岩洞窟)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Hole F (In Body)</en>
+        <jp>穴F (体内)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Fencepost</en>
+        <jp>柵</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Moss on Ground</en>
+        <jp>床の苔</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Ground G (Ice Cave)</en>
+        <jp>床G (氷洞窟)</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Ground H (Demonic World)</en>
+        <jp>床H (魔界)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Dark Ground G (Ice Cave)</en>
+        <jp>濃い床G (氷洞窟)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Rug B</en>
+        <jp>じゅうたんB</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Hole G (Ice Cave)</en>
+        <jp>穴G (氷洞窟)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Hole H (Demonic World)</en>
+        <jp>穴H (魔界)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Raised Stone</en>
+        <jp>石段</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Poison Swamp</en>
+        <jp>毒の沼</jp>
+    </Tile>
+</TilesetData>

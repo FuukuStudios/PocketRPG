@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="SF_Outside_C">
+    <Tile id="0">
+        <en>Fountain A</en>
+        <jp>噴水A</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Fountain A</en>
+        <jp>噴水A</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Fountain B</en>
+        <jp>噴水B</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Fountain B</en>
+        <jp>噴水B</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Slide</en>
+        <jp>滑り台</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Slide</en>
+        <jp>滑り台</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Exercise Bar</en>
+        <jp>鉄棒</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Drinking Fountain</en>
+        <jp>水飲み場</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Fountain A</en>
+        <jp>噴水A</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Fountain A</en>
+        <jp>噴水A</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Fountain B</en>
+        <jp>噴水B</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Fountain B</en>
+        <jp>噴水B</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Slide</en>
+        <jp>滑り台</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Slide</en>
+        <jp>滑り台</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Water Well Pump</en>
+        <jp>ポンプ井戸</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Garbage Dumpster</en>
+        <jp>ごみ収集箱</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Fountain C</en>
+        <jp>噴水C</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Fountain C</en>
+        <jp>噴水C</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Fountain C</en>
+        <jp>噴水C</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Bench A</en>
+        <jp>ベンチA</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Bench A</en>
+        <jp>ベンチA</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Swing</en>
+        <jp>ブランコ</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Shop Canopy</en>
+        <jp>店用天蓋</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Barbed Wire</en>
+        <jp>有刺鉄線</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Fountain C</en>
+        <jp>噴水C</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Fountain C</en>
+        <jp>噴水C</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Fountain C</en>
+        <jp>噴水C</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Bench B</en>
+        <jp>ベンチB</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Bench B</en>
+        <jp>ベンチB</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Swing</en>
+        <jp>ブランコ</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Shop Canopy</en>
+        <jp>店用天蓋</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Barbed Wire</en>
+        <jp>有刺鉄線</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Grass A</en>
+        <jp>草A</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Grass B</en>
+        <jp>草B</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Hole</en>
+        <jp>穴</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Small Stones</en>
+        <jp>小石</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Flower Bed</en>
+        <jp>花壇</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Flower Bed</en>
+        <jp>花壇</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Flower Bed</en>
+        <jp>花壇</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Barbed Wire</en>
+        <jp>有刺鉄線</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Flower</en>
+        <jp>花</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Cage</en>
+        <jp>檻</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Cage</en>
+        <jp>檻</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Graffiti</en>
+        <jp>落書き</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Graffiti</en>
+        <jp>落書き</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Barbed Wire</en>
+        <jp>有刺鉄線</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Barbed Wire</en>
+        <jp>有刺鉄線</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Barbed Wire</en>
+        <jp>有刺鉄線</jp>
+    </Tile>
+    <Tile id="48">
+        <en>Demon Statue</en>
+        <jp>悪魔像</jp>
+    </Tile>
+    <Tile id="49">
+        <en>Goddess Statue</en>
+        <jp>女神像</jp>
+    </Tile>
+    <Tile id="50">
+        <en>Metal Fence</en>
+        <jp>金属フェンス</jp>
+    </Tile>
+    <Tile id="51">
+        <en>Metal Fence</en>
+        <jp>金属フェンス</jp>
+    </Tile>
+    <Tile id="52">
+        <en>Metal Fence</en>
+        <jp>金属フェンス</jp>
+    </Tile>
+    <Tile id="53">
+        <en>Gutter</en>
+        <jp>側溝</jp>
+    </Tile>
+    <Tile id="54">
+        <en>Gutter</en>
+        <jp>側溝</jp>
+    </Tile>
+    <Tile id="55">
+        <en>Gutter</en>
+        <jp>側溝</jp>
+    </Tile>
+    <Tile id="56">
+        <en>Demon Statue</en>
+        <jp>悪魔像</jp>
+    </Tile>
+    <Tile id="57">
+        <en>Goddess Statue</en>
+        <jp>女神像</jp>
+    </Tile>
+    <Tile id="58">
+        <en>Metal Fence</en>
+        <jp>金属フェンス</jp>
+    </Tile>
+    <Tile id="59">
+        <en>Warning Plate</en>
+        <jp>警告プレート</jp>
+    </Tile>
+    <Tile id="60">
+        <en>Metal Fence</en>
+        <jp>金属フェンス</jp>
+    </Tile>
+    <Tile id="61">
+        <en>Gutter</en>
+        <jp>側溝</jp>
+    </Tile>
+    <Tile id="62">
+        <en>Postal Box</en>
+        <jp>ポスト</jp>
+    </Tile>
+    <Tile id="63">
+        <en>Gutter</en>
+        <jp>側溝</jp>
+    </Tile>
+    <Tile id="64">
+        <en>Soldier Statue</en>
+        <jp>兵士像</jp>
+    </Tile>
+    <Tile id="65">
+        <en>Warning Plate (Biohazard Mark)</en>
+        <jp>警告プレート (バイオハザードマーク)</jp>
+    </Tile>
+    <Tile id="66">
+        <en>Metal Fence</en>
+        <jp>金属フェンス</jp>
+    </Tile>
+    <Tile id="67">
+        <en>Metal Fence</en>
+        <jp>金属フェンス</jp>
+    </Tile>
+    <Tile id="68">
+        <en>Metal Fence</en>
+        <jp>金属フェンス</jp>
+    </Tile>
+    <Tile id="69">
+        <en>Gutter</en>
+        <jp>側溝</jp>
+    </Tile>
+    <Tile id="70">
+        <en>Gutter</en>
+        <jp>側溝</jp>
+    </Tile>
+    <Tile id="71">
+        <en>Gutter</en>
+        <jp>側溝</jp>
+    </Tile>
+    <Tile id="72">
+        <en>Soldier Statue</en>
+        <jp>兵士像</jp>
+    </Tile>
+    <Tile id="73">
+        <en>Pillar A (Asphalt)</en>
+        <jp>柱A (アスファルト)</jp>
+    </Tile>
+    <Tile id="74">
+        <en>Pillar B (Metal)</en>
+        <jp>柱B (金属)</jp>
+    </Tile>
+    <Tile id="75">
+        <en>Pillar C (Machine)</en>
+        <jp>柱C (機械)</jp>
+    </Tile>
+    <Tile id="76">
+        <en>Pillar D (Decoration)</en>
+        <jp>柱D (装飾)</jp>
+    </Tile>
+    <Tile id="77">
+        <en>Pillar E (Metal)</en>
+        <jp>柱E (金属)</jp>
+    </Tile>
+    <Tile id="78">
+        <en>Pillar F (Brick)</en>
+        <jp>柱F (レンガ)</jp>
+    </Tile>
+    <Tile id="79">
+        <en>Food Waste</en>
+        <jp>生ゴミ</jp>
+    </Tile>
+    <Tile id="80">
+        <en>Warning Plate</en>
+        <jp>警告プレート</jp>
+    </Tile>
+    <Tile id="81">
+        <en>Pillar A (Asphalt)</en>
+        <jp>柱A (アスファルト)</jp>
+    </Tile>
+    <Tile id="82">
+        <en>Pillar B (Metal)</en>
+        <jp>柱B (金属)</jp>
+    </Tile>
+    <Tile id="83">
+        <en>Pillar C (Machine)</en>
+        <jp>柱C (機械)</jp>
+    </Tile>
+    <Tile id="84">
+        <en>Pillar D (Decoration)</en>
+        <jp>柱D (装飾)</jp>
+    </Tile>
+    <Tile id="85">
+        <en>Pillar E (Metal)</en>
+        <jp>柱E (金属)</jp>
+    </Tile>
+    <Tile id="86">
+        <en>Pillar F (Brick)</en>
+        <jp>柱F (レンガ)</jp>
+    </Tile>
+    <Tile id="87">
+        <en>Mysterious Liquid</en>
+        <jp>謎の液体</jp>
+    </Tile>
+    <Tile id="88">
+        <en>Warning Plate</en>
+        <jp>警告プレート</jp>
+    </Tile>
+    <Tile id="89">
+        <en>Broken Pillar A (Asphalt)</en>
+        <jp>折れた柱A (アスファルト)</jp>
+    </Tile>
+    <Tile id="90">
+        <en>Broken Pillar B (Metal)</en>
+        <jp>折れた柱B (金属)</jp>
+    </Tile>
+    <Tile id="91">
+        <en>Broken Pillar C (Machine)</en>
+        <jp>折れた柱C (機械)</jp>
+    </Tile>
+    <Tile id="92">
+        <en>Broken Pillar D (Decoration)</en>
+        <jp>折れた柱D (装飾)</jp>
+    </Tile>
+    <Tile id="93">
+        <en>Broken Pillar E (Metal)</en>
+        <jp>折れた柱E (金属)</jp>
+    </Tile>
+    <Tile id="94">
+        <en>Broken Pillar F (Brick)</en>
+        <jp>折れた柱F (レンガ)</jp>
+    </Tile>
+    <Tile id="95">
+        <en>Fire Hydrant</en>
+        <jp>消火栓</jp>
+    </Tile>
+    <Tile id="96">
+        <en>Monument A</en>
+        <jp>モニュメントA</jp>
+    </Tile>
+    <Tile id="97">
+        <en>Monument B</en>
+        <jp>モニュメントB</jp>
+    </Tile>
+    <Tile id="98">
+        <en>Huge Stele</en>
+        <jp>巨大な石版</jp>
+    </Tile>
+    <Tile id="99">
+        <en>Huge Stele</en>
+        <jp>巨大な石版</jp>
+    </Tile>
+    <Tile id="100">
+        <en>Huge Stele</en>
+        <jp>巨大な石版</jp>
+    </Tile>
+    <Tile id="101">
+        <en>Huge Iron Monument</en>
+        <jp>巨大プレート</jp>
+    </Tile>
+    <Tile id="102">
+        <en>Huge Iron Monument</en>
+        <jp>巨大プレート</jp>
+    </Tile>
+    <Tile id="103">
+        <en>Huge Iron Monument</en>
+        <jp>巨大プレート</jp>
+    </Tile>
+    <Tile id="104">
+        <en>Monument A</en>
+        <jp>モニュメントA</jp>
+    </Tile>
+    <Tile id="105">
+        <en>Monument B</en>
+        <jp>モニュメントB</jp>
+    </Tile>
+    <Tile id="106">
+        <en>Huge Stele</en>
+        <jp>巨大な石版</jp>
+    </Tile>
+    <Tile id="107">
+        <en>Huge Stele</en>
+        <jp>巨大な石版</jp>
+    </Tile>
+    <Tile id="108">
+        <en>Huge Stele</en>
+        <jp>巨大な石版</jp>
+    </Tile>
+    <Tile id="109">
+        <en>Huge Iron Monument</en>
+        <jp>巨大プレート</jp>
+    </Tile>
+    <Tile id="110">
+        <en>Huge Iron Monument</en>
+        <jp>巨大プレート</jp>
+    </Tile>
+    <Tile id="111">
+        <en>Huge Iron Monument</en>
+        <jp>巨大プレート</jp>
+    </Tile>
+    <Tile id="112">
+        <en>Monument C</en>
+        <jp>モニュメントC</jp>
+    </Tile>
+    <Tile id="113">
+        <en>Monument D</en>
+        <jp>モニュメントD</jp>
+    </Tile>
+    <Tile id="114">
+        <en>Sphere Machinery</en>
+        <jp>球体機械</jp>
+    </Tile>
+    <Tile id="115">
+        <en>Sphere Machinery</en>
+        <jp>球体機械</jp>
+    </Tile>
+    <Tile id="116">
+        <en>Sphere Machinery</en>
+        <jp>球体機械</jp>
+    </Tile>
+    <Tile id="117">
+        <en>Large Machine</en>
+        <jp>大型機械</jp>
+    </Tile>
+    <Tile id="118">
+        <en>Large Machine</en>
+        <jp>大型機械</jp>
+    </Tile>
+    <Tile id="119">
+        <en>Large Machine</en>
+        <jp>大型機械</jp>
+    </Tile>
+    <Tile id="120">
+        <en>Monument C</en>
+        <jp>モニュメントC</jp>
+    </Tile>
+    <Tile id="121">
+        <en>Control Panel</en>
+        <jp>コントロールパネル</jp>
+    </Tile>
+    <Tile id="122">
+        <en>Sphere Machinery</en>
+        <jp>球体機械</jp>
+    </Tile>
+    <Tile id="123">
+        <en>Sphere Machinery</en>
+        <jp>球体機械</jp>
+    </Tile>
+    <Tile id="124">
+        <en>Sphere Machinery</en>
+        <jp>球体機械</jp>
+    </Tile>
+    <Tile id="125">
+        <en>Large Machine</en>
+        <jp>大型機械</jp>
+    </Tile>
+    <Tile id="126">
+        <en>Large Machine</en>
+        <jp>大型機械</jp>
+    </Tile>
+    <Tile id="127">
+        <en>Large Machine</en>
+        <jp>大型機械</jp>
+    </Tile>
+    <Tile id="128">
+        <en>Wall A</en>
+        <jp>壁A</jp>
+    </Tile>
+    <Tile id="129">
+        <en>Wall A</en>
+        <jp>壁A</jp>
+    </Tile>
+    <Tile id="130">
+        <en>Wall A</en>
+        <jp>壁A</jp>
+    </Tile>
+    <Tile id="131">
+        <en>Decorative Pillar A</en>
+        <jp>装飾柱A</jp>
+    </Tile>
+    <Tile id="132">
+        <en>Arch A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="133">
+        <en>Arch A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="134">
+        <en>Arch A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="135">
+        <en>Decorative Pillar B</en>
+        <jp>装飾柱B</jp>
+    </Tile>
+    <Tile id="136">
+        <en>Wall A</en>
+        <jp>壁A</jp>
+    </Tile>
+    <Tile id="137">
+        <en>Wall A</en>
+        <jp>壁A</jp>
+    </Tile>
+    <Tile id="138">
+        <en>Wall A</en>
+        <jp>壁A</jp>
+    </Tile>
+    <Tile id="139">
+        <en>Decorative Pillar A</en>
+        <jp>装飾柱A</jp>
+    </Tile>
+    <Tile id="140">
+        <en>Arch A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="141">
+        <en>Arch A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="142">
+        <en>Arch A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="143">
+        <en>Decorative Pillar B</en>
+        <jp>装飾柱B</jp>
+    </Tile>
+    <Tile id="144">
+        <en>Wall A</en>
+        <jp>壁A</jp>
+    </Tile>
+    <Tile id="145">
+        <en>Wall A</en>
+        <jp>壁A</jp>
+    </Tile>
+    <Tile id="146">
+        <en>Wall A</en>
+        <jp>壁A</jp>
+    </Tile>
+    <Tile id="147">
+        <en>Decorative Pillar A</en>
+        <jp>装飾柱A</jp>
+    </Tile>
+    <Tile id="148">
+        <en>Arch A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="149">
+        <en>Arch A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="150">
+        <en>Arch A</en>
+        <jp>門A</jp>
+    </Tile>
+    <Tile id="151">
+        <en>Decorative Pillar B</en>
+        <jp>装飾柱B</jp>
+    </Tile>
+    <Tile id="152">
+        <en>Wall B (Topside)</en>
+        <jp>壁B (上面)</jp>
+    </Tile>
+    <Tile id="153">
+        <en>Wall B (Topside)</en>
+        <jp>壁B (上面)</jp>
+    </Tile>
+    <Tile id="154">
+        <en>Wall B (Topside)</en>
+        <jp>壁B (上面)</jp>
+    </Tile>
+    <Tile id="155">
+        <en>Spire</en>
+        <jp>尖塔</jp>
+    </Tile>
+    <Tile id="156">
+        <en>Clock Tower</en>
+        <jp>時計塔</jp>
+    </Tile>
+    <Tile id="157">
+        <en>Clock Tower</en>
+        <jp>時計塔</jp>
+    </Tile>
+    <Tile id="158">
+        <en>Clock Tower</en>
+        <jp>時計塔</jp>
+    </Tile>
+    <Tile id="159">
+        <en>Wall A Ceiling</en>
+        <jp>壁A天井</jp>
+    </Tile>
+    <Tile id="160">
+        <en>Wall B (Topside)</en>
+        <jp>壁B (上面)</jp>
+    </Tile>
+    <Tile id="161">
+        <en>Wall B (Topside)</en>
+        <jp>壁B (上面)</jp>
+    </Tile>
+    <Tile id="162">
+        <en>Wall B (Topside)</en>
+        <jp>壁B (上面)</jp>
+    </Tile>
+    <Tile id="163">
+        <en>Spire</en>
+        <jp>尖塔</jp>
+    </Tile>
+    <Tile id="164">
+        <en>Clock Tower</en>
+        <jp>時計塔</jp>
+    </Tile>
+    <Tile id="165">
+        <en>Clock Tower</en>
+        <jp>時計塔</jp>
+    </Tile>
+    <Tile id="166">
+        <en>Clock Tower</en>
+        <jp>時計塔</jp>
+    </Tile>
+    <Tile id="167">
+        <en>Decorative Pillar A (Front)</en>
+        <jp>装飾柱A(手前)</jp>
+    </Tile>
+    <Tile id="168">
+        <en>Wall B (Topside)</en>
+        <jp>壁B (上面)</jp>
+    </Tile>
+    <Tile id="169">
+        <en>Wall B (Topside)</en>
+        <jp>壁B (上面)</jp>
+    </Tile>
+    <Tile id="170">
+        <en>Wall B (Topside)</en>
+        <jp>壁B (上面)</jp>
+    </Tile>
+    <Tile id="171">
+        <en>Spire</en>
+        <jp>尖塔</jp>
+    </Tile>
+    <Tile id="172">
+        <en>Clock Tower</en>
+        <jp>時計塔</jp>
+    </Tile>
+    <Tile id="173">
+        <en>Clock Tower</en>
+        <jp>時計塔</jp>
+    </Tile>
+    <Tile id="174">
+        <en>Clock Tower</en>
+        <jp>時計塔</jp>
+    </Tile>
+    <Tile id="175">
+        <en>Decorative Pillar B (Front)</en>
+        <jp>装飾柱B(手前)</jp>
+    </Tile>
+    <Tile id="176">
+        <en>Wall B</en>
+        <jp>壁B</jp>
+    </Tile>
+    <Tile id="177">
+        <en>Wall B</en>
+        <jp>壁B</jp>
+    </Tile>
+    <Tile id="178">
+        <en>Wall B</en>
+        <jp>壁B</jp>
+    </Tile>
+    <Tile id="179">
+        <en>Spire</en>
+        <jp>尖塔</jp>
+    </Tile>
+    <Tile id="180">
+        <en>Arch B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="181">
+        <en>Arch B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="182">
+        <en>Arch B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="183">
+        <en>Iron Fence B</en>
+        <jp>鉄柵B</jp>
+    </Tile>
+    <Tile id="184">
+        <en>Wall B</en>
+        <jp>壁B</jp>
+    </Tile>
+    <Tile id="185">
+        <en>Wall B</en>
+        <jp>壁B</jp>
+    </Tile>
+    <Tile id="186">
+        <en>Wall B</en>
+        <jp>壁B</jp>
+    </Tile>
+    <Tile id="187">
+        <en>Spire</en>
+        <jp>尖塔</jp>
+    </Tile>
+    <Tile id="188">
+        <en>Arch B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="189">
+        <en>Arch B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="190">
+        <en>Arch B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="191">
+        <en>Gate</en>
+        <jp>門扉</jp>
+    </Tile>
+    <Tile id="192">
+        <en>Wall B</en>
+        <jp>壁B</jp>
+    </Tile>
+    <Tile id="193">
+        <en>Wall B</en>
+        <jp>壁B</jp>
+    </Tile>
+    <Tile id="194">
+        <en>Wall B</en>
+        <jp>壁B</jp>
+    </Tile>
+    <Tile id="195">
+        <en>Spire</en>
+        <jp>尖塔</jp>
+    </Tile>
+    <Tile id="196">
+        <en>Arch B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="197">
+        <en>Arch B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="198">
+        <en>Arch B</en>
+        <jp>門B</jp>
+    </Tile>
+    <Tile id="199">
+        <en>Gate</en>
+        <jp>門扉</jp>
+    </Tile>
+    <Tile id="200">
+        <en>Rooftop Railing</en>
+        <jp>屋上用手すり</jp>
+    </Tile>
+    <Tile id="201">
+        <en>Rooftop Railing</en>
+        <jp>屋上用手すり</jp>
+    </Tile>
+    <Tile id="202">
+        <en>Rooftop Railing</en>
+        <jp>屋上用手すり</jp>
+    </Tile>
+    <Tile id="203">
+        <en>Iron Fence A</en>
+        <jp>鉄柵A</jp>
+    </Tile>
+    <Tile id="204">
+        <en>Tank</en>
+        <jp>戦車</jp>
+    </Tile>
+    <Tile id="205">
+        <en>Tank</en>
+        <jp>戦車</jp>
+    </Tile>
+    <Tile id="206">
+        <en>Helicopter</en>
+        <jp>ヘリコプター</jp>
+    </Tile>
+    <Tile id="207">
+        <en>Helicopter</en>
+        <jp>ヘリコプター</jp>
+    </Tile>
+    <Tile id="208">
+        <en>Rooftop Railing</en>
+        <jp>屋上用手すり</jp>
+    </Tile>
+    <Tile id="209">
+        <en>Round Clock</en>
+        <jp>丸時計</jp>
+    </Tile>
+    <Tile id="210">
+        <en>Rooftop Railing</en>
+        <jp>屋上用手すり</jp>
+    </Tile>
+    <Tile id="211">
+        <en>Iron Fence A</en>
+        <jp>鉄柵A</jp>
+    </Tile>
+    <Tile id="212">
+        <en>Tank</en>
+        <jp>戦車</jp>
+    </Tile>
+    <Tile id="213">
+        <en>Tank</en>
+        <jp>戦車</jp>
+    </Tile>
+    <Tile id="214">
+        <en>Helicopter</en>
+        <jp>ヘリコプター</jp>
+    </Tile>
+    <Tile id="215">
+        <en>Helicopter</en>
+        <jp>ヘリコプター</jp>
+    </Tile>
+    <Tile id="216">
+        <en>Rooftop Railing</en>
+        <jp>屋上用手すり</jp>
+    </Tile>
+    <Tile id="217">
+        <en>Rooftop Railing</en>
+        <jp>屋上用手すり</jp>
+    </Tile>
+    <Tile id="218">
+        <en>Rooftop Railing</en>
+        <jp>屋上用手すり</jp>
+    </Tile>
+    <Tile id="219">
+        <en>Iron Fence A</en>
+        <jp>鉄柵A</jp>
+    </Tile>
+    <Tile id="220">
+        <en>Rooftop Billboard B</en>
+        <jp>屋上看板B</jp>
+    </Tile>
+    <Tile id="221">
+        <en>Rooftop Billboard B</en>
+        <jp>屋上看板B</jp>
+    </Tile>
+    <Tile id="222">
+        <en>Food Cart</en>
+        <jp>屋台</jp>
+    </Tile>
+    <Tile id="223">
+        <en>Food Cart</en>
+        <jp>屋台</jp>
+    </Tile>
+    <Tile id="224">
+        <en>Convenience Store</en>
+        <jp>コンビニエンスストア</jp>
+    </Tile>
+    <Tile id="225">
+        <en>Convenience Store</en>
+        <jp>コンビニエンスストア</jp>
+    </Tile>
+    <Tile id="226">
+        <en>Convenience Store</en>
+        <jp>コンビニエンスストア</jp>
+    </Tile>
+    <Tile id="227">
+        <en>Steel Tower</en>
+        <jp>鉄塔</jp>
+    </Tile>
+    <Tile id="228">
+        <en>Rooftop Billboard A</en>
+        <jp>屋上看板A</jp>
+    </Tile>
+    <Tile id="229">
+        <en>Roof</en>
+        <jp>屋根</jp>
+    </Tile>
+    <Tile id="230">
+        <en>Roof</en>
+        <jp>屋根</jp>
+    </Tile>
+    <Tile id="231">
+        <en>Roof</en>
+        <jp>屋根</jp>
+    </Tile>
+    <Tile id="232">
+        <en>Convenience Store</en>
+        <jp>コンビニエンスストア</jp>
+    </Tile>
+    <Tile id="233">
+        <en>Convenience Store</en>
+        <jp>コンビニエンスストア</jp>
+    </Tile>
+    <Tile id="234">
+        <en>Convenience Store</en>
+        <jp>コンビニエンスストア</jp>
+    </Tile>
+    <Tile id="235">
+        <en>Steel Tower</en>
+        <jp>鉄塔</jp>
+    </Tile>
+    <Tile id="236">
+        <en>Water Storage Tank</en>
+        <jp>貯水タンク</jp>
+    </Tile>
+    <Tile id="237">
+        <en>Roof</en>
+        <jp>屋根</jp>
+    </Tile>
+    <Tile id="238">
+        <en>Roof</en>
+        <jp>屋根</jp>
+    </Tile>
+    <Tile id="239">
+        <en>Roof</en>
+        <jp>屋根</jp>
+    </Tile>
+    <Tile id="240">
+        <en>Bus Waiting Area</en>
+        <jp>待合所</jp>
+    </Tile>
+    <Tile id="241">
+        <en>Bus Waiting Area</en>
+        <jp>待合所</jp>
+    </Tile>
+    <Tile id="242">
+        <en>Station Kiosk</en>
+        <jp>駅の売店</jp>
+    </Tile>
+    <Tile id="243">
+        <en>Steel Tower</en>
+        <jp>鉄塔</jp>
+    </Tile>
+    <Tile id="244">
+        <en>Water Storage Tank</en>
+        <jp>貯水タンク</jp>
+    </Tile>
+    <Tile id="245">
+        <en>Roof</en>
+        <jp>屋根</jp>
+    </Tile>
+    <Tile id="246">
+        <en>Roof</en>
+        <jp>屋根</jp>
+    </Tile>
+    <Tile id="247">
+        <en>Roof</en>
+        <jp>屋根</jp>
+    </Tile>
+    <Tile id="248">
+        <en>Bus Waiting Area</en>
+        <jp>待合所</jp>
+    </Tile>
+    <Tile id="249">
+        <en>Bus Waiting Area</en>
+        <jp>待合所</jp>
+    </Tile>
+    <Tile id="250">
+        <en>Station Kiosk</en>
+        <jp>駅の売店</jp>
+    </Tile>
+    <Tile id="251">
+        <en>Roof Detail</en>
+        <jp>屋根飾り</jp>
+    </Tile>
+    <Tile id="252">
+        <en>Roof</en>
+        <jp>屋根</jp>
+    </Tile>
+    <Tile id="253">
+        <en>Roof</en>
+        <jp>屋根</jp>
+    </Tile>
+    <Tile id="254">
+        <en>Roof</en>
+        <jp>屋根</jp>
+    </Tile>
+    <Tile id="255">
+        <en>Roof</en>
+        <jp>屋根</jp>
+    </Tile>
+</TilesetData>

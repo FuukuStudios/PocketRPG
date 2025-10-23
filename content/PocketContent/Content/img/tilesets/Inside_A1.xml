@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Inside_A1">
+    <Tile id="0">
+        <en>Water A</en>
+        <jp>水場A</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Deep Water</en>
+        <jp>深い水場</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Lotus Pads (Flowers)</en>
+        <jp>蓮の葉 (花)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Purple Water</en>
+        <jp>紫の水</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Water B (Surround Stonewall)</en>
+        <jp>水場B (囲み石壁)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Waterfall A (Shine Fall)</en>
+        <jp>滝A (光る滝)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Pond A (Rock Pond)</en>
+        <jp>池A (岩池)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Waterfall B (Grid Fall)</en>
+        <jp>滝B (マス目滝)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Water C (Tile)</en>
+        <jp>水場C (タイル)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Water D (Small Hole)</en>
+        <jp>水場D (小穴)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Water E (Water Surface)</en>
+        <jp>水場E (水面)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Water F (Water Footing)</en>
+        <jp>水場F (足場)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Water G (Surround Waterwall)</en>
+        <jp>水場G (囲み水壁)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Water H (Big Hole)</en>
+        <jp>水場H (大穴)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Pond B (Purple Rock Pond)</en>
+        <jp>池B (紫岩池)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Waterfall C (Purple Fall)</en>
+        <jp>滝C (紫滝)</jp>
+    </Tile>
+</TilesetData>

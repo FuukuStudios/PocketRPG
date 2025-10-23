@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="World_A2">
+    <Tile id="0">
+        <en>Grassland A</en>
+        <jp>草原A</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Grassland A (Dark)</en>
+        <jp>草原A (濃)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Grassland B</en>
+        <jp>草原B</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Grassland B (Dark)</en>
+        <jp>草原B (濃)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Forest</en>
+        <jp>森</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Forest (Conifer)</en>
+        <jp>森 (針葉樹)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Mountain (Grass)</en>
+        <jp>山 (草)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Mountain (Dirt)</en>
+        <jp>山 (土)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Wasteland A</en>
+        <jp>荒れ地A</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Wasteland B</en>
+        <jp>荒れ地B</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Dirt Field A</en>
+        <jp>土肌A</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Dirt Field B</en>
+        <jp>土肌B</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Forest (Dead Trees)</en>
+        <jp>森 (枯れ木)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Road (Dirt)</en>
+        <jp>道 (土)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Hill (Dirt)</en>
+        <jp>丘 (土)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Mountain (Sandstone)</en>
+        <jp>山 (砂岩)</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Desert A</en>
+        <jp>砂漠A</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Desert B</en>
+        <jp>砂漠B</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Rocky Land A</en>
+        <jp>岩地A</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Rocky Land B (Lava)</en>
+        <jp>岩地B (溶岩)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Forest (Palm Trees)</en>
+        <jp>森 (ヤシの木)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Road (Paved)</en>
+        <jp>道 (舗装)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Mountain (Rock)</en>
+        <jp>山 (岩)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Mountain (Lava)</en>
+        <jp>山 (溶岩)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Snowfield</en>
+        <jp>雪原</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Mountain (Snow)</en>
+        <jp>山 (雪)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Clouds</en>
+        <jp>雲</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Large Clouds</en>
+        <jp>大きな雲</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Forest (Snow)</en>
+        <jp>森 (雪)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Pit</en>
+        <jp>穴</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Hill (Sandstone)</en>
+        <jp>丘 (砂岩)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Hill (Snow)</en>
+        <jp>丘 (雪)</jp>
+    </Tile>
+</TilesetData>

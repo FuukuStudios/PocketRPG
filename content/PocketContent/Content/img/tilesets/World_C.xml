@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="World_C">
+    <Tile id="0">
+        <en>Hole</en>
+        <jp>穴</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Signboard A</en>
+        <jp>看板A</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Signboard B</en>
+        <jp>看板B</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Signboard C</en>
+        <jp>看板C</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Iron Bridge (H)</en>
+        <jp>鉄橋 (横)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Iron Bridge (V)</en>
+        <jp>鉄橋 (縦)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Reservoir A</en>
+        <jp>貯水池A</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Reservoir B</en>
+        <jp>貯水池B</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Hut</en>
+        <jp>小屋</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Shanty</en>
+        <jp>掘っ立て小屋</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Signboard D</en>
+        <jp>看板D</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Digital Signage A</en>
+        <jp>電子看板A</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Digital Signage B</en>
+        <jp>電子看板B</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Windmill</en>
+        <jp>風車</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Parabolic Antenna</en>
+        <jp>パラボラアンテナ</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Heliport</en>
+        <jp>ヘリポート</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Entrance A (Open)</en>
+        <jp>入口A (開)</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Entrance A (Closed)</en>
+        <jp>入口A (閉)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Entrance B (Open)</en>
+        <jp>入口B (開)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Entrance B (Closed)</en>
+        <jp>入口B (閉)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Entrance C (Open)</en>
+        <jp>入口C (開)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Entrance C (Closed)</en>
+        <jp>入口C (閉)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Entrance D (Closed)</en>
+        <jp>入口D (閉)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Entrance E (Closed)</en>
+        <jp>入口E (閉)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Road</en>
+        <jp>道路</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Road</en>
+        <jp>道路</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Road Closed</en>
+        <jp>通行止め</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Rocky Mountain A</en>
+        <jp>岩山A</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Rocky Mountain A</en>
+        <jp>岩山A</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Rocky Mountain B</en>
+        <jp>岩山B</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Rocky Mountain B</en>
+        <jp>岩山B</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Rocky Mountain C</en>
+        <jp>岩山C</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Road</en>
+        <jp>道路</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Road</en>
+        <jp>道路</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Road</en>
+        <jp>道路</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Rocky Mountain A</en>
+        <jp>岩山A</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Rocky Mountain A</en>
+        <jp>岩山A</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Rocky Mountain B</en>
+        <jp>岩山B</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Rocky Mountain B</en>
+        <jp>岩山B</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Rocky Mountain C</en>
+        <jp>岩山C</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Road</en>
+        <jp>道路</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Road</en>
+        <jp>道路</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Road</en>
+        <jp>道路</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Rocky Mountain A</en>
+        <jp>岩山A</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Rocky Mountain A</en>
+        <jp>岩山A</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Rocky Mountain B</en>
+        <jp>岩山B</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Rocky Mountain B</en>
+        <jp>岩山B</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Rocky Mountain D</en>
+        <jp>岩山D</jp>
+    </Tile>
+    <Tile id="48">
+        <en>Road</en>
+        <jp>道路</jp>
+    </Tile>
+    <Tile id="49">
+        <en>Road</en>
+        <jp>道路</jp>
+    </Tile>
+    <Tile id="50">
+        <en>Road</en>
+        <jp>道路</jp>
+    </Tile>
+    <Tile id="51">
+        <en>Rocky Mountain A</en>
+        <jp>岩山A</jp>
+    </Tile>
+    <Tile id="52">
+        <en>Rocky Mountain A</en>
+        <jp>岩山A</jp>
+    </Tile>
+    <Tile id="53">
+        <en>Rocky Mountain B</en>
+        <jp>岩山B</jp>
+    </Tile>
+    <Tile id="54">
+        <en>Rocky Mountain B</en>
+        <jp>岩山B</jp>
+    </Tile>
+    <Tile id="55">
+        <en>Broken Buildings</en>
+        <jp>壊れたビル街</jp>
+    </Tile>
+    <Tile id="56">
+        <en>Town A</en>
+        <jp>町A</jp>
+    </Tile>
+    <Tile id="57">
+        <en>Town B</en>
+        <jp>町B</jp>
+    </Tile>
+    <Tile id="58">
+        <en>Slum A</en>
+        <jp>スラム街A</jp>
+    </Tile>
+    <Tile id="59">
+        <en>Slum B</en>
+        <jp>スラム街B</jp>
+    </Tile>
+    <Tile id="60">
+        <en>Mansion A</en>
+        <jp>邸宅A</jp>
+    </Tile>
+    <Tile id="61">
+        <en>Mansion A</en>
+        <jp>邸宅A</jp>
+    </Tile>
+    <Tile id="62">
+        <en>Gate A</en>
+        <jp>ゲートA</jp>
+    </Tile>
+    <Tile id="63">
+        <en>Gate B</en>
+        <jp>ゲートB</jp>
+    </Tile>
+    <Tile id="64">
+        <en>Shopping Area A</en>
+        <jp>商店街A</jp>
+    </Tile>
+    <Tile id="65">
+        <en>Shopping Area B</en>
+        <jp>商店街B</jp>
+    </Tile>
+    <Tile id="66">
+        <en>Buildings A</en>
+        <jp>ビル街A</jp>
+    </Tile>
+    <Tile id="67">
+        <en>Buildings B</en>
+        <jp>ビル街B</jp>
+    </Tile>
+    <Tile id="68">
+        <en>Mansion B</en>
+        <jp>邸宅B</jp>
+    </Tile>
+    <Tile id="69">
+        <en>Mansion B</en>
+        <jp>邸宅B</jp>
+    </Tile>
+    <Tile id="70">
+        <en>Gate C</en>
+        <jp>ゲートC</jp>
+    </Tile>
+    <Tile id="71">
+        <en>Gate D</en>
+        <jp>ゲートD</jp>
+    </Tile>
+    <Tile id="72">
+        <en>Residential Street</en>
+        <jp>住宅街</jp>
+    </Tile>
+    <Tile id="73">
+        <en>Residential Street</en>
+        <jp>住宅街</jp>
+    </Tile>
+    <Tile id="74">
+        <en>Slum</en>
+        <jp>スラム街</jp>
+    </Tile>
+    <Tile id="75">
+        <en>Slum</en>
+        <jp>スラム街</jp>
+    </Tile>
+    <Tile id="76">
+        <en>School</en>
+        <jp>学校</jp>
+    </Tile>
+    <Tile id="77">
+        <en>School</en>
+        <jp>学校</jp>
+    </Tile>
+    <Tile id="78">
+        <en>Hospital</en>
+        <jp>病院</jp>
+    </Tile>
+    <Tile id="79">
+        <en>Hospital</en>
+        <jp>病院</jp>
+    </Tile>
+    <Tile id="80">
+        <en>Residential Street</en>
+        <jp>住宅街</jp>
+    </Tile>
+    <Tile id="81">
+        <en>Residential Street</en>
+        <jp>住宅街</jp>
+    </Tile>
+    <Tile id="82">
+        <en>Slum</en>
+        <jp>スラム街</jp>
+    </Tile>
+    <Tile id="83">
+        <en>Slum</en>
+        <jp>スラム街</jp>
+    </Tile>
+    <Tile id="84">
+        <en>School</en>
+        <jp>学校</jp>
+    </Tile>
+    <Tile id="85">
+        <en>School</en>
+        <jp>学校</jp>
+    </Tile>
+    <Tile id="86">
+        <en>Hospital</en>
+        <jp>病院</jp>
+    </Tile>
+    <Tile id="87">
+        <en>Hospital</en>
+        <jp>病院</jp>
+    </Tile>
+    <Tile id="88">
+        <en>City A</en>
+        <jp>街A</jp>
+    </Tile>
+    <Tile id="89">
+        <en>City A</en>
+        <jp>街A</jp>
+    </Tile>
+    <Tile id="90">
+        <en>City B</en>
+        <jp>街B</jp>
+    </Tile>
+    <Tile id="91">
+        <en>City B</en>
+        <jp>街B</jp>
+    </Tile>
+    <Tile id="92">
+        <en>Residence A</en>
+        <jp>屋敷A</jp>
+    </Tile>
+    <Tile id="93">
+        <en>Residence A</en>
+        <jp>屋敷A</jp>
+    </Tile>
+    <Tile id="94">
+        <en>Residence B</en>
+        <jp>屋敷B</jp>
+    </Tile>
+    <Tile id="95">
+        <en>Residence B</en>
+        <jp>屋敷B</jp>
+    </Tile>
+    <Tile id="96">
+        <en>City A</en>
+        <jp>街A</jp>
+    </Tile>
+    <Tile id="97">
+        <en>City A</en>
+        <jp>街A</jp>
+    </Tile>
+    <Tile id="98">
+        <en>City B</en>
+        <jp>街B</jp>
+    </Tile>
+    <Tile id="99">
+        <en>City B</en>
+        <jp>街B</jp>
+    </Tile>
+    <Tile id="100">
+        <en>Residence A</en>
+        <jp>屋敷A</jp>
+    </Tile>
+    <Tile id="101">
+        <en>Residence A</en>
+        <jp>屋敷A</jp>
+    </Tile>
+    <Tile id="102">
+        <en>Residence B</en>
+        <jp>屋敷B</jp>
+    </Tile>
+    <Tile id="103">
+        <en>Residence B</en>
+        <jp>屋敷B</jp>
+    </Tile>
+    <Tile id="104">
+        <en>Bridge A (V)</en>
+        <jp>橋A (縦)</jp>
+    </Tile>
+    <Tile id="105">
+        <en>Bridge A (H)</en>
+        <jp>橋A (横)</jp>
+    </Tile>
+    <Tile id="106">
+        <en>Broken Bridge A (V)</en>
+        <jp>壊れた橋A (縦)</jp>
+    </Tile>
+    <Tile id="107">
+        <en>Broken Bridge A (H)</en>
+        <jp>壊れた橋A (横)</jp>
+    </Tile>
+    <Tile id="108">
+        <en>Bridge B (V)</en>
+        <jp>橋B (縦)</jp>
+    </Tile>
+    <Tile id="109">
+        <en>Bridge B (H)</en>
+        <jp>橋B (横)</jp>
+    </Tile>
+    <Tile id="110">
+        <en>Broken Bridge B (V)</en>
+        <jp>壊れた橋 (縦)</jp>
+    </Tile>
+    <Tile id="111">
+        <en>Broken Bridge B (H)</en>
+        <jp>壊れた橋 (横)</jp>
+    </Tile>
+    <Tile id="112">
+        <en>Building A</en>
+        <jp>ビルA</jp>
+    </Tile>
+    <Tile id="113">
+        <en>Building B</en>
+        <jp>ビルB</jp>
+    </Tile>
+    <Tile id="114">
+        <en>Building C</en>
+        <jp>ビルC</jp>
+    </Tile>
+    <Tile id="115">
+        <en>Building D</en>
+        <jp>ビルD</jp>
+    </Tile>
+    <Tile id="116">
+        <en>Apartment</en>
+        <jp>マンション</jp>
+    </Tile>
+    <Tile id="117">
+        <en>Apartment Complex</en>
+        <jp>マンション群</jp>
+    </Tile>
+    <Tile id="118">
+        <en>Collapsed Building A</en>
+        <jp>崩壊したビルA</jp>
+    </Tile>
+    <Tile id="119">
+        <en>Collapsed Building B</en>
+        <jp>崩壊したビルB</jp>
+    </Tile>
+    <Tile id="120">
+        <en>Building A</en>
+        <jp>ビルA</jp>
+    </Tile>
+    <Tile id="121">
+        <en>Building B</en>
+        <jp>ビルB</jp>
+    </Tile>
+    <Tile id="122">
+        <en>Building C</en>
+        <jp>ビルC</jp>
+    </Tile>
+    <Tile id="123">
+        <en>Building D</en>
+        <jp>ビルD</jp>
+    </Tile>
+    <Tile id="124">
+        <en>Apartment</en>
+        <jp>マンション</jp>
+    </Tile>
+    <Tile id="125">
+        <en>Apartment Complex</en>
+        <jp>マンション群</jp>
+    </Tile>
+    <Tile id="126">
+        <en>Collapsed Building A</en>
+        <jp>崩壊したビルA</jp>
+    </Tile>
+    <Tile id="127">
+        <en>Collapsed Building B</en>
+        <jp>崩壊したビルB</jp>
+    </Tile>
+    <Tile id="128">
+        <en>Large Town A</en>
+        <jp>大きな町A</jp>
+    </Tile>
+    <Tile id="129">
+        <en>Large Town A</en>
+        <jp>大きな町A</jp>
+    </Tile>
+    <Tile id="130">
+        <en>Entertainment District A</en>
+        <jp>歓楽街A</jp>
+    </Tile>
+    <Tile id="131">
+        <en>Entertainment District A</en>
+        <jp>歓楽街A</jp>
+    </Tile>
+    <Tile id="132">
+        <en>Police Station</en>
+        <jp>警察署</jp>
+    </Tile>
+    <Tile id="133">
+        <en>Police Station</en>
+        <jp>警察署</jp>
+    </Tile>
+    <Tile id="134">
+        <en>Island A</en>
+        <jp>島A</jp>
+    </Tile>
+    <Tile id="135">
+        <en>Island A</en>
+        <jp>島A</jp>
+    </Tile>
+    <Tile id="136">
+        <en>Large Town A</en>
+        <jp>大きな町A</jp>
+    </Tile>
+    <Tile id="137">
+        <en>Large Town A</en>
+        <jp>大きな町A</jp>
+    </Tile>
+    <Tile id="138">
+        <en>Entertainment District A</en>
+        <jp>歓楽街A</jp>
+    </Tile>
+    <Tile id="139">
+        <en>Entertainment District A</en>
+        <jp>歓楽街A</jp>
+    </Tile>
+    <Tile id="140">
+        <en>Police Station</en>
+        <jp>警察署</jp>
+    </Tile>
+    <Tile id="141">
+        <en>Police Station</en>
+        <jp>警察署</jp>
+    </Tile>
+    <Tile id="142">
+        <en>Island A</en>
+        <jp>島A</jp>
+    </Tile>
+    <Tile id="143">
+        <en>Island A</en>
+        <jp>島A</jp>
+    </Tile>
+    <Tile id="144">
+        <en>Large Town B</en>
+        <jp>大きな町B</jp>
+    </Tile>
+    <Tile id="145">
+        <en>Large Town B</en>
+        <jp>大きな町B</jp>
+    </Tile>
+    <Tile id="146">
+        <en>Entertainment District B</en>
+        <jp>歓楽街B</jp>
+    </Tile>
+    <Tile id="147">
+        <en>Entertainment District B</en>
+        <jp>歓楽街B</jp>
+    </Tile>
+    <Tile id="148">
+        <en>Museum</en>
+        <jp>博物館</jp>
+    </Tile>
+    <Tile id="149">
+        <en>Museum</en>
+        <jp>博物館</jp>
+    </Tile>
+    <Tile id="150">
+        <en>Island B</en>
+        <jp>島B</jp>
+    </Tile>
+    <Tile id="151">
+        <en>Island B</en>
+        <jp>島B</jp>
+    </Tile>
+    <Tile id="152">
+        <en>Large Town B</en>
+        <jp>大きな町B</jp>
+    </Tile>
+    <Tile id="153">
+        <en>Large Town B</en>
+        <jp>大きな町B</jp>
+    </Tile>
+    <Tile id="154">
+        <en>Entertainment District B</en>
+        <jp>歓楽街B</jp>
+    </Tile>
+    <Tile id="155">
+        <en>Entertainment District B</en>
+        <jp>歓楽街B</jp>
+    </Tile>
+    <Tile id="156">
+        <en>Museum</en>
+        <jp>博物館</jp>
+    </Tile>
+    <Tile id="157">
+        <en>Museum</en>
+        <jp>博物館</jp>
+    </Tile>
+    <Tile id="158">
+        <en>Island B</en>
+        <jp>島B</jp>
+    </Tile>
+    <Tile id="159">
+        <en>Island B</en>
+        <jp>島B</jp>
+    </Tile>
+    <Tile id="160">
+        <en>Warehouse A</en>
+        <jp>倉庫A</jp>
+    </Tile>
+    <Tile id="161">
+        <en>Warehouse A</en>
+        <jp>倉庫A</jp>
+    </Tile>
+    <Tile id="162">
+        <en>Factory</en>
+        <jp>工場</jp>
+    </Tile>
+    <Tile id="163">
+        <en>Factory</en>
+        <jp>工場</jp>
+    </Tile>
+    <Tile id="164">
+        <en>Warehouse B</en>
+        <jp>倉庫B</jp>
+    </Tile>
+    <Tile id="165">
+        <en>Gantry Crane</en>
+        <jp>ガントリークレーン</jp>
+    </Tile>
+    <Tile id="166">
+        <en>Park</en>
+        <jp>公園</jp>
+    </Tile>
+    <Tile id="167">
+        <en>Island C</en>
+        <jp>島C</jp>
+    </Tile>
+    <Tile id="168">
+        <en>Warehouse A</en>
+        <jp>倉庫A</jp>
+    </Tile>
+    <Tile id="169">
+        <en>Warehouse A</en>
+        <jp>倉庫A</jp>
+    </Tile>
+    <Tile id="170">
+        <en>Factory</en>
+        <jp>工場</jp>
+    </Tile>
+    <Tile id="171">
+        <en>Factory</en>
+        <jp>工場</jp>
+    </Tile>
+    <Tile id="172">
+        <en>Warehouse B</en>
+        <jp>倉庫B</jp>
+    </Tile>
+    <Tile id="173">
+        <en>Gantry Crane</en>
+        <jp>ガントリークレーン</jp>
+    </Tile>
+    <Tile id="174">
+        <en>Statue A</en>
+        <jp>像A</jp>
+    </Tile>
+    <Tile id="175">
+        <en>Statue B</en>
+        <jp>像B</jp>
+    </Tile>
+    <Tile id="176">
+        <en>Laboratory</en>
+        <jp>研究所</jp>
+    </Tile>
+    <Tile id="177">
+        <en>Laboratory</en>
+        <jp>研究所</jp>
+    </Tile>
+    <Tile id="178">
+        <en>Construction Site</en>
+        <jp>工事現場</jp>
+    </Tile>
+    <Tile id="179">
+        <en>Construction Site</en>
+        <jp>工事現場</jp>
+    </Tile>
+    <Tile id="180">
+        <en>Watchtower</en>
+        <jp>監視塔</jp>
+    </Tile>
+    <Tile id="181">
+        <en>Steel Tower</en>
+        <jp>鉄塔</jp>
+    </Tile>
+    <Tile id="182">
+        <en>Tower A</en>
+        <jp>タワーA</jp>
+    </Tile>
+    <Tile id="183">
+        <en>Tower B</en>
+        <jp>タワーB</jp>
+    </Tile>
+    <Tile id="184">
+        <en>Laboratory</en>
+        <jp>研究所</jp>
+    </Tile>
+    <Tile id="185">
+        <en>Laboratory</en>
+        <jp>研究所</jp>
+    </Tile>
+    <Tile id="186">
+        <en>Construction Site</en>
+        <jp>工事現場</jp>
+    </Tile>
+    <Tile id="187">
+        <en>Construction Site</en>
+        <jp>工事現場</jp>
+    </Tile>
+    <Tile id="188">
+        <en>Watchtower</en>
+        <jp>監視塔</jp>
+    </Tile>
+    <Tile id="189">
+        <en>Steel Tower</en>
+        <jp>鉄塔</jp>
+    </Tile>
+    <Tile id="190">
+        <en>Tower A</en>
+        <jp>タワーA</jp>
+    </Tile>
+    <Tile id="191">
+        <en>Tower B</en>
+        <jp>タワーB</jp>
+    </Tile>
+    <Tile id="192">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="193">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="194">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="195">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="196">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="197">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="198">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="199">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="200">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="201">
+        <en>Outer Wall (Gate)</en>
+        <jp>外壁 (門)</jp>
+    </Tile>
+    <Tile id="202">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="203">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="204">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="205">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="206">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="207">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="208">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="209">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="210">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="211">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="212">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="213">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="214">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="215">
+        <en>Outer Wall (Gate)</en>
+        <jp>外壁 (門)</jp>
+    </Tile>
+    <Tile id="216">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="217">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="218">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="219">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="220">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="221">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="222">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="223">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="224">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="225">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="226">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="227">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="228">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="229">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="230">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="231">
+        <en>Outer Wall</en>
+        <jp>外壁</jp>
+    </Tile>
+    <Tile id="232">
+        <en>Theme Park</en>
+        <jp>テーマパーク</jp>
+    </Tile>
+    <Tile id="233">
+        <en>Theme Park</en>
+        <jp>テーマパーク</jp>
+    </Tile>
+    <Tile id="234">
+        <en>Port</en>
+        <jp>港湾</jp>
+    </Tile>
+    <Tile id="235">
+        <en>Port</en>
+        <jp>港湾</jp>
+    </Tile>
+    <Tile id="236">
+        <en>Military Base</en>
+        <jp>軍事基地</jp>
+    </Tile>
+    <Tile id="237">
+        <en>Military Base</en>
+        <jp>軍事基地</jp>
+    </Tile>
+    <Tile id="238">
+        <en>Dome</en>
+        <jp>ドーム</jp>
+    </Tile>
+    <Tile id="239">
+        <en>Dome</en>
+        <jp>ドーム</jp>
+    </Tile>
+    <Tile id="240">
+        <en>Theme Park</en>
+        <jp>テーマパーク</jp>
+    </Tile>
+    <Tile id="241">
+        <en>Theme Park</en>
+        <jp>テーマパーク</jp>
+    </Tile>
+    <Tile id="242">
+        <en>Port</en>
+        <jp>港湾</jp>
+    </Tile>
+    <Tile id="243">
+        <en>Port</en>
+        <jp>港湾</jp>
+    </Tile>
+    <Tile id="244">
+        <en>Military Base</en>
+        <jp>軍事基地</jp>
+    </Tile>
+    <Tile id="245">
+        <en>Military Base</en>
+        <jp>軍事基地</jp>
+    </Tile>
+    <Tile id="246">
+        <en>Dome</en>
+        <jp>ドーム</jp>
+    </Tile>
+    <Tile id="247">
+        <en>Dome</en>
+        <jp>ドーム</jp>
+    </Tile>
+    <Tile id="248">
+        <en>Lighthouse</en>
+        <jp>灯台</jp>
+    </Tile>
+    <Tile id="249">
+        <en>Broken Lighthouse</en>
+        <jp>壊れた灯台</jp>
+    </Tile>
+    <Tile id="250">
+        <en>Temple</en>
+        <jp>寺院</jp>
+    </Tile>
+    <Tile id="251">
+        <en>Church</en>
+        <jp>教会</jp>
+    </Tile>
+    <Tile id="252">
+        <en>Cemetery A</en>
+        <jp>墓地A</jp>
+    </Tile>
+    <Tile id="253">
+        <en>Cemetery B</en>
+        <jp>墓地B</jp>
+    </Tile>
+    <Tile id="254">
+        <en>Prison</en>
+        <jp>刑務所</jp>
+    </Tile>
+    <Tile id="255">
+        <en>Prison</en>
+        <jp>刑務所</jp>
+    </Tile>
+</TilesetData>

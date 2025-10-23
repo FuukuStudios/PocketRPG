@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Dungeon_A4">
+    <Tile id="0">
+        <en>Wall A (Dirt Cave)</en>
+        <jp>壁A (土洞窟)</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Wall B (Rock Cave)</en>
+        <jp>壁B (岩洞窟)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Wall C (Lava Cave)</en>
+        <jp>壁C (溶岩洞窟)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Wall D (Ice Cave)</en>
+        <jp>壁D (氷洞窟)</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Wall E (Grass Maze)</en>
+        <jp>壁E (草迷宮)</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Wall F (Crystal)</en>
+        <jp>壁F (水晶)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Wall G (In Body)</en>
+        <jp>壁G (体内)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Wall H (Demonic World)</en>
+        <jp>壁H (魔界)</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Wall A (Dirt Cave)</en>
+        <jp>壁A (土洞窟)</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Wall B (Rock Cave)</en>
+        <jp>壁B (岩洞窟)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Wall C (Lava Cave)</en>
+        <jp>壁C (溶岩洞窟)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Wall D (Ice Cave)</en>
+        <jp>壁D (氷洞窟)</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Wall E (Grass Maze)</en>
+        <jp>壁E (草迷宮)</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Wall F (Crystal)</en>
+        <jp>壁F (水晶)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Wall G (In Body)</en>
+        <jp>壁G (体内)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Wall H (Demonic World)</en>
+        <jp>壁H (魔界)</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Wall I (Stone)</en>
+        <jp>壁I (石)</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Wall J (Brick)</en>
+        <jp>壁J (レンガ)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Wall K (Stone)</en>
+        <jp>壁K (石)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Wall L (Marble)</en>
+        <jp>壁L (大理石)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Wall M (Moss)</en>
+        <jp>壁M (苔)</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Wall N (Castle)</en>
+        <jp>壁N (城)</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Wall O (Fort)</en>
+        <jp>壁O (砦)</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Wall P (Demon Castle)</en>
+        <jp>壁P (魔王城)</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Wall I (Stone)</en>
+        <jp>壁I (石)</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Wall J (Brick)</en>
+        <jp>壁J (レンガ)</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Wall K (Stone)</en>
+        <jp>壁K (石)</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Wall L (Marble)</en>
+        <jp>壁L (大理石)</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Wall M (Moss)</en>
+        <jp>壁M (苔)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Wall N (Castle)</en>
+        <jp>壁N (城)</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Wall O (Fort)</en>
+        <jp>壁O (砦)</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Wall P (Demon Castle)</en>
+        <jp>壁P (魔王城)</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Wall Q (Mecha)</en>
+        <jp>壁Q (メカ)</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Wall R (Stone)</en>
+        <jp>壁R (石)</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Wall S (Frozen)</en>
+        <jp>壁S (凍結)</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Wall T (Dirt Cave, Gold)</en>
+        <jp>壁T (土洞窟・黄金)</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Ledge A (Dirt Cave)</en>
+        <jp>段差A (土洞窟)</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Ledge B (Rock Cave)</en>
+        <jp>段差B (岩洞窟)</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Ledge C (Lava Cave)</en>
+        <jp>段差C (溶岩洞窟)</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Ledge D (Ice Cave)</en>
+        <jp>段差D (氷洞窟)</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Wall Q (Mecha)</en>
+        <jp>壁Q (メカ)</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Wall R (Stone)</en>
+        <jp>壁R (石)</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Wall S (Frozen)</en>
+        <jp>壁S (凍結)</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Wall T (Dirt Cave, Gold)</en>
+        <jp>壁T (土洞窟・黄金)</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Ledge A (Dirt Cave)</en>
+        <jp>段差A (土洞窟)</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Ledge B (Rock Cave)</en>
+        <jp>段差B (岩洞窟)</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Ledge C (Lava Cave)</en>
+        <jp>段差C (溶岩洞窟)</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Ledge D (Ice Cave)</en>
+        <jp>段差D (氷洞窟)</jp>
+    </Tile>
+</TilesetData>

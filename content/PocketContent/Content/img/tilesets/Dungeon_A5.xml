@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TilesetData name="Dungeon_A5">
+    <Tile id="0">
+        <en>Darkness</en>
+        <jp>暗闇</jp>
+    </Tile>
+    <Tile id="1">
+        <en>Floating Floor A (Dirt)</en>
+        <jp>浮かぶ床A (土)</jp>
+    </Tile>
+    <Tile id="2">
+        <en>Floating Floor B (Rock)</en>
+        <jp>浮かぶ床B (岩)</jp>
+    </Tile>
+    <Tile id="3">
+        <en>Translucent Floor A</en>
+        <jp>半透明の床A</jp>
+    </Tile>
+    <Tile id="4">
+        <en>Translucent Floor B</en>
+        <jp>半透明の床B</jp>
+    </Tile>
+    <Tile id="5">
+        <en>Stairs A (Dirt)</en>
+        <jp>階段A (土)</jp>
+    </Tile>
+    <Tile id="6">
+        <en>Stairs B (Translucent)</en>
+        <jp>階段B (半透明)</jp>
+    </Tile>
+    <Tile id="7">
+        <en>Wire Mesh</en>
+        <jp>金網</jp>
+    </Tile>
+    <Tile id="8">
+        <en>Transparent</en>
+        <jp>透明</jp>
+    </Tile>
+    <Tile id="9">
+        <en>Floating Floor A (Dirt)</en>
+        <jp>浮かぶ床A (土)</jp>
+    </Tile>
+    <Tile id="10">
+        <en>Floating Floor B (Rock)</en>
+        <jp>浮かぶ床B (岩)</jp>
+    </Tile>
+    <Tile id="11">
+        <en>Translucent Floor A</en>
+        <jp>半透明の床A</jp>
+    </Tile>
+    <Tile id="12">
+        <en>Translucent Floor B</en>
+        <jp>半透明の床B</jp>
+    </Tile>
+    <Tile id="13">
+        <en>Stairs A (Rock)</en>
+        <jp>階段A (岩)</jp>
+    </Tile>
+    <Tile id="14">
+        <en>Stairs B (Translucent)</en>
+        <jp>階段B (半透明)</jp>
+    </Tile>
+    <Tile id="15">
+        <en>Wire Mesh</en>
+        <jp>金網</jp>
+    </Tile>
+    <Tile id="16">
+        <en>Ground A (Wood)</en>
+        <jp>床A (木製)</jp>
+    </Tile>
+    <Tile id="17">
+        <en>Ground B (Wood)</en>
+        <jp>床B (木製)</jp>
+    </Tile>
+    <Tile id="18">
+        <en>Ground (Wood, Ruins)</en>
+        <jp>床A (木製・廃墟)</jp>
+    </Tile>
+    <Tile id="19">
+        <en>Ground (Wood, Ruins)</en>
+        <jp>床B (木製・廃墟)</jp>
+    </Tile>
+    <Tile id="20">
+        <en>Cobblestones A</en>
+        <jp>石畳A</jp>
+    </Tile>
+    <Tile id="21">
+        <en>Cobblestones B</en>
+        <jp>石畳B</jp>
+    </Tile>
+    <Tile id="22">
+        <en>Cobblestones C</en>
+        <jp>石畳C</jp>
+    </Tile>
+    <Tile id="23">
+        <en>Cobblestones D</en>
+        <jp>石畳D</jp>
+    </Tile>
+    <Tile id="24">
+        <en>Cobblestones E</en>
+        <jp>石畳E</jp>
+    </Tile>
+    <Tile id="25">
+        <en>Decorative Tile A</en>
+        <jp>化粧タイルA</jp>
+    </Tile>
+    <Tile id="26">
+        <en>Decorative Tile B</en>
+        <jp>化粧タイルB</jp>
+    </Tile>
+    <Tile id="27">
+        <en>Interior Floor A</en>
+        <jp>内装床A</jp>
+    </Tile>
+    <Tile id="28">
+        <en>Interior Floor B (Light)</en>
+        <jp>内装床B (明かり)</jp>
+    </Tile>
+    <Tile id="29">
+        <en>Tile Floor A</en>
+        <jp>タイル床A</jp>
+    </Tile>
+    <Tile id="30">
+        <en>Tile Floor B</en>
+        <jp>タイル床B</jp>
+    </Tile>
+    <Tile id="31">
+        <en>Tile Floor C</en>
+        <jp>タイル床C</jp>
+    </Tile>
+    <Tile id="32">
+        <en>Cobblestones F</en>
+        <jp>石畳F</jp>
+    </Tile>
+    <Tile id="33">
+        <en>Ground C (Rock Cave, Red Crystal)</en>
+        <jp>床C (岩洞窟・赤水晶)</jp>
+    </Tile>
+    <Tile id="34">
+        <en>Ground D (Rock Cave, Blue Crystal)</en>
+        <jp>床D (岩洞窟・青水晶)</jp>
+    </Tile>
+    <Tile id="35">
+        <en>Ground E (Rock Cave, Green Crystal)</en>
+        <jp>床E (岩洞窟・緑水晶)</jp>
+    </Tile>
+    <Tile id="36">
+        <en>Ground F (Dirt)</en>
+        <jp>床F (土)</jp>
+    </Tile>
+    <Tile id="37">
+        <en>Ground G (Demon Castle)</en>
+        <jp>床G (魔王城)</jp>
+    </Tile>
+    <Tile id="38">
+        <en>Ground H (Gold)</en>
+        <jp>床H (黄金)</jp>
+    </Tile>
+    <Tile id="39">
+        <en>Ground I (Ice)</en>
+        <jp>床I (氷)</jp>
+    </Tile>
+    <Tile id="40">
+        <en>Stairs A (Dirt Cave, Left)</en>
+        <jp>階段A (土洞窟・左)</jp>
+    </Tile>
+    <Tile id="41">
+        <en>Stairs A (Dirt Cave, Center)</en>
+        <jp>階段A (土洞窟・中央)</jp>
+    </Tile>
+    <Tile id="42">
+        <en>Stairs A (Dirt Cave, Right)</en>
+        <jp>階段A (土洞窟・右)</jp>
+    </Tile>
+    <Tile id="43">
+        <en>Stairs A (Dirt Cave)</en>
+        <jp>階段A (土洞窟)</jp>
+    </Tile>
+    <Tile id="44">
+        <en>Stairs B (Rock Cave, Left)</en>
+        <jp>階段B (岩洞窟・左)</jp>
+    </Tile>
+    <Tile id="45">
+        <en>Stairs B (Rock Cave, Center)</en>
+        <jp>階段B (岩洞窟・中央)</jp>
+    </Tile>
+    <Tile id="46">
+        <en>Stairs B (Rock Cave, Right)</en>
+        <jp>階段B (岩洞窟・右)</jp>
+    </Tile>
+    <Tile id="47">
+        <en>Stairs B (Rock Cave)</en>
+        <jp>階段B (岩洞窟)</jp>
+    </Tile>
+    <Tile id="48">
+        <en>Stairs C (Lava Cave, Left)</en>
+        <jp>階段C (溶岩洞窟・左)</jp>
+    </Tile>
+    <Tile id="49">
+        <en>Stairs C (Lava Cave, Center)</en>
+        <jp>階段C (溶岩洞窟・中央)</jp>
+    </Tile>
+    <Tile id="50">
+        <en>Stairs C (Lava Cave, Right)</en>
+        <jp>階段C (溶岩洞窟・右)</jp>
+    </Tile>
+    <Tile id="51">
+        <en>Stairs C (Lava Cave)</en>
+        <jp>階段C (溶岩洞窟)</jp>
+    </Tile>
+    <Tile id="52">
+        <en>Stairs D (Ice Cave, Left)</en>
+        <jp>階段D (氷洞窟・左)</jp>
+    </Tile>
+    <Tile id="53">
+        <en>Stairs D (Ice Cave, Center)</en>
+        <jp>階段D (氷洞窟・中央)</jp>
+    </Tile>
+    <Tile id="54">
+        <en>Stairs D (Ice Cave, Right)</en>
+        <jp>階段D (氷洞窟・右)</jp>
+    </Tile>
+    <Tile id="55">
+        <en>Stairs D (Ice Cave)</en>
+        <jp>階段D (氷洞窟)</jp>
+    </Tile>
+    <Tile id="56">
+        <en>Stairs E (Grass Maze, Left)</en>
+        <jp>階段E (草迷宮・左)</jp>
+    </Tile>
+    <Tile id="57">
+        <en>Stairs E (Grass Maze, Center)</en>
+        <jp>階段E (草迷宮・中央)</jp>
+    </Tile>
+    <Tile id="58">
+        <en>Stairs E (Grass Maze, Right)</en>
+        <jp>階段E (草迷宮・右)</jp>
+    </Tile>
+    <Tile id="59">
+        <en>Stairs E (Grass Maze)</en>
+        <jp>階段E (草迷宮)</jp>
+    </Tile>
+    <Tile id="60">
+        <en>Stairs F (Crystal, Left)</en>
+        <jp>階段F (水晶・左)</jp>
+    </Tile>
+    <Tile id="61">
+        <en>Stairs F (Crystal, Center)</en>
+        <jp>階段F (水晶・中央)</jp>
+    </Tile>
+    <Tile id="62">
+        <en>Stairs F (Crystal, Right)</en>
+        <jp>階段F (水晶・右)</jp>
+    </Tile>
+    <Tile id="63">
+        <en>Stairs F (Crystal)</en>
+        <jp>階段F (水晶)</jp>
+    </Tile>
+    <Tile id="64">
+        <en>Stairs G (In Body, Left)</en>
+        <jp>階段G (体内・左)</jp>
+    </Tile>
+    <Tile id="65">
+        <en>Stairs G (In Body, Center)</en>
+        <jp>階段G (体内・中央)</jp>
+    </Tile>
+    <Tile id="66">
+        <en>Stairs G (In Body, Right)</en>
+        <jp>階段G (体内・右)</jp>
+    </Tile>
+    <Tile id="67">
+        <en>Stairs G (In Body)</en>
+        <jp>階段G (体内)</jp>
+    </Tile>
+    <Tile id="68">
+        <en>Stairs H (Demonic World, Left)</en>
+        <jp>階段H (魔界・左)</jp>
+    </Tile>
+    <Tile id="69">
+        <en>Stairs H (Demonic World, Center)</en>
+        <jp>階段H (魔界・中央)</jp>
+    </Tile>
+    <Tile id="70">
+        <en>Stairs H (Demonic World, Right)</en>
+        <jp>階段H (魔界・右)</jp>
+    </Tile>
+    <Tile id="71">
+        <en>Stairs H (Demonic World)</en>
+        <jp>階段H (魔界)</jp>
+    </Tile>
+    <Tile id="72">
+        <en>Stairs I (Stone, Left)</en>
+        <jp>階段I (石・左)</jp>
+    </Tile>
+    <Tile id="73">
+        <en>Stairs I (Stone, Center)</en>
+        <jp>階段I (石・中央)</jp>
+    </Tile>
+    <Tile id="74">
+        <en>Stairs I (Stone, Right)</en>
+        <jp>階段I (石・右)</jp>
+    </Tile>
+    <Tile id="75">
+        <en>Stairs I (Stone)</en>
+        <jp>階段I (石)</jp>
+    </Tile>
+    <Tile id="76">
+        <en>Stairs J (Ruins, Left)</en>
+        <jp>階段J (廃墟・左)</jp>
+    </Tile>
+    <Tile id="77">
+        <en>Stairs J (Ruins, Center)</en>
+        <jp>階段J (廃墟・中央)</jp>
+    </Tile>
+    <Tile id="78">
+        <en>Stairs J (Ruins, Right)</en>
+        <jp>階段J (廃墟・右)</jp>
+    </Tile>
+    <Tile id="79">
+        <en>Stairs J (Ruins)</en>
+        <jp>階段J (廃墟)</jp>
+    </Tile>
+    <Tile id="80">
+        <en>Stairs K (Stone, Left)</en>
+        <jp>階段K (石・左)</jp>
+    </Tile>
+    <Tile id="81">
+        <en>Stairs K (Stone, Center)</en>
+        <jp>階段K (石・中央)</jp>
+    </Tile>
+    <Tile id="82">
+        <en>Stairs K (Stone, Right)</en>
+        <jp>階段K (石・右)</jp>
+    </Tile>
+    <Tile id="83">
+        <en>Stairs K (Stone)</en>
+        <jp>階段K (石)</jp>
+    </Tile>
+    <Tile id="84">
+        <en>Stairs L (Ruins, Left)</en>
+        <jp>階段L (廃墟・左)</jp>
+    </Tile>
+    <Tile id="85">
+        <en>Stairs L (Ruins, Center)</en>
+        <jp>階段L (廃墟・中央)</jp>
+    </Tile>
+    <Tile id="86">
+        <en>Stairs L (Ruins, Right)</en>
+        <jp>階段L (廃墟・右)</jp>
+    </Tile>
+    <Tile id="87">
+        <en>Stairs L (Ruins)</en>
+        <jp>階段L (廃墟)</jp>
+    </Tile>
+    <Tile id="88">
+        <en>Ground (Dirt Cave, Ruins)</en>
+        <jp>床A (土洞窟・廃墟)</jp>
+    </Tile>
+    <Tile id="89">
+        <en>Ground (Rock Cave, Ruins)</en>
+        <jp>床B (岩洞窟・廃墟)</jp>
+    </Tile>
+    <Tile id="90">
+        <en>Ground (Lava Cave, Ruins)</en>
+        <jp>床C (溶岩洞窟・廃墟)</jp>
+    </Tile>
+    <Tile id="91">
+        <en>Ground (Ice Cave, Ruins)</en>
+        <jp>床D (氷洞窟・廃墟)</jp>
+    </Tile>
+    <Tile id="92">
+        <en>Ground (Grass Maze, Ruins)</en>
+        <jp>床E (草迷宮・廃墟)</jp>
+    </Tile>
+    <Tile id="93">
+        <en>Ground (Crystal, Ruins)</en>
+        <jp>床F (水晶・廃墟)</jp>
+    </Tile>
+    <Tile id="94">
+        <en>Ground (In Body, Ruins)</en>
+        <jp>床G (体内・廃墟)</jp>
+    </Tile>
+    <Tile id="95">
+        <en>Ground (Demonic World, Ruins)</en>
+        <jp>床H (魔界・廃墟)</jp>
+    </Tile>
+    <Tile id="96">
+        <en>Cobblestones A (Ruins)</en>
+        <jp>石畳A (廃墟)</jp>
+    </Tile>
+    <Tile id="97">
+        <en>Cobblestones B (Ruins)</en>
+        <jp>石畳B (廃墟)</jp>
+    </Tile>
+    <Tile id="98">
+        <en>Cobblestones C (Ruins)</en>
+        <jp>石畳C (廃墟)</jp>
+    </Tile>
+    <Tile id="99">
+        <en>Cobblestones D (Ruins)</en>
+        <jp>石畳D (廃墟)</jp>
+    </Tile>
+    <Tile id="100">
+        <en>Cobblestones E (Ruins)</en>
+        <jp>石畳E (廃墟)</jp>
+    </Tile>
+    <Tile id="101">
+        <en>Decorative Tile A (Ruins)</en>
+        <jp>化粧タイルA (廃墟)</jp>
+    </Tile>
+    <Tile id="102">
+        <en>Decorative Tile B (Ruins)</en>
+        <jp>化粧タイルB (廃墟)</jp>
+    </Tile>
+    <Tile id="103">
+        <en>Interior Floor A (Ruins)</en>
+        <jp>内装床A (廃墟)</jp>
+    </Tile>
+    <Tile id="104">
+        <en>Tile Floor A (Ruins)</en>
+        <jp>タイル床A (廃墟)</jp>
+    </Tile>
+    <Tile id="105">
+        <en>Tile Floor B (Ruins)</en>
+        <jp>タイル床B (廃墟)</jp>
+    </Tile>
+    <Tile id="106">
+        <en>Tile Floor C (Ruins)</en>
+        <jp>タイル床C (廃墟)</jp>
+    </Tile>
+    <Tile id="107">
+        <en>Cobblestones F (Ruins)</en>
+        <jp>石畳F (廃墟)</jp>
+    </Tile>
+    <Tile id="108">
+        <en>Ground F (Dirt, Ruins)</en>
+        <jp>床F (土・廃墟)</jp>
+    </Tile>
+    <Tile id="109">
+        <en>Ground G (Demon Castle, Ruins)</en>
+        <jp>床G (魔王城・廃墟)</jp>
+    </Tile>
+    <Tile id="110">
+        <en>Ground I (Ice, Ruins)</en>
+        <jp>床I (氷・廃墟)</jp>
+    </Tile>
+    <Tile id="111">
+        <en>Relief Floor Tile (Silver)</en>
+        <jp>レリーフ床 (銀)</jp>
+    </Tile>
+    <Tile id="112">
+        <en>Large Relief Floor Tile</en>
+        <jp>大きなレリーフ床</jp>
+    </Tile>
+    <Tile id="113">
+        <en>Large Relief Floor Tile</en>
+        <jp>大きなレリーフ床</jp>
+    </Tile>
+    <Tile id="114">
+        <en>Large Relief Floor Tile (Ruins)</en>
+        <jp>大きなレリーフ床 (廃墟)</jp>
+    </Tile>
+    <Tile id="115">
+        <en>Large Relief Floor Tile (Ruins)</en>
+        <jp>大きなレリーフ床 (廃墟)</jp>
+    </Tile>
+    <Tile id="116">
+        <en>Directional Floor Tile A (Down)</en>
+        <jp>方向床A (下)</jp>
+    </Tile>
+    <Tile id="117">
+        <en>Directional Floor Tile B (Up)</en>
+        <jp>方向床B (上)</jp>
+    </Tile>
+    <Tile id="118">
+        <en>Relief Floor Tile A (Gold)</en>
+        <jp>レリーフ床A (金)</jp>
+    </Tile>
+    <Tile id="119">
+        <en>Relief Floor Tile B (Gold)</en>
+        <jp>レリーフ床B (金)</jp>
+    </Tile>
+    <Tile id="120">
+        <en>Large Relief Floor Tile</en>
+        <jp>大きなレリーフ床</jp>
+    </Tile>
+    <Tile id="121">
+        <en>Large Relief Floor Tile</en>
+        <jp>大きなレリーフ床</jp>
+    </Tile>
+    <Tile id="122">
+        <en>Large Relief Floor Tile (Ruins)</en>
+        <jp>大きなレリーフ床 (廃墟)</jp>
+    </Tile>
+    <Tile id="123">
+        <en>Large Relief Floor Tile (Ruins)</en>
+        <jp>大きなレリーフ床 (廃墟)</jp>
+    </Tile>
+    <Tile id="124">
+        <en>Directional Floor Tile C (Left)</en>
+        <jp>方向床C (左)</jp>
+    </Tile>
+    <Tile id="125">
+        <en>Directional Floor Tile D (Right)</en>
+        <jp>方向床D (右)</jp>
+    </Tile>
+    <Tile id="126">
+        <en>Relief Floor Tile C (Gold)</en>
+        <jp>レリーフ床C (金)</jp>
+    </Tile>
+    <Tile id="127">
+        <en>Relief Floor Tile D (Gold, Ruins)</en>
+        <jp>レリーフ床D (金・廃墟)</jp>
+    </Tile>
+</TilesetData>
