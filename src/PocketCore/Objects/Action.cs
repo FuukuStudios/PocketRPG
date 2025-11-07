@@ -45,7 +45,7 @@ public partial class Game
 			}
 			else
 			{
-				_subjectEnemyIndex = subject.Index;
+				// TODO: _subjectEnemyIndex = subject.Index;
 			}
 		}
 	}

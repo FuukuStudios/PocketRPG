@@ -20,13 +20,14 @@ public partial class Game
 
 		public void Setup(int actorId)
 		{
-			var actor = Core.DataActors[actorId]!;
-			ActorId = actorId;
-			Name = actor.Name;
-			Nickname = actor.Nickname;
-			Profile = actor.Profile;
-			_classId = actor.ClassId;
-			_level = actor.InitialLevel;
+			// TODO:
+			// var actor = Core.DataActors[actorId]!;
+			// ActorId = actorId;
+			// Name = actor.Name;
+			// Nickname = actor.Nickname;
+			// Profile = actor.Profile;
+			// _classId = actor.ClassId;
+			// _level = actor.InitialLevel;
 			// TODO: the rest
 		}
 	}

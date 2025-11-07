@@ -2,6 +2,7 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using PocketCore;
 using PocketCore.Managers;
 using PocketCore.Scenes;
 
@@ -12,8 +13,10 @@ public class PocketGame : Game
 	private GraphicsDeviceManager _graphics;
 	private SpriteBatch _spriteBatch;
 	
-	private FontSystem _fontSystem; // TODO: optimize usage
 	private readonly SceneManager _sceneManager;
+	
+	public Core Core { get; private set; }
+	public FontManager FontManager { get; private set; }
 
 	public PocketGame()
 	{
@@ -33,7 +36,11 @@ public class PocketGame : Game
 	protected override void LoadContent()
 	{
 		_spriteBatch = new SpriteBatch(GraphicsDevice);
-		_fontSystem = new FontSystem();
+		
+		Core = new Core();
+		Services.AddService(Core);
+		FontManager = new FontManager();
+		Services.AddService(FontManager);
 		
 		_sceneManager.Run<Scene.Boot>();
 	}

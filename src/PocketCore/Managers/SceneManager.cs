@@ -24,7 +24,7 @@ public class SceneManager : GameComponent
 		{
 			// Goto
 			_nextScene = new TScene();
-			_nextScene.Game = Game;
+			_nextScene.Init(Game);
 			_scene?.Stop();
 		} 
 		catch (Exception ex)

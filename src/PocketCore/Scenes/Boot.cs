@@ -12,10 +12,11 @@ public partial class Scene
 		public override void Create()
 		{
 			base.Create();
-			
-			DataManager.LoadDatabase();
+			// TODO: Load System Images
+			// TODO: Load Player Data
+			LoadGameFonts();
 		}
-		
+
 		public override void Start()
 		{
 			base.Start();
@@ -37,6 +38,8 @@ public partial class Scene
 			else
 			{
 				CheckPlayerLocation();
+				// TODO: DataManager SetupNewGame();
+				
 			}
 
 			// TODO: ResizeScreen();
@@ -44,42 +47,23 @@ public partial class Scene
 			Game.Window.Title = Core.DataSystem.GameTitle;
 		}
 
-		public override bool IsReady
-		{
-			get
-			{
-				if (_databaseLoaded) return base.IsReady && IsPlayerDataLoaded;
-				
-				if (!DataManager.IsDatabaseLoaded) return false;
-
-				_databaseLoaded = true;
-				OnDatabaseLoaded();
-
-				return false;
-			}
-		}
+		// TODO: public override bool IsReady => base.IsReady && IsPlayerDataLoaded;
 		
 		// >> Unique Methods <<
-		public static void OnDatabaseLoaded()
-		{
-			// TODO: Load System Images
-			// ColorManager.LoadWindowskin();
-			// ImageManager.LoadSystem("IconSet");
-			
-			// Load Player Data
-			DataManager.LoadGlobalInfo();
-			ConfigManager.Load();
-			
-			// TODO: Load Game Fonts
-			// FontManager.Load("rmmz-mainfont", Core.DataSystem.Advanced.MainFontFilename);
-			// FontManager.Load("rmmz-numberfont", Core.DataSystem.Advanced.NumberFontFilename);
-		}
-		
 		public static bool IsPlayerDataLoaded => DataManager.IsGlobalInfoLoaded && ConfigManager.IsLoaded;
 
-		public static void CheckPlayerLocation()
+		public void CheckPlayerLocation()
 		{
 			if (Core.DataSystem.StartMapId == 0) throw new Exception("Player's starting position is 0 (Which is invalid).");
+		}
+		
+		// >> Private Methods <<
+		
+		private void LoadGameFonts()
+		{
+			var advanced = Core.DataSystem.Advanced;
+			FontManager.Load("mainfont", advanced.MainFontFilename);
+			FontManager.Load("numberfont", advanced.NumberFontFilename);
 		}
 	}
 }
