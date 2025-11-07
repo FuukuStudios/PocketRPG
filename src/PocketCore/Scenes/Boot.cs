@@ -1,3 +1,4 @@
+using Microsoft.Xna.Framework;
 using PocketCore.Managers;
 
 namespace PocketCore.Scenes;
@@ -6,8 +7,6 @@ public partial class Scene
 {
 	public class Boot : Base
 	{
-		private bool _databaseLoaded;
-		
 		// >> Overrides <<
 		public override void Create()
 		{
@@ -39,7 +38,8 @@ public partial class Scene
 			{
 				CheckPlayerLocation();
 				// TODO: DataManager SetupNewGame();
-				
+				// PRIORITY: Process title command window
+				SceneManager.GoTo<Splash>();
 			}
 
 			// TODO: ResizeScreen();
@@ -52,7 +52,7 @@ public partial class Scene
 		// >> Unique Methods <<
 		public static bool IsPlayerDataLoaded => DataManager.IsGlobalInfoLoaded && ConfigManager.IsLoaded;
 
-		public void CheckPlayerLocation()
+		private void CheckPlayerLocation()
 		{
 			if (Core.DataSystem.StartMapId == 0) throw new Exception("Player's starting position is 0 (Which is invalid).");
 		}

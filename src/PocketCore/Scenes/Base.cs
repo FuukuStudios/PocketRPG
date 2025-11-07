@@ -3,13 +3,14 @@ using PocketCore.Managers;
 
 namespace PocketCore.Scenes;
 
-public partial class Scene
+public static partial class Scene
 {
 	public abstract class Base
 	{
-		protected Game Game { get; private set; } = null!;
-		protected Core Core { get; private set; } = null!;
-		protected FontManager FontManager { get; private set; }
+		internal  Game Game { get; set; } = null!;
+		protected Core Core => Game.Services.GetService<Core>();
+		protected SceneManager SceneManager => Game.Services.GetService<SceneManager>();
+		protected FontManager FontManager => Game.Services.GetService<FontManager>();
 		
 		public bool IsStarted { get; private set; }
 		
@@ -18,13 +19,6 @@ public partial class Scene
 		private int _fadeDuration;
 		private int _fadeWhite;
 		private int _fadeOpacity;
-
-		public void Init(Game game)
-		{
-			Game = game;
-			Core = game.Services.GetService<Core>();
-			FontManager = game.Services.GetService<FontManager>();
-		}
 		
 		// Virtual Methods
 		/// <summary>

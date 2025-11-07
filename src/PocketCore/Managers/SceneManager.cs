@@ -24,7 +24,7 @@ public class SceneManager : GameComponent
 		{
 			// Goto
 			_nextScene = new TScene();
-			_nextScene.Init(Game);
+			_nextScene.Game = Game;
 			_scene?.Stop();
 		} 
 		catch (Exception ex)
@@ -97,4 +97,11 @@ public class SceneManager : GameComponent
 	public bool IsSceneChanging => _exiting || _nextScene != null;
 
 	public bool IsCurrentSceneBusy => _scene?.IsBusy ?? false;
+
+	public void GoTo<TScene>() where TScene : Scene.Base, new()
+	{
+		_nextScene = new TScene();
+		_nextScene.Game = Game;
+		_scene?.Stop();
+	}
 }

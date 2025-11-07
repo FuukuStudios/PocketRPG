@@ -2,7 +2,7 @@ namespace PocketCore.Windows;
 
 public partial class Window
 {
-	public class TitleCommand : Command
+	public class Command : Selectable
 	{
 		
 	}

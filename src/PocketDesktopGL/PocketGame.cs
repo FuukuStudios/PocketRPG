@@ -14,9 +14,8 @@ public class PocketGame : Game
 	private SpriteBatch _spriteBatch;
 	
 	private readonly SceneManager _sceneManager;
-	
-	public Core Core { get; private set; }
-	public FontManager FontManager { get; private set; }
+	private readonly Core _core = new ();
+	private readonly FontManager _fontManager = new ();
 
 	public PocketGame()
 	{
@@ -37,10 +36,9 @@ public class PocketGame : Game
 	{
 		_spriteBatch = new SpriteBatch(GraphicsDevice);
 		
-		Core = new Core();
-		Services.AddService(Core);
-		FontManager = new FontManager();
-		Services.AddService(FontManager);
+		Services.AddService(_core);
+		Services.AddService(_fontManager);
+		Services.AddService(_sceneManager);
 		
 		_sceneManager.Run<Scene.Boot>();
 	}
