@@ -8,7 +8,7 @@ public class MapInfo
 	public int Id { get; set; }
 
 	[JsonPropertyName("expanded")]
-	public int Expanded { get; set; }
+	public bool Expanded { get; set; }
 
 	[JsonPropertyName("name")]
 	public string Name { get; set; } = string.Empty;
@@ -20,8 +20,8 @@ public class MapInfo
 	public int ParentId { get; set; }
 
 	[JsonPropertyName("scrollX")]
-	public int ScrollX { get; set; }
+	public double ScrollX { get; set; }
 
 	[JsonPropertyName("scrollY")]
-	public int ScrollY { get; set; }
+	public double ScrollY { get; set; }
 }

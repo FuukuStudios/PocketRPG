@@ -59,7 +59,7 @@ public class System
 	public required Audio GameoverMe { get; set; }
 
 	[JsonPropertyName("itemCategories")]
-	public List<string> ItemCategories { get; set; } = [];
+	public List<bool> ItemCategories { get; set; } = [];
 
 	[JsonPropertyName("locale")]
 	public string Locale { get; set; } = string.Empty;
@@ -158,7 +158,7 @@ public class System
 	public List<string> WeaponTypes { get; set; } = [];
 
 	[JsonPropertyName("windowTone")]
-	public required Tuple<int, int, int, int> WindowTone { get; set; }
+	public required int[] WindowTone { get; set; } = new int[4];
 
 	[JsonPropertyName("tileSize")]
 	public int TileSize { get; set; }

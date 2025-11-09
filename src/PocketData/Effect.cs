@@ -11,7 +11,7 @@ public class Effect
 	public int DataId { get; set; }
 
 	[JsonPropertyName("value1")]
-	public int Value1 { get; set; }
+	public double Value1 { get; set; }
 
 	[JsonPropertyName("value2")]
 	public int Value2 { get; set; }

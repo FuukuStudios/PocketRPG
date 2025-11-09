@@ -25,8 +25,8 @@ public partial class Scene
 		// >> Private Methods <<
 		private void CreateBackground()
 		{
-			_background = new Sprite(ImageManager.LoadTitleBackground(Core.System.Title1Name));
-			_bgFrame = new Sprite(ImageManager.LoadTitleFrame(Core.System.Title2Name));
+			_background = new Sprite(ImageManager.LoadTitleBackground(Core.DataSystem.Title1Name));
+			_bgFrame = new Sprite(ImageManager.LoadTitleFrame(Core.DataSystem.Title2Name));
 			Children.Add(_background);
 			Children.Add(_bgFrame);
 		}

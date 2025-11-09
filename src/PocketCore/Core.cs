@@ -8,7 +8,7 @@ public class Core
 {
 	public Actor?[] DataActors { get; internal set; }
 	public Class?[] DataClasses { get; internal set; }
-	public DataSkill?[] DataSkills { get; internal set; }
+	public Item?[] DataSkills { get; internal set; }
 	public Item?[] DataItems { get; internal set; }
 	public Weapon?[] DataWeapons { get; internal set; }
 	public Armor?[] DataArmors { get; internal set; }
@@ -18,10 +18,10 @@ public class Core
 	public Animation?[] DataAnimations { get; internal set; }
 	public Tileset?[] DataTilesets { get; internal set; }
 	public CommonEvent?[] DataCommonEvents { get; internal set; }
-	public PocketData.Database.System System { get; internal set; }
+	public PocketData.Database.System DataSystem { get; internal set; }
 	public MapInfo?[] DataMapInfos { get; internal set; }
     
-	public Event? TestEvent { get; internal set; }
+	public EventCommand[]? TestEvent { get; internal set; }
 
 	public Core()
 	{
@@ -30,7 +30,7 @@ public class Core
 		
 		DataActors = DataManager.LoadDataFile<Actor?[]>($"{prefix}Actors");
 		DataClasses = DataManager.LoadDataFile<Class?[]>($"{prefix}Classes");
-		DataSkills = DataManager.LoadDataFile<DataSkill?[]>($"{prefix}Skills");
+		DataSkills = DataManager.LoadDataFile<Item?[]>($"{prefix}Skills");
 		DataItems = DataManager.LoadDataFile<Item?[]>($"{prefix}Items");
 		DataWeapons = DataManager.LoadDataFile<Weapon?[]>($"{prefix}Weapons");
 		DataArmors = DataManager.LoadDataFile<Armor?[]>($"{prefix}Armors");
@@ -40,10 +40,10 @@ public class Core
 		DataAnimations = DataManager.LoadDataFile<Animation?[]>($"{prefix}Animations");
 		DataTilesets = DataManager.LoadDataFile<Tileset?[]>($"{prefix}Tilesets");
 		DataCommonEvents = DataManager.LoadDataFile<CommonEvent?[]>($"{prefix}CommonEvents");
-		System = DataManager.LoadDataFile<PocketData.Database.System>($"{prefix}System");
+		DataSystem = DataManager.LoadDataFile<PocketData.Database.System>($"{prefix}System");
 		DataMapInfos = DataManager.LoadDataFile<MapInfo?[]>($"{prefix}MapInfos");
 		
 		if (DataManager.IsEventTest)
-			TestEvent = JsonSerializer.Deserialize<Event?>(File.ReadAllText(Path.Combine("Content", "data", $"{prefix}Event.json"))) ?? throw new Exception($"Failed to load data file '{prefix}Event'.");
+			TestEvent = JsonSerializer.Deserialize<EventCommand[]?>(File.ReadAllText(Path.Combine("Content", "data", $"{prefix}Event.json"))) ?? throw new Exception($"Failed to load data file '{prefix}Event'.");
 	}
 }

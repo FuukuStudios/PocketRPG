@@ -44,7 +44,7 @@ public partial class Scene
 
 			// TODO: ResizeScreen();
 			
-			Game.Window.Title = Core.System.GameTitle;
+			Game.Window.Title = Core.DataSystem.GameTitle;
 		}
 
 		// TODO: public override bool IsReady => base.IsReady && IsPlayerDataLoaded;
@@ -54,14 +54,14 @@ public partial class Scene
 
 		private void CheckPlayerLocation()
 		{
-			if (Core.System.StartMapId == 0) throw new Exception("Player's starting position is 0 (Which is invalid).");
+			if (Core.DataSystem.StartMapId == 0) throw new Exception("Player's starting position is 0 (Which is invalid).");
 		}
 		
 		// >> Private Methods <<
 		
 		private void LoadGameFonts()
 		{
-			var advanced = Core.System.Advanced;
+			var advanced = Core.DataSystem.Advanced;
 			FontManager.Load("mainfont", advanced.MainFontFilename);
 			FontManager.Load("numberfont", advanced.NumberFontFilename);
 		}

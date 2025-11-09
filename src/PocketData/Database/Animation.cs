@@ -41,7 +41,7 @@ public class Animation
 	public class Timing
 	{
 		[JsonPropertyName("flashColor")]
-		public required Tuple<int, int, int, int> FlashColor { get; set; }
+		public required int[] FlashColor { get; set; } = new int[4];
 
 		[JsonPropertyName("flashDuration")]
 		public int FlashDuration { get; set; }
@@ -65,7 +65,7 @@ public class Animation
 		public int Duration { get; set; }
 
 		[JsonPropertyName("color")]
-		public required Tuple<int, int, int, int> Color { get; set; }
+		public required int[] Color { get; set; } = new int[4];
 	}
 	
 	public class SoundTiming

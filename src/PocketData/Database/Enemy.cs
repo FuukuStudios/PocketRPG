@@ -35,5 +35,5 @@ public class Enemy
 	public string Note { get; set; } = string.Empty;
 
 	[JsonPropertyName("params")]
-	public required Tuple<int, int, int, int, int, int, int, int> Params { get; set; }
+	public required int[] Params { get; set; } = new int[8];
 }

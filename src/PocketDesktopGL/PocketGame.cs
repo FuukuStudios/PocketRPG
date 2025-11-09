@@ -39,7 +39,6 @@ public class PocketGame : Game
 		_spriteBatch = new SpriteBatch(GraphicsDevice);
 		
 		Services.AddService(_core);
-		Services.AddService(_sceneManager);
 		Services.AddService(_imageManager);
 		Services.AddService(_fontManager);
 		

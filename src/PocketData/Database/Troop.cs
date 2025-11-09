@@ -32,7 +32,7 @@ public class Troop
 
 	public class Page {
 		[JsonPropertyName("conditions")]
-		public List<Condition> Conditions { get; set; } = [];
+		public required Conditions Conditions { get; set; }
 
 		[JsonPropertyName("list")]
 		public List<EventCommand> List { get; set; } = [];

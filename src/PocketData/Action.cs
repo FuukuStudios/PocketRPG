@@ -8,7 +8,7 @@ public class Action
 	public int ConditionParam1 { get; set; }
 
 	[JsonPropertyName("conditionParam2")]
-	public int ConditionParam2 { get; set; }
+	public double ConditionParam2 { get; set; }
 
 	[JsonPropertyName("conditionType")]
 	public int ConditionType { get; set; }

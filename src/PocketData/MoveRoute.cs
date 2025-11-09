@@ -5,7 +5,7 @@ namespace PocketData;
 public class MoveRoute
 {
 	[JsonPropertyName("list")]
-	public List<MoveRouteCommand> List { get; set; }
+	public List<MoveRouteCommand> List { get; set; } = [];
 
 	[JsonPropertyName("repeat")]
 	public bool Repeat { get; set; }
