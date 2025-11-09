@@ -39,12 +39,12 @@ public partial class Scene
 				CheckPlayerLocation();
 				// TODO: DataManager SetupNewGame();
 				// PRIORITY: Process title command window
-				SceneManager.GoTo<Splash>();
+				SceneManager.GoTo<Title>();
 			}
 
 			// TODO: ResizeScreen();
 			
-			Game.Window.Title = Core.DataSystem.GameTitle;
+			Game.Window.Title = Core.System.GameTitle;
 		}
 
 		// TODO: public override bool IsReady => base.IsReady && IsPlayerDataLoaded;
@@ -54,14 +54,14 @@ public partial class Scene
 
 		private void CheckPlayerLocation()
 		{
-			if (Core.DataSystem.StartMapId == 0) throw new Exception("Player's starting position is 0 (Which is invalid).");
+			if (Core.System.StartMapId == 0) throw new Exception("Player's starting position is 0 (Which is invalid).");
 		}
 		
 		// >> Private Methods <<
 		
 		private void LoadGameFonts()
 		{
-			var advanced = Core.DataSystem.Advanced;
+			var advanced = Core.System.Advanced;
 			FontManager.Load("mainfont", advanced.MainFontFilename);
 			FontManager.Load("numberfont", advanced.NumberFontFilename);
 		}

@@ -2,10 +2,13 @@ using System.Text.Json.Serialization;
 
 namespace PocketData.Database;
 
-public class DataEnemy : Data
+public class Enemy
 {
+	[JsonPropertyName("id")]
+	public int Id { get; set; }
+
 	[JsonPropertyName("actions")]
-	public required List<Action> Actions { get; set; } = [];
+	public List<Action> Actions { get; set; } = [];
 
 	[JsonPropertyName("battlerHue")]
 	public int BattlerHue { get; set; }
@@ -14,17 +17,23 @@ public class DataEnemy : Data
 	public string BattlerName { get; set; } = string.Empty;
 
 	[JsonPropertyName("dropItems")]
-	public required List<DropItem> DropItems { get; set; } = [];
+	public List<DropItem> DropItems { get; set; } = [];
 
 	[JsonPropertyName("exp")]
 	public int Exp { get; set; }
 
 	[JsonPropertyName("traits")]
-	public required List<Trait> Traits { get; set; } = [];
+	public List<Trait> Traits { get; set; } = [];
 
 	[JsonPropertyName("gold")]
 	public int Gold { get; set; }
 
+	[JsonPropertyName("name")]
+	public string Name { get; set; } = string.Empty;
+
+	[JsonPropertyName("note")]
+	public string Note { get; set; } = string.Empty;
+
 	[JsonPropertyName("params")]
-	public List<int> Params { get; set; } = [];
+	public required Tuple<int, int, int, int, int, int, int, int> Params { get; set; }
 }

@@ -2,13 +2,13 @@ using System.Text.Json.Serialization;
 
 namespace PocketData.Database;
 
-public class DataMapInfo
+public class MapInfo
 {
 	[JsonPropertyName("id")]
 	public int Id { get; set; }
 
 	[JsonPropertyName("expanded")]
-	public bool Expanded { get; set; }
+	public int Expanded { get; set; }
 
 	[JsonPropertyName("name")]
 	public string Name { get; set; } = string.Empty;

@@ -2,11 +2,13 @@ using System.Text.Json.Serialization;
 
 namespace PocketData;
 
-public class PageList
+public class MoveRouteCommand
 {
-	[JsonPropertyName("code")] public int Code { get; set; }
+	[JsonPropertyName("code")]
+	public int Code { get; set; }
 
-	[JsonPropertyName("indent")] public int? Indent { get; set; }
+	[JsonPropertyName("indent")]
+	public int? Indent { get; set; }
 
 	[JsonPropertyName("parameters")]
 	public List<object> Parameters { get; set; } = []; // TODO: do less messy type casting

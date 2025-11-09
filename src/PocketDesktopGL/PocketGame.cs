@@ -13,8 +13,9 @@ public class PocketGame : Game
 	private GraphicsDeviceManager _graphics;
 	private SpriteBatch _spriteBatch;
 	
-	private readonly SceneManager _sceneManager;
 	private readonly Core _core = new ();
+	private readonly SceneManager _sceneManager;
+	private readonly ImageManager _imageManager;
 	private readonly FontManager _fontManager = new ();
 
 	public PocketGame()
@@ -25,6 +26,7 @@ public class PocketGame : Game
 		
 		_sceneManager = new SceneManager(this);
 		Components.Add(_sceneManager);
+		_imageManager = new ImageManager(Content, GraphicsDevice);
 	}
 
 	protected override void Initialize()
@@ -37,8 +39,9 @@ public class PocketGame : Game
 		_spriteBatch = new SpriteBatch(GraphicsDevice);
 		
 		Services.AddService(_core);
-		Services.AddService(_fontManager);
 		Services.AddService(_sceneManager);
+		Services.AddService(_imageManager);
+		Services.AddService(_fontManager);
 		
 		_sceneManager.Run<Scene.Boot>();
 	}

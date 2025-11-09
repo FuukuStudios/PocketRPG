@@ -4,9 +4,12 @@ namespace PocketData;
 
 public class DropItem
 {
-	[JsonPropertyName("kind")] public int Kind { get; set; }
+	[JsonPropertyName("dataId")]
+	public int DataId { get; set; }
 
-	[JsonPropertyName("dataId")] public int DataId { get; set; }
+	[JsonPropertyName("denominator")]
+	public int Denominator { get; set; }
 
-	[JsonPropertyName("denominator")] public int Denominator { get; set; }
+	[JsonPropertyName("kind")]
+	public int Kind { get; set; }
 }

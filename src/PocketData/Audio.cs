@@ -2,7 +2,7 @@ using System.Text.Json.Serialization;
 
 namespace PocketData;
 
-public class Bgm
+public class Audio
 {
 	[JsonPropertyName("name")] public string Name { get; set; } = string.Empty;
 

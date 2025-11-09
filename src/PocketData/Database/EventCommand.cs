@@ -2,7 +2,7 @@ using System.Text.Json.Serialization;
 
 namespace PocketData.Database;
 
-public class DataCommonEventList
+public class EventCommand
 {
 	[JsonPropertyName("code")]
 	public int Code { get; set; }

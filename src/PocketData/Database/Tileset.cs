@@ -2,7 +2,7 @@ using System.Text.Json.Serialization;
 
 namespace PocketData.Database;
 
-public class DataTileset : Data
+public class Tileset
 {
 	[JsonPropertyName("id")]
 	public int Id { get; set; }

@@ -2,9 +2,9 @@ using System.Text.Json.Serialization;
 
 namespace PocketData;
 
-public class Airship
+public class Vehicle
 {
-	[JsonPropertyName("bgm")] public required BattleBgm Bgm { get; set; }
+	[JsonPropertyName("bgm")] public required Audio Bgm { get; set; }
 
 	[JsonPropertyName("characterIndex")] public int CharacterIndex { get; set; }
 

@@ -6,20 +6,20 @@ namespace PocketCore;
 
 public class Core
 {
-	public DataActor?[] DataActors { get; internal set; }
-	public DataClass?[] DataClasses { get; internal set; }
+	public Actor?[] DataActors { get; internal set; }
+	public Class?[] DataClasses { get; internal set; }
 	public DataSkill?[] DataSkills { get; internal set; }
-	public DataItem?[] DataItems { get; internal set; }
-	public DataWeapon?[] DataWeapons { get; internal set; }
-	public DataArmor?[] DataArmors { get; internal set; }
-	public DataEnemy?[] DataEnemies { get; internal set; }
-	public DataTroop?[] DataTroops { get; internal set; }
-	public DataState?[] DataStates { get; internal set; }
-	public DataAnimation?[] DataAnimations { get; internal set; }
-	public DataTileset?[] DataTilesets { get; internal set; }
-	public DataCommonEvent?[] DataCommonEvents { get; internal set; }
-	public DataSystem DataSystem { get; internal set; }
-	public DataMapInfo?[] DataMapInfos { get; internal set; }
+	public Item?[] DataItems { get; internal set; }
+	public Weapon?[] DataWeapons { get; internal set; }
+	public Armor?[] DataArmors { get; internal set; }
+	public Enemy?[] DataEnemies { get; internal set; }
+	public Troop?[] DataTroops { get; internal set; }
+	public State?[] DataStates { get; internal set; }
+	public Animation?[] DataAnimations { get; internal set; }
+	public Tileset?[] DataTilesets { get; internal set; }
+	public CommonEvent?[] DataCommonEvents { get; internal set; }
+	public PocketData.Database.System System { get; internal set; }
+	public MapInfo?[] DataMapInfos { get; internal set; }
     
 	public Event? TestEvent { get; internal set; }
 
@@ -28,20 +28,20 @@ public class Core
 		var test = DataManager.IsBattleTest || DataManager.IsEventTest;
 		var prefix = test ? "Test_" : string.Empty;
 		
-		DataActors = DataManager.LoadDataFile<DataActor?[]>($"{prefix}Actors");
-		DataClasses = DataManager.LoadDataFile<DataClass?[]>($"{prefix}Classes");
+		DataActors = DataManager.LoadDataFile<Actor?[]>($"{prefix}Actors");
+		DataClasses = DataManager.LoadDataFile<Class?[]>($"{prefix}Classes");
 		DataSkills = DataManager.LoadDataFile<DataSkill?[]>($"{prefix}Skills");
-		DataItems = DataManager.LoadDataFile<DataItem?[]>($"{prefix}Items");
-		DataWeapons = DataManager.LoadDataFile<DataWeapon?[]>($"{prefix}Weapons");
-		DataArmors = DataManager.LoadDataFile<DataArmor?[]>($"{prefix}Armors");
-		DataEnemies = DataManager.LoadDataFile<DataEnemy?[]>($"{prefix}Enemies");
-		DataTroops = DataManager.LoadDataFile<DataTroop?[]>($"{prefix}Troops");
-		DataStates = DataManager.LoadDataFile<DataState?[]>($"{prefix}States");
-		DataAnimations = DataManager.LoadDataFile<DataAnimation?[]>($"{prefix}Animations");
-		DataTilesets = DataManager.LoadDataFile<DataTileset?[]>($"{prefix}Tilesets");
-		DataCommonEvents = DataManager.LoadDataFile<DataCommonEvent?[]>($"{prefix}CommonEvents");
-		DataSystem = DataManager.LoadDataFile<DataSystem>($"{prefix}System");
-		DataMapInfos = DataManager.LoadDataFile<DataMapInfo?[]>($"{prefix}MapInfos");
+		DataItems = DataManager.LoadDataFile<Item?[]>($"{prefix}Items");
+		DataWeapons = DataManager.LoadDataFile<Weapon?[]>($"{prefix}Weapons");
+		DataArmors = DataManager.LoadDataFile<Armor?[]>($"{prefix}Armors");
+		DataEnemies = DataManager.LoadDataFile<Enemy?[]>($"{prefix}Enemies");
+		DataTroops = DataManager.LoadDataFile<Troop?[]>($"{prefix}Troops");
+		DataStates = DataManager.LoadDataFile<State?[]>($"{prefix}States");
+		DataAnimations = DataManager.LoadDataFile<Animation?[]>($"{prefix}Animations");
+		DataTilesets = DataManager.LoadDataFile<Tileset?[]>($"{prefix}Tilesets");
+		DataCommonEvents = DataManager.LoadDataFile<CommonEvent?[]>($"{prefix}CommonEvents");
+		System = DataManager.LoadDataFile<PocketData.Database.System>($"{prefix}System");
+		DataMapInfos = DataManager.LoadDataFile<MapInfo?[]>($"{prefix}MapInfos");
 		
 		if (DataManager.IsEventTest)
 			TestEvent = JsonSerializer.Deserialize<Event?>(File.ReadAllText(Path.Combine("Content", "data", $"{prefix}Event.json"))) ?? throw new Exception($"Failed to load data file '{prefix}Event'.");

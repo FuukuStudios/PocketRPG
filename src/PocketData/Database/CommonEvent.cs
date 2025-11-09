@@ -2,13 +2,13 @@ using System.Text.Json.Serialization;
 
 namespace PocketData.Database;
 
-public class DataCommonEvent
+public class CommonEvent
 {
 	[JsonPropertyName("id")]
 	public int Id { get; set; }
 
 	[JsonPropertyName("list")]
-	public required List<DataCommonEventList> List { get; set; } = [];
+	public List<EventCommand> List { get; set; } = [];
 
 	[JsonPropertyName("name")]
 	public string Name { get; set; } = string.Empty;

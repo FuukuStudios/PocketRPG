@@ -39,7 +39,7 @@ public class SceneManager : GameComponent
 		{
 			// TODO: Input update
 			ChangeScene();
-			UpdateScene();
+			UpdateScene(gameTime);
 		}
 		catch (Exception ex)
 		{
@@ -78,13 +78,13 @@ public class SceneManager : GameComponent
 		if (_exiting) Environment.Exit(0);
 	}
 
-	public void UpdateScene()
+	public void UpdateScene(GameTime gameTime)
 	{
 		if (_scene == null) return;
 
 		if (_scene.IsStarted)
 		{
-			if (Game.IsActive) _scene.Update();
+			if (Game.IsActive) _scene.Update(gameTime);
 		}
 		else if (_scene.IsReady)
 		{
@@ -92,6 +92,13 @@ public class SceneManager : GameComponent
 			_scene.Start();
 			Graphics.EndLoading(); // OnSceneStart
 		}
+	}
+
+	public void DrawScene(GameTime gameTime)
+	{
+		if (_scene == null || !_scene.IsStarted) return;
+
+		if (Game.IsActive) _scene.Draw(gameTime);
 	}
 	
 	public bool IsSceneChanging => _exiting || _nextScene != null;

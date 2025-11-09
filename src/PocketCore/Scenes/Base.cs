@@ -10,17 +10,19 @@ public static partial class Scene
 		internal  Game Game { get; set; } = null!;
 		protected Core Core => Game.Services.GetService<Core>();
 		protected SceneManager SceneManager => Game.Services.GetService<SceneManager>();
+		protected ImageManager ImageManager => Game.Services.GetService<ImageManager>();
 		protected FontManager FontManager => Game.Services.GetService<FontManager>();
 		
 		public bool IsStarted { get; private set; }
+		public bool IsActive { get; private set; }
+		public List<object> Children { get; protected set; } = [];
 		
-		private bool _active;
 		private int _fadeSign;
 		private int _fadeDuration;
 		private int _fadeWhite;
 		private int _fadeOpacity;
 		
-		// Virtual Methods
+		// >> Virtual Methods <<
 		/// <summary>
 		/// Ran when the scene is first created.
 		/// </summary>
@@ -32,26 +34,35 @@ public static partial class Scene
 		public virtual void Start()
 		{
 			IsStarted = true;
-			_active = true;
+			IsActive = true;
 		}
 
 		/// <summary>
 		/// Ran by SceneManager every frame.
 		/// Only for logic updates, not rendering.
 		/// </summary>
-		public virtual void Update() {}
+		public virtual void Update(GameTime gameTime)
+		{
+			// PRIORITY: Update fade logic
+			UpdateChildren();
+		}
+
+		public virtual void Draw(GameTime gameTime)
+		{
+			DrawChildren();
+		}
 	
 		/// <summary>
 		/// Ran when a new scene is being changed to.
 		/// </summary>
-		public virtual void Stop() => _active = false;
+		public virtual void Stop() => IsActive = false;
 		
 		/// <summary>
 		///  Ran when the old scene is finished preparing to change.
 		/// </summary>
 		public virtual void Terminate() {}
 		
-		// Virtual Properties
+		// >> Properties <<
 		/// <summary>
 		/// Returns whether the scene is ready to start.
 		/// </summary>
@@ -61,5 +72,22 @@ public static partial class Scene
 		/// Returns whether the scene is currently working.
 		/// </summary>
 		public bool IsBusy => _fadeDuration > 0;
+		
+		// >> Protected Methods <<
+		protected void UpdateChildren()
+		{
+			foreach (var child in Children)
+			{
+				if (child is ISceneChild ichild) ichild.Update();
+			}
+		}
+		
+		protected void DrawChildren()
+		{
+			foreach (var child in Children)
+			{
+				if (child is ISceneChild ichild) ichild.Draw();
+			}
+		}
 	}
 }
