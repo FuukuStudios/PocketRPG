@@ -1,4 +1,5 @@
 using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
 using PocketCore.Managers;
 
 namespace PocketCore.Scenes;
@@ -41,15 +42,15 @@ public static partial class Scene
 		/// Ran by SceneManager every frame.
 		/// Only for logic updates, not rendering.
 		/// </summary>
-		public virtual void Update(GameTime gameTime)
+		public virtual void Update()
 		{
 			// PRIORITY: Update fade logic
 			UpdateChildren();
 		}
 
-		public virtual void Draw(GameTime gameTime)
+		public virtual void Draw(SpriteBatch spriteBatch)
 		{
-			DrawChildren();
+			DrawChildren(spriteBatch);
 		}
 	
 		/// <summary>
@@ -82,11 +83,11 @@ public static partial class Scene
 			}
 		}
 		
-		protected void DrawChildren()
+		protected void DrawChildren(SpriteBatch spriteBatch)
 		{
 			foreach (var child in Children)
 			{
-				if (child is ISceneChild ichild) ichild.Draw();
+				if (child is ISceneChild ichild) ichild.Draw(spriteBatch);
 			}
 		}
 	}

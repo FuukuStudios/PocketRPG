@@ -43,9 +43,9 @@ public class Bitmap : IDisposable
 	}
 
 	// --- Core Properties ---
-	public Texture2D BaseTexture => _renderTarget;
-	public int Width => _renderTarget.Width;
-	public int Height => _renderTarget.Height;
+	public RenderTarget2D Texture => _renderTarget;
+	public int Width => _renderTarget?.Width ?? 0;
+	public int Height => _renderTarget?.Height ?? 0;
 	public Rectangle Bounds => _renderTarget.Bounds;
 
 	// --- State Properties (Defaults match RMMZ reasonably) ---
@@ -72,7 +72,7 @@ public class Bitmap : IDisposable
 
 	private void Load(ContentManager contentManager)
 	{
-		_renderTarget = contentManager.Load<RenderTarget2D>(_path);
+		_renderTarget = contentManager.Load<Texture2D>(_path);
 	}
 
 	// --- IDisposable Implementation ---

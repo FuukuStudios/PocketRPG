@@ -1,11 +1,14 @@
 using System.Net.Mime;
 using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
 using PocketCore.Scenes;
 
 namespace PocketCore.Managers;
 
-public class SceneManager : GameComponent
+public class SceneManager : DrawableGameComponent
 {
+	private SpriteBatch _spriteBatch;
+	
 	private Scene.Base? _scene;
 	private Scene.Base? _nextScene;
 	private Scene.Base? _previousScene;
@@ -16,6 +19,7 @@ public class SceneManager : GameComponent
 	public SceneManager(Game game) : base(game)
 	{
 		game.Services.AddService(this);
+		_spriteBatch = game.Services.GetService<SpriteBatch>();
 	}
 	
 	public void Run<TScene>() where TScene : Scene.Base, new()
@@ -39,7 +43,7 @@ public class SceneManager : GameComponent
 		{
 			// TODO: Input update
 			ChangeScene();
-			UpdateScene(gameTime);
+			UpdateScene();
 		}
 		catch (Exception ex)
 		{
@@ -49,9 +53,17 @@ public class SceneManager : GameComponent
 		base.Update(gameTime);
 	}
 
-	public void Draw(GameTime gameTime)
+	public override void Draw(GameTime gameTime)
 	{
-		
+		try
+		{
+			DrawScene(_spriteBatch);
+		}
+		catch (Exception ex)
+		{
+			Console.WriteLine($"Error during SceneManager draw: {ex}");
+		}
+		base.Draw(gameTime);
 	}
 
 	public void ChangeScene()
@@ -78,13 +90,13 @@ public class SceneManager : GameComponent
 		if (_exiting) Environment.Exit(0);
 	}
 
-	public void UpdateScene(GameTime gameTime)
+	public void UpdateScene()
 	{
 		if (_scene == null) return;
 
 		if (_scene.IsStarted)
 		{
-			if (Game.IsActive) _scene.Update(gameTime);
+			if (Game.IsActive) _scene.Update();
 		}
 		else if (_scene.IsReady)
 		{
@@ -94,11 +106,11 @@ public class SceneManager : GameComponent
 		}
 	}
 
-	public void DrawScene(GameTime gameTime)
+	public void DrawScene(SpriteBatch spriteBatch)
 	{
 		if (_scene == null || !_scene.IsStarted) return;
 
-		if (Game.IsActive) _scene.Draw(gameTime);
+		if (Game.IsActive) _scene.Draw(spriteBatch);
 	}
 	
 	public bool IsSceneChanging => _exiting || _nextScene != null;

@@ -36,16 +36,11 @@ public class Sprite(Bitmap bitmap) : ISceneChild
 		// To be implemented by subclasses
 	}
 
-	public virtual void Draw()
-	{
-		// To be implemented by subclasses
-	}
-
 	public virtual void Draw(SpriteBatch spriteBatch)
 	{
-		if (Visible && Opacity > 0 && Bitmap?.BaseTexture != null)
+		if (Visible && Opacity > 0)
 			spriteBatch.Draw(
-				Bitmap.BaseTexture,
+				Bitmap.Texture,
 				Position,
 				SourceRect,
 				Tone * (Opacity / 255f),
