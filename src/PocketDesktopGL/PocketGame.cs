@@ -15,7 +15,7 @@ public class PocketGame : Game
 	
 	private readonly Core _core = new ();
 	private readonly SceneManager _sceneManager;
-	private readonly ImageManager _imageManager;
+	private ImageManager _imageManager;
 	private readonly FontManager _fontManager = new ();
 
 	public PocketGame()
@@ -23,10 +23,13 @@ public class PocketGame : Game
 		_graphics = new GraphicsDeviceManager(this);
 		Content.RootDirectory = "Content"; // Routes to PocketContent
 		IsMouseVisible = true;
+
+		_graphics.PreferredBackBufferWidth = 816;
+		_graphics.PreferredBackBufferHeight = 624;
+		_graphics.ApplyChanges();
 		
 		_sceneManager = new SceneManager(this);
 		Components.Add(_sceneManager);
-		_imageManager = new ImageManager(Content, GraphicsDevice);
 	}
 
 	protected override void Initialize()
@@ -37,6 +40,7 @@ public class PocketGame : Game
 	protected override void LoadContent()
 	{
 		_spriteBatch = new SpriteBatch(GraphicsDevice);
+		_imageManager = new ImageManager(Content, GraphicsDevice);
 		
 		Services.AddService(_spriteBatch);
 		Services.AddService(_core);

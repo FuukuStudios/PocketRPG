@@ -7,8 +7,6 @@ namespace PocketCore.Managers;
 
 public class SceneManager : DrawableGameComponent
 {
-	private SpriteBatch _spriteBatch;
-	
 	private Scene.Base? _scene;
 	private Scene.Base? _nextScene;
 	private Scene.Base? _previousScene;
@@ -19,7 +17,6 @@ public class SceneManager : DrawableGameComponent
 	public SceneManager(Game game) : base(game)
 	{
 		game.Services.AddService(this);
-		_spriteBatch = game.Services.GetService<SpriteBatch>();
 	}
 	
 	public void Run<TScene>() where TScene : Scene.Base, new()
@@ -55,14 +52,17 @@ public class SceneManager : DrawableGameComponent
 
 	public override void Draw(GameTime gameTime)
 	{
+		var sprBatch = Game.Services.GetService<SpriteBatch>();
+		sprBatch.Begin();
 		try
 		{
-			DrawScene(_spriteBatch);
+			DrawScene(sprBatch);
 		}
 		catch (Exception ex)
 		{
 			Console.WriteLine($"Error during SceneManager draw: {ex}");
 		}
+		sprBatch.End();
 		base.Draw(gameTime);
 	}
 

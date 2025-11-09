@@ -18,7 +18,6 @@ public class Bitmap : IDisposable
 	private string _path = string.Empty;
 	
 	private bool _isDisposed;
-	private RenderTarget2D? _renderTarget;
 
 	// --- Constructor ---
 
@@ -30,7 +29,7 @@ public class Bitmap : IDisposable
 		if (width <= 0 || height <= 0) return;
 		
 		// Create the render target (our "canvas")
-		_renderTarget = new RenderTarget2D(
+		Texture = new RenderTarget2D(
 			gd,
 			width,
 			height,
@@ -43,10 +42,10 @@ public class Bitmap : IDisposable
 	}
 
 	// --- Core Properties ---
-	public RenderTarget2D Texture => _renderTarget;
-	public int Width => _renderTarget?.Width ?? 0;
-	public int Height => _renderTarget?.Height ?? 0;
-	public Rectangle Bounds => _renderTarget.Bounds;
+	public Texture2D Texture { get; private set; }
+	public int Width => Texture.Width;
+	public int Height => Texture.Height;
+	public Rectangle Bounds => Texture.Bounds;
 
 	// --- State Properties (Defaults match RMMZ reasonably) ---
 	public bool Smooth { get; set; } = true; // Use linear filtering by default
@@ -72,7 +71,7 @@ public class Bitmap : IDisposable
 
 	private void Load(ContentManager contentManager)
 	{
-		_renderTarget = contentManager.Load<Texture2D>(_path);
+		Texture = contentManager.Load<Texture2D>(_path);
 	}
 
 	// --- IDisposable Implementation ---
@@ -86,7 +85,7 @@ public class Bitmap : IDisposable
 	{
 		if (_isDisposed) return;
 		
-		if (disposing) _renderTarget.Dispose();
+		if (disposing) Texture.Dispose();
 		
 		_isDisposed = true;
 	}
