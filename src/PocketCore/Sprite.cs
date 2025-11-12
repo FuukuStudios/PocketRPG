@@ -1,54 +1,48 @@
+using FontStashSharp;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using MonoGame.StrokeEffect;
 
 namespace PocketCore;
 
-public class Sprite(Bitmap bitmap) : ISceneChild
+public static class Sprite
 {
-	public Bitmap Bitmap { get; set; } = bitmap;
-	public Vector2 Position { get; set; } = Vector2.Zero;
-	public Vector2 Origin { get; set; } = Vector2.Zero;
-	public Vector2 Scale { get; set; } = Vector2.One;
-	public float Rotation { get; set; } = 0f;
-	public Color Tone { get; set; } = Color.White;
-	public float Opacity { get; set; } = 255f;
-	public bool Visible { get; set; } = true;
-
-	public Rectangle? SourceRect { get; set; }
-
-	public float X
+	public enum TextAlign
 	{
-		get => Position.X;
-		set => Position = new Vector2(value, Position.Y);
+		Left,
+		Center,
+		Right
 	}
-
-	public float Y
+	
+	public static void DrawText(PocketGame game, string text, Vector2 position, int maxWidth, int lineHeight, TextAlign align = TextAlign.Left, SpriteSettings? settings = null)
 	{
-		get => Position.Y;
-		set => Position = new Vector2(Position.X, value);
-	}
+		settings ??= new SpriteSettings();
+		var font = game.FontManager.Get(settings.FontFace).GetFont(settings.FontSize);
 
-	public int Width => SourceRect?.Width ?? Bitmap?.Width ?? 0;
-	public int Height => SourceRect?.Height ?? Bitmap?.Height ?? 0;
-
-	public virtual void Update()
-	{
-		// To be implemented by subclasses
+		var size = font.MeasureString(text);
+		var drawPos = new Vector2
+		{
+			X = align switch
+			{
+				TextAlign.Center => position.X + (maxWidth - size.X) / 2,
+				TextAlign.Right => position.X + (maxWidth - size.X),
+				_ => position.X
+			},
+			Y = position.Y + (lineHeight - size.Y) / 2
+		};
+		
+		var texture = StrokeEffect.CreateStrokeSpriteFont(font, text, settings.FontColor, Vector2.One, settings.OutlineWidth, settings.OutlineColor, game.GraphicsDevice);
+		game.SpriteBatch.Draw(texture, drawPos, Color.White);
 	}
+}
 
-	public virtual void Draw(SpriteBatch spriteBatch)
-	{
-		if (Visible && Opacity > 0)
-			spriteBatch.Draw(
-				Bitmap.Texture,
-				Position,
-				SourceRect,
-				Tone * (Opacity / 255f),
-				Rotation,
-				Origin,
-				Scale,
-				SpriteEffects.None,
-				0f
-			);
-	}
+public class SpriteSettings
+{
+	public string FontFace { get; set; } = "sans-serif";
+	public int FontSize { get; set; } = 16;
+	public bool Bold { get; set; } = false;
+	public bool Italic { get; set; } = false;
+	public Color FontColor { get; set; } = Color.White;
+	public Color OutlineColor { get; set; } = new Color(0, 0, 0, 0.5f);
+	public int OutlineWidth { get; set; } = 3;
 }

@@ -16,6 +16,10 @@
         <MonoGameContentReference Include="Content\Content.mgcb" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ClCompile Include="Content\Stroke.fx" />
+    </ItemGroup>
+
     <PropertyGroup>
         <MonoGameExtendedPipelineReferencePath>$(MSBuildThisFileDirectory)pipeline-references</MonoGameExtendedPipelineReferencePath>
     </PropertyGroup>

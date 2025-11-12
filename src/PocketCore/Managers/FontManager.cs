@@ -9,6 +9,13 @@ public class FontManager
 	private readonly string _contentDir = Path.Combine("Content", "fonts");
 	private readonly string[] _supportedExtensions = ["ttf", "otf"];
 
+	public FontManager()
+	{
+		FontSystemDefaults.FontResolutionFactor = 2.0f;
+		FontSystemDefaults.KernelWidth = 2;
+		FontSystemDefaults.KernelHeight = 2;
+	}
+
 	public void Load(string name, string fontFileName)
 	{
 		byte[]? font = null;
