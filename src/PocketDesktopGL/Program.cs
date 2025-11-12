@@ -2,5 +2,5 @@
 
 // Utils.Initialize(args);
 
-using var game = new PocketDesktopGL.PocketGame();
+using var game = new PocketCore.PocketGame();
 game.Run();

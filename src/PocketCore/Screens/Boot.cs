@@ -1,16 +1,25 @@
 using Microsoft.Xna.Framework;
 using PocketCore.Managers;
 
-namespace PocketCore.Scenes;
+namespace PocketCore.Screens;
 
-public partial class Scene
+public partial class Screen
 {
-	public class Boot : Base
+	public class Boot(PocketGame game) : Base(game)
 	{
 		// >> Overrides <<
-		public override void Create()
+		public override void Initialize()
 		{
-			base.Create();
+			base.Initialize();
+
+			// TODO: ResizeScreen();
+			
+			Game.Window.Title = Core.DataSystem.GameTitle;
+		}
+		
+		public override void LoadContent()
+		{
+			base.LoadContent();
 			// TODO: Load System Images
 			// TODO: Load Player Data
 			LoadGameFonts();
@@ -19,8 +28,6 @@ public partial class Scene
 		public override void Start()
 		{
 			base.Start();
-			
-			// TODO: Preload important sounds from SoundManager
 			
 			if (DataManager.IsBattleTest)
 			{
@@ -39,31 +46,26 @@ public partial class Scene
 				CheckPlayerLocation();
 				// TODO: DataManager SetupNewGame();
 				// PRIORITY: Process title command window
-				SceneManager.GoTo<Title>();
+				Game.GoToScreen(new Title(Game));
 			}
-
-			// TODO: ResizeScreen();
-			
-			Game.Window.Title = Core.DataSystem.GameTitle;
 		}
 
 		// TODO: public override bool IsReady => base.IsReady && IsPlayerDataLoaded;
-		
+
 		// >> Unique Methods <<
 		public static bool IsPlayerDataLoaded => DataManager.IsGlobalInfoLoaded && ConfigManager.IsLoaded;
 
 		private void CheckPlayerLocation()
 		{
-			if (Core.DataSystem.StartMapId == 0) throw new Exception("Player's starting position is 0 (Which is invalid).");
+			if (Game.Core.DataSystem.StartMapId == 0) throw new Exception("Player's starting position is 0 (Which is invalid).");
 		}
 		
 		// >> Private Methods <<
-		
 		private void LoadGameFonts()
 		{
 			var advanced = Core.DataSystem.Advanced;
-			FontManager.Load("mainfont", advanced.MainFontFilename);
-			FontManager.Load("numberfont", advanced.NumberFontFilename);
+			Game.FontManager.Load("rmmz-mainfont", advanced.MainFontFilename);
+			Game.FontManager.Load("rmmz-numberfont", advanced.NumberFontFilename);
 		}
 	}
 }

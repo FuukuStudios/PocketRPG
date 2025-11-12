@@ -1,6 +1,8 @@
 using System.Text.Json;
+using Microsoft.Xna.Framework;
 using PocketCore.Managers;
 using PocketData.Database;
+using Game = PocketCore.Objects.Game;
 
 namespace PocketCore;
 
@@ -22,6 +24,8 @@ public class Core
 	public MapInfo?[] DataMapInfos { get; internal set; }
     
 	public EventCommand[]? TestEvent { get; internal set; }
+	
+	public Game.System GameSystem { get; internal set; } = new();
 
 	public Core()
 	{

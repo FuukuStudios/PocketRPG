@@ -2,21 +2,22 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using MonoGame.Extended.Screens;
 using PocketCore;
 using PocketCore.Managers;
-using PocketCore.Scenes;
+using PocketCore.Screens;
+using Screen = PocketCore.Screens.Screen;
 
-namespace PocketDesktopGL;
+namespace PocketCore;
 
 public class PocketGame : Game
 {
 	private GraphicsDeviceManager _graphics;
-	private SpriteBatch _spriteBatch;
+	public SpriteBatch SpriteBatch { get; private set; }
+	private readonly ScreenManager _screenManager;
 	
-	private readonly Core _core = new ();
-	private readonly SceneManager _sceneManager;
-	private ImageManager _imageManager;
-	private readonly FontManager _fontManager = new ();
+	public Core Core { get; } = new();
+	public FontManager FontManager = new ();
 
 	public PocketGame()
 	{
@@ -28,8 +29,8 @@ public class PocketGame : Game
 		_graphics.PreferredBackBufferHeight = 624;
 		_graphics.ApplyChanges();
 		
-		_sceneManager = new SceneManager(this);
-		Components.Add(_sceneManager);
+		_screenManager = new ScreenManager();
+		Components.Add(_screenManager);
 	}
 
 	protected override void Initialize()
@@ -39,15 +40,13 @@ public class PocketGame : Game
 
 	protected override void LoadContent()
 	{
-		_spriteBatch = new SpriteBatch(GraphicsDevice);
-		_imageManager = new ImageManager(Content, GraphicsDevice);
+		SpriteBatch = new SpriteBatch(GraphicsDevice);
 		
-		Services.AddService(_spriteBatch);
-		Services.AddService(_core);
-		Services.AddService(_imageManager);
-		Services.AddService(_fontManager);
-		
-		_sceneManager.Run<Scene.Boot>();
+		Services.AddService(SpriteBatch);
+		Services.AddService(Core);
+		Services.AddService(FontManager);
+
+		GoToScreen(new Screen.Boot(this));
 	}
 
 	protected override void Update(GameTime gameTime)
@@ -60,5 +59,10 @@ public class PocketGame : Game
 		GraphicsDevice.Clear(Color.Black);
 
 		base.Draw(gameTime);
+	}
+	
+	public void GoToScreen(Screen.Base screen)
+	{
+		_screenManager.LoadScreen(screen);
 	}
 }

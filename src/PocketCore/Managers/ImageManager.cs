@@ -4,25 +4,23 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace PocketCore.Managers;
 
-public class ImageManager(ContentManager content, GraphicsDevice graphicsDevice)
+public static class ImageManager
 {
-	private readonly ConcurrentDictionary<string, Bitmap> _cache = new();
-
-	public Bitmap LoadTitleBackground(string fileName)
+	public static Texture2D LoadTitleBackground(PocketGame game, string fileName)
 	{
-		return LoadBitmap(Path.Combine("img", "titles1"), fileName);
+		return LoadTexture2D(game,Path.Combine("img", "titles1"), fileName);
 	}
 
-	public Bitmap LoadTitleFrame(string fileName)
+	public static Texture2D LoadTitleFrame(PocketGame game, string fileName)
 	{
-		return LoadBitmap(Path.Combine("img", "titles2"), fileName);
+		return LoadTexture2D(game, Path.Combine("img", "titles2"), fileName);
 	}
 	
-	private Bitmap LoadBitmap(string folder, string fileName)
+	public static Texture2D LoadTexture2D(PocketGame game, string folder, string fileName)
 	{
+		if (string.IsNullOrWhiteSpace(fileName)) return new Texture2D(game.GraphicsDevice, 1, 1);
+		
 		var path = Path.Combine(folder, fileName);
-		return !string.IsNullOrWhiteSpace(fileName)
-			? _cache.GetOrAdd(path, key => Bitmap.Load(content, graphicsDevice, key))
-			: new Bitmap(graphicsDevice, 1, 1);
+		return game.Content.Load<Texture2D>(path);
 	}
 }

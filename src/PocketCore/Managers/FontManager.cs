@@ -38,4 +38,10 @@ public class FontManager
 		}
 		_fontSystems[name] = fontSystem;
 	}
+	
+	public FontSystem Get(string name)
+	{
+		_fontSystems.TryGetValue(name, out var value);
+		return value ?? throw new KeyNotFoundException($"Font system '{name}' not found.");
+	}
 }

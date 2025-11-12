@@ -42,6 +42,9 @@ public class Bitmap : IDisposable
 	}
 
 	// --- Core Properties ---
+	/// <summary>
+	/// The source texture of the bitmap.
+	/// </summary>
 	public Texture2D Texture { get; private set; }
 	public int Width => Texture.Width;
 	public int Height => Texture.Height;
