@@ -10177,3 +10177,15 @@
 /processorParam:TextureFormat=Color
 /build:img/titles2/Medieval.png;img/titles2/Medieval
 
+#begin msdf_effect.fx
+/importer:EffectImporter
+/processor:EffectProcessor
+/processorParam:DebugMode=Auto
+/build:msdf_effect.fx
+
+#begin Stroke.fx
+/importer:EffectImporter
+/processor:EffectProcessor
+/processorParam:DebugMode=Auto
+/build:Stroke.fx
+

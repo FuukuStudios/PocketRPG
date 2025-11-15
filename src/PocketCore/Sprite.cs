@@ -2,6 +2,7 @@ using FontStashSharp;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using MonoGame.StrokeEffect;
+using PocketCore.Managers;
 
 namespace PocketCore;
 
@@ -12,14 +13,15 @@ public static class Sprite
 		Left,
 		Center,
 		Right
-	}
-	
-	public static void DrawText(PocketGame game, string text, Vector2 position, int maxWidth, int lineHeight, TextAlign align = TextAlign.Left, SpriteSettings? settings = null)
+	}public static void DrawText(PocketGame game, string text, Vector2 position, int maxWidth, int lineHeight, TextAlign align = TextAlign.Left, SpriteSettings? settings = null)
 	{
 		settings ??= new SpriteSettings();
-		var font = game.FontManager.Get(settings.FontFace).GetFont(settings.FontSize);
 
-		var size = font.MeasureString(text);
+		// Get size for alignment
+		// !!! This uses the DUMMY MeasureString. Alignment will be broken
+		// until you find the real API in MonoMSDF.
+		var size = FontManager.MeasureString(text, settings.FontSize);
+
 		var drawPos = new Vector2
 		{
 			X = align switch
@@ -28,11 +30,19 @@ public static class Sprite
 				TextAlign.Right => position.X + (maxWidth - size.X),
 				_ => position.X
 			},
-			Y = position.Y + (lineHeight - size.Y) / 2
+			// Use FontSize for Y-centering, as MeasureString.Y is unreliable
+			Y = position.Y + (lineHeight - settings.FontSize) / 2f
 		};
-		
-		var texture = StrokeEffect.CreateStrokeSpriteFont(font, text, settings.FontColor, Vector2.One, settings.OutlineWidth, settings.OutlineColor, game.GraphicsDevice);
-		game.SpriteBatch.Draw(texture, drawPos, Color.White);
+        
+		// No more texture creation. No more SpriteBatch.
+		// Just queue the text to be rendered later.
+		game.FontManager.QueueText(
+			text,
+			drawPos,
+			settings.FontSize,
+			settings.FontColor,
+			settings.OutlineColor
+		);
 	}
 }
 

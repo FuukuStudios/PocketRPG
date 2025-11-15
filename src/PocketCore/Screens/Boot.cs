@@ -64,8 +64,8 @@ public partial class Screen
 		private void LoadGameFonts()
 		{
 			var advanced = Core.DataSystem.Advanced;
-			Game.FontManager.Load("rmmz-mainfont", advanced.MainFontFilename);
-			Game.FontManager.Load("rmmz-numberfont", advanced.NumberFontFilename);
+			// Game.FontManager.Load("rmmz-mainfont", advanced.MainFontFilename);
+			// Game.FontManager.Load("rmmz-numberfont", advanced.NumberFontFilename);
 		}
 	}
 }

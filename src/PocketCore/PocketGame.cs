@@ -17,11 +17,12 @@ public class PocketGame : Game
 	private readonly ScreenManager _screenManager;
 	
 	public Core Core { get; } = new();
-	public FontManager FontManager = new ();
+	public FontManager FontManager { get; }
 
 	public PocketGame()
 	{
 		_graphics = new GraphicsDeviceManager(this);
+		FontManager = new FontManager(this);
 		Content.RootDirectory = "Content"; // Routes to PocketContent
 		IsMouseVisible = true;
 
@@ -33,11 +34,6 @@ public class PocketGame : Game
 		Components.Add(_screenManager);
 	}
 
-	protected override void Initialize()
-	{
-		base.Initialize();
-	}
-
 	protected override void LoadContent()
 	{
 		SpriteBatch = new SpriteBatch(GraphicsDevice);
@@ -45,6 +41,8 @@ public class PocketGame : Game
 		Services.AddService(SpriteBatch);
 		Services.AddService(Core);
 		Services.AddService(FontManager);
+		
+		FontManager.LoadContent();
 
 		GoToScreen(new Screen.Boot(this));
 	}
@@ -59,10 +57,13 @@ public class PocketGame : Game
 		GraphicsDevice.Clear(Color.Black);
 
 		base.Draw(gameTime);
+
+		FontManager.RenderText();
 	}
 	
 	public void GoToScreen(Screen.Base screen)
 	{
-		_screenManager.LoadScreen(screen);
+		// TODO: take advantage of new ReplaceScreen and CloseScreen methods
+		_screenManager.ShowScreen(screen);
 	}
 }

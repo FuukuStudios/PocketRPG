@@ -39,6 +39,9 @@ public partial class Screen
 			_bgFrame = ImageManager.LoadTitleFrame(Game, Core.DataSystem.Title2Name);
 		}
 
+		/// <summary>
+		/// Purely for debugging font size adjustment.
+		/// </summary>
 		public override void Update(GameTime gameTime)
 		{
 			var currentKeyboardState = Keyboard.GetState();
