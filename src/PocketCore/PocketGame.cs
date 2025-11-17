@@ -12,24 +12,25 @@ namespace PocketCore;
 
 public class PocketGame : Game
 {
-	private GraphicsDeviceManager _graphics;
-	public SpriteBatch SpriteBatch { get; private set; }
+	private GraphicsDeviceManager Graphics { get; }
+	public SpriteBatch SpriteBatch { get; private set; } = null!;
 	private readonly ScreenManager _screenManager;
 	
 	public Core Core { get; } = new();
-	public FontManager FontManager = new ();
+	public FontManager FontManager { get; }
 
 	public PocketGame()
 	{
-		_graphics = new GraphicsDeviceManager(this);
+		Graphics = new GraphicsDeviceManager(this);
 		Content.RootDirectory = "Content"; // Routes to PocketContent
 		IsMouseVisible = true;
 
-		_graphics.PreferredBackBufferWidth = 816;
-		_graphics.PreferredBackBufferHeight = 624;
-		_graphics.ApplyChanges();
+		Graphics.PreferredBackBufferWidth = 816;
+		Graphics.PreferredBackBufferHeight = 624;
+		Graphics.ApplyChanges();
 		
 		_screenManager = new ScreenManager();
+		FontManager = new FontManager(this);
 		Components.Add(_screenManager);
 	}
 
@@ -63,6 +64,6 @@ public class PocketGame : Game
 	
 	public void GoToScreen(Screen.Base screen)
 	{
-		_screenManager.LoadScreen(screen);
+		_screenManager.ShowScreen(screen); // TODO: Implement MonoGame.Extended's new scene methods.
 	}
 }

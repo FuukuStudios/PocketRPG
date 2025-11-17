@@ -1,4 +1,5 @@
 using FontStashSharp;
+using Microsoft.Xna.Framework.Graphics;
 
 namespace PocketCore.Managers;
 
@@ -8,12 +9,16 @@ public class FontManager
 	
 	private readonly string _contentDir = Path.Combine("Content", "fonts");
 	private readonly string[] _supportedExtensions = ["ttf", "otf"];
+	
+	public Effect OutlineEffect { get; private set; }
 
-	public FontManager()
+	public FontManager(PocketGame game)
 	{
 		FontSystemDefaults.FontResolutionFactor = 2.0f;
 		FontSystemDefaults.KernelWidth = 2;
 		FontSystemDefaults.KernelHeight = 2;
+		
+		OutlineEffect = game.Content.Load<Effect>("Stroke");
 	}
 
 	public void Load(string name, string fontFileName)

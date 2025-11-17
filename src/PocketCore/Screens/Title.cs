@@ -15,7 +15,7 @@ public partial class Screen
 		private Texture2D _background = null!;
 		private Texture2D _bgFrame = null!;
 		
-		private SpriteSettings _settings = new SpriteSettings();
+		private SpriteSettings _settings = new ();
 		private KeyboardState _previousKeyboardState;
 		
 		// >> Overrides <<
