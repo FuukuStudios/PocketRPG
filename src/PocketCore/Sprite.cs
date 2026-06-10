@@ -31,30 +31,36 @@ public static class Sprite
 			Y = position.Y + (lineHeight - size.Y) / 2
 		};
 		
-		// var effect = game.FontManager.OutlineEffect;
-		// if (settings.OutlineWidth > 0)
-		// {
-		// 	effect.Parameters["TexelSize"].SetValue(new Vector2(1.0f / fontSys.TextureWidth, 1.0f / fontSys.TextureHeight));
-		// 	effect.Parameters["FontColor"].SetValue(settings.FontColor.ToVector4());
-		// 	effect.Parameters["OutlineColor"].SetValue(settings.OutlineColor.ToVector4());
-		// 	effect.Parameters["OutlineWidth"].SetValue(settings.OutlineWidth);
-		//
-		// 	game.SpriteBatch.End();
-		//
-		// 	game.SpriteBatch.Begin(
-		// 		sortMode: SpriteSortMode.Immediate, // Required for effects
-		// 		blendState: BlendState.AlphaBlend,
-		// 		samplerState: SamplerState.LinearClamp, // LinearClamp is good for fonts
-		// 		effect: effect
-		// 	);
-		//
-		// 	font.DrawText(game.SpriteBatch, text, drawPos, settings.FontColor);
-		// 	
-		// 	game.SpriteBatch.End();
-		// 	game.SpriteBatch.Begin();
-		// }
+		var effect = game.FontManager.OutlineEffect;
+		if (settings.OutlineWidth > 0)
+		{
+			effect.Parameters["GlowColor"].SetValue(new Vector4(1.0f, 0.8f, 0.3f, 1.0f));
+			effect.Parameters["GlowRadius"].SetValue(8.0f);
+			effect.Parameters["Intensity"].SetValue(1.6f);
+			effect.Parameters["Threshold"].SetValue(0.02f);
+			effect.Parameters["Samples"].SetValue(16);
+			effect.Parameters["Rings"].SetValue(3);
+			effect.Parameters["Falloff"].SetValue(1.0f);
+			effect.Parameters["TextureSize"].SetValue(new Vector2(fontSys.TextureWidth, fontSys.TextureHeight));
 		
-		font.DrawText(game.SpriteBatch, text, drawPos, settings.FontColor);
+			game.SpriteBatch.End();
+		
+			game.SpriteBatch.Begin(
+				sortMode: SpriteSortMode.Immediate, // Required for effects
+				blendState: BlendState.AlphaBlend,
+				samplerState: SamplerState.LinearClamp, // LinearClamp is good for fonts
+				effect: effect
+			);
+		
+			font.DrawText(game.SpriteBatch, text, drawPos, settings.FontColor);
+			
+			game.SpriteBatch.End();
+			game.SpriteBatch.Begin();
+		}
+		else
+		{
+			font.DrawText(game.SpriteBatch, text, drawPos, settings.FontColor);
+		}
 	}
 }
 
