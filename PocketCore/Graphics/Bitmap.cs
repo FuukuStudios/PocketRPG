@@ -29,7 +29,12 @@ public class Bitmap : IDisposable
 
 	private bool _disposed;
 	private LoadingState _loadingState = LoadingState.None;
-
+	
+	/// <summary>
+	/// The basic object that represents an image.
+	/// </summary>
+	/// <param name="width">The width of the bitmap.</param>
+	/// <param name="height">The height of the bitmap.</param>
 	public Bitmap(int width, int height)
 	{
 		if (width > 0 && height > 0)
@@ -40,25 +45,6 @@ public class Bitmap : IDisposable
 				false,
 				PocketGraphics.GraphicsDevice.PresentationParameters.BackBufferFormat,
 				DepthFormat.Depth24);
-	}
-
-	public Bitmap(Texture2D texture)
-	{
-		// To make a regular Texture2D drawable, we copy it to a RenderTarget2D
-		Texture = new RenderTarget2D(
-			PocketGraphics.GraphicsDevice,
-			texture.Width,
-			texture.Height,
-			false,
-			PocketGraphics.GraphicsDevice.PresentationParameters.BackBufferFormat,
-			DepthFormat.Depth24);
-
-		PocketGraphics.GraphicsDevice.SetRenderTarget(Texture);
-		PocketGraphics.GraphicsDevice.Clear(Color.Transparent);
-		PocketGraphics.SpriteBatch.Begin();
-		PocketGraphics.SpriteBatch.Draw(texture, new Rectangle(0, 0, texture.Width, texture.Height), Color.White);
-		PocketGraphics.SpriteBatch.End();
-		PocketGraphics.GraphicsDevice.SetRenderTarget(null);
 	}
 
 	public RenderTarget2D Texture { get; }
